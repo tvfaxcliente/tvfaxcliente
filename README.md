@@ -1323,6 +1323,57 @@ http://meuplay.shop:80/828474929852/34882748924/131
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM SD
 http://meuplay.shop:80/828474929852/34882748924/550
 
+#EXTM3U url-tvg="http://grade-de-CANAISNOVOS.xml"
+############## CANAISNOVOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAISNOVOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs³" tvg-logo="" group-title="CANAISNOVOS",Popeye O Marinheiro 24hs³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192284
+#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS³" tvg-logo="" group-title="CANAISNOVOS",Denis o Pimentinha 24HS³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192238
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs³" tvg-logo="" group-title="CANAISNOVOS",Desenhos Biblicos 24hs³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192239
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS³" tvg-logo="" group-title="CANAISNOVOS",Desenhos Disney 24HS³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192240
+#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24hrs³" tvg-logo="" group-title="CANAISNOVOS",Bita e os Animais 24hrs³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192308
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS³" tvg-logo="" group-title="CANAISNOVOS",BEN 10 24HS³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192230
+#EXTINF:-1 tvg-id="" tvg-name="BH FM (RADIOS)³" tvg-logo="" group-title="CANAISNOVOS",BH FM (RADIOS)³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191765
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca³" tvg-logo="" group-title="CANAISNOVOS",Corrida Maluca³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192314
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS³" tvg-logo="" group-title="CANAISNOVOS",Digimon 24HS³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192241
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS³" tvg-logo="" group-title="CANAISNOVOS",BOB ESPONJA 24HS³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192231
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24hs³" tvg-logo="" group-title="CANAISNOVOS",Breaking Bad 24hs³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192232
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIO - GOIANIA GO³" tvg-logo="" group-title="CANAISNOVOS",CAMERA AO VIO - GOIANIA GO³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192348
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - BARRA DA LAGOA³" tvg-logo="" group-title="CANAISNOVOS",CAMERA AO VIVO - BARRA DA LAGOA³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192344
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - FOZ DO IGUAÇU³" tvg-logo="" group-title="CANAISNOVOS",CAMERA AO VIVO - FOZ DO IGUAÇU³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192354
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - MIAMI FL³" tvg-logo="" group-title="CANAISNOVOS",CAMERA AO VIVO - MIAMI FL³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192353
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - RIO DE JANEIRO³" tvg-logo="" group-title="CANAISNOVOS",CAMERA AO VIVO - RIO DE JANEIRO³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192342
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - SAO PAULO - UBATUBA³" tvg-logo="" group-title="CANAISNOVOS",CAMERA AO VIVO - SAO PAULO - UBATUBA³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192343
+#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - BALNEARIO CAMBURIU³" tvg-logo="" group-title="CANAISNOVOS",CAMERAS AO VIVO - BALNEARIO CAMBURIU³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192355
+#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - FLORIDA³" tvg-logo="" group-title="CANAISNOVOS",CAMERAS AO VIVO - FLORIDA³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192347
+#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - Guaruja³" tvg-logo="" group-title="CANAISNOVOS",CAMERAS AO VIVO - Guaruja³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192346
+#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO -BARRA DA TIJUCA³" tvg-logo="" group-title="CANAISNOVOS",CAMERAS AO VIVO -BARRA DA TIJUCA³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192345
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EMPREENDER³" tvg-logo="" group-title="CANAISNOVOS",CANAL EMPREENDER³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191844
+#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS³" tvg-logo="" group-title="CANAISNOVOS",CAO CORAGEM 24HS³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192233
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES.xml "
  ############## CANAIS  ESPORTES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES" group-title="
@@ -1502,6 +1553,69 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/245
 http://meuplay.shop:80/67598237854pw/9875352849pw/32
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 SD
 http://meuplay.shop:80/67598237854pw/9875352849pw/484
+
+#EXTM3U url-tvg=" http://grade-de-PREMIERE.xml "
+ ############## PREMIERE ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldePREMIERE" group-title="
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69105
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191956
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144705
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1³" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192155
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69086
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191957
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144688
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2³" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192148
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69089
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191958
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144691
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3³" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192149
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69092
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191959
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144694
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4³" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192150
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69095
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191960
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144697
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5³" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192151
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69098
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191961
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144699
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6³" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192152
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7 FHD H265
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69101
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7 FHD H265³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191962
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7 FHD²
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144701
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7³" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192153
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8³" tvg-logo="http://dns.ulttv.xyz/i/premiere8.png" group-title="PREMIERE",PREMIERE 8³
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192154
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES TNT.xml "
  ############## CANAIS  ESPORTES TNT ############## ### 
@@ -1899,6 +2013,399 @@ https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/p
 https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de uma Super Professora"tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="FILMES | ADOLECENTE CINEMA",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-24HRS ANIMES.xml"
+############## 24HRS ANIMES ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24HRS ANIMES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL HEROES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DRAGON BALL HEROES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176131
+#EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176130
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176129
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176128
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PUNKY, A LEVADA DA BRECA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PUNKY, A LEVADA DA BRECA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176127
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALO DE FOGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVALO DE FOGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176126
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  A GRANDE FAMILIA - O ÃLBUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H]  A GRANDE FAMILIA - O ÃLBUM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98643
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] 3 PALAVRINHAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97844
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A CASA DO MICKEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A CASA DO MICKEY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98621
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A PANTERA COR DE ROSA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A PANTERA COR DE ROSA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97827
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A PEQUENA SEREIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A PEQUENA SEREIA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98681
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DA MONICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A TURMA DA MONICA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98622
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A TURMA DO CHARLIE BROWN E SNOOPY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98565
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO PERNALONGA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A TURMA DO PERNALONGA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98566
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A VACA E O FRANGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A VACA E O FRANGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98666
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALADDIN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ALADDIN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97845
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AMERICAN DAD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AMERICAN DAD
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98568
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ANIMANIACS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ANIMANIACS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98569
+#EXTINF:-1 tvg-id="" tvg-name="[24H] APENAS UM SHOW" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] APENAS UM SHOW
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98571
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AS AVENTURAS DE JACKIE CHAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98572
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AS MENINAS SUPERPODEROSAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98573
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS VISÕES DA RAVEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] AS VISÕES DA RAVEN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98636
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AVENTURAS DE TINTIM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AVENTURAS DE TINTIM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98574
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEAVIS AND BUTT-HEAD LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BEAVIS AND BUTT-HEAD LEGENDADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98575
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BEN 10
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98576
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN E HOLLY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BEN E HOLLY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97846
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEYBLADE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] BEYBLADE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98667
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BOB ESPONJA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98577
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BOB ZOOM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98623
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CASTELO RÁ-TIM-BUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CASTELO RÁ-TIM-BUM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98669
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97673
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97674
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 3 - ASGARD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 3 - ASGARD
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97675
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 4 - POSEIDON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 4 - POSEIDON
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97676
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 5 - HADES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 5 - HADES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97677
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 6 - LOST CANVAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 6 - LOST CANVAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97678
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97755
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODÍACO 7 - ALMA DE OURO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODÍACO 7 - ALMA DE OURO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97754
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVERNA DO DRAGÃO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97848
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHANGEMAN + FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] CHANGEMAN + FILME
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98656
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97647
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97648
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97649
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97650
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES EM DESENHO ANIMADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CHAVES EM DESENHO ANIMADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98670
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98637
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98638
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CLARENCIO O OTIMISTA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CLARENCIO O OTIMISTA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98578
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CONTOS DA MASHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] CONTOS DA MASHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98624
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CORAGEM, O CÃO COVARDE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORAGEM, O CÃO COVARDE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98668
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORRIDA MALUCA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97847
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CYBERCOPS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] CYBERCOPS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97658
+#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97828
+#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97829
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DB - CLASSICO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DB - CLASSICO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97762
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBGT" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBGT
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97760
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 1 - SAGA DOS SAYAJINS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 1 - SAGA DOS SAYAJINS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97756
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 2 - SAGA DE FREEZA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 2 - SAGA DE FREEZA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97757
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 3 - SAGA DE GALIC JR - ANDROIDES E CELL - TORNEIO DO OUTRO MUNDO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 3 - SAGA DE GALIC JR - ANDROIDES E CELL - TORNEIO DO OUTRO MUNDO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97758
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 4 -  SAGA DE MAJIN BOO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 4 -  SAGA DE MAJIN BOO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97759
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 5 - KAI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAZmpZY9oCRgJ06f342sagwdjYL.jpg" group-title="24HRS ANIMES",[24H] DBZ 5 - KAI
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97761
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ SUPER CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ SUPER CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97763
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ SUPER CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ SUPER CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97764
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DENNIS: O PIMENTINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DENNIS: O PIMENTINHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98671
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DICK VIGARISTA E MUTTLEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DICK VIGARISTA E MUTTLEY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98580
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DIGIMON ADVENTURES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DIGIMON ADVENTURES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97765
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DOIS HOMENS E MEIO CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97646
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DOIS HOMENS E MEIO CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97644
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DORA, A AVENTUREIRA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DORA, A AVENTUREIRA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/106152
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DOUG FUNNIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DOUG FUNNIE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98581
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DR. HOUSE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DR. HOUSE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98639
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAKE E JOSH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DRAKE E JOSH
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97651
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] ESCOLINHA DO PROFESSOR RAIMUNDO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98640
+#EXTINF:-1 tvg-id="" tvg-name="[24H] EU, A PATROA E AS CRIANÇAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] EU, A PATROA E AS CRIANÇAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97645
+#EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97776
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FAIRY TAIL CANAL 1 LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] FAIRY TAIL CANAL 1 LEGENDADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97772
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FAIRY TAIL CANAL 2 LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] FAIRY TAIL CANAL 2 LEGENDADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97773
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FAMÍLIA DINOSSAURO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FAMÍLIA DINOSSAURO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97830
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FILMES SENTAI" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] FILMES SENTAI
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98657
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FLASHMAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] FLASHMAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97849
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FRIENDS CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97656
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FRIENDS CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97657
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] GALINHA PINTADINHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97831
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GASPARZINHO E SEUS AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] GASPARZINHO E SEUS AMIGOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98584
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GAVAN + FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] GAVAN + FILME
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98658
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GREY’S ANATOMY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] GREY’S ANATOMY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97832
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98586
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN 2002" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN 2002
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98585
+#EXTINF:-1 tvg-id="" tvg-name="[24H] INSANITY DELUXE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] INSANITY DELUXE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98652
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JASPION" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] JASPION
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97780
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JIBAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] JIBAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97850
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JIRAYA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] JIRAYA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97659
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JOHNNY BRAVO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JOHNNY BRAVO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98677
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JONNY QUEST" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JONNY QUEST
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98588
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KAMEN RIDER BLACK" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] KAMEN RIDER BLACK
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98659
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KAMEN RIDER BLACK RX" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] KAMEN RIDER BLACK RX
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98660
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KAMEN RIDER WIZARD LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] KAMEN RIDER WIZARD LEGENDADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98661
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KENAN E KEL" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] KENAN E KEL
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97655
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: A TRIBO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] LARGADOS E PELADOS: A TRIBO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98641
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LEO O CAMINHÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LEO O CAMINHÃO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98562
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LILO E STITCH: A SÉRIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] LILO E STITCH: A SÉRIE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98678
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LOOLOO KIDS - JOHNY E AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LOOLOO KIDS - JOHNY E AMIGOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97833
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LULUZINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LULUZINHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98626
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MACGYVER - PROFISSÃO PERIGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MACGYVER - PROFISSÃO PERIGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98642
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA CHUVA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MANDA CHUVA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98589
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MASHA E O URSO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98627
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY E DONALD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY E DONALD
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98592
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY: AVENTURAS SOBRE RODAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY: AVENTURAS SOBRE RODAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98693
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MIRACULOUS AS AVENTURAS DE LADYBUG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MIRACULOUS AS AVENTURAS DE LADYBUG
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98593
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MONGO E DRONGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MONGO E DRONGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97834
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MR. BEAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MR. BEAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97835
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MUNDO BITA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MUNDO BITA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97836
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97768
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO SHIPPUDEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO SHIPPUDEN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97767
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NINNINGER LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] NINNINGER LEGENDADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98662
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O FANTÁSTICO MUNDO DE BOBBY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98628
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO PRINCIPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO PRINCIPE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98594
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO URSO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98682
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PODEROSO CHEFINHO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O PODEROSO CHEFINHO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98629
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OPERAÇÃO BIG HERO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OPERAÇÃO BIG HERO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98595
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS FLINTSTONES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS FLINTSTONES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98679
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JETSONS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS JETSONS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98597
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS NORMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] OS NORMAIS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98645
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS PADRINHOS MÁGICOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS PADRINHOS MÁGICOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98680
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS TRAPALHOES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] OS TRAPALHOES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97838
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PARADISE PD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PARADISE PD
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98598
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98644
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PEPPA PIG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PEPPA PIG
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97839
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PICA-PAU" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PICA-PAU
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98599
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PINKY E O CÉREBRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PINKY E O CÉREBRO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98684
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ MASKS - HEROIS DE PIJAMA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PJ MASKS - HEROIS DE PIJAMA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98630
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POCOYO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] POCOYO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97812
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POKÉMON - SUN & MOON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] POKÉMON - SUN & MOON
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97774
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POPEYE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] POPEYE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98601
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POWER RANGERS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] POWER RANGERS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97809
+#EXTINF:-1 tvg-id="" tvg-name="[24H] QUEIMA 48" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] QUEIMA 48
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98653
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RICK AND MORTY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RICK AND MORTY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98602
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RUGRATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RUGRATS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98603
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAILOR MOON
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97766
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON LIVE ACTION LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] SAILOR MOON LIVE ACTION LEGENDADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98663
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97769
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X - OVAS E FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X - OVAS E FILME
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97770
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SHARIVAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] SHARIVAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98664
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SHE RA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SHE RA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98604
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SHOW DA LUNA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SHOW DA LUNA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98631
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97811
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 3" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 3
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97810
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98646
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98647
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC BOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SONIC BOOM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98632
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98605
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98606
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SPEED RACER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SPEED RACER
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS REBELS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS REBELS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98607
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS RESISTANCE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS RESISTANCE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98608
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS THE CLONE WARS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS THE CLONE WARS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98609
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STREET FIGHTER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STREET FIGHTER
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98610
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUMMER ABS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] SUMMER ABS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98654
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER CHOQUE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER CHOQUE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98611
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER MARIO BROS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER MARIO BROS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98686
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TAZ-MANIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TAZ-MANIA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] THE BIG BANG THEORY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] THE BIG BANG THEORY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97652
+#EXTINF:-1 tvg-id="" tvg-name="[24H] THUNDERCATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] THUNDERCATS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98612
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98688
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO: E OS DEFENSORES DA LEI" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO: E OS DEFENSORES DA LEI
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98613
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TIMÃO E PUMBA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TIMÃO E PUMBA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98614
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TODO MUNDO ODEIA O CHRIS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97653
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TOMA LA DA CA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TOMA LA DA CA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98648
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TRES É DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TRES É DEMAIS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97654
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TRÊS ESPIÃS DEMAIS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98617
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TÔ DE GRAÇA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TÔ DE GRAÇA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97840
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTIMATE HOMEM ARANHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTIMATE HOMEM ARANHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98618
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTRAMAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98619
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN." tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] ULTRAMAN.
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98665
+#EXTINF:-1 tvg-id="" tvg-name="[24H] UM MALUCO NO PEDAÇO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] UM MALUCO NO PEDAÇO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98650
+#EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] URSINHOS CARINHOSOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98633
+#EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS E SEUS PRIMOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] URSINHOS CARINHOSOS E SEUS PRIMOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98634
+#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] WOLVERINE E OS X-MEN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98689
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN CLASSIC" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN CLASSIC
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97777
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN EVOLUTION" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN EVOLUTION
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97778
+#EXTINF:-1 tvg-id="" tvg-name="[24H] XTREME HIIT 7" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] XTREME HIIT 7
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98655
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YOUNG SHELDON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] YOUNG SHELDON
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98651
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ZAK STORM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZAK STORM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98620
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ZE BUSCAPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZE BUSCAPE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97779
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ZÉ COLMEIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZÉ COLMEIA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98690
+#EXTINF:-1 tvg-id="" tvg-name="[24] A FORMIGA ATÔMICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] A FORMIGA ATÔMICA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98674
+#EXTINF:-1 tvg-id="" tvg-name="[24] DETONA RALPH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] DETONA RALPH
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98673
+#EXTINF:-1 tvg-id="" tvg-name="[24] HAMTARO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24] HAMTARO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98675
+#EXTINF:-1 tvg-id="" tvg-name="[24] HOMEM DE FERRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] HOMEM DE FERRO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98676
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124979
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124980
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124981
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] ALF, O ETEIMOSO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140015
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TOM E JERRY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TOM E JERRY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140016
 
 #EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
 ############## 24 Horas | Desenhos ################# 
@@ -2679,74 +3186,62 @@ http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
 http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES | 4K.xml"
-############## FILMES | 4K ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | 4K" group-title="
+#EXTM3U url-tvg="http://grade-de-2023.xml"
+############## 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanalde2023" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Lost Girls: Os Crimes de Long Island  4K [Hybrid](2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg" group-title="FILMES | 4K",Lost Girls: Os Crimes de Long Island  4K [Hybrid](2020)
-http://conexaoonline.top:80/movie/1938979949/7742153/314709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água 4k(2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="FILMES | 4K",Avatar: O Caminho da Água 4k(2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/314682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Benedetta 4K [Hybrid](2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg" group-title="FILMES | 4K",Benedetta 4K [Hybrid](2021)
-http://conexaoonline.top:80/movie/1938979949/7742153/314687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TÁR  4K [HDR] (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="FILMES | 4K",TÁR  4K [HDR] (2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/314688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bandido 4K(2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1EnJdRe9qm3VFEbDXc6PotfDhz.jpg" group-title="FILMES | 4K",Bandido 4K(2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/314684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carnaval 4K (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="FILMES | 4K",Carnaval 4K (2021)
-http://conexaoonline.top:80/movie/1938979949/7742153/314707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Irmãos de Honra 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="FILMES | 4K",Irmãos de Honra 4K [Hybrid]
-http://conexaoonline.top:80/movie/1938979949/7742153/292780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gaiola Mental 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPYts32AbIpSnjWPxrKLTSzkIM9.jpg" group-title="FILMES | 4K",Gaiola Mental 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/292802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Perfeito 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" group-title="FILMES | 4K",O Assassino Perfeito 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/292820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozceAmPJHgK9AqTkHYyksmMofdR.jpg" group-title="FILMES | 4K",Vingança 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/299205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transfusão 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N9ErU8bpfRRuJQFzDc4FRgdOD4.jpg" group-title="FILMES | 4K",Transfusão 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/299156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: O Filme 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg" group-title="FILMES | 4K",Teen Wolf: O Filme 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/299143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Casamento Armado 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" group-title="FILMES | 4K",Casamento Armado 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/299137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interceptor 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg" group-title="FILMES | 4K",Interceptor 4K [Hybrid]
-http://conexaoonline.top:80/movie/1938979949/7742153/301700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Observador 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" group-title="FILMES | 4K",Observador 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/301689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Fabelmans 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BWHoAAcKnGtowRXju2c2RBrT0m.jpg" group-title="FILMES | 4K",Os Fabelmans 4K [Hybrid]
-http://conexaoonline.top:80/movie/1938979949/7742153/301678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame: Desastre em Paris 4K [Hybrid]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg" group-title="FILMES | 4K",Notre-Dame: Desastre em Paris 4K [Hybrid]
-http://conexaoonline.top:80/movie/1938979949/7742153/301664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="FILMES | 4K",Legião dos Super-Heróis 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/301615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sistema 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="FILMES | 4K",O Sistema 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/301605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Triângulo da Tristeza 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg" group-title="FILMES | 4K",Triângulo da Tristeza 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/304669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="FILMES | 4K",7 Prisioneiros 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/304652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Território 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSpcwqg93u1D55P4wsQSh1hdjdh.jpg" group-title="FILMES | 4K",O Território 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/304650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho do Mundo 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="FILMES | 4K",O Pior Vizinho do Mundo 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/304648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ela Disse 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg" group-title="FILMES | 4K",Ela Disse 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/304642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spkkTYZq38iyapjMy3CsxU5jK3s.jpg" group-title="FILMES | 4K",Terrifier 2 4K (2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/309435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Repente 70 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg" group-title="FILMES | 4K",De Repente 70 4K (2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/314763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marcel, a Concha de Sapatos 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hIj0OJI6NDMqOQTt9miZlAVIQP.jpg" group-title="FILMES | 4K",Marcel, a Concha de Sapatos 4K (2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/314758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caixa de Pássaros 4K [Hybrid](2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akAO6r0ZuPB98VwQsN0SGIkE4z.jpg" group-title="FILMES | 4K",Caixa de Pássaros 4K [Hybrid](2018)
-http://conexaoonline.top:80/movie/1938979949/7742153/314712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: O Incrível Resgate 4K [Hybrid] (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="FILMES | 4K",Bob Esponja: O Incrível Resgate 4K [Hybrid] (2020)
-http://conexaoonline.top:80/movie/1938979949/7742153/314765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conselheira do Amor 4K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/530T0cQHqqBHL2Tp9gOrlJ8wmJo.jpg" group-title="FILMES | 4K",Conselheira do Amor 4K (2022)
-http://conexaoonline.top:80/movie/1938979949/7742153/314766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite Infeliz 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg" group-title="FILMES | 4K",Noite Infeliz 4K [HDR]
-http://conexaoonline.top:80/movie/1938979949/7742153/304637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Babilônia 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" group-title="FILMES | 4K",Babilônia 4K
-http://conexaoonline.top:80/movie/1938979949/7742153/304675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pearl: Uma História de Origem 'X' (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTgLkhIMmzwH1NAaq7NDbFN20zi.jpg" group-title="2023",Pearl: Uma História de Origem 'X' (2022)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buzine por Jesus. Salve a Sua Alma. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVUEQX678hV84xaqJc4FOPAR6nN.jpg" group-title="2023",Buzine por Jesus. Salve a Sua Alma. (2022)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hanging Sun (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksvaHQxurLDF5qBXCFRgEhWqdtT.jpg" group-title="2023",The Hanging Sun (2022)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roleta da Morte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDziA0OTfZq19IBlQ6EUemraSfY.jpg" group-title="2023",A Roleta da Morte (2023)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 exorcismos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNlCqSfAV4BhHqaxmXdcaYM4iTF.jpg" group-title="2023",13 exorcismos (2022)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Substitutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro4XtqD2bdgIoeK4Ysy3rvNOCju.jpg" group-title="2023",Substitutos (2023)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Three Ways (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCIbW6ocszh1URnIS6ikw1BQCjV.jpg" group-title="2023",Three Ways (2022)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog: Uma Batida Animal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q69N7l4ioEqs5Tlz7lH61DL01eh.jpg" group-title="2023",Rock Dog: Uma Batida Animal (2023)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Matador: Missão Resgate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aVY0w3q2bxZX9rcGOGSWiM7mH8.jpg" group-title="2023",O Matador: Missão Resgate (2022)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia das Mães Nada Tradicional (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j741ip55NOzabrllOXHJv2vpag7.jpg" group-title="2023",Um Dia das Mães Nada Tradicional (2023)
+http://dns.p2.wtf:80/movie/zua6rwu2/odt36ggy/200436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABANDONADA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRNZ6aNoYWJcpt5xsVzy36lFHL6.jpg" group-title="2023",ABANDONADA (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/181984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE: SOB OS HOLOFOTES (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpFJGrThPtTjFLyEc3r9MdQH7xr.jpg" group-title="2023",FRANCE: SOB OS HOLOFOTES (2021)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/181482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HAWA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg" group-title="2023",HAWA (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/181146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEM-VINDA A QUIXERAMOBIM (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hglBT5SuIAKv4QhnUJNJeDUMsG6.jpg" group-title="2023",BEM-VINDA A QUIXERAMOBIM (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/181145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE MINUTE YOU WAKE UP DEAD (2022) LEGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUPwTbnAqfm95BZjNBnMMf39ChT.jpg" group-title="2023",THE MINUTE YOU WAKE UP DEAD (2022) LEGENDADO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/181115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UM HOMEM DE AÇÃO (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMNgLp0LdUO6tLIUy43aSoIayxV.jpg" group-title="2023",UM HOMEM DE AÇÃO (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/180853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NOITE DE PARIS (2022) LGENDADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fODU1vNbDUeze58aAg2lfXB3gA9.jpg" group-title="2023",NOITE DE PARIS (2022) LGENDADO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/180330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MEU NOME É VINGANÇA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg" group-title="2023",MEU NOME É VINGANÇA (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/180854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IRMÃOS DE HONRA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" group-title="2023",IRMÃOS DE HONRA (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DETOX DIGITAL (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UUBHMDIHYyZPxW8RwSl47Uzwgq.jpg" group-title="2023",DETOX DIGITAL (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUNG_E (2023)" tvg-logo="https://www.themoviedb.org/t/p/original/2LAtcGxhgfPmaKL7dItQ1n9TepH.jpg" group-title="2023",JUNG_E (2023)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN E SUPERMAN: BATALHA DOS SUPER FILHOS (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKUiO82S3r2OkgpTtuTTL6mnpjk.jpg" group-title="2023",BATMAN E SUPERMAN: BATALHA DOS SUPER FILHOS (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183609.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" KOMPROMAT: O DOSSIÊ RUSSO (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yakB8fDVhqmqiocjILPVh1aBze2.jpg" group-title="2023", KOMPROMAT: O DOSSIÊ RUSSO (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O RETIRO DE NATAL (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJWZMjTvJATghILwpLBQwmYoIpL.jpg" group-title="2023",O RETIRO DE NATAL (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DESTINO: NATAL (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF3IGXQHlnMUH4aoZYghtqRb8xd.jpg" group-title="2023",DESTINO: NATAL (2022)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DAPHNE E VELMA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg" group-title="COMÉDIA",DAPHNE E VELMA (2018)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183605.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Top 2022.xml"
 ############## Filmes: Top 2022 ################# 
@@ -6294,6 +6789,1011 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
+
+#EXTM3U url-tvg="http://grade-de-KARAOKE.xml"
+############## KARAOKE################# 
+#EXTINF:-1 tvg-id=" iddocanaldeKARAOKE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="AGARRA E BEIJA TURMA DO PAGODE PART AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",AGARRA E BEIJA TURMA DO PAGODE PART AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CERVEJA E CHURRASCO MARCOS E FERNANDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",CERVEJA E CHURRASCO MARCOS E FERNANDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CHAPÉU E BUTINA LOUBET" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",CHAPÉU E BUTINA LOUBET
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DJ YURI MARTINS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",DJ YURI MARTINS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOCE AMOR JERRY ADRIANI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",DOCE AMOR JERRY ADRIANI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DUAS PAIXÕES CALCINHA PRETA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",DUAS PAIXÕES CALCINHA PRETA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ELA E A AMIGA DELA AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",ELA E A AMIGA DELA AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EU NÃO BEBIA JOÃO BOSCO E VINÍCIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",EU NÃO BEBIA JOÃO BOSCO E VINÍCIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EU THAEME E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",EU THAEME E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOJE RI) GABRIEL DINIZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",HOJE RI) GABRIEL DINIZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ AMOR MAL RESOLVIDO SIMONE E SIMARIA PART JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ AMOR MAL RESOLVIDO SIMONE E SIMARIA PART JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ E QUANDO BEBE GUILHERME E SANTIGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ E QUANDO BEBE GUILHERME E SANTIGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EFEITOS CRISTIANO ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EFEITOS CRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ELA NÃO PODE SABER MUNHOZ E MARIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ELA NÃO PODE SABER MUNHOZ E MARIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ELA SÓ QUER PAZ PROJOTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ELA SÓ QUER PAZ PROJOTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ELA É MELHOR QUE VOCÊ HUGO E TIAGO PARTJOÃO NETO E FREDERICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ELA É MELHOR QUE VOCÊ HUGO E TIAGO PARTJOÃO NETO E FREDERICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ELAS FICAM LOUCAS DIEGO FARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ELAS FICAM LOUCAS DIEGO FARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ELE NÃO MERECE VOCÊ IOHANNES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ELE NÃO MERECE VOCÊ IOHANNES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EMBRIAGADO DE AMOR ERICK MONTTEIRO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EMBRIAGADO DE AMOR ERICK MONTTEIRO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EMPRESA DO MEU PAI NETO LX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EMPRESA DO MEU PAI NETO LX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ENCAIXA MC KEVINHO E LÉO SANTANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ENCAIXA MC KEVINHO E LÉO SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ENQUANTO EU BRINDO CÊ CHORA BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ENQUANTO EU BRINDO CÊ CHORA BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ENQUANTO HOUVER RAZÕES JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ENQUANTO HOUVER RAZÕES JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ENTÃO FOGE MARCOS E BELUTTI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ENTÃO FOGE MARCOS E BELUTTI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ENTÃO VALEU  FRED GUSTAVO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ENTÃO VALEU  FRED GUSTAVO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESCREVE AÍ LUAN SANTANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESCREVE AÍ LUAN SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESCÂNDALO DE AMOR EDSON E HUDSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESCÂNDALO DE AMOR EDSON E HUDSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESQUECEU DO EX PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESQUECEU DO EX PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESQUECI COMO NAMORA NEGO DO BOREL PART MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESQUECI COMO NAMORA NEGO DO BOREL PART MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESQUEMINHA (CÊ É DOIDO) ISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESQUEMINHA (CÊ É DOIDO) ISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESSA MINA É LOUCA @ANITTA PARTJHAMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESSA MINA É LOUCA @ANITTA PARTJHAMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESSE AMOR QUE ME MATA CHRYSTIAN E RALF" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESSE AMOR QUE ME MATA CHRYSTIAN E RALF
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESSE CARA AQUI DO LADO MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESSE CARA AQUI DO LADO MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESSE COPO AQUI HUGO E TIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESSE COPO AQUI HUGO E TIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESTAMOS QUITES ZÉ NETO E CRISTIANO PARTHENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESTAMOS QUITES ZÉ NETO E CRISTIANO PARTHENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESTRADA DA VIDA MILIONÁRIO E JOSÉ RICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESTRADA DA VIDA MILIONÁRIO E JOSÉ RICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESTRANHO MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESTRANHO MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESTRELINHA DI PAULLO E PAULINO PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESTRELINHA DI PAULLO E PAULINO PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ESTÚPIDO CUPIDO CELLY CAMPELLO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ESTÚPIDO CUPIDO CELLY CAMPELLO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU ERA FEIO WESLEY SAFADÃO E GAROTA SAFADA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU ERA FEIO WESLEY SAFADÃO E GAROTA SAFADA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU ERA MARCOS E BELUTTI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU ERA MARCOS E BELUTTI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU NÃO EXISTO SEM VOCÊ CHITÃOZINHO E XORORÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU NÃO EXISTO SEM VOCÊ CHITÃOZINHO E XORORÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU NÃO MERECIA ISSO LUAN SANTANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU NÃO MERECIA ISSO LUAN SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU QUERO É ROLO BRUNO E BARRETTO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU QUERO É ROLO BRUNO E BARRETTO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU QUERO É TU MC JAJÁ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU QUERO É TU MC JAJÁ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU SEI DE COR MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU SEI DE COR MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU SOU A DIVA QUE VOCÊ QUER COPIAR VALESCA POPOZUDA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU SOU A DIVA QUE VOCÊ QUER COPIAR VALESCA POPOZUDA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU TE AMO PINGA ANTONY E GABRIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU TE AMO PINGA ANTONY E GABRIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU TÔ COM ISMO MAYKOW E BRUNO PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU TÔ COM ISMO MAYKOW E BRUNO PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU TÔ PEGANDO SUA IRMÃ GASPARZINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU TÔ PEGANDO SUA IRMÃ GASPARZINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU VOU PEGAR VOCÊ MAURÍCIO E EDUARDO PARTISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU VOU PEGAR VOCÊ MAURÍCIO E EDUARDO PARTISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EU VOU TE BUSCAR (CHA LA LA LA LA)  GUSTTAVO LIMA PART HUNGRIA HIP HOP" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EU VOU TE BUSCAR (CHA LA LA LA LA)  GUSTTAVO LIMA PART HUNGRIA HIP HOP
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EVA CHICABANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EVA CHICABANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EX APAIXONADO ISRAEL E RODOLFFO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EX APAIXONADO ISRAEL E RODOLFFO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EX GORDINHA FRED E GUSTAVO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EX GORDINHA FRED E GUSTAVO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EXCLUSIVIDADE MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EXCLUSIVIDADE MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ EYES WITHOUT A FACE BILLY IDOL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ EYES WITHOUT A FACE BILLY IDOL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FACIM FACIM MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FACIM FACIM MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FAIXA 3 BRUNINHO E DAVI PART GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FAIXA 3 BRUNINHO E DAVI PART GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FALA A VERDADE MAIARA E MARAISA PART JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FALA A VERDADE MAIARA E MARAISA PART JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FALA AQUI COM A MINHA MÃO WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FALA AQUI COM A MINHA MÃO WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FAMA DE PEGADOR PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FAMA DE PEGADOR PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FANTASMA LUAN SANTANA PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FANTASMA LUAN SANTANA PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FAZENDA SÃO FRANCISCO DANIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FAZENDA SÃO FRANCISCO DANIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FAZER BEBER GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FAZER BEBER GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FAZER O PROIBIDO ( ESCONDIDINHO) PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FAZER O PROIBIDO ( ESCONDIDINHO) PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FAÇO TUDO POR VOCÊ ADSON E ALANA PARTEDY LEMOND" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FAÇO TUDO POR VOCÊ ADSON E ALANA PARTEDY LEMOND
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FECHA O PORTA MALA JOÃO GUSTAVO E MURILO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FECHA O PORTA MALA JOÃO GUSTAVO E MURILO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FEINHO (ZERO DE CHANCE) EDSON E VINICIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FEINHO (ZERO DE CHANCE) EDSON E VINICIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FESTA DAS PATROAS MARÍLIA MENDONÇA E MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FESTA DAS PATROAS MARÍLIA MENDONÇA E MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FESTA NA PISCINA CARLOS E JADER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FESTA NA PISCINA CARLOS E JADER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FICA LOUCA THAEME E THIAGO PART GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FICA LOUCA THAEME E THIAGO PART GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FICA SÓ UM POUCO MAIS JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FICA SÓ UM POUCO MAIS JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FICO COM AS DUAS GABRIEL DINIZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FICO COM AS DUAS GABRIEL DINIZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FICO COM VOCÊ BRUNINHO E DAVI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FICO COM VOCÊ BRUNINHO E DAVI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FIM DA ESTRADA MILIONÁRIO E JOSÉ RICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FIM DA ESTRADA MILIONÁRIO E JOSÉ RICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FIM DA SAUDADE DE VOCÊ (FDS) SOLTEIRÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FIM DA SAUDADE DE VOCÊ (FDS) SOLTEIRÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FIO DE CABELO CHITÃOZINHO XORORÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FIO DE CABELO CHITÃOZINHO XORORÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FLOR E O BEIJA FLOR HENRIQUE E JULIANO PARTMARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FLOR E O BEIJA FLOR HENRIQUE E JULIANO PARTMARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FLOR E O BEIJA FLOR MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FLOR E O BEIJA FLOR MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FLORES EM VIDA ZEZE DI CAMARGO E LUCIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FLORES EM VIDA ZEZE DI CAMARGO E LUCIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FOGOSA CLEUSON E ALAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FOGOSA CLEUSON E ALAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FORA DE ÁREA FRED E GUSTAVO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FORA DE ÁREA FRED E GUSTAVO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FORÇA VERDE ZÉ RAMALHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FORÇA VERDE ZÉ RAMALHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FOTOS E LEMBRANÇAS ALEX E RONALDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FOTOS E LEMBRANÇAS ALEX E RONALDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FUGIDINHA MICHEL TELÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FUGIDINHA MICHEL TELÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FUI FIEL PABLO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FUI FIEL PABLO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FURDUNÇO REI DA CACIMBINHA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FURDUNÇO REI DA CACIMBINHA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ FÉ NO PAI LUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ FÉ NO PAI LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GALERA DA RODINHA AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GALERA DA RODINHA AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GARANHÃO DA MADRUGADA TEODORO E SAMPAIO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GARANHÃO DA MADRUGADA TEODORO E SAMPAIO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GELO NA BALADA CAMILA E HANIEL PARTFERNANDO E SOROCABA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GELO NA BALADA CAMILA E HANIEL PARTFERNANDO E SOROCABA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GELO NA BALADA CAVALEIROS DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GELO NA BALADA CAVALEIROS DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GIRASSOL JOÃO BOSCO E VINÍCIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GIRASSOL JOÃO BOSCO E VINÍCIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GLAMUROSA MC MARCINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GLAMUROSA MC MARCINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ GUARDA ROUPA VAZIO EDSON E HUDSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ GUARDA ROUPA VAZIO EDSON E HUDSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ HOJE EU TÔ EXCELENTE ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ HOJE EU TÔ EXCELENTE ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ HOJE EU TÔ TERRÍVEL CRISTIANO ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ HOJE EU TÔ TERRÍVEL CRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ HOLIDAY FOI MUITO FALCÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ HOLIDAY FOI MUITO FALCÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ HOMEM CHORA SIM EDY BRITTO E SAMUEL PARTGUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ HOMEM CHORA SIM EDY BRITTO E SAMUEL PARTGUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ HOMEM DE FAMÍLIA GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ HOMEM DE FAMÍLIA GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ IMAGINA COM AS AMIGAS BRUNINHO DAVI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ IMAGINA COM AS AMIGAS BRUNINHO DAVI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ IMPASSE MARÍLIA MENDONÇA PART HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ IMPASSE MARÍLIA MENDONÇA PART HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ IMPLORANDO PRA TRAIR MICHEL TELÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ IMPLORANDO PRA TRAIR MICHEL TELÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ IMPRESSIONANDO OS ANJOS GUSTAVO MIOTO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ IMPRESSIONANDO OS ANJOS GUSTAVO MIOTO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ INCERTEZA MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ INCERTEZA MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ INFIEL MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ INFIEL MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ INSEGUROS THAEME E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ INSEGUROS THAEME E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ INVEJA DO SEU NAMORADO XAND AVIÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ INVEJA DO SEU NAMORADO XAND AVIÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ISSO CÊ NUM CONTA BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ISSO CÊ NUM CONTA BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ISSO CÊ NUM CONTA JEANN E JULIO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ISSO CÊ NUM CONTA JEANN E JULIO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ JEITO SAFADO WESLEY SAFADÃO PART MÁRCIA FELLIPE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ JEITO SAFADO WESLEY SAFADÃO PART MÁRCIA FELLIPE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ JEJUM DE AMOR GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ JEJUM DE AMOR GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ JESUS APAGA A LUZ HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ JESUS APAGA A LUZ HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ JOHNNIE WALKER GÊMEOS DO ARROCHA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ JOHNNIE WALKER GÊMEOS DO ARROCHA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ JURAMENTO DO DEDINHO MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ JURAMENTO DO DEDINHO MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ KIT KAT MUNHOZ E MARIANO PARTTHIAGUINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ KIT KAT MUNHOZ E MARIANO PARTTHIAGUINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LA BAMBA LOS LOBOS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LA BAMBA LOS LOBOS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LADRÃO NAIARA AZEVEDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LADRÃO NAIARA AZEVEDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LARANJINHA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LARANJINHA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LARGADO ÀS TRAÇAS ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LARGADO ÀS TRAÇAS ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LEMBRANÇAS OS SERRANOS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LEMBRANÇAS OS SERRANOS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LEÃO DOMADO CHICO REY E PARANÁ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LEÃO DOMADO CHICO REY E PARANÁ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LIVRE NA BALADA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LIVRE NA BALADA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LOBOS CONRADO E ALEKSANDRO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LOBOS CONRADO E ALEKSANDRO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LOGO EU JORGE E MATHEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LOGO EU JORGE E MATHEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LOKA LOKA PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LOKA LOKA PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LOKA SIMONE E SIMARIA PART ANITTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LOKA SIMONE E SIMARIA PART ANITTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LONGE DAQUI MUNHOZ E MARIANO PARTLUAN SANTANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LONGE DAQUI MUNHOZ E MARIANO PARTLUAN SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LOUCA DE SAUDADE GABRIEL DINIZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LOUCA DE SAUDADE GABRIEL DINIZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LUGAR MELHOR QUE BH CÉSAR MENOTTI E FABIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LUGAR MELHOR QUE BH CÉSAR MENOTTI E FABIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ LÁ SE FOI O BOI COM A CORDA BRUNO E BARRETTO PART DJ KEVIN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ LÁ SE FOI O BOI COM A CORDA BRUNO E BARRETTO PART DJ KEVIN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MADE IN ROÇA LOUBET" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MADE IN ROÇA LOUBET
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MADE IN ROÇA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MADE IN ROÇA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MALA HUGO HENRIQUE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MALA HUGO HENRIQUE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MALANDRAMENTE MC NANDINHO E MC NEGO BAM" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MALANDRAMENTE MC NANDINHO E MC NEGO BAM
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MALBEC HENRIQUE E DIEGO PART DENNIS DJ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MALBEC HENRIQUE E DIEGO PART DENNIS DJ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MAMÃE PASSOU AÇÚCAR EM MIM PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MAMÃE PASSOU AÇÚCAR EM MIM PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MAQUIAGEM BORRADA ZÉ FELIPE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MAQUIAGEM BORRADA ZÉ FELIPE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MAR DE DOÇURA CAVALEIROS DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MAR DE DOÇURA CAVALEIROS DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MAR DE SAUDADE DANILO REIS E RAFAEL (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MAR DE SAUDADE DANILO REIS E RAFAEL (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MATIMBA CLAUDIA LEITTE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MATIMBA CLAUDIA LEITTE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MAUS BOCADOS CRISTIANO ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MAUS BOCADOS CRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MC LENÇOL E DJ TRAVESSEIRO LUAN SANTANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MC LENÇOL E DJ TRAVESSEIRO LUAN SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME AMAR AMANHÃ MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME AMAR AMANHÃ MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME APAIXONEI EDUARDO COSTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME APAIXONEI EDUARDO COSTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME CHAMA PEDRO PAULO E ALEX (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME CHAMA PEDRO PAULO E ALEX (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME CONTA O RESTO ISRAEL E RODOLFFO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME CONTA O RESTO ISRAEL E RODOLFFO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME ESQUEÇA GUILHERME E SANTIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME ESQUEÇA GUILHERME E SANTIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME LEVA PRA CASA JOÃO BOSCO E VINÍCIUS PARTZEZÉ DI CAMARGO E LUCIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME LEVA PRA CASA JOÃO BOSCO E VINÍCIUS PARTZEZÉ DI CAMARGO E LUCIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ME LIBERA NEGA MC BEIJINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ME LIBERA NEGA MC BEIJINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEDIDA CERTA JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEDIDA CERTA JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEDO BOBO JONAS ESTICADO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEDO BOBO JONAS ESTICADO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEDO DE VOCÊ GABRIEL VALIM" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEDO DE VOCÊ GABRIEL VALIM
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MELHOR BEBER DO QUE CHORAR RIO NEGRO E SOLIMÕES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MELHOR BEBER DO QUE CHORAR RIO NEGRO E SOLIMÕES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MENINA PIPOCO FERNANDO E SOROCABA PART NEGO DO BOREL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MENINA PIPOCO FERNANDO E SOROCABA PART NEGO DO BOREL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MENTALMENTE NAIARA AZEVEDO PART MC KEVINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MENTALMENTE NAIARA AZEVEDO PART MC KEVINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MENTE COVARDE (MENTEZINHA COVARDE) WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MENTE COVARDE (MENTEZINHA COVARDE) WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MENTIRA ESTAMPADA NA CARA SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MENTIRA ESTAMPADA NA CARA SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ METRALHADORA BANDA VINGADORA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ METRALHADORA BANDA VINGADORA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEU CARRO VIROU HOTEL AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEU CARRO VIROU HOTEL AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEU CORAÇÃO DEU PT WESLEY SAFADÃO PART MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEU CORAÇÃO DEU PT WESLEY SAFADÃO PART MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEU CORPO DÁ SINAL (TOME Ó)  PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEU CORPO DÁ SINAL (TOME Ó)  PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEU PAI É FODA REI DA CACIMBINHA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEU PAI É FODA REI DA CACIMBINHA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEU VIOLÃO E O NOSSO CACHORRO SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEU VIOLÃO E O NOSSO CACHORRO SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MEXE MEXE AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MEXE MEXE AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MINHA CARA DE PREOCUPAÇÃO GABRIEL DINIZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MINHA CARA DE PREOCUPAÇÃO GABRIEL DINIZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MODA DERRAMADA JOÃO NETO E FREDERICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MODA DERRAMADA JOÃO NETO E FREDERICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MODÃO DUÍDO MICHEL TELÓ PART MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MODÃO DUÍDO MICHEL TELÓ PART MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MORENINHA LINDA TONICO E TINOCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MORENINHA LINDA TONICO E TINOCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MOTEL (DESCASO) MAIARA E MARAISA PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MOTEL (DESCASO) MAIARA E MARAISA PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MOTEL CALANGO MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MOTEL CALANGO MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MUDA A BATIDA PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MUDA A BATIDA PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MUITO GELO E POUCO WHISKY WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MUITO GELO E POUCO WHISKY WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MULHER DE FASES RAIMUNDOS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MULHER DE FASES RAIMUNDOS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MULHER NÃO TRAI NAIARA AZEVEDO PART MR CATRA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MULHER NÃO TRAI NAIARA AZEVEDO PART MR CATRA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MULHERÃO DA PORRA MUNHOZ E MARIANO PART JERRY SMITH" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MULHERÃO DA PORRA MUNHOZ E MARIANO PART JERRY SMITH
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MUNDO DE ILUSÕES GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MUNDO DE ILUSÕES GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MUNDO PARALELO MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MUNDO PARALELO MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ MÁGICA CALCINHA PRETA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ MÁGICA CALCINHA PRETA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA CAMA SÓ VAI DAR NÓS DOIS CALCINHA PRETA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA CAMA SÓ VAI DAR NÓS DOIS CALCINHA PRETA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA CONTA DA LOUCURA BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA CONTA DA LOUCURA BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA HORA DA RAIVA HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA HORA DA RAIVA HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA HORA DE AMAR (SPENDING MY TIME) GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA HORA DE AMAR (SPENDING MY TIME) GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA HORA DO ADEUS MATO GROSSO E MATHIAS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA HORA DO ADEUS MATO GROSSO E MATHIAS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA PONTA ELA FICA MC DELANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA PONTA ELA FICA MC DELANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA PONTA ELA FICA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA PONTA ELA FICA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NA SOLA DA BOTA RIO NEGRO E SOLIMÕES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NA SOLA DA BOTA RIO NEGRO E SOLIMÕES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NADA NADA HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NADA NADA HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NAMORA BOBO  THIAGO BRAVA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NAMORA BOBO  THIAGO BRAVA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NESSAS HORAS MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NESSAS HORAS MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NINGUÉM É DE FERRO WESLEY SAFADÃO PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NINGUÉM É DE FERRO WESLEY SAFADÃO PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NO DIA DO SEU CASAMENTO MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NO DIA DO SEU CASAMENTO MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NO TOQUE DO CELULAR AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NO TOQUE DO CELULAR AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NOCAUTE JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NOCAUTE JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NOSSA CHAMA GEORGE HENRIQUE E RODRIGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NOSSA CHAMA GEORGE HENRIQUE E RODRIGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NOSSO AMOR JÁ ERA CRISTIANO ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NOSSO AMOR JÁ ERA CRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NOVA YORK CHRYSTIAN E RALF" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NOVA YORK CHRYSTIAN E RALF
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NOVELA DAS NOVE ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NOVELA DAS NOVE ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NOVINHA VAI NO CHÃO WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NOVINHA VAI NO CHÃO WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NUNCA FOI EX THAEME E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NUNCA FOI EX THAEME E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO CASA NÃO MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO CASA NÃO MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO DEIXO NÃO EDSON E HUDSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO DEIXO NÃO EDSON E HUDSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO DEIXO NÃO MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO DEIXO NÃO MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO DESLIGUE O RÁDIO HUGO PENA E GABRIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO DESLIGUE O RÁDIO HUGO PENA E GABRIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO ERA VOCÊ JOÃO BOSCO E VINÍCIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO ERA VOCÊ JOÃO BOSCO E VINÍCIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO EXISTE AMOR SEM BRIGA ISRAEL E RODOLFFO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO EXISTE AMOR SEM BRIGA ISRAEL E RODOLFFO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO FALA NÃO PRA MIM HUMBERTO E RONALDO PART JERRY SMITH" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO FALA NÃO PRA MIM HUMBERTO E RONALDO PART JERRY SMITH
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO ME DEIXE SOZINHO NEGO DO BOREL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO ME DEIXE SOZINHO NEGO DO BOREL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO ME TOCA ZÉ FELIPE PART LUDMILLA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO ME TOCA ZÉ FELIPE PART LUDMILLA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO PARO DE BEBER GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO PARO DE BEBER GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO TEVE AMOR JOELMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO TEVE AMOR JOELMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ NÃO VOU MAIS ATRÁS DE VOCÊ SIMONE E SIMARIA PARTWESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ NÃO VOU MAIS ATRÁS DE VOCÊ SIMONE E SIMARIA PARTWESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O ALVO DIEGO E VICTOR HUGO PART HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O ALVO DIEGO E VICTOR HUGO PART HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O CARA DA RÁDIO FERNANDO E SOROCABA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O CARA DA RÁDIO FERNANDO E SOROCABA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O CÉU EXPLICA TUDO HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O CÉU EXPLICA TUDO HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O DEFENSOR ZEZÉ DI CAMARGO E LUCIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O DEFENSOR ZEZÉ DI CAMARGO E LUCIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O DONO DO BANCO NETO LX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O DONO DO BANCO NETO LX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O DONO DO BAR AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O DONO DO BAR AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O DOUTOR E A EMPREGADA TRIO PARADA DURA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O DOUTOR E A EMPREGADA TRIO PARADA DURA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O ERRADO SOU EU ZÉ FELIPE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O ERRADO SOU EU ZÉ FELIPE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O MAR PAROU MICHEL TELÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O MAR PAROU MICHEL TELÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O MUNDO GIROU ISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O MUNDO GIROU ISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O NOME DELA É RAPARIGA NAIARA AZEVEDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O NOME DELA É RAPARIGA NAIARA AZEVEDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O NOSSO SANTO BATEU MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O NOSSO SANTO BATEU MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O NOSSO SANTO BATEU WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O NOSSO SANTO BATEU WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O QUE ACONTECE NA BALADA THAEME E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O QUE ACONTECE NA BALADA THAEME E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O QUE HOUVE MANO WALTER PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O QUE HOUVE MANO WALTER PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O QUE É AMOR PRA VOCÊ MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O QUE É AMOR PRA VOCÊ MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O QUE É AMOR PRA VOCÊ WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O QUE É AMOR PRA VOCÊ WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ O QUE É MEU É MEU AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ O QUE É MEU É MEU AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OBEDECENDO FELIPÃO PART LÉO SANTANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OBEDECENDO FELIPÃO PART LÉO SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OH DELÍCIA HENRIQUE E DIEGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OH DELÍCIA HENRIQUE E DIEGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OITAVA DOSE MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OITAVA DOSE MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OITAVA DOSE WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OITAVA DOSE WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OLHA A EXPLOSÃO MC KEVINHO E WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OLHA A EXPLOSÃO MC KEVINHO E WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OLHA MAS NÃO PEGA ADSON E ALANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OLHA MAS NÃO PEGA ADSON E ALANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ONDE JÁ SE VIU THAEME E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ONDE JÁ SE VIU THAEME E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ONDE VOCÊ FOR EU VOU CHRYSTIAN E RALF" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ONDE VOCÊ FOR EU VOU CHRYSTIAN E RALF
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ORQUÍDEA NEGRA ZÉ RAMALHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ORQUÍDEA NEGRA ZÉ RAMALHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OS ANJOS CANTAM JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OS ANJOS CANTAM JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ OU SOME OU SOMA JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ OU SOME OU SOMA JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PAC MAN LUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PAC MAN LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PAGA DE SOLTEIRO FELIZ SIMONE E SIMARIA PART ALOK" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PAGA DE SOLTEIRO FELIZ SIMONE E SIMARIA PART ALOK
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PAIXÃO MINEIRA CÉSAR MENOTTI E FABIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PAIXÃO MINEIRA CÉSAR MENOTTI E FABIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PANRAMPAMPAM JOÃO LUCAS E DIOGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PANRAMPAMPAM JOÃO LUCAS E DIOGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PARAQUEDAS GABRIEL DINIZ PART JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PARAQUEDAS GABRIEL DINIZ PART JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PARARÁ TOMATE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PARARÁ TOMATE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PARECE NAMORO MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PARECE NAMORO MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PAREDES JONAS ESTICADO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PAREDES JONAS ESTICADO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PASSA LÁ TRIO PARADA DURA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PASSA LÁ TRIO PARADA DURA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PASSINHO DO PETER PAN BANDA GRAFITH" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PASSINHO DO PETER PAN BANDA GRAFITH
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PEGADA FORTE ADSON E ALANA PARTPEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PEGADA FORTE ADSON E ALANA PARTPEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PEGADA QUE DESGRAMA NAIARA AZEVEDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PEGADA QUE DESGRAMA NAIARA AZEVEDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PEGADOR GASPARZINHO PARTLUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PEGADOR GASPARZINHO PARTLUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PEGANDO LÁGRIMAS PAULA FERNANDES PARTCHITÃOZINHO E XORORÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PEGANDO LÁGRIMAS PAULA FERNANDES PARTCHITÃOZINHO E XORORÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PEN DRIVE DE MODÃO MUNHOZ E MARIANO PART ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PEN DRIVE DE MODÃO MUNHOZ E MARIANO PART ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PERDEU O CARA ERRADO FELIPE ARAÚJO PART CRISTIANO ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PERDEU O CARA ERRADO FELIPE ARAÚJO PART CRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PERDEU SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PERDEU SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PERDOAR HUGO PENA E GABRIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PERDOAR HUGO PENA E GABRIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PERGUNTA BOBA JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PERGUNTA BOBA JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PESADÃO IZA PART MARCELO FALCÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PESADÃO IZA PART MARCELO FALCÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PILOTO AUTOMÁTICO SUPERCOMBO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PILOTO AUTOMÁTICO SUPERCOMBO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PINDAÍBA GUILHERME E SANTIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PINDAÍBA GUILHERME E SANTIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PINGA BOA DÁ FOGO ANTONY E GABRIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PINGA BOA DÁ FOGO ANTONY E GABRIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PINGA COM LIMÃO GIAN E DUANY" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PINGA COM LIMÃO GIAN E DUANY
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PINGA E PEGAÇÃO ANTONY E GABRIEL PART PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PINGA E PEGAÇÃO ANTONY E GABRIEL PART PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PINGA À LUZ DE VELA ANTONY E GABRIEL (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PINGA À LUZ DE VELA ANTONY E GABRIEL (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PLAYBOY FAZENDEIRO MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PLAYBOY FAZENDEIRO MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PODE OU NÃO PODE ZÉ RICARDO E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PODE OU NÃO PODE ZÉ RICARDO E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PODEROSA POLENTINHA DO ARROCHA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PODEROSA POLENTINHA DO ARROCHA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PODIA SER NÓS DOIS KLEO DIBAH E RAFAEL PART MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PODIA SER NÓS DOIS KLEO DIBAH E RAFAEL PART MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ POEIRA DA LUA MARCOS E BELUTTI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ POEIRA DA LUA MARCOS E BELUTTI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PONTO DE PARTIDA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PONTO DE PARTIDA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ POP 100 REI DA CACIMBINHA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ POP 100 REI DA CACIMBINHA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ POPSTAR JOÃO PENCA E SEUS MIQUINHOS AMESTRADOS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ POPSTAR JOÃO PENCA E SEUS MIQUINHOS AMESTRADOS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ POR TE AMAR DEMAIS BONDE SERTANEJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ POR TE AMAR DEMAIS BONDE SERTANEJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ POT POURRI (FESTA JUNINASÃO JOÃO) TONICO E TINOCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ POT POURRI (FESTA JUNINASÃO JOÃO) TONICO E TINOCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRA QUE VIVER NESSE MUNDO THIAGUINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRA QUE VIVER NESSE MUNDO THIAGUINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRA REZAR NINGUÉM ME CHAMA ZÉ NETO E CRISTIANO PART HUMBERTO E RONALDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRA REZAR NINGUÉM ME CHAMA ZÉ NETO E CRISTIANO PART HUMBERTO E RONALDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRA SEMPRE COM VOCÊ JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRA SEMPRE COM VOCÊ JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRA TER VOCÊ AQUI THAEME E THIAGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRA TER VOCÊ AQUI THAEME E THIAGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRAIEIRO JAMMIL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRAIEIRO JAMMIL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PREFÁCIO JOÃO CARREIRO E CAPATAZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PREFÁCIO JOÃO CARREIRO E CAPATAZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRESSÃO PEDRO PAULO E ALEX (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRESSÃO PEDRO PAULO E ALEX (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRESTO POUCO JOÃO NETO E FREDERICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRESTO POUCO JOÃO NETO E FREDERICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRETINHA VOU TE CONFESSAR NEGO DO BOREL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRETINHA VOU TE CONFESSAR NEGO DO BOREL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRETO FERNANDO E SOROCABA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRETO FERNANDO E SOROCABA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PREVISÃO DO TEMPO FERNANDO E SOROCABA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PREVISÃO DO TEMPO FERNANDO E SOROCABA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PROMESSA CARREIRO E CAPATAZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PROMESSA CARREIRO E CAPATAZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PRONTO FALEI EDUARDO COSTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PRONTO FALEI EDUARDO COSTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PROPAGANDA JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PROPAGANDA JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PROPOSTA INDECENTE CHEIRO DE AMOR PARTLUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PROPOSTA INDECENTE CHEIRO DE AMOR PARTLUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PUPUPU TÊTÊRÊRÊ NETO LX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PUPUPU TÊTÊRÊRÊ NETO LX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ PÕE NO 120 CONRADO E ALEKSANDRO PART MARCO BRASIL FILHO E DJ KEVIN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ PÕE NO 120 CONRADO E ALEKSANDRO PART MARCO BRASIL FILHO E DJ KEVIN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUADROS FIDUMA E JECA PART JOÃO CARREIRO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUADROS FIDUMA E JECA PART JOÃO CARREIRO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUANDO DEUS QUER LUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUANDO DEUS QUER LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUANDO O MEL É BOM SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUANDO O MEL É BOM SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUASE CLEBER E CAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUASE CLEBER E CAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUASE UM CASAL MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUASE UM CASAL MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUATRO E QUINZE MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUATRO E QUINZE MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUE BAR QUE CÊ TÁ JOÃO BOSCO E VINÍCIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUE BAR QUE CÊ TÁ JOÃO BOSCO E VINÍCIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUE MENINA É ESSA MC RICHESSE FT SAN IN PLAY" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUE MENINA É ESSA MC RICHESSE FT SAN IN PLAY
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUE PENA QUE ACABOU GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUE PENA QUE ACABOU GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUE PESCAR QUE NADA BONDE DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUE PESCAR QUE NADA BONDE DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUE SORTE A NOSSA MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUE SORTE A NOSSA MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUEBRA TOPETE TRIO PARADA DURA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUEBRA TOPETE TRIO PARADA DURA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUEM AGUENTA JADS E JADSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUEM AGUENTA JADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUEM ENSINOU FUI EU MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUEM ENSINOU FUI EU MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUEM NÃO BEIJA BEBE FRED E GUSTAVO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUEM NÃO BEIJA BEBE FRED E GUSTAVO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUEM VAI LEMBRAR HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUEM VAI LEMBRAR HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUEM É ELA MARCO E MÁRIO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUEM É ELA MARCO E MÁRIO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUERO TODA NOITE FIUK E JORGE BEN JOR" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUERO TODA NOITE FIUK E JORGE BEN JOR
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ QUÍMICA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ QUÍMICA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RADINHO DO SEU ZÉ NAIARA AZEVEDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RADINHO DO SEU ZÉ NAIARA AZEVEDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RAPARIGA NÃO JOÃO NETO E FREDERICO PART SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RAPARIGA NÃO JOÃO NETO E FREDERICO PART SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RASPÃO HENRIQUE E DIEGO PART SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RASPÃO HENRIQUE E DIEGO PART SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RECAÍDAS HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RECAÍDAS HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RECÉM ABANDONADO CARREIRO E CAPATAZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RECÉM ABANDONADO CARREIRO E CAPATAZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REFÉM DILSINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REFÉM DILSINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REGGAE IN ROÇA ZEZÉ DI CAMARGO E LUCIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REGGAE IN ROÇA ZEZÉ DI CAMARGO E LUCIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REGGAE TOWN JOTA QUEST PART NATIRUTS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REGGAE TOWN JOTA QUEST PART NATIRUTS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REGIME FECHADO SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REGIME FECHADO SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REPUBICA PINGAIADA PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REPUBICA PINGAIADA PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RESSACA DE SAUDADE WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RESSACA DE SAUDADE WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REVOLTADA SOLANGE ALMEIDA PART IVETE SANGALO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REVOLTADA SOLANGE ALMEIDA PART IVETE SANGALO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ REZA AÍ JORGE E XAND AVIÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ REZA AÍ JORGE E XAND AVIÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ROMANCE COM SAFADEZA WESLEY SAFADÃO PART ANITTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ROMANCE COM SAFADEZA WESLEY SAFADÃO PART ANITTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ROMÂNTICO ANÔNIMO MARCOS E BELUTTI PART FERNANDO ZOR" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ROMÂNTICO ANÔNIMO MARCOS E BELUTTI PART FERNANDO ZOR
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ROSA AMARELA PAULA MATTOS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ROSA AMARELA PAULA MATTOS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ROSTO MOLHADO  DANIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ROSTO MOLHADO  DANIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ROUBOU MEU CORAÇAO WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ ROUBOU MEU CORAÇAO WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ RÉU APAIXONADO TEODORO E SAMPAIO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ RÉU APAIXONADO TEODORO E SAMPAIO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SABE DE NADA INOCENTE ADSON E ALANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SABE DE NADA INOCENTE ADSON E ALANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SABONETE DE MOTEL ADSON E ALANA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SABONETE DE MOTEL ADSON E ALANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAFADIM AVIÕES DO FORRÓ (TEMA  A REGRA DO JOGO GLOBO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAFADIM AVIÕES DO FORRÓ (TEMA  A REGRA DO JOGO GLOBO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAI DO MATO VEIACO LÉO E RAPHAEL PART PEDRO PAULO E ALEX" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAI DO MATO VEIACO LÉO E RAPHAEL PART PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SALVA MEU CORAÇÃO LOUBET" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SALVA MEU CORAÇÃO LOUBET
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAPEQUINHA EDUARDO COSTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAPEQUINHA EDUARDO COSTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE DE VOCÊ ZÉ FELIPE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE DE VOCÊ ZÉ FELIPE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE DO  PICA PAU TRIO ALTO ASTRAL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE DO  PICA PAU TRIO ALTO ASTRAL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE DO CARAMBA JOÃO NETO E FREDERICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE DO CARAMBA JOÃO NETO E FREDERICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE DO MEU EX MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE DO MEU EX MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE EDUARDO COSTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE EDUARDO COSTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE IDIOTA LUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE IDIOTA LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SAUDADE XCALYPSO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SAUDADE XCALYPSO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE BEIJAR NA BOCA DÁ SAPINHO JOÃO LUCAS E MARCELO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE BEIJAR NA BOCA DÁ SAPINHO JOÃO LUCAS E MARCELO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE NÃO FOR PRA DAR PT NEM VOU ANTONY E GABRIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE NÃO FOR PRA DAR PT NEM VOU ANTONY E GABRIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE OLHA NO ESPELHO MAIARA E MARAISA PART CRISTIANO ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE OLHA NO ESPELHO MAIARA E MARAISA PART CRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE PEGAR CÊ CHORA FELIPE ARAÚJO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE PEGAR CÊ CHORA FELIPE ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE QUER IR ENTÃO VAI MUNHOZ E MARIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE QUER IR ENTÃO VAI MUNHOZ E MARIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE REPETE A CENA SOLTEIRÕES DO FORRÓ PART GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE REPETE A CENA SOLTEIRÕES DO FORRÓ PART GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE SOBRAR EU VENDO FILIPE LABRE PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE SOBRAR EU VENDO FILIPE LABRE PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE TOCA ESSA MODA JADS E JADSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE TOCA ESSA MODA JADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE É PRA BEBER EU BEBO GUSTTAVO LIMA (VERSÃO ACÚSTICA)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE É PRA BEBER EU BEBO GUSTTAVO LIMA (VERSÃO ACÚSTICA)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SE É PRA GENTE FICAR SOLANGE ALMEIDA PART WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SE É PRA GENTE FICAR SOLANGE ALMEIDA PART WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEGUNDA OPÇÃO MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEGUNDA OPÇÃO MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SELFIE ISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SELFIE ISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEM CONTRAINDICAÇÃO DIEGO E VICTOR HUGO PART BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEM CONTRAINDICAÇÃO DIEGO E VICTOR HUGO PART BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEM LIMITES PRA SONHAR VICTOR E LÉO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEM LIMITES PRA SONHAR VICTOR E LÉO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SENHA DO CELULAR HENRIQUE E DIEGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SENHA DO CELULAR HENRIQUE E DIEGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SENHORITA VICTOR E LEO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SENHORITA VICTOR E LEO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SER HUMANO OU ANJO MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SER HUMANO OU ANJO MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SER HUMANO ZECA PAGODINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SER HUMANO ZECA PAGODINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEU AMOR AINDA É TUDO BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEU AMOR AINDA É TUDO BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEU BOMBEIRO MUNHOZ E MARIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEU BOMBEIRO MUNHOZ E MARIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEU OPOSTO GEORGE HENRIQUE E RODRIGO PART HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEU OPOSTO GEORGE HENRIQUE E RODRIGO PART HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEU PADRE ANTONY E GABRIEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEU PADRE ANTONY E GABRIEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEU POLÍCIA SILVANNO SALLES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEU POLÍCIA SILVANNO SALLES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEU POLÍCIA ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEU POLÍCIA ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SEXTOU ISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SEXTOU ISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SHOW COMPLETO MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SHOW COMPLETO MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SINTONIA E DESEJO AVIÕES DO FORRÓ PARTIVETE SANGALO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SINTONIA E DESEJO AVIÕES DO FORRÓ PARTIVETE SANGALO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SISTEMA ANTIGO OS MONARCAS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SISTEMA ANTIGO OS MONARCAS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOFRI EM DOBRO DIEGO E ARNALDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOFRI EM DOBRO DIEGO E ARNALDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOFRÊNCIA ISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOFRÊNCIA ISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOLIDÃO MILIONÁRIO E JOSÉ RICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOLIDÃO MILIONÁRIO E JOSÉ RICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOLTEIRO APAIXONADO MARCOS E BELUTTI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOLTEIRO APAIXONADO MARCOS E BELUTTI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOLTEIRO NA SEXTA AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOLTEIRO NA SEXTA AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOM DE PEÃO DANILO REIS E RAFAEL (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOM DE PEÃO DANILO REIS E RAFAEL (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOM DO SOLINHO BOYZINHO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOM DO SOLINHO BOYZINHO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOM DO SOLINHO WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOM DO SOLINHO WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SONHA COMIGO ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SONHA COMIGO ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SONHANDO COM VOCÊ JULIANO CÉZAR PARTJADS E JADSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SONHANDO COM VOCÊ JULIANO CÉZAR PARTJADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SONHEI COM VOCÊ MILIONÁRIO E JOSÉ RICO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SONHEI COM VOCÊ MILIONÁRIO E JOSÉ RICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SONHO CLEBER E CAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SONHO CLEBER E CAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SORTE QUE CÊ BEIJA BEM MAIARA E MARAISA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SORTE QUE CÊ BEIJA BEM MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SORTE É TER VOCÊ JOÃO BOSCO E VINÍCIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SORTE É TER VOCÊ JOÃO BOSCO E VINÍCIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOS CORAÇÃO MANUTTI PART BRUNO E BARRETTO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOS CORAÇÃO MANUTTI PART BRUNO E BARRETTO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOSSEGUEI JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOSSEGUEI JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOU EU CHRYSTIAN E RALF" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOU EU CHRYSTIAN E RALF
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SOU IGUALZINHO A VOCÊ AMADO BATISTA PART ELIAS WAGNER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SOU IGUALZINHO A VOCÊ AMADO BATISTA PART ELIAS WAGNER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ STATUS QUE EU NÃO QUERIA ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ STATUS QUE EU NÃO QUERIA ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SUA CARA MAJOR LAZER FT ANITTA PABLLO VITTAR" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SUA CARA MAJOR LAZER FT ANITTA PABLLO VITTAR
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SUA MELHOR VERSÃO BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SUA MELHOR VERSÃO BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SUBIDINHA GAROTA SAFADA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SUBIDINHA GAROTA SAFADA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SUPER HOMEM GUSTTAVO LIMA PART EDSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SUPER HOMEM GUSTTAVO LIMA PART EDSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SUÍTE 14 HENRIQUE E DIEGO PARTMC GUIMÊ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SUÍTE 14 HENRIQUE E DIEGO PARTMC GUIMÊ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SÓ FALTA VOCÊ ACEITAR HUGO HENRIQUE PART MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SÓ FALTA VOCÊ ACEITAR HUGO HENRIQUE PART MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SÓ NÃO DEIXA EU TOMAR BIRRA LUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SÓ NÃO DEIXA EU TOMAR BIRRA LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SÓ SE FOR GELADA CONRADO E ALEKSANDRO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SÓ SE FOR GELADA CONRADO E ALEKSANDRO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SÓ TEM EU GUSTTAVO LIMA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SÓ TEM EU GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SÓ VOCÊ NÃO VÊ MARIANA FAGUNDES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SÓ VOCÊ NÃO VÊ MARIANA FAGUNDES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ SÓ VOU BEBER MAIS HOJE HUMBERTO E RONALDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ SÓ VOU BEBER MAIS HOJE HUMBERTO E RONALDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TA TUM TUM KEVINHO SIMONE E SIMARIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TA TUM TUM KEVINHO SIMONE E SIMARIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TCHAU BRIGADO LÉO E RAPHAEL" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TCHAU BRIGADO LÉO E RAPHAEL
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TE AMANDO MAIS QUE PINGA ANTONY E GABRIEL PART MUNHOZ E MARIANO (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TE AMANDO MAIS QUE PINGA ANTONY E GABRIEL PART MUNHOZ E MARIANO (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TE AMO ZÉ NETO E CRISTIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TE AMO ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TE ASSUMI PRO BRASIL MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TE ASSUMI PRO BRASIL MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TE ASSUMO DIEGO E ARNALDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TE ASSUMO DIEGO E ARNALDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TE ENSINEI CERTIN LUDMILLA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TE ENSINEI CERTIN LUDMILLA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TERAPINGA FERNANDO E SOROCABA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TERAPINGA FERNANDO E SOROCABA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TESOURO DO PIRATA TCHAKABUM" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TESOURO DO PIRATA TCHAKABUM
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TIM TIM WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TIM TIM WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TIM TIM WESLEY SAFADÃO (C BACKING VOCALS)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TIM TIM WESLEY SAFADÃO (C BACKING VOCALS)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TOCA UM JOÃO MINEIRO E MARCIANO JADS E JADSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TOCA UM JOÃO MINEIRO E MARCIANO JADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TOMA SUA GOSTOSA AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TOMA SUA GOSTOSA AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TOMANDO CORONA JONAS ESTICADO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TOMANDO CORONA JONAS ESTICADO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TRAIÇÃO A QUEIMA ROUPA CRISTIANO ARAÚJO PARTJADS E JADSON" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TRAIÇÃO A QUEIMA ROUPA CRISTIANO ARAÚJO PARTJADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TRAIÇÃO NÃO TEM PERDÃO MARÍLIA MENDONÇA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TRAIÇÃO NÃO TEM PERDÃO MARÍLIA MENDONÇA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TRANSPLANTE MARÍLIA MENDONÇA PART BRUNO E MARRONE" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TRANSPLANTE MARÍLIA MENDONÇA PART BRUNO E MARRONE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TREME BUNDA WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TREME BUNDA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TRINCADINHO JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TRINCADINHO JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TROCA O DISCO WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TROCA O DISCO WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TROCADO POR UM ALEMÃO GÊMEOS DO ARROCHA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TROCADO POR UM ALEMÃO GÊMEOS DO ARROCHA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TROCARIA TUDO MARCOS E FERNANDO PART HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TROCARIA TUDO MARCOS E FERNANDO PART HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÁ DOIDONA CACIO E MARCOS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÁ DOIDONA CACIO E MARCOS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÁ FALTANDO EU GUSTTAVO LIMA PARTJORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÁ FALTANDO EU GUSTTAVO LIMA PARTJORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÁ NA SOFRÊNCIA TAYRONE CIGANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÁ NA SOFRÊNCIA TAYRONE CIGANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÁ NAMORANDO E ME QUERENDO HENRIQUE E JULIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÁ NAMORANDO E ME QUERENDO HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÁ QUENTE MICHEL TELÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÁ QUENTE MICHEL TELÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÃO FELIZ MARCOS E BELUTTI" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÃO FELIZ MARCOS E BELUTTI
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÓ SOU SEU FRED E GUSTAVO PARTWESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÓ SOU SEU FRED E GUSTAVO PARTWESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ BEBENDO DE TORNEIRA CONRADO E ALEKSANDRO PARTBRUNO E BARRETTO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ BEBENDO DE TORNEIRA CONRADO E ALEKSANDRO PARTBRUNO E BARRETTO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ COM MORAL NO CÉU MATHEUS E KAUAN" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ COM MORAL NO CÉU MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ COM PENA DE VOCÊ CLEBER E CAUAN PART ISRAEL NOVAES" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ COM PENA DE VOCÊ CLEBER E CAUAN PART ISRAEL NOVAES
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ FAZENDO AMOR LUCAS LUCCO PART JORGE E MATEUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ FAZENDO AMOR LUCAS LUCCO PART JORGE E MATEUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ MAL CÉSAR MENOTTI E FABIANO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ MAL CÉSAR MENOTTI E FABIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ POR AÍ DI PAULLO E PAULINO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ POR AÍ DI PAULLO E PAULINO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ SENSACIONAL WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ SENSACIONAL WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ SOLTEIRO DE NOVO AVIÕES DO FORRÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ SOLTEIRO DE NOVO AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ TÔ TE QUERENDO JADS E JADSON PARTMICHEL TELÓ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ TÔ TE QUERENDO JADS E JADSON PARTMICHEL TELÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ UM DEGRAU NA ESCADA EDUARDO COSTA E LEONARDO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ UM DEGRAU NA ESCADA EDUARDO COSTA E LEONARDO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ UM DIA PABLO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ UM DIA PABLO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ UM LOUCO EDUARDO COSTA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ UM LOUCO EDUARDO COSTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ UM LUGARZINHO NA SUA CAMA JOÃO BOSCO E VINÍCIUS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ UM LUGARZINHO NA SUA CAMA JOÃO BOSCO E VINÍCIUS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ UMA BOMBA BRAGA BOYS" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ UMA BOMBA BRAGA BOYS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAI DESCENDO MÁRCIA FELLIPE PART MC TROIA" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAI DESCENDO MÁRCIA FELLIPE PART MC TROIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAI EMBRAZANDO WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAI EMBRAZANDO WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAI ME PERDOANDO VICTOR E LÉO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAI ME PERDOANDO VICTOR E LÉO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAI VENDO LUCAS LUCCO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAI VENDO LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAMO BARUIA BRENNO E MATHEUS (EXCLUSIVO)" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAMO BARUIA BRENNO E MATHEUS (EXCLUSIVO)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAMOS BEBER JOÃO LUCAS E MARCELO PARTRONALDINHO E DENNIS DJ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAMOS BEBER JOÃO LUCAS E MARCELO PARTRONALDINHO E DENNIS DJ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VAQUEIRO ATUALIZADO MANO WALTER" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VAQUEIRO ATUALIZADO MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VEM CÁ MOÇA GEORGE HENRIQUE E RODRIGO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VEM CÁ MOÇA GEORGE HENRIQUE E RODRIGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VEM PRA MINHA ILHA (DAR VIROTE COM MONTILLA) GABRIEL DINIZ" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VEM PRA MINHA ILHA (DAR VIROTE COM MONTILLA) GABRIEL DINIZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VEM PRO MEU LOUNGE WESLEY SAFADÃO" tvg-logo="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-karaoke-logo-vector-illustration-png-image_691261.jpg" group-title="KARAOKE",KARAOKÊ VEM PRO MEU LOUNGE WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VEM VEM PEDRO PAULO E ALEX" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VEM VEM PEDRO PAULO E ALEX
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIDA MAIS OU MENOS HENRIQUE E DIEGO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIDA MAIS OU MENOS HENRIQUE E DIEGO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIDA MAIS OU MENOS LUXURIA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIDA MAIS OU MENOS LUXURIA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIDINHA DE BALADA HENRIQUE E JULIANO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIDINHA DE BALADA HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIDRO FUMÊ (CONTATINHO DO PAI) ROMIM MATA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIDRO FUMÊ (CONTATINHO DO PAI) ROMIM MATA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VILLA MIX (SUAVE) ALOK PART MATHEUS E KAUAN" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VILLA MIX (SUAVE) ALOK PART MATHEUS E KAUAN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIRA A FAIXA CIDADÃO NAIARA AZEVEDO PART GUSTTAVO LIMA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIRA A FAIXA CIDADÃO NAIARA AZEVEDO PART GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIRA LATA LOUBET PARTFERNANDO E SOROCABA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIRA LATA LOUBET PARTFERNANDO E SOROCABA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VIVENDO AQUI NO MATO TRIO PARADA DURA PART ZÉ NETO E CRISTIANO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VIVENDO AQUI NO MATO TRIO PARADA DURA PART ZÉ NETO E CRISTIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOANDO PRO PARÁ JOELMA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOANDO PRO PARÁ JOELMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ E EU ZÉ FELIPE" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ E EU ZÉ FELIPE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ FAZ FALTA AQUI MAIARA E MARAISA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ FAZ FALTA AQUI MAIARA E MARAISA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ ME TROCOU BRUNO E MARRONE CHITÃOZINHO E XORORÓ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ ME TROCOU BRUNO E MARRONE CHITÃOZINHO E XORORÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ MENTE ZÉ FELIPE" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ MENTE ZÉ FELIPE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ MERECE CACHÊ ISRAEL NOVAES PARTWESLEY SAFADÃO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ MERECE CACHÊ ISRAEL NOVAES PARTWESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ NÃO ME CONHECE GUSTTAVO LIMA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ NÃO ME CONHECE GUSTTAVO LIMA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ NÃO ME ESQUECEU WESLEY SAFADÃO PART JORGE" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ NÃO ME ESQUECEU WESLEY SAFADÃO PART JORGE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ NÃO SABE (QUERO VER) BRUNA VIOLA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ NÃO SABE (QUERO VER) BRUNA VIOLA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ NÃO VALE NADA ZÉ FELIPE PART MC MENOR" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ NÃO VALE NADA ZÉ FELIPE PART MC MENOR
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ PARTIU MEU CORAÇÃO NEGO DO BOREL PART ANITTA WESLEY SAFADÃO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ PARTIU MEU CORAÇÃO NEGO DO BOREL PART ANITTA WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOCÊ SEMPRE SERÁ MATOGROSSO E MATHIAS" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOCÊ SEMPRE SERÁ MATOGROSSO E MATHIAS
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VONTADE DIVIDIDA MILIONÁRIO E JOSÉ RICO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VONTADE DIVIDIDA MILIONÁRIO E JOSÉ RICO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOU BEBER VENENO GINO E GENO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOU BEBER VENENO GINO E GENO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOU BOTAR AVIÕES DO FORRÓ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOU BOTAR AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VOU DAR VIROTE WESLEY SAFADÃO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VOU DAR VIROTE WESLEY SAFADÃO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VUCO VUCO JOÃO LUCAS E MARCELO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VUCO VUCO JOÃO LUCAS E MARCELO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ VÍCIO JOÃO NETO E FREDERICO PART JADS E JADSON" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ VÍCIO JOÃO NETO E FREDERICO PART JADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ WESLEY SAFADÃO CAMAROTE" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ WESLEY SAFADÃO CAMAROTE
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ WIGGLE WIGGLE GABRIEL DINIZ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ WIGGLE WIGGLE GABRIEL DINIZ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ZERO BOI MANO WALTER" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ ZERO BOI MANO WALTER
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ZIRIGUIDUM AVIÕES DO FORRÓ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ ZIRIGUIDUM AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ZÉ TROVÃO JADS E JADSON" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ ZÉ TROVÃO JADS E JADSON
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ É SÓ VOCÊ ME CHAMAR AVIÕES DO FORRÓ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ É SÓ VOCÊ ME CHAMAR AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ÚLTIMA DOSE JOÃO NETO E FREDERICO PARTCRISTIANO ARAÚJO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ ÚLTIMA DOSE JOÃO NETO E FREDERICO PARTCRISTIANO ARAÚJO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKÊ ÚLTIMO ADEUS LEONARDO E EDUARDO COSTA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",KARAOKÊ ÚLTIMO ADEUS LEONARDO E EDUARDO COSTA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LUGAR E HORA LUAN SANTANA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",LUGAR E HORA LUAN SANTANA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NAMORA HENRIQUE E JULIANO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",NAMORA HENRIQUE E JULIANO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NOSSA PEDRO PAULO E ALEX PART LUCAS LUCCO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",NOSSA PEDRO PAULO E ALEX PART LUCAS LUCCO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NÉ AVIÕES DO FORRÓ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",NÉ AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PINGA E FOGUETE BRUNO E BARRETO" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",PINGA E FOGUETE BRUNO E BARRETO
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SORRIA EVALDO BRAGA" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",SORRIA EVALDO BRAGA
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TACA) AVIÕES DO FORRÓ" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",TACA) AVIÕES DO FORRÓ
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÁ FAVORÁVEL LUCAS LUCCO PART MC BIN LADEN" tvg-logo="https://previews.123rf.com/images/butenkow/butenkow1609/butenkow160900080/62047985-logo-design-template-for-karaoke-vector-illustration-of-icon.jpg" group-title="KARAOKE",TÁ FAVORÁVEL LUCAS LUCCO PART MC BIN LADEN
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/51013.mp4
 
 #EXTM3U url-tvg="http://grade-de-NETFLIX",Henry Danger.xml"
 ############## NETFLIX",Henry Danger ################# 

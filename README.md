@@ -2679,1086 +2679,6 @@ http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
 http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
 
-
-#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCYBKCyeAU8uzuX02heWNXO5hmt.jpg" group-title="Filmes: Nacionais",1 Contra Todos - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Eu Odeio em Você - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="Filmes: Romance",10 Coisas Que Eu Odeio em Você - 1999
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Segundos Para Vencer - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5nmhRu2TyLzaNnhny5XNZumdWI.jpg" group-title="Documentários",10 Segundos Para Vencer - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Filmes: Aventura",10.000 A.C. - 2008
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Dias de Resistência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg" group-title="Filmes: Guerra",100 Dias de Resistência (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Dias para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg" group-title="Filmes: Romance",100 Dias para o Natal (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="Filmes: Top 2022",100 Medos (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100% Lobo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg" group-title="Filmes: Animacao / Infantil",100% Lobo (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10000 Anos Depois - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stSbszQGhLcYV8GyTg0tdazE4ye.jpg" group-title="Filmes: Animacao / Infantil",10000 Anos Depois - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas 2 - A Aventura de Patch em Londres - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdaIKUSO2CuYDmGpLHioFzx5DDl.jpg" group-title="Filmes: Animacao / Infantil",101 Dálmatas 2 - A Aventura de Patch em Londres - 2003
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10x10: O Cativeiro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Filmes: Suspense",10x10: O Cativeiro - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="113 anos da górias do Real Madrid F.C" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title=" Filmes: Futebol Retrô",113 anos da górias do Real Madrid F.C
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Feet Deep (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg" group-title="Filmes: Suspense",12 Feet Deep (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Rodadas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k7qhrO57sVoBLrNo5HYoTp24sT.jpg" group-title="Filmes: Crimes",12 Rodadas (2009)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg" group-title="Filmes: Aventura",127 Horas (2010)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Câmeras - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm3VUPEducGgHg18wxYgj4R7OOh.jpg" group-title="Filmes: Terror",13 Câmeras - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Fantasmas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVcigGnXNtYQoBAhTWGAS9o03jc.jpg" group-title="Filmes: Terror",13 Fantasmas (2001)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="Filmes: Guerra",13 Horas: Os Soldados Secretos de Benghazi - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top 2022",13 Minutos de Tormenta (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/214680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1303 - Apartamento do Mal - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTANZaCUwG6prdRygximOdWKV6U.jpg" group-title="Filmes: Terror",1303 - Apartamento do Mal - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Top 2022",13: O Musical (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Top 2022",14 Cartas de Amor (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/240301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="14 Montanhas, 8 Mil Metros e 7 Meses (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg" group-title="Documentários",14 Montanhas, 8 Mil Metros e 7 Meses (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/193088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15 Minutos - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NpTxlHcMz5dV9LEBrCcDTegruq.jpg" group-title="Filmes: Acao",15 Minutos - 2001
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Filmes: Guerra",15 Minutos de Guerra - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="16 Quadras - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbWd6N4ORhDJxlMVO4vxRNEZtib.jpg" group-title="Filmes: Acao",16 Quadras - 2006
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="Filmes: Guerra",1917 (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="Filmes: 4K",1917 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1918 A Batalha de Kruty (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Filmes: Guerra",1918 A Batalha de Kruty (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/35959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Coelhos - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQH48Oyvy3M85BWxPywET6BjWMt.jpg" group-title="Filmes: Nacionais",2 Coelhos - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Filhos de Francisco - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpCUQTdwFB0O502RvqLPMxyol8f.jpg" group-title="Filmes: Nacionais",2 Filhos de Francisco - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisséia no Espaço - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66cLRuqg7dLXRgvgk427leeZhjd.jpg" group-title="Filmes: Ficcao Cientifica",2001: Uma Odisséia no Espaço - 1968
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Filmes: Acao",2019: O Ano da Extinção - 2009
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2035: Dimensão Proibida - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azN9cVZVAxDpNQFExcP7imLdXdr.jpg" group-title="Filmes: Terror",2035: Dimensão Proibida - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="Filmes: Ficcao Cientifica",2067 (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2101 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9lJNUWNvoInWAxs8KPnY5dyh0k.jpg" group-title="Filmes: Ficcao Cientifica",2101 - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Filmes: Acao",211 - O Grande Assalto - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="Filmes: Acao",22 Balas (2010)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Filmes: Acao",22 Milhas (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes: Suspense",22 Minutos - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas para o Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwhbcbG9N7yR9Wq5e0UZVAJqUy.jpg" group-title="Filmes: Romance",24 Horas para o Natal (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Corações - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13vkyx0RU8Pikdaow8Yjsb8J9aL.jpg" group-title="Filmes: Romance",3 Corações - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74j6S3VZYKT7e74ViBDqU3YeWdg.jpg" group-title="Filmes: Suspense",3 Pedidos - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbG7VEn5dZZQAjSNCPMAHzpf4GQ.jpg" group-title="Filmes: Terror",30 Dias de Noite - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites de Atividade Paranormal com a Filha dos Homens que Não Amavam as Mulheres - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2YtZ8HHVt0F7sHg8r7GwlSKmKW.jpg" group-title="Filmes: Comedia",30 Noites de Atividade Paranormal com a Filha dos Homens que Não Amavam as Mulheres - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGv19gokQvgC7jgjWqapIachnxU.jpg" group-title="Filmes: Guerra",300 - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas Para o Inferno - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTko6K3GUVtYvHGjd62MJ8hNy1K.jpg" group-title="Filmes: Acao",3000 Milhas Para o Inferno - 2001
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/17700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="Filmes: Acao",300: A Ascensão do Império (2014)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/133225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="31 - A Morte é a Única Saída (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHkIIkP4O0vUkSACcizOPZQIiF7.jpg" group-title="Filmes: Terror",31 - A Morte é a Única Saída (2016)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/231580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="36 Horas de Guerra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRUrER9xFIiLp2aMIJjCTEOU3VX.jpg" group-title="Filmes: Guerra",36 Horas de Guerra (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Top 2022",365 Dias Finais (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Top 2022",365 Dias: Hoje (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4/20 Massacre - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oxNw7rDbvQOdhT17dCWWsgLtOu.jpg" group-title="Filmes: Terror",4/20 Massacre - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="40 Dias e 40 Noites (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0EdiB7bnGswLrHpeyLHAZkhONx.jpg" group-title="Filmes: Romance",40 Dias e 40 Noites (2002)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/219426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="400 Contra 1: Uma História do Crime Organizado (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEUA5chjSbr8rTJprwiRO8Le1gT.jpg" group-title="Filmes: Acao",400 Contra 1: Uma História do Crime Organizado (2010)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="400 Dias - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGH9FWmvUZsbVi3qqxXsI4v6NRw.jpg" group-title="Filmes: Ficcao Cientifica",400 Dias - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Top 2022",45 do Segundo Tempo (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="Filmes: Acao",47 Ronins (2013)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="48 Horas - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgW4inpyJKv9KkUYEaaA6MFk0eY.jpg" group-title="Filmes: Acao",48 Horas - 1982
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="48 Horas, Parte 2 - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO4DyHX0vYkeUTuZpFStMTFbaI4.jpg" group-title="Filmes: Acao",48 Horas, Parte 2 - 1990
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="55 Passos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmfC0cY5qHEExkFGHJCqnzppulQ.jpg" group-title="Filmes: Suspense",55 Passos (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes: Acao",6 Balas - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Filmes: Acao",6 Dias - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="60 Minutos para Morrer - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5pJ8IoOanVAPBzKi3GiVnGlOld.jpg" group-title="Filmes: Terror",60 Minutos para Morrer - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Denúncias: as consequências do caso COVID-19 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3rPYzUYdBOccDvIxASFZBVaWUj.jpg" group-title="Documentários",7 Denúncias: as consequências do caso COVID-19 (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Desejos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZIeMWNciyHyhIqrLiZXJ4VgXHb.jpg" group-title="Filmes: Terror",7 Desejos - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Minutos na Escuridão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKky6k7xs1JZfeS2AtbBUhHkRze.jpg" group-title="Filmes: Terror",7 Minutos na Escuridão - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes: Top 2022",7 Mulheres e Um Mistério (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" group-title="Filmes: Crimes",7 Prisioneiros (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToxNOxfRZONNTSoKHIVWWqRNTR.jpg" group-title="Filmes: Romance",72 Horas (2010)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYT218ykdkD1XHtcbMNBnOnTb1X.jpg" group-title="Filmes: Acao",72 Horas Depois (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 - A Salvação - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ipPak83BsekBi2j1lIuoDc19qT.jpg" group-title="Filmes: Animacao / Infantil",9 - A Salvação - 2009
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Top 2022",9 Dias Acordado (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 Satra: A Lenda do Muay Thai (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQPKRpI34LtQ16WKhYKqh1dIbMK.jpg" group-title="Filmes: Animacao / Infantil",9 Satra: A Lenda do Muay Thai (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 ½ Semanas de Amor (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGD5GE2dmhZ13aZsj5oxCj5WKOL.jpg" group-title="Filmes: Romance",9 ½ Semanas de Amor (1986)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKAj8jKy3C32KUS6VOGBmpeThGE.jpg" group-title="Filmes: Lancamentos 2023",90 Minutos (2023)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/271367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="96 minutos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39FwN8IVp8y46KJ6VjA8oFY8e1o.jpg" group-title="Filmes: Suspense",96 minutos - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A 13ª Emenda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg" group-title="Documentários",A 13ª Emenda (2016)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/198182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asPv5M6bUn270EcUXUnEnC8CkB7.jpg" group-title="Filmes: Aventura",A 5ª Onda - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Abelha Maya: O Filme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smg2Uf596BuwztwQmb8lt2wAzDk.jpg" group-title="Filmes: Animacao / Infantil",A Abelha Maya: O Filme (2014)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Abelha Maya: O Filme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smg2Uf596BuwztwQmb8lt2wAzDk.jpg" group-title="Filmes: Animacao / Infantil",A Abelha Maya: O Filme (2014)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya e O Ovo Dourado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg" group-title="Filmes: Animacao / Infantil",A Abelhinha Maya e O Ovo Dourado (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OuCrhu0VktCJQbSeuXvWa1o5jw.jpg" group-title="Filmes: Romance",A Acompanhante - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arma Perfeita - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HvX8tXLu58y0qrfzVdFI3lryTe.jpg" group-title="Filmes: Acao",A Arma Perfeita - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arqueira - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="Filmes: Acao",A Arqueira - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte da Paixão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kPtzxEyikQEE2wuA1klSsJdLV9.jpg" group-title="Filmes: Romance",A Arte da Paixão - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte do Assassinato Político (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JnvOoqkWUGucCeoxGOYurp7OC4.jpg" group-title="Documentários",A Arte do Assassinato Político (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Autópsia - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFiOQDl037qYICAn4RExrwbgCEF.jpg" group-title="Filmes: Suspense",A Autópsia - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Avó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg" group-title="Filmes: Top 2022",A Avó (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá Tem Que Morrer - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmDrfr7RN786XOFMP00ZDxFyUAI.jpg" group-title="Filmes: Suspense",A Babá Tem Que Morrer - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá: O Chamado das Sombras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg" group-title="Filmes: Top 2022",A Babá: O Chamado das Sombras (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg" group-title="Filmes: Animacao / Infantil",A Bailarina (2016)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Balada do Pistoleiro - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnnbMcHuytlxlof4nIjcCQ9UuUX.jpg" group-title="Filmes: Acao",A Balada do Pistoleiro - 1995
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="Filmes: Romance",A Barraca do Beijo - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="Filmes: Romance",A Barraca do Beijo 2 - 2020
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg" group-title="Filmes: Romance",A Barraca do Beijo 3 (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021) - 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg" group-title="Filmes: 4K",A Barraca do Beijo 3 (2021) - 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha das Ardenas - A Última Ofensiva de Hitler - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg" group-title="Filmes: Guerra",A Batalha das Ardenas - A Última Ofensiva de Hitler - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Filmes: Ficcao Cientifica",A Batalha de Riddick (2004)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/229427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Filmes: Acao",A Batalha de Riddick - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" group-title="Filmes: Ficcao Cientifica",A Batalha do Planeta dos Macacos (1973)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" group-title="Filmes: Classicos do Cinema",A Batalha do Planeta dos Macacos - 1973
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Filmes: Guerra",A Batalha Esquecida (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha na Montanha do Tigre - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4BKUU4daexpODw2m2TdXLiqp0o.jpg" group-title="Filmes: Guerra",A Batalha na Montanha do Tigre - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg" group-title="Filmes: Romance",A Batida Perfeita (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Animacao / Infantil",A Bela e a Fera (1991)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Romance",A Bela e a Fera (1991)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/214692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Top 2022",A Bolha (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/218995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bota de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx6OHPTnO5yQNdmgn7BDHDDBGSy.jpg" group-title="Filmes: Romance",A Bota de Natal (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Top 2022",A Bravura de Molly (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KBX0IW5l3TJqPm63xL9EtnR8m.jpg" group-title="Filmes: Terror",A Bruxa - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa da Casa ao Lado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TmNhEKfTg9Yya0trhMou1V6gUf.jpg" group-title="Filmes: Terror",A Bruxa da Casa ao Lado (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuRS2V8LHF1aKJUUQdVzyCm9afs.jpg" group-title="Filmes: Terror",A Bruxa de Blair - 1999
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair 2: O Livro das Sombras (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg" group-title="Filmes: Terror",A Bruxa de Blair 2: O Livro das Sombras (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg" group-title="Filmes: Aventura",A Bússola de Ouro (2007)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title=" Filmes: Religiosos",A Cabana (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana da Morte - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piSpzW9vjUejGDnLDkuhu8F0ate.jpg" group-title="Filmes: Terror",A Cabana da Morte - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana e Seus Segredos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wmrid7234ui9pBB8dZ0luOyIJv.jpg" group-title="Documentários",A Cabana e Seus Segredos (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTsZEzkvQZ1keK7V2EgbOurIlL9.jpg" group-title=" Filmes: Religiosos",A Caminho da Fé - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Lua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jalZ1oVkuuVXek0B2BKrFWMUv9.jpg" group-title="Filmes: Animacao / Infantil",A Caminho da Lua (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/131221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Top 2022",A Caminho do Verão (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Top 2022",A Camisa Mais Pesada do Mundo (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Canção de Xiara (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AekGsVNbZP8PvZPFPAYXlhpq65m.jpg" group-title="Documentários",A Canção de Xiara (2005)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Canção do Oceano - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6HmQtRPUOUrRLKdADyhYnezTv.jpg" group-title="Filmes: Animacao / Infantil",A Canção do Oceano - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cartada Final - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg" group-title="Filmes: Acao",A Cartada Final - 2001
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Amaldiçoada - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8EHNzMUO2mqNTM0h95YfTzGhDW.jpg" group-title="Filmes: Terror",A Casa Amaldiçoada - 1999
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Assombrada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l44fEd2NBJGhTTxZXv6ssVtQHqz.jpg" group-title="Filmes: Terror",A Casa Assombrada - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu - Um Cassino na Vizinhança - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wylaeJPrbD7o66cralfREtrfeZQ.jpg" group-title="Filmes: Comedia",A Casa Caiu - Um Cassino na Vizinhança - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CQ4OToNez8rhbyccpKNcaehEnk.jpg" group-title="Filmes: Terror",A Casa da Colina (1960)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYxZL1q8lZDXfrW84KCrMlVwWTj.jpg" group-title="Filmes: Suspense",A Casa da Colina - 1999
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg" group-title="Filmes: Top 2022",A Casa da Morte (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa de Cera - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrqBT8jsr7TiePFLRU0F8e9fcrC.jpg" group-title="Filmes: Terror",A Casa de Cera - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Lago - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niavrwLXMY09O5x3mrlE4OrMN6O.jpg" group-title="Filmes: Romance",A Casa do Lago - 2006
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Filmes: Terror",A Casa do Medo: Incidente em Ghostland - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRapSkoVtHeXDPfUP4883njzIJ3.jpg" group-title="Filmes: Terror",A Casa do Terror - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/109681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos 1000 Corpos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg" group-title="Filmes: Terror",A Casa dos 1000 Corpos - 2003
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos Sonhos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu6xrFYr6hFGhbF2PMkrSmiTt5o.jpg" group-title="Filmes: Suspense",A Casa dos Sonhos - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Maligna - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLt3TCcobHAcbdQ75hUm14W1HFb.jpg" group-title="Filmes: Terror",A Casa Maligna - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Monstro (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xupl38cCwm8BnQvCkec9znMPSEG.jpg" group-title="Filmes: Animacao / Infantil",A Casa Monstro (2006)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa no Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="Filmes: Top 2022",A Casa no Bayou (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/216809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa que Jack Construiu - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKG4YJJCoXJSZ89J52CNJwmVKS0.jpg" group-title="Filmes: Terror",A Casa que Jack Construiu - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Silenciosa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrjjNKUQikiPoS8tK0vSTtruig.jpg" group-title="Filmes: Terror",A Casa Silenciosa (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Sombria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg" group-title="Filmes: Terror",A Casa Sombria (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caverna - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwQ9XAjHzRqjVtFI98XAsHwBNx3.jpg" group-title="Filmes: Terror",A Caverna - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caverna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO2DM1VhAnCwkf9C7R0aBCQUXLH.jpg" group-title="Filmes: Aventura",A Caverna - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caverna: Perigo Subterrâneo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg" group-title="Filmes: Aventura",A Caverna: Perigo Subterrâneo - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="Filmes: Acao",A Caçada (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caçada - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlAWHVFbb0cxOxG4LsNWWa6tLR2.jpg" group-title="Filmes: Acao",A Caçada - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cela (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVBaXlJRv41Hkpsn3kAUXuT2aFK.jpg" group-title="Filmes: Terror",A Cela (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chave Mestra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ6mSV8onpQqYhP77Mszk2UIKhZ.jpg" group-title="Filmes: Terror",A Chave Mestra - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chave Mágica (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVuxIueKF9cSH0lGudC0H1Kdh1Y.jpg" group-title="Filmes: Animacao / Infantil",A Chave Mágica (1995)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg" group-title="Filmes: Terror",A Chorona (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg" group-title="Filmes: Terror",A Chorona (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cidade dos Amaldiçoados - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8lcLtm2kws6wfCI72FP4n3K3bz.jpg" group-title="Filmes: Terror",A Cidade dos Amaldiçoados - 1995
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cilada - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4UenMPPa05COVGaOW5J7wfUUfS.jpg" group-title="Filmes: Acao",A Cilada - 2000
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cinco Passos de Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s8lWdnMLKhWIGXuenty7QvXL4N.jpg" group-title="Filmes: Romance",A Cinco Passos de Você (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cisterna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLkySPFIHVIeM0PKFcIc6zBpAJH.jpg" group-title="Filmes: Suspense",A Cisterna (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Top 2022",A Civil (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Coisa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg" group-title="Filmes: Terror",A Coisa (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colheita da Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koUqIe8qSZHaRGTyE6Jgfy1lSXX.jpg" group-title=" Filmes: Religiosos",A Colheita da Fé (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colheita do Mal - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7QvpkDYGnHyiWrJjGIxfYoa5FV.jpg" group-title="Filmes: Terror",A Colheita do Mal - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Filmes: Terror",A Colina Escarlate - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg" group-title="Filmes: Top 2022",A Colmeia (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes: Acao",A Colônia - 1997
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/1266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acc3skjs4TGxF6G7VxG3WvVvbRr.jpg" group-title="Filmes: Terror",A Colônia - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conquista da Honra - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk93n9lLFsb1dn3KEBLkuFIDGGm.jpg" group-title="Filmes: Guerra",A Conquista da Honra - 2006
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="Filmes: Ficcao Cientifica",A Conquista do Planeta dos Macacos (1972)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="Filmes: Ficcao Cientifica",A Conquista do Planeta dos Macacos (1972)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conspiração Antivacina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jioI4Sybfg0mkotOrisxnjLd6HT.jpg" group-title="Filmes: Top 2022",A Conspiração Antivacina (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conspiração da Vaca: O Segredo da Sustentabilidade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rn3jsTgqQWPQRDof3eHT3wd500.jpg" group-title="Documentários",A Conspiração da Vaca: O Segredo da Sustentabilidade (2014)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/198183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="Filmes: Terror",A Cor Que Caiu do Espaço - 2020
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/142367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnBPFZ9DJO20ZbvNq0VavgskHA.jpg" group-title="Filmes: Romance",A Corrente do Bem - 2000
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Mal (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHInDlrFkqwe1X3fZC7o0LE8Y85.jpg" group-title="Filmes: Terror",A Corrente do Mal (2008)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cozinheira Curiosa: Receita Assassina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg" group-title="Filmes: Top 2022",A Cozinheira Curiosa: Receita Assassina (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criada - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB1Y9NmR9hAVRTAUqstpTrMvKuU.jpg" group-title="Filmes: Suspense",A Criada - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criança Zombie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOGd9M2bxx6yxpvfZ6p9pYD13W.jpg" group-title="Filmes: Terror",A Criança Zombie (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criatura da Destruição (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XujfUiyhNxPG48cQHvJnkMnqSw.jpg" group-title="Filmes: Terror",A Criatura da Destruição (2001)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Criatura do Cemitério - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTba2c5bRMzAxmLEE8qyNq3jUvG.jpg" group-title="Filmes: Terror",A Criatura do Cemitério - 1990
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criatura Sombria - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9Zyv8WO36xcSbLqAkBfKK4qlYU.jpg" group-title="Filmes: Terror",A Criatura Sombria - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa é das Estrelas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg" group-title="Filmes: Romance",A Culpa é das Estrelas - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa é do Cabral - 5 Anos de Zoeira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAO7vCKIPbnb8al23Gr1rhNaedN.jpg" group-title="Filmes: Top 2022",A Culpa é do Cabral - 5 Anos de Zoeira
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEuhU1Ty1glOGLxj7uUgbm2n0Ym.jpg" group-title="Filmes: Suspense",A Cura - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/64009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Câmara do Medo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trtIbNNY72gR1S8Ds2pPppdQ92y.jpg" group-title="Filmes: Ficcao Cientifica",A Câmara do Medo - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/74793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama do Espelho: O Ritual das Trevas - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9kTsSbkBBFYMFuqZZux70fyzne.jpg" group-title="Filmes: Terror",A Dama do Espelho: O Ritual das Trevas - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnBl7huZPEPsxD2ZmqZqRBI3efr.jpg" group-title="Filmes: Romance",A Dama e o Vagabundo - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama E O Vagabundo 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BBhQumi9j9TngO9wxy9SJa3iUW.jpg" group-title="Filmes: 4K",A Dama E O Vagabundo 4K [HDR]
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama na  Água - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAVhbyJYiJbMZe4UVuBEf93GXyi.jpg" group-title="Filmes: Suspense",A Dama na  Água - 2006
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Descoberta - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgLyPfWHkmt8v8ulz04NL2FFHQ4.jpg" group-title="Filmes: Romance",A Descoberta - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Deusa da Vingança - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWFo72g7YIcc5ADZT9b6LzP6T6K.jpg" group-title="Filmes: Terror",A Deusa da Vingança - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="Filmes: Faroeste",A Difícil Vingança - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="Filmes: Acao",A Divisão (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Top 2022",A Dupla Explosiva (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva - 1974" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvPrMC9eseWVtCkYIQbWnv9cr90.jpg" group-title="Filmes: Classicos do Cinema",A Dupla Explosiva - 1974
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Encruzilhada - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Sj1i6M6sIWDp3WPsObfKw3zltJ.jpg" group-title="Filmes: Musical",A Encruzilhada - 1986
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Entidade - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTaCFSTQ29LKqLXJU75owdir04h.jpg" group-title="Filmes: Terror",A Entidade - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Entidade 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg" group-title="Filmes: Terror",A Entidade 2 - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Epidemia - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjxdIDla7z1vNjXyUaBcV7yRzcc.jpg" group-title="Filmes: Suspense",A Epidemia - 2010
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Epidemia Zumbi - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dW0V1HIqruwJGo91dRqqAODZK1.jpg" group-title="Filmes: Terror",A Epidemia Zumbi - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg" group-title="Filmes: Animacao / Infantil",A Era do Gelo (2002)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg" group-title="Filmes: Animacao / Infantil",A Era do Gelo 2 (2006)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg" group-title="Filmes: Animacao / Infantil",A Era do Gelo 3 (2009)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg" group-title="Filmes: Animacao / Infantil",A Era do Gelo 4 (2012)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Top 2022",A Era do Gelo: As Aventuras de Buck (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: O Big Bang (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg" group-title="Filmes: Animacao / Infantil",A Era do Gelo: O Big Bang (2016)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escala - Amizade em Segundo Lugar - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kudgA66DV7q66eAyC9h6PVIiAPj.jpg" group-title="Filmes: Romance",A Escala - Amizade em Segundo Lugar - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escalada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg" group-title="Filmes: Romance",A Escalada (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Top 2022",A Escola do Bem e do Mal (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolhida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI66jbf6HgyrRZxtjGR9JPtX4br.jpg" group-title="Filmes: Terror",A Escolhida (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/149208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espada do Imortal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjFObrOXLc4kOMktboywpsJZFTp.jpg" group-title="Filmes: Acao",A Espada do Imortal - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espada Era a Lei (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5rtXHSx4sXJKMJsLR7OUjryCHl.jpg" group-title="Filmes: Animacao / Infantil",A Espada Era a Lei (1963)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Top 2022",A Espera de Liz (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espinha do Diabo - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKHHsu1awdIUHq6OlkMoxEPNylB.jpg" group-title="Filmes: Terror",A Espinha do Diabo - 2001
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espiã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufIV7job8TNhl5pcX8D8wAwEXb8.jpg" group-title="Filmes: Suspense",A Espiã (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/126229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Filmes: Suspense",A Espiã Vermelha - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Top 2022",A Estação da Alegria (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/257935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estrada 47 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DfdAhXIzxgGEUnGiThqhqX7yGz.jpg" group-title="Filmes: Guerra",A Estrada 47 - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estrada Eterna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csag6UMfxp0vjpYj5rhkzS8O8TO.jpg" group-title="Filmes: Guerra",A Estrada Eterna - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Experiência - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRssQeAvrXVYoCkgfQounfUQ1y1.jpg" group-title="Filmes: Terror",A Experiência - 1995
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Experiência 4: O Despertar - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6liMsPS8l0P10gtkLcpC128Cdm.jpg" group-title="Filmes: Terror",A Experiência 4: O Despertar - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Experiência II: A Mutação - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg" group-title="Filmes: Terror",A Experiência II: A Mutação - 1998
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Experiência III - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH7pQTCwenRToalvPAreFjdHDmG.jpg" group-title="Filmes: Terror",A Experiência III - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTaxC0ZiJGPA8D1yeWxYE7JBoHG.jpg" group-title="Filmes: 4K",A Extraordinária Garota Chamada Estrela 4K [HDR]
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fabulosa Aventura da Sharpay - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwZe91BYGQLVhQ1opbKwRf1hQV5.jpg" group-title="Filmes: Musical",A Fabulosa Aventura da Sharpay - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face do Mal - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koI6ZCE7WGiJjpf6j532CEnRjRK.jpg" group-title="Filmes: Terror",A Face do Mal - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="Filmes: Faroeste",A Face Oculta - 1961
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Addams (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDCIHb6BJ27PhdAz36JWc4chKlb.jpg" group-title="Filmes: Animacao / Infantil",A Família Addams (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Addams 2: Pé na Estrada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig0RMUyjiAw7hdCRsXYnOCKSucg.jpg" group-title="Filmes: Animacao / Infantil",A Família Addams 2: Pé na Estrada (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/193576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família da Noiva - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvIgkHV0PC7Dcdyiy3zfRunxz5E.jpg" group-title="Filmes: Romance",A Família da Noiva - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Mitchell e a Revolta das Máquinas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1p10mLm1uM1jqR7RlzB0SalD00.jpg" group-title="Filmes: Animacao / Infantil",A Família Mitchell e a Revolta das Máquinas (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/157276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="Filmes: Aventura",A Família Noel (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Top 2022",A Família Noel 2 (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Top 2022",A Família Perfeita (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/231581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fantástica Fábrica de Chocolate (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg" group-title="Filmes: Aventura",A Fantástica Fábrica de Chocolate (2005)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/137683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fantástica Fábrica de Chocolate - 1971" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noanwChjqswpEz5FTaqdbztfSsB.jpg" group-title="Filmes: Classicos do Cinema",A Fantástica Fábrica de Chocolate - 1971
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/137711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Febre - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uH5IvPWzzJ21rVRAW3WD5MFYTWT.jpg" group-title="Filmes: Nacionais",A Febre - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Felicidade é de Matar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKNOa8a6MEbo2sQoTQFBVJYi0zd.jpg" group-title="Filmes: Top 2022",A Felicidade é de Matar (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewZDnY33pLLsVJOsEQHYyibzc9H.jpg" group-title="Filmes: Ficcao Cientifica",A Fera (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lySW4nkzn7durlfx47yFHxJ6921.jpg" group-title="Filmes: Suspense",A Fera (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Filmes: Suspense",A Fera (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Top 2022",A Fera (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera Assassina (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5avBNbdYltaspuTXR5DRlg5gib.jpg" group-title="Filmes: Terror",A Fera Assassina (2006)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w9NT9bbc9gwDixZciFDFc5EPo3.jpg" group-title="Filmes: Guerra",A Fera da Guerra - 1988
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Top 2022",A Fera do Mar (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Chefe - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ZwrTG9U0mjxFTh1cBFTuKCo74.jpg" group-title="Filmes: Romance",A Filha do Chefe - 2003
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do General (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3776EX62C9kz0OIGmb9dcrwQVX.jpg" group-title="Filmes: Suspense",A Filha do General (1999)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Meu Melhor Amigo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg" group-title="Filmes: Romance",A Filha do Meu Melhor Amigo - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Pastor - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTIh3BbYaBQtcRatOBzKCJPso6g.jpg" group-title=" Filmes: Religiosos",A Filha do Pastor - 2010
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Top 2022",A Filha do Rei (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha dos Trapalhões - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK3k94RSkW7u1walQlTxP16G5Tj.jpg" group-title="Classicos Trapalhões",A Filha dos Trapalhões - 1984
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Top 2022",A Floresta Do Escalpe (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Forca 2 - Segundo Ato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Se1buPgxxMF5iZ4tIK8AzT5td.jpg" group-title="Filmes: Terror",A Forca 2 - Segundo Ato - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDUXu0cO2u4ZhNvk6MZtbK5lkTx.jpg" group-title="Filmes: Acao",A Fortaleza (1992)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYi00SLc8v92h5i4MoluCvIwLG1.jpg" group-title="Filmes: Crimes",A Fortaleza (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Força do Amor - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5KwnUE8QhEzsAjIywnGj7JHp1L.jpg" group-title="Filmes: Classicos do Cinema",A Força do Amor - 1983
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Força Sinistra (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlqgqF7ftahZV1XZXAipXrAnjbt.jpg" group-title="Filmes: Terror",A Força Sinistra (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Filmes: Romance",A Fotografia (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" group-title="Filmes: Terror",A Freira - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg" group-title="Filmes: 4K",A Freira 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eByIA9G8dinaMJRexKbjmqJF8nF.jpg" group-title="Filmes: Acao",A Fuga (1994)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga das Galinhas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vV98bLdct9iLN6oVcPzCjj5YPT.jpg" group-title="Filmes: Animacao / Infantil",A Fuga das Galinhas (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta dos Macacos (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZt5dYtbIZ03apuexPHvjrOI6vI.jpg" group-title="Filmes: Classicos do Cinema",A Fuga do Planeta dos Macacos (1971)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta Terra (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0bYdXu4L9hdKpU6NzBWeVpSXKQ.jpg" group-title="Filmes: Animacao / Infantil",A Fuga do Planeta Terra (2012)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fúria de Simuroc - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHzPPG1GGpl1HVXoNnZO2L9u6tl.jpg" group-title="Filmes: Terror",A Fúria de Simuroc - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fúria do Justiceiro - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJo74ujV0Yj07q4ilU4ojl1fJKO.jpg" group-title="Filmes: Acao",A Fúria do Justiceiro - 1991
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Galinha Turuleca (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf3LFFa8BSJvQnPyZhCHmKUpptX.jpg" group-title="Filmes: Animacao / Infantil",A Galinha Turuleca (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/252175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gangue - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR6rang5RjOFjCYc1K497cY9Rlo.jpg" group-title="Filmes: Crimes",A Gangue - 2021
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/180467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gangue - Uma Noite de Terror (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxDoeVZBWVqaDpJ6NDh7SGPQvBK.jpg" group-title="Filmes: Suspense",A Gangue - Uma Noite de Terror (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/206064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Top 2022",A Garota da Foto (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="Filmes: Romance",A Garota Invisível (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gente Se Vê Ontem - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="Filmes: Ficcao Cientifica",A Gente Se Vê Ontem - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Top 2022",A Gestora (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/252176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Invasão do Balão Bomba (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ETu00IumFstWEtgGleB9zWwsme.jpg" group-title="Documentários",A Grande Invasão do Balão Bomba (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Praga - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNCuIN7hF5LCNUcf30ZRyBe8cZ.jpg" group-title="Filmes: Terror",A Grande Praga - 2008
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gripe - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5RJvivnXItnJOFP3fJfuu8wt8M.jpg" group-title="Filmes: Acao",A Gripe - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gruta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg" group-title="Filmes: Terror",A Gruta (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/133445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Agosto - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2UIrdlq6eaydKui6otwT3jvvb.jpg" group-title="Filmes: Guerra",A Guerra de Agosto - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Hart - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hePkUbOc3d0uV6Nt576Hvs9m8kK.jpg" group-title="Filmes: Guerra",A Guerra de Hart - 2002
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Amanhã (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg" group-title="Filmes: Acao",A Guerra do Amanhã (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gêmea do Mal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVraarjuYRDdLczaPKtIWbwpfjy.jpg" group-title="Filmes: Suspense",A Gêmea do Mal (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Heroína em Cape Cod (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2gBAM2fGZEkzl9aBhI8VG5FPTE.jpg" group-title="Documentários",A Heroína em Cape Cod (2015)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Historia de Mané Garrinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg" group-title=" Filmes: Futebol Retrô",A Historia de Mané Garrinha
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História do Penta - Seleção Brasileira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNPKBpxvlm1Qzojxmiu29IHZzt1.jpg" group-title=" Filmes: Futebol Retrô",A História do Penta - Seleção Brasileira
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História sem Fim (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yldq3wFMJMllB65gWwrKnqWkvSJ.jpg" group-title="Filmes: Animacao / Infantil",A História sem Fim (1984)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História Sem Fim II (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gr9StH9DWJe7Nc69sdzDFNlgOH.jpg" group-title="Filmes: Animacao / Infantil",A História Sem Fim II (1990)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A História Sem Fim III (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nL86twXPheTeKz2k4hNyn22xlN1.jpg" group-title="Filmes: Animacao / Infantil",A História Sem Fim III (1994)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora Da Sua Morte - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qukqQBC1N2KTakalFPxoKf2SycP.jpg" group-title="Filmes: Terror",A Hora Da Sua Morte - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora da Virada - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l0Q1lAf4aV3h1LJQ00EpxVQefr.jpg" group-title="Filmes: Comedia",A Hora da Virada - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Descarrego (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg" group-title="Filmes: Terror",A Hora do Descarrego (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Suspense",A Hora do Desespero (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/241492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Top 2022",A Hora do Desespero (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/240022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FRvJEZFB2eNtYKJlopC5LI3i6O.jpg" group-title="Filmes: Terror",A Hora do Espanto (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FRvJEZFB2eNtYKJlopC5LI3i6O.jpg" group-title="Filmes: Terror",A Hora do Espanto (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNYnZDZoqsJCUvxpd0H9fx5RESt.jpg" group-title="Filmes: Terror",A Hora do Espanto 2 (2013)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobisomem / Bala de Prata - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWF1TvbVzvKDSWee3AvYmXFWmu8.jpg" group-title="Filmes: Terror",A Hora do Lobisomem / Bala de Prata - 1985
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldWIvavK0LA15aC2vAcqj4c7FPX.jpg" group-title="Filmes: Suspense",A Hora do Lobo (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGtWD2V7xqRtrA2ImKmcHXJvq56.jpg" group-title="Filmes: Terror",A Hora do Pesadelo (2010)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXP80BTB8cVproeIAIsBusc2U8.jpg" group-title="Filmes: Terror",A Hora do Pesadelo - 1984
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2: A Vingança de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn0vsuhElx5Q3QZ8qlGkJ0aqKlJ.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4luZCBZ5qOWiwSPGkEdXCDoVvI.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - 1987
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anDq8ufiodjnNEZ0q5X3XCuCD1N.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos - 1988
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfRrbvlfMyDANSWaSG7KGiM9zr.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwpg0lkkzGKGxD1EqSCGUOpJVQh.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rango - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD9RBGXYp7F8JD17cVbrQp40V7m.jpg" group-title="Filmes: Comedia",A Hora do Rango - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="Filmes: Acao",A Hora do Rush - 1998
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="Filmes: Acao",A Hora do Rush 2 - 2001
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="Filmes: Acao",A Hora do Rush 3 - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Show (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHcqKQBO9XzBRlpcGcdSLjeOxeW.jpg" group-title="Filmes: Comedia",A Hora do Show (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora e a Vez de Augusto Matraga - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucq4Hhru9bcnK6oKtsqrPxTp235.jpg" group-title="Filmes: Nacionais",A Hora e a Vez de Augusto Matraga - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Identidade Bourne - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avo7RiDxp9mBPJAwQ8YOFVSIZEO.jpg" group-title="Filmes: Acao",A Identidade Bourne - 2002
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha" tvg-logo="https://www.californiafilmes.com.br/wp-content/uploads/2020/08/poster-vertical_a-ilha.jpg" group-title="Filmes: Acao",A Ilha
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/149568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmYwqH7avrYZ3AwAODtw5ZAyavW.jpg" group-title="Filmes: Ficcao Cientifica",A Ilha - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg" group-title="Filmes: Terror",A Ilha da Fantasia (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/73526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Garganta Cortada - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqKXHCPrqq1RqVtSaGnHwDYXjPd.jpg" group-title="Filmes: Aventura",A Ilha da Garganta Cortada - 1995
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Morte - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzCSLlvbvVXG1HzQEPYitHHNmnw.jpg" group-title="Filmes: Terror",A Ilha da Morte - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha do Mal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGC0yHG8HRBeMikVA6GQBs1ry6y.jpg" group-title="Filmes: Aventura",A Ilha do Mal - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Incrível História da Pera Gigante - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFfWd5TkLOLemoqf0tdO4kGz71Y.jpg" group-title="Filmes: Animacao / Infantil",A Incrível História da Pera Gigante - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU84OUm9c4R44Zx8U1YPbCzKqIo.jpg" group-title="Filmes: Romance",A Incrível História de Adaline (2015)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Inquilina - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngoNJf7cfOq4bxSlVEjaKfdfCyd.jpg" group-title="Filmes: Suspense",A Inquilina - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Intrometida - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzj9ZSleGgsKkY3q6sDDoAxjSu0.jpg" group-title="Filmes: Comedia",A Intrometida - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Intérprete (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw2F5SmPQHE6Myqc03ezlQDDnwR.jpg" group-title="Filmes: Suspense",A Intérprete (2005)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/208927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invasão - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1435kcxY7ZrV8ax4BFiOx0732j.jpg" group-title="Documentários",A Invasão - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invasão - Ocupação Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="Filmes: Top 2022",A Invasão - Ocupação Alienígena (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/237616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Inventora: À Procura de Sangue no Vale do Silício - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocittoEQCmUDVaNPWFON6zm0WJ4.jpg" group-title="Documentários",A Inventora: À Procura de Sangue no Vale do Silício - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invenção de Hugo Cabret - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJaIMHO88X5BWWnnirejsHtgQvF.jpg" group-title="Filmes: Aventura",A Invenção de Hugo Cabret - 2011
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invocação - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar7gJkwC8XrQtNJOtHC9GYg0bVh.jpg" group-title="Filmes: Terror",A Invocação - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invocação 2 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJj31N0AbI1fAkVvqynCawfLTUF.jpg" group-title="Filmes: Terror",A Invocação 2 - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Top 2022",A Ira de Deus (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/241816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Irmã do Noivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1MEh4nfjUwa6q4GoDA2Kz32OIH.jpg" group-title="Filmes: Comedia",A Irmã do Noivo (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Irmã Perturbada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnz42GhrSfXRl8SpyS5Vrnii4SV.jpg" group-title="Filmes: Terror",A Irmã Perturbada - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/13767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Janela Secreta - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ2XE9EQVixJVLfMUSF85E4TiaA.jpg" group-title="Filmes: Suspense",A Janela Secreta - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jangada (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6ctPx1aP7ilxAQS0J8aHDqImXz.jpg" group-title="Documentários",A Jangada (1973)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/242129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="Filmes: Top 2022",A Jaula (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jornada de Vivo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zkuUksWocdM8HKfmQGEZWuFuJT.jpg" group-title="Filmes: Animacao / Infantil",A Jornada de Vivo (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jornada Mágica de Emily (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg" group-title="Filmes: Ficcao Cientifica",A Jornada Mágica de Emily (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Justiceira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXJek3Z6aOpT3c0ssPEmtnZhxLq.jpg" group-title="Filmes: Acao",A Justiceira - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/177379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lagoa Azul (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JsrBPjD3vbQLj6TGx5m4Qv4gcO.jpg" group-title="Filmes: Romance",A Lagoa Azul (1980)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg" group-title="Filmes: Top 2022",A Lei (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Befana: O Início (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg" group-title="Filmes: Top 2022",A Lenda da Befana: O Início (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Ilha do Pó - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58VBMUJmXUix5nWSE7uXhTBxsx6.jpg" group-title="Documentários",A Lenda da Ilha do Pó - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Ilha do Pó - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1RYFUYVLVs34nWIfIUIwnS3l4u.jpg" group-title="Documentários",A Lenda da Ilha do Pó - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Passagem Secreta - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes: Ficcao Cientifica",A Lenda da Passagem Secreta - 2010
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Passagem Secreta - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes: Ficcao Cientifica",A Lenda da Passagem Secreta - 2010
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Beowulf (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVjkoLfiR8fScXQAS7nMiu6RxH.jpg" group-title="Filmes: Aventura",A Lenda de Beowulf (2007)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg" group-title="Filmes: Terror",A Lenda de Candyman (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Golem - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgiclBTEH86P3IoURr9En7vdv2M.jpg" group-title="Filmes: Terror",A Lenda de Golem - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Top 2022",A Lenda de Lantern’s Lane (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Oz (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5lqfdWj4vR82lDn2BJdT8b2hyf.jpg" group-title="Filmes: Animacao / Infantil",A Lenda de Oz (2014)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Tarzan - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="Filmes: Aventura",A Lenda de Tarzan - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill Hickok - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Filmes: Faroeste",A Lenda de Wild Bill Hickok - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Top 2022",A Lenda do Cavaleiro Negro (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg" group-title="Filmes: Top 2022",A Lenda do Cavaleiro Verde (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A lenda do diamante - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyxUcPJzV4wqiTNhKrZzs9F1C8o.jpg" group-title="Filmes: Aventura",A lenda do diamante - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Guerreiro do Fogo - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAX4l6i8Z3r1Em3FNB3QlVDLdIo.jpg" group-title="Filmes: Guerra",A Lenda do Guerreiro do Fogo - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7taNfesbTgQ7lQmz1MVJ096dTWb.jpg" group-title="Filmes: Acao",A Lenda do Mestre Chinês (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/218901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Pato Sol (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efFenszsONkgeqBU0rjG9jA6g6x.jpg" group-title="Filmes: Animacao / Infantil",A Lenda do Pato Sol (2016)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edGjzfMPCD6A7PBR8PyREZSU7r0.jpg" group-title="Filmes: Aventura",A Lenda do Rei Macaco - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco 3: Reino das Mulheres - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h83KpNYgbTmRMTfUqO0LUi3n8BD.jpg" group-title="Filmes: Aventura",A Lenda do Rei Macaco 3: Reino das Mulheres - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco: A Volta do Herói - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/544c6rdDBdu08vxPtdBaXw9maOw.jpg" group-title="Filmes: Animacao / Infantil",A Lenda do Rei Macaco: A Volta do Herói - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Submundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onOk5LgVWH8fnu2bsdT25kiqTyo.jpg" group-title="Documentários",A Lenda do Submundo (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Tesouro Perdido (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TAQBqvokRt2qHEgi7ipeX1Bif9.jpg" group-title="Filmes: Aventura",A Lenda do Tesouro Perdido (2004)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Tesouro Perdido: Livro dos Segredos - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uieqgufMTYPIq5Zcs5rfJ0b1eMb.jpg" group-title="Filmes: Aventura",A Lenda do Tesouro Perdido: Livro dos Segredos - 2007
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Zorro - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG28HziPyltTCpmMBLHmgGBbtRr.jpg" group-title="Filmes: Aventura",A Lenda do Zorro - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda dos 108 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swhS5FSx24h8YWYH4hoOUlj70Dk.jpg" group-title="Filmes: Acao",A Lenda dos 108 - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda dos Guardiões - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqgbCigd5ApYIZKv8Gvw5XpZWIO.jpg" group-title="Filmes: Animacao / Infantil",A Lenda dos Guardiões - 2010
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda Negra - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKb2dV58hrRWRPUaZJ5I6C3Zoq.jpg" group-title="Filmes: Terror",A Lenda Negra - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Liga de Monstros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg" group-title="Filmes: Top 2022",A Liga de Monstros (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/203818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Liga Extraordinária - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg" group-title="Filmes: Acao",A Liga Extraordinária - 2003
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ligação (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pytXGwLsP07ngaFJM94Md3Q9SIl.jpg" group-title="Filmes: Suspense",A Ligação (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lista de Assassinatos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AXzOkcdlAgVqtA7wUyxm4dwxGq.jpg" group-title="Filmes: Top 2022",A Lista de Assassinatos (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lista de Schindler - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg" group-title="Filmes: Guerra",A Lista de Schindler - 1993
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lição de Moremi - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ItXRjWFsx2HU1LyRu8FROCcxQS.jpg" group-title="Filmes: Suspense",A Lição de Moremi - 2021
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/157277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Longa Caminhada de Billy Lynn - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdBDL8l2ZMHqIUVlwTn7Exg6qJ.jpg" group-title="Filmes: Guerra",A Longa Caminhada de Billy Lynn - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Loteria: O Sonho Mexicano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lR45LDhpjaBdk1JgRnuRXficWnC.jpg" group-title="Filmes: Top 2022",A Loteria: O Sonho Mexicano (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/267798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lua dos Amantes - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGWoDwThERPEN47XXbB4zkgnjH1.jpg" group-title="Filmes: Suspense",A Lua dos Amantes - 1994
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="Filmes: Top 2022",A Luta de uma Vida (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luta pela Esperança - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bpr1OSSUkBhpMxuI9isDpYuetz.jpg" group-title="Filmes: Romance",A Luta pela Esperança - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="Filmes: Top 2022",A Luz do Demônio (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luz Entre Oceanos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V2Kkmt75V8U4KsWTBmSc5z63yS.jpg" group-title="Filmes: Romance",A Luz Entre Oceanos - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="Filmes: Top 2022",A Madrasta (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maior História de Todos os Tempos - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCrp4hm4JnWKPzdJtGACKMA6cys.jpg" group-title=" Filmes: Religiosos",A Maior História de Todos os Tempos - 1965
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mala e os Errantes - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgQlsW25abkrlIvPiCTHBL2UYu2.jpg" group-title="Filmes: Romance",A Mala e os Errantes - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg" group-title="Filmes: Top 2022",A Maldição (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Bela Adormecida - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg" group-title="Filmes: Terror",A Maldição da Bela Adormecida - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa do Lago - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paYn2J2lcrMwkYK6Uqq7KHTUxc2.jpg" group-title="Filmes: Terror",A Maldição da Casa do Lago - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa Winchester - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg" group-title="Filmes: Suspense",A Maldição da Casa Winchester - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Chorona (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYNaKWraoWvAwLWukxQksz2NlFa.jpg" group-title="Filmes: Suspense",A Maldição da Chorona (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Flor Dourada (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Oxq3N1Z20rpKIA6ddXIVaGrtB.jpg" group-title="Filmes: Acao",A Maldição da Flor Dourada (2006)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Freira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZprxLjhvt58FcEPNMA3Ef0XuG2.jpg" group-title="Filmes: Terror",A Maldição da Freira - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Sereia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cjgA1jdZXfDhLx7mdfNW22Eua2.jpg" group-title="Filmes: Terror",A Maldição da Sereia - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="Filmes: Top 2022",A Maldição de Bridge Hollow (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Chucky - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLHcsBemdliseJUteA6IuX24op0.jpg" group-title="Filmes: Terror",A Maldição de Chucky - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Isabelle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j45giQ0qy2rnzPuVDfP13QYIydg.jpg" group-title="Filmes: Terror",A Maldição de Isabelle (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Rose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="Filmes: Top 2022",A Maldição de Rose (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Sharon Tate - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6HBnMsznUcAZuGIdAAwlGxfdZF.jpg" group-title="Filmes: Terror",A Maldição de Sharon Tate - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Valburga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBPCankcTQci3ZYxnuzkfPtZ2Qr.jpg" group-title="Filmes: Terror",A Maldição de Valburga (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/257936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Boneco Robert - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA435Cf8C3Mu9Gjqfs4IZPnSNQ.jpg" group-title="Filmes: Terror",A Maldição do Boneco Robert - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Espelho - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ws3ZQ8hCTUwFf6FtSUcksIoo69.jpg" group-title="Filmes: Terror",A Maldição do Espelho - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Poço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOBYC7p4SDGpoF8ENsM8VYX2NOu.jpg" group-title="Filmes: Terror",A Maldição do Poço (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="Filmes: Lancamentos 2023",A Maldição do Quarto 203 (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição dos Esquecidos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LSwj9bxaNCPVIBShpgwzTZNalt.jpg" group-title="Filmes: Terror",A Maldição dos Esquecidos - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição: Despertar dos Mortos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg" group-title="Filmes: Top 2022",A Maldição: Despertar dos Mortos (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/267799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mansão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4Nva627Xd5KDwUbeX4ilfzFWit.jpg" group-title="Filmes: Terror",A Mansão (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca da Corrupção (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gURIzutUWsQSed0jKodbRoeVVaR.jpg" group-title="Filmes: Crimes",A Marca da Corrupção (1987)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca do Demônio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysxJaqSEdWXNBYYvIcE5uLFGkDI.jpg" group-title="Filmes: Terror",A Marca do Demônio (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca Negra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mmd9L8hWbnYQlRbxmnmNswEVYW.jpg" group-title="Filmes: Suspense",A Marca Negra - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mata Negra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26JmomubdEYyNMqtZ5jz67lcPyW.jpg" group-title="Filmes: Terror",A Mata Negra - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="Filmes: Top 2022",A Matriarca (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Matéria Noturna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg" group-title="Filmes: Top 2022",A Matéria Noturna (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/237617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="Filmes: Top 2022",A Megera Domada (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Leão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6uKlTEi00KG3TdRNeuHONHiZi.jpg" group-title="Filmes: Aventura",A Menina e o Leão - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Porquinho (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99VFNWidqSTJWamzBOJflFzeh2I.jpg" group-title="Filmes: Animacao / Infantil",A Menina e o Porquinho (1973)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menina que Acredita em Milagres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="Filmes: Top 2022",A Menina que Acredita em Milagres (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menina Que Matou os Pais - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rARhJwdW2cAeh8tgdc7WZqs2nZ1.jpg" group-title="Filmes: Crimes",A Menina Que Matou os Pais - 2021
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/180452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menininha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmvE4dceUUo6hHC2v533M3k2Vs.jpg" group-title="Filmes: Terror",A Menininha (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/137131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mexicana - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp81OzJEQb0OHrrcQPvGJajAKTr.jpg" group-title="Filmes: Romance",A Mexicana - 2001
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Minha Garota para Sempre - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg" group-title="Filmes: Romance",A Minha Garota para Sempre - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="Filmes: Faroeste",A Morte anda a Cavalo - 1967
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte do Incrível Hulk - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJ1OQMuVbmpqqFHTRbFENdkbj1n.jpg" group-title="Filmes: Aventura",A Morte do Incrível Hulk - 1991
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte do Superman - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Filmes: Acao",A Morte do Superman - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="Filmes: Suspense",A Morte Salvou Minha Vida (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte te dá Parabéns - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg" group-title="Filmes: Terror",A Morte te dá Parabéns - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Moça da Limpeza - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44afwxQiJb2qwy0EHE8dVyif3dL.jpg" group-title="Filmes: Terror",A Moça da Limpeza - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mula 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" group-title="Filmes: 4K",A Mula 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g167H1JgOLAVx7YgHctBIq5kHeI.jpg" group-title="Filmes: Terror",A Mulher de Preto - 2012
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto 2: Anjo da Morte - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGIZGAwgpMcYXrAZfX8QCfcFMiv.jpg" group-title="Filmes: Terror",A Mulher de Preto 2: Anjo da Morte - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher Mais Assassinada do Mundo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZDuCGdw4Nq059aXHpovA6ZdjUo.jpg" group-title="Filmes: Suspense",A Mulher Mais Assassinada do Mundo - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher na Janela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BasMP1hUZtDx0khdbHBkVZhKjJ.jpg" group-title="Filmes: Crimes",A Mulher na Janela (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163852.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="Filmes: Top 2022",A Mulher Rei (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="Filmes: Ficcao Cientifica",A Máquina De Lembranças - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="Filmes: Top 2022",A Máquina Infernal (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcL5wrC07KdaUlkLJisaRAJ4J0M.jpg" group-title="Filmes: Aventura",A Máscara de Ferro - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg" group-title="Filmes: Aventura",A Máscara de Ferro - 2021
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máscara do Zorro - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkHYspXHYZHdrkXxtgb7hXZUg2I.jpg" group-title="Filmes: Aventura",A Máscara do Zorro - 1998
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/64069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Mãe Errada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp95wf7lL8j7kIrHkJW6SrtAD9p.jpg" group-title="Filmes: Suspense",A Mãe Errada - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Filmes: Aventura",A Múmia (1999)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Filmes: Aventura",A Múmia - 1999
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Filmes: Aventura",A Múmia - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Filmes: Acao",A Múmia - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão (2008)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão (2008)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3TcImkrjRRlLNC7KndvV82iI74.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão - 2008
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite Amarela - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/assm6VvcEDNvjGlDD0E65IAIHxk.jpg" group-title="Filmes: Nacionais",A Noite Amarela - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/6877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite da Realeza - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9h28RvNMLdLWD5pFuXYwiVv9Xh.jpg" group-title="Filmes: Romance",A Noite da Realeza - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite Devorou o Mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d135KvTklwzfU2As1wkTB7EZI.jpg" group-title="Filmes: Terror",A Noite Devorou o Mundo (2018)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/247192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite Devorou o Mundo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d135KvTklwzfU2As1wkTB7EZI.jpg" group-title="Filmes: Terror",A Noite Devorou o Mundo - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noite nos Persegue - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="Filmes: Acao",A Noite nos Persegue - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noiva Cadáver - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg" group-title="Filmes: Romance",A Noiva Cadáver - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noiva de Chucky - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhVKlNWNduGgPwI89I35CWtvIsn.jpg" group-title="Filmes: Terror",A Noiva de Chucky - 1998
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nona Vida de Louis Drax - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34UHgM8LPxdTi28RP95zELPD24z.jpg" group-title="Filmes: Suspense",A Nona Vida de Louis Drax - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nossa Bandeira Jamais Será Vermelha - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7G4kxqdtsrKgjXEp21KQEugY4X.jpg" group-title="Filmes: Nacionais",A Nossa Bandeira Jamais Será Vermelha - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Superstar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMsDcIk6UOOi2cwW17SrbKUuURb.jpg" group-title="Filmes: Romance",A Nova Cinderela: Superstar (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Fúria do Dragão - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg" group-title="Filmes: Classicos do Cinema",A Nova Fúria do Dragão - 1976
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Onda do Imperador (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg" group-title="Filmes: Animacao / Infantil",A Nova Onda do Imperador (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Novata (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgdsGk8Oo7bwhVBtg43pM3hbM5.jpg" group-title="Filmes: Top 2022",A Novata (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/265196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noviça Rebelde (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anNfNOIQJygypWWFiQQnSXuqsba.jpg" group-title="Filmes: Classicos do Cinema",A Noviça Rebelde (1965)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nuvem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IPRsxWrO4IRWsJyL7xgeBlS0wD.jpg" group-title="Filmes: Terror",A Nuvem (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nuvem Rosa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMebkU27UYVoPg1FA12uHp6ilkM.jpg" group-title="Filmes: Ficcao Cientifica",A Nuvem Rosa (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Odisseia dos Tontos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd27JV1FJ7bHX5kStuw0JISMShQ.jpg" group-title="Filmes: Aventura",A Odisseia dos Tontos - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A odisséia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzi6oNfHtkmXIsFrHFTp7zwOork.jpg" group-title="Filmes: Aventura",A odisséia (1997)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Oitava Cláusula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tc8eMFAX2SDC1TRu987qFQy8Cl.jpg" group-title="Filmes: Top 2022",A Oitava Cláusula (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/229533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Oitava Noite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a11TdGOWqASvbeMs7q0a1YLa5K.jpg" group-title="Filmes: Suspense",A Oitava Noite (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Oitava Página (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF4qGhBGn8ECgsrWnBKqawuLpOG.jpg" group-title="Filmes: Suspense",A Oitava Página (2011)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Onda dos Sonhos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaYfzQWvrJ89ji1j47p2WlvxhxX.jpg" group-title="Filmes: Aventura",A Onda dos Sonhos (2002)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Onda Perfeita - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIX6tXNPftlOGPQswq5Gge5Gv1f.jpg" group-title="Filmes: Romance",A Onda Perfeita - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Origem - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="Filmes: Ficcao Cientifica",A Origem - 2010
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Origem dos Guardiões (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexDkVYcoJMP9YguYw3ej1Xud3U.jpg" group-title="Filmes: Animacao / Infantil",A Origem dos Guardiões (2012)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Face - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLBlcdtP2XvfN0cytMmSy0yrRt.jpg" group-title="Filmes: Acao",A Outra Face - 1997
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Filha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/namdEEjsOYc3L3YkGpVo4UfNpIA.jpg" group-title="Filmes: Suspense",A Outra Filha - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/167608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Mãe - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euFKwcZBWOjXRfyT6cvxtBzTEpv.jpg" group-title="Filmes: Suspense",A Outra Mãe - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/6135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Paixão de Cristo - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg" group-title=" Filmes: Religiosos",A Paixão de Cristo - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg" group-title="Filmes: Animacao / Infantil",A Pequena Sereia (1989)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rf3Oor7P1HyHYvce2OrMi19h1s.jpg" group-title="Filmes: Aventura",A Pequena Sereia - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia II: O Retorno para o Mar (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMRyt4mMKRJhiW62yvznQeKNJd4.jpg" group-title="Filmes: Animacao / Infantil",A Pequena Sereia II: O Retorno para o Mar (2000)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Porta ao Lado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Afw9DcdGLNsMHal2GkvJviLjdm.jpg" group-title="Filmes: Top 2022",A Porta ao Lado (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Porteira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg" group-title="Filmes: Acao",A Porteira (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Deborah Logan (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg" group-title="Filmes: Terror",A Possessão de Deborah Logan (2014)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Mary - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsi6vxxKR7xg8ANjaqDBkiWp4No.jpg" group-title="Filmes: Terror",A Possessão de Mary - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/54068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Praia - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U86SSZ8Txnr4NtzJSXxoVj01dR.jpg" group-title="Filmes: Aventura",A Praia - 2000
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Presença (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w06CakAbJi8Im5L12MM6DHmrHPS.jpg" group-title="Filmes: Ficcao Cientifica",A Presença (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Presença (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLHF1FezbFzI8JjCGrQ8QynajUj.jpg" group-title="Filmes: Ficcao Cientifica",A Presença (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/166682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Prima Sofia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qvXL9mN7EfVUfwUKpAE6bdg4ka.jpg" group-title="Filmes: Comedia",A Prima Sofia (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Primeira Noite de Crime - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" group-title="Filmes: Ficcao Cientifica",A Primeira Noite de Crime - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/73525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Primeira-Dama do Estado Islâmico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg" group-title="Filmes: Top 2022",A Primeira-Dama do Estado Islâmico (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg" group-title="Filmes: Top 2022",A Princesa (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Acao",A Princesa da Yakuza (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Top 2022",A Princesa da Yakuza (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSDndWH1GeFkCl9UgDDSmd0nmM4.jpg" group-title="Filmes: Romance",A Princesa e a Plebeia - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/9061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg" group-title="Filmes: Romance",A Princesa e a Plebeia: Nova Aventura (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa e o Sapo - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg" group-title="Filmes: Animacao / Infantil",A Princesa e o Sapo - 2009
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/167164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada - O Reino da Música - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WU5ORvayBF1Cep3FYyo17KYGDG.jpg" group-title="Filmes: Animacao / Infantil",A Princesa Encantada - O Reino da Música - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada: O Casamento Real (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VnFR68Yto8p78c7y5rW4eaExhR.jpg" group-title="Filmes: Animacao / Infantil",A Princesa Encantada: O Casamento Real (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões - 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFIv5EDwRjSt80H4Mkd3bMVsx1b.jpg" group-title="Classicos Trapalhões",A Princesa Xuxa e os Trapalhões - 1989
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesinha (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZZPfGiiuCRx6tIbY6tESpbRmuE.jpg" group-title="Filmes: Drama",A Princesinha (1995)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Professora do Jardim de Infância - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewxLFRI40ysuWxdyLlKUhgtcRqb.jpg" group-title="Filmes: Suspense",A Professora do Jardim de Infância - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Filmes: Top 2022",A Profissional (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Proposta - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3AKdgueYypcflGdFvo0XyoZvIK.jpg" group-title="Filmes: Acao",A Proposta - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pé Ele Não Vai Longe - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5M8LjtjPamwSkbp3SWye8Xb1dkz.jpg" group-title="Filmes: Comedia",A Pé Ele Não Vai Longe - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Qualquer Custo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg" group-title="Filmes: Faroeste",A Qualquer Custo - 2016
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda (2022)" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThhjAv6Y9BKKrJyczESuQQwW7MSBJbWuWtUiN3e5MgEv5op-ZF" group-title="Filmes: Top 2022",A Queda (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A queda da Terra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg" group-title="Filmes: Acao",A queda da Terra - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda! As Últimas Horas de Hitler - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8woFd0ljnO2rmg46wdoFPcPmPu.jpg" group-title="Filmes: Guerra",A Queda! As Últimas Horas de Hitler - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ratinha Valente (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0ZJb39B4c0nRALLuzgoGuevUOW.jpg" group-title="Filmes: Animacao / Infantil",A Ratinha Valente (1982)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/265215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ratinha Valente 2 - O Segredo Do Ratinho (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zyzVwzWCGbD1Zh2wqRjJXA0Jl7.jpg" group-title="Filmes: Animacao / Infantil",A Ratinha Valente 2 - O Segredo Do Ratinho (1998)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/265216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rebelião - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="Filmes: Ficcao Cientifica",A Rebelião - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="Filmes: Top 2022",A Ressurreição de Jesus (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição do Anticristo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7959EFCHkR8xBF7a9Swv8l6Zixw.jpg" group-title="Filmes: Terror",A Ressurreição do Anticristo - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Revolução dos Games (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOAu6vIAQad94uc1IU4kHC52DXm.jpg" group-title="Documentários",A Revolução dos Games (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rocha - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFPh6GQMQROAe6y1KQuL9f0TFRX.jpg" group-title="Filmes: Acao",A Rocha - 1996
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rosa Azul de Novalis - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBzmfJXFhG5gxQWFfGrAKvt46M6.jpg" group-title="Documentários",A Rosa Azul de Novalis - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/149565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rosa Venenosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="Filmes: Suspense",A Rosa Venenosa (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rota de Colisão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajmid0QIZ38ZDcsZEe2VqVUonsn.jpg" group-title="Filmes: Suspense",A Rota de Colisão - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sabiá Sabiazinha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg" group-title="Filmes: Animacao / Infantil",A Sabiá Sabiazinha (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/193090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="Filmes: Acao",A Saga de um Herói (1993)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Salvação - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="Filmes: Faroeste",A Salvação - 2014
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/14306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sedução do Mal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xquTtgZo5SkF63GI2XWuHuK6u78.jpg" group-title="Filmes: Terror",A Sedução do Mal - 2013
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Senha: Swordfish (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFgB7Zi6la12z8bjgdlqOe6kdAC.jpg" group-title="Filmes: Acao",A Senha: Swordfish (2001)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sentinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="Filmes: Suspense",A Sentinela (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sereia - Lago Dos Mortos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg" group-title="Filmes: Terror",A Sereia - Lago Dos Mortos - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Serpente Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg" group-title="Filmes: Animacao / Infantil",A Serpente Verde (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/193091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sociedade Secreta de Souptown - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvdgCz74A8rqOYk6TU6JrXR38RO.jpg" group-title="Filmes: Aventura",A Sociedade Secreta de Souptown - 2015
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sogra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tII9VsurXwuz5L1xczH09XAwng3.jpg" group-title="Filmes: Romance",A Sogra - 2005
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/170868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Soma de Todos os Medos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34u0sGVtrhxmAGR8j32xFrxwlNX.jpg" group-title="Filmes: Acao",A Soma de Todos os Medos (2002)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/53515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sombra de Stalin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtzri2oD8C5h36nBvOJN9SAXqlA.jpg" group-title="Filmes: Suspense",A Sombra de Stalin (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sombra de um Revolver (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0B331VlMnCmTrsLDQhtfEe8286.jpg" group-title="Filmes: Faroeste",A Sombra de um Revolver (1965)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sombra e a Escuridão - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQIxgAeOyltdrSNVGVhimGjX2hL.jpg" group-title="Filmes: Aventura",A Sombra e a Escuridão - 1996
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sonata Maldita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2Dq3UKNViKk7FlwuAiD1mTIKZv.jpg" group-title="Filmes: Terror",A Sonata Maldita (2021)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Super Máquina 2000 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fneLowMD1mTRT6JhIPPJbxSlSW.jpg" group-title="Filmes: Acao",A Super Máquina 2000 (1991)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDwtFD4jQPh2YLmfzPQC4kDBdX.jpg" group-title="Filmes: Acao",A Supremacia Bourne - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="Filmes: Top 2022",A Suspeita (2022)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Convergente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAYhVm44sofmqaEGuQl4j5RL62S.jpg" group-title="Filmes: Ficcao Cientifica",A Série Divergente: Convergente (2016)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Insurgente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0i7VfG5HAQT49ZKZNcef2booIq.jpg" group-title="Filmes: Ficcao Cientifica",A Série Divergente: Insurgente (2015)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Titia Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17jx2QfSofvhmzQKC8kai14hINc.jpg" group-title="Filmes: Romance",A Titia Noel (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4IeczvPNloj3IrDm2NjALKMV01.jpg" group-title="Filmes: Acao",A Torre Negra (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Terra e o Sangue - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" group-title="Filmes: Acao",A Terra e o Sangue - 2020
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179439.mp4
-
 #EXTM3U url-tvg="http://grade-de-FILMES | 4K.xml"
 ############## FILMES | 4K ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | 4K" group-title="
@@ -3896,6 +2816,142 @@ http://srv.cldplay.net:80/movie/820584rohs/67864336899/222484.mp4
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/251198.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes: Top 2022",7 Mulheres e Um Mistério (2022)
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/269542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="Filmes: Top 2022",100 Medos (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top 2022",13 Minutos de Tormenta (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/214680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Top 2022",13: O Musical (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Top 2022",14 Cartas de Amor (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/240301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Top 2022",365 Dias Finais (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Top 2022",365 Dias: Hoje (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Avó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg" group-title="Filmes: Top 2022",A Avó (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá: O Chamado das Sombras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg" group-title="Filmes: Top 2022",A Babá: O Chamado das Sombras (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Top 2022",A Caminho do Verão (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Top 2022",A Camisa Mais Pesada do Mundo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg" group-title="Filmes: Top 2022",A Casa da Morte (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa no Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg" group-title="Filmes: Top 2022",A Casa no Bayou (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/216809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Top 2022",A Civil (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conspiração Antivacina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jioI4Sybfg0mkotOrisxnjLd6HT.jpg" group-title="Filmes: Top 2022",A Conspiração Antivacina (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é do Cabral - 5 Anos de Zoeira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAO7vCKIPbnb8al23Gr1rhNaedN.jpg" group-title="Filmes: Top 2022",A Culpa é do Cabral - 5 Anos de Zoeira
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Top 2022",A Dupla Explosiva (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Top 2022",A Era do Gelo: As Aventuras de Buck (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Top 2022",A Escola do Bem e do Mal (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Top 2022",A Espera de Liz (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Top 2022",A Estação da Alegria (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/257935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/230973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Top 2022",A Família Noel 2 (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Felicidade é de Matar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKNOa8a6MEbo2sQoTQFBVJYi0zd.jpg" group-title="Filmes: Top 2022",A Felicidade é de Matar (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Top 2022",A Fera (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Top 2022",A Família Perfeita (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/231581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Top 2022",A Fera do Mar (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Top 2022",A Filha do Rei (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Top 2022",A Floresta Do Escalpe (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Top 2022",A Gestora (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/252176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Top 2022",A Hora do Desespero (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/240022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Top 2022",A Lenda de Lantern’s Lane (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Top 2022",A Lenda do Cavaleiro Negro (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Verde (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg" group-title="Filmes: Top 2022",A Lenda do Cavaleiro Verde (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Assassinatos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AXzOkcdlAgVqtA7wUyxm4dwxGq.jpg" group-title="Filmes: Top 2022",A Lista de Assassinatos (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga de Monstros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg" group-title="Filmes: Top 2022",A Liga de Monstros (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/203818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Loteria: O Sonho Mexicano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lR45LDhpjaBdk1JgRnuRXficWnC.jpg" group-title="Filmes: Top 2022",A Loteria: O Sonho Mexicano (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/267798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="Filmes: Top 2022",A Luz do Demônio (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="Filmes: Top 2022",A Madrasta (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg" group-title="Filmes: Top 2022",A Maldição (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="Filmes: Top 2022",A Mulher Rei (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="Filmes: Top 2022",A Máquina Infernal (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Novata (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgdsGk8Oo7bwhVBtg43pM3hbM5.jpg" group-title="Filmes: Top 2022",A Novata (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/265196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Cláusula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tc8eMFAX2SDC1TRu987qFQy8Cl.jpg" group-title="Filmes: Top 2022",A Oitava Cláusula (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/229533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Top 2022",A Princesa da Yakuza (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="Filmes: Top 2022",A Ressurreição de Jesus (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="Filmes: Top 2022",A Suspeita (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda (2022)" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThhjAv6Y9BKKrJyczESuQQwW7MSBJbWuWtUiN3e5MgEv5op-ZF" group-title="Filmes: Top 2022",A Queda (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Filmes: Top 2022",A Profissional (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg" group-title="Filmes: Top 2022",A Princesa (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira-Dama do Estado Islâmico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg" group-title="Filmes: Top 2022",A Primeira-Dama do Estado Islâmico (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Porta ao Lado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Afw9DcdGLNsMHal2GkvJviLjdm.jpg" group-title="Filmes: Top 2022",A Porta ao Lado (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="Filmes: Top 2022",A Matriarca (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matéria Noturna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg" group-title="Filmes: Top 2022",A Matéria Noturna (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/237617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="Filmes: Top 2022",A Megera Domada (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Rose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="Filmes: Top 2022",A Maldição de Rose (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="Filmes: Top 2022",A Luta de uma Vida (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg" group-title="Filmes: Top 2022",A Lei (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Befana: O Início (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg" group-title="Filmes: Top 2022",A Lenda da Befana: O Início (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="Filmes: Top 2022",A Jaula (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Top 2022",A Ira de Deus (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/241816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Top 2022",A Garota da Foto (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg" group-title="Filmes: Top 2022",A Colmeia (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Top 2022",A Bolha (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/218995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Top 2022",A Bravura de Molly (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Top 2022",9 Dias Acordado (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes: Top 2022",7 Mulheres e Um Mistério (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Top 2022",45 do Segundo Tempo (2022)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262450.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Top.xml"
 ############## Filmes: Top ################# 
@@ -3997,6 +3053,468 @@ http://srv.cldplay.net:80/movie/820584rohs/67864336899/265197.mp4
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/269545.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aguas Negras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgdmVCaMUAF97wN1oS1qgMQf8GM.jpg" group-title="Filmes: Top",Aguas Negras (2020)
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/178443.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Suspense.xml"
+############## Filmes: Suspense ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Suspense" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Autópsia - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFiOQDl037qYICAn4RExrwbgCEF.jpg" group-title="Filmes: Suspense",A Autópsia - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá Tem Que Morrer - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmDrfr7RN786XOFMP00ZDxFyUAI.jpg" group-title="Filmes: Suspense",A Babá Tem Que Morrer - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYxZL1q8lZDXfrW84KCrMlVwWTj.jpg" group-title="Filmes: Suspense",A Casa da Colina - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cisterna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLkySPFIHVIeM0PKFcIc6zBpAJH.jpg" group-title="Filmes: Suspense",A Cisterna (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criada - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB1Y9NmR9hAVRTAUqstpTrMvKuU.jpg" group-title="Filmes: Suspense",A Criada - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEuhU1Ty1glOGLxj7uUgbm2n0Ym.jpg" group-title="Filmes: Suspense",A Cura - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/64009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufIV7job8TNhl5pcX8D8wAwEXb8.jpg" group-title="Filmes: Suspense",A Espiã (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/126229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" group-title="Filmes: Suspense",A Espiã Vermelha - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lySW4nkzn7durlfx47yFHxJ6921.jpg" group-title="Filmes: Suspense",A Fera (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Filmes: Suspense",A Fera (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gêmea do Mal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVraarjuYRDdLczaPKtIWbwpfjy.jpg" group-title="Filmes: Suspense",A Gêmea do Mal (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Suspense",A Hora do Desespero (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/241492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Inquilina - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngoNJf7cfOq4bxSlVEjaKfdfCyd.jpg" group-title="Filmes: Suspense",A Inquilina - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Intérprete (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw2F5SmPQHE6Myqc03ezlQDDnwR.jpg" group-title="Filmes: Suspense",A Intérprete (2005)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/208927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Janela Secreta - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ2XE9EQVixJVLfMUSF85E4TiaA.jpg" group-title="Filmes: Suspense",A Janela Secreta - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ligação (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pytXGwLsP07ngaFJM94Md3Q9SIl.jpg" group-title="Filmes: Suspense",A Ligação (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lição de Moremi - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ItXRjWFsx2HU1LyRu8FROCcxQS.jpg" group-title="Filmes: Suspense",A Lição de Moremi - 2021
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/157277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lua dos Amantes - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGWoDwThERPEN47XXbB4zkgnjH1.jpg" group-title="Filmes: Suspense",A Lua dos Amantes - 1994
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa Winchester - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg" group-title="Filmes: Suspense",A Maldição da Casa Winchester - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Chorona (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYNaKWraoWvAwLWukxQksz2NlFa.jpg" group-title="Filmes: Suspense",A Maldição da Chorona (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marca Negra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mmd9L8hWbnYQlRbxmnmNswEVYW.jpg" group-title="Filmes: Suspense",A Marca Negra - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Mais Assassinada do Mundo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZDuCGdw4Nq059aXHpovA6ZdjUo.jpg" group-title="Filmes: Suspense",A Mulher Mais Assassinada do Mundo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mãe Errada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp95wf7lL8j7kIrHkJW6SrtAD9p.jpg" group-title="Filmes: Suspense",A Mãe Errada - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nona Vida de Louis Drax - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34UHgM8LPxdTi28RP95zELPD24z.jpg" group-title="Filmes: Suspense",A Nona Vida de Louis Drax - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Filha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/namdEEjsOYc3L3YkGpVo4UfNpIA.jpg" group-title="Filmes: Suspense",A Outra Filha - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/167608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Mãe - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euFKwcZBWOjXRfyT6cvxtBzTEpv.jpg" group-title="Filmes: Suspense",A Outra Mãe - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/6135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Professora do Jardim de Infância - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewxLFRI40ysuWxdyLlKUhgtcRqb.jpg" group-title="Filmes: Suspense",A Professora do Jardim de Infância - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rosa Venenosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="Filmes: Suspense",A Rosa Venenosa (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/139121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rota de Colisão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ajmid0QIZ38ZDcsZEe2VqVUonsn.jpg" group-title="Filmes: Suspense",A Rota de Colisão - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sentinela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="Filmes: Suspense",A Sentinela (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra de Stalin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtzri2oD8C5h36nBvOJN9SAXqlA.jpg" group-title="Filmes: Suspense",A Sombra de Stalin (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Noite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a11TdGOWqASvbeMs7q0a1YLa5K.jpg" group-title="Filmes: Suspense",A Oitava Noite (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Página (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF4qGhBGn8ECgsrWnBKqawuLpOG.jpg" group-title="Filmes: Suspense",A Oitava Página (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão de Cristo - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg" group-title=" Filmes: Religiosos",A Paixão de Cristo - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg" group-title="Filmes: Animacao / Infantil",A Pequena Sereia (1989)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="Filmes: Suspense",A Morte Salvou Minha Vida (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldWIvavK0LA15aC2vAcqj4c7FPX.jpg" group-title="Filmes: Suspense",A Hora do Lobo (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama na  Água - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAVhbyJYiJbMZe4UVuBEf93GXyi.jpg" group-title="Filmes: Suspense",A Dama na  Água - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa dos Sonhos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu6xrFYr6hFGhbF2PMkrSmiTt5o.jpg" group-title="Filmes: Suspense",A Casa dos Sonhos - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="96 minutos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39FwN8IVp8y46KJ6VjA8oFY8e1o.jpg" group-title="Filmes: Suspense",96 minutos - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="55 Passos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmfC0cY5qHEExkFGHJCqnzppulQ.jpg" group-title="Filmes: Suspense",55 Passos (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes: Suspense",22 Minutos - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74j6S3VZYKT7e74ViBDqU3YeWdg.jpg" group-title="Filmes: Suspense",3 Pedidos - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Feet Deep (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B4MLYYr5WTjQiJMbA8fCFF8M4O.jpg" group-title="Filmes: Suspense",12 Feet Deep (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10x10: O Cativeiro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Filmes: Suspense",10x10: O Cativeiro - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173979.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Aventura.xml"
+############## Filmes: Aventura ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Aventura" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg" group-title="Filmes: Aventura",A Bússola de Ouro (2007)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO2DM1VhAnCwkf9C7R0aBCQUXLH.jpg" group-title="Filmes: Aventura",A Caverna - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Garganta Cortada - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqKXHCPrqq1RqVtSaGnHwDYXjPd.jpg" group-title="Filmes: Aventura",A Ilha da Garganta Cortada - 1995
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha do Mal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGC0yHG8HRBeMikVA6GQBs1ry6y.jpg" group-title="Filmes: Aventura",A Ilha do Mal - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Beowulf (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVjkoLfiR8fScXQAS7nMiu6RxH.jpg" group-title="Filmes: Aventura",A Lenda de Beowulf (2007)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Tarzan - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="Filmes: Aventura",A Lenda de Tarzan - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A lenda do diamante - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyxUcPJzV4wqiTNhKrZzs9F1C8o.jpg" group-title="Filmes: Aventura",A lenda do diamante - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edGjzfMPCD6A7PBR8PyREZSU7r0.jpg" group-title="Filmes: Aventura",A Lenda do Rei Macaco - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Rei Macaco 3: Reino das Mulheres - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h83KpNYgbTmRMTfUqO0LUi3n8BD.jpg" group-title="Filmes: Aventura",A Lenda do Rei Macaco 3: Reino das Mulheres - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina e o Leão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6uKlTEi00KG3TdRNeuHONHiZi.jpg" group-title="Filmes: Aventura",A Menina e o Leão - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcL5wrC07KdaUlkLJisaRAJ4J0M.jpg" group-title="Filmes: Aventura",A Máscara de Ferro - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg" group-title="Filmes: Aventura",A Máscara de Ferro - 2021
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão (2008)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/222040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão (2008)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3TcImkrjRRlLNC7KndvV82iI74.jpg" group-title="Filmes: Aventura",A Múmia - Tumba do Imperador Dragão - 2008
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A odisséia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzi6oNfHtkmXIsFrHFTp7zwOork.jpg" group-title="Filmes: Aventura",A odisséia (1997)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/201974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rf3Oor7P1HyHYvce2OrMi19h1s.jpg" group-title="Filmes: Aventura",A Pequena Sereia - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Praia - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U86SSZ8Txnr4NtzJSXxoVj01dR.jpg" group-title="Filmes: Aventura",A Praia - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra e a Escuridão - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQIxgAeOyltdrSNVGVhimGjX2hL.jpg" group-title="Filmes: Aventura",A Sombra e a Escuridão - 1996
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sociedade Secreta de Souptown - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvdgCz74A8rqOYk6TU6JrXR38RO.jpg" group-title="Filmes: Aventura",A Sociedade Secreta de Souptown - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Onda dos Sonhos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaYfzQWvrJ89ji1j47p2WlvxhxX.jpg" group-title="Filmes: Aventura",A Onda dos Sonhos (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Filmes: Aventura",A Múmia (1999)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="Filmes: Aventura",A Múmia - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Filmes: Aventura",A Múmia - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Incrível Hulk - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJ1OQMuVbmpqqFHTRbFENdkbj1n.jpg" group-title="Filmes: Aventura",A Morte do Incrível Hulk - 1991
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Tesouro Perdido (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TAQBqvokRt2qHEgi7ipeX1Bif9.jpg" group-title="Filmes: Aventura",A Lenda do Tesouro Perdido (2004)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Tesouro Perdido: Livro dos Segredos - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uieqgufMTYPIq5Zcs5rfJ0b1eMb.jpg" group-title="Filmes: Aventura",A Lenda do Tesouro Perdido: Livro dos Segredos - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Zorro - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG28HziPyltTCpmMBLHmgGBbtRr.jpg" group-title="Filmes: Aventura",A Lenda do Zorro - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invenção de Hugo Cabret - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJaIMHO88X5BWWnnirejsHtgQvF.jpg" group-title="Filmes: Aventura",A Invenção de Hugo Cabret - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="Filmes: Aventura",A Família Noel (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna: Perigo Subterrâneo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg" group-title="Filmes: Aventura",A Caverna: Perigo Subterrâneo - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HoqPAq2HMUMwI0u4mpcBN4v9WJ.jpg" group-title="Filmes: Aventura",127 Horas (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Filmes: Aventura",10.000 A.C. - 2008
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162914.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Terror.xml"
+############## Filmes: Terror ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Terror" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Sereia - Lago Dos Mortos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg" group-title="Filmes: Terror",A Sereia - Lago Dos Mortos - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição do Anticristo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7959EFCHkR8xBF7a9Swv8l6Zixw.jpg" group-title="Filmes: Terror",A Ressurreição do Anticristo - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Deborah Logan (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg" group-title="Filmes: Terror",A Possessão de Deborah Logan (2014)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Possessão de Mary - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsi6vxxKR7xg8ANjaqDBkiWp4No.jpg" group-title="Filmes: Terror",A Possessão de Mary - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/54068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g167H1JgOLAVx7YgHctBIq5kHeI.jpg" group-title="Filmes: Terror",A Mulher de Preto - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher de Preto 2: Anjo da Morte - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGIZGAwgpMcYXrAZfX8QCfcFMiv.jpg" group-title="Filmes: Terror",A Mulher de Preto 2: Anjo da Morte - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Chucky - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLHcsBemdliseJUteA6IuX24op0.jpg" group-title="Filmes: Terror",A Maldição de Chucky - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Isabelle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j45giQ0qy2rnzPuVDfP13QYIydg.jpg" group-title="Filmes: Terror",A Maldição de Isabelle (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Freira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZprxLjhvt58FcEPNMA3Ef0XuG2.jpg" group-title="Filmes: Terror",A Maldição da Freira - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Sereia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cjgA1jdZXfDhLx7mdfNW22Eua2.jpg" group-title="Filmes: Terror",A Maldição da Sereia - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Bela Adormecida - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg" group-title="Filmes: Terror",A Maldição da Bela Adormecida - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa do Lago - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paYn2J2lcrMwkYK6Uqq7KHTUxc2.jpg" group-title="Filmes: Terror",A Maldição da Casa do Lago - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Morte - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzCSLlvbvVXG1HzQEPYitHHNmnw.jpg" group-title="Filmes: Terror",A Ilha da Morte - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora Da Sua Morte - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qukqQBC1N2KTakalFPxoKf2SycP.jpg" group-title="Filmes: Terror",A Hora Da Sua Morte - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEae3Y5gB7e8Z3LZWsMWZcrsf92.jpg" group-title="Filmes: Terror",A Ilha da Fantasia (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/73526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Força Sinistra (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlqgqF7ftahZV1XZXAipXrAnjbt.jpg" group-title="Filmes: Terror",A Força Sinistra (2000)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Freira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" group-title="Filmes: Terror",A Freira - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Forca 2 - Segundo Ato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Se1buPgxxMF5iZ4tIK8AzT5td.jpg" group-title="Filmes: Terror",A Forca 2 - Segundo Ato - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera Assassina (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5avBNbdYltaspuTXR5DRlg5gib.jpg" group-title="Filmes: Terror",A Fera Assassina (2006)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espinha do Diabo - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKHHsu1awdIUHq6OlkMoxEPNylB.jpg" group-title="Filmes: Terror",A Espinha do Diabo - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Entidade - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTaCFSTQ29LKqLXJU75owdir04h.jpg" group-title="Filmes: Terror",A Entidade - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Entidade 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg" group-title="Filmes: Terror",A Entidade 2 - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Epidemia Zumbi - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dW0V1HIqruwJGo91dRqqAODZK1.jpg" group-title="Filmes: Terror",A Epidemia Zumbi - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cela (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVBaXlJRv41Hkpsn3kAUXuT2aFK.jpg" group-title="Filmes: Terror",A Cela (2000)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chave Mestra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ6mSV8onpQqYhP77Mszk2UIKhZ.jpg" group-title="Filmes: Terror",A Chave Mestra - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Maligna - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLt3TCcobHAcbdQ75hUm14W1HFb.jpg" group-title="Filmes: Terror",A Casa Maligna - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Amaldiçoada - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8EHNzMUO2mqNTM0h95YfTzGhDW.jpg" group-title="Filmes: Terror",A Casa Amaldiçoada - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Assombrada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l44fEd2NBJGhTTxZXv6ssVtQHqz.jpg" group-title="Filmes: Terror",A Casa Assombrada - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CQ4OToNez8rhbyccpKNcaehEnk.jpg" group-title="Filmes: Terror",A Casa da Colina (1960)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/184267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana da Morte - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piSpzW9vjUejGDnLDkuhu8F0ate.jpg" group-title="Filmes: Terror",A Cabana da Morte - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KBX0IW5l3TJqPm63xL9EtnR8m.jpg" group-title="Filmes: Terror",A Bruxa - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa da Casa ao Lado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TmNhEKfTg9Yya0trhMou1V6gUf.jpg" group-title="Filmes: Terror",A Bruxa da Casa ao Lado (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/147808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuRS2V8LHF1aKJUUQdVzyCm9afs.jpg" group-title="Filmes: Terror",A Bruxa de Blair - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair 2: O Livro das Sombras (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg" group-title="Filmes: Terror",A Bruxa de Blair 2: O Livro das Sombras (2000)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos para Morrer - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5pJ8IoOanVAPBzKi3GiVnGlOld.jpg" group-title="Filmes: Terror",60 Minutos para Morrer - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4/20 Massacre - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oxNw7rDbvQOdhT17dCWWsgLtOu.jpg" group-title="Filmes: Terror",4/20 Massacre - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbG7VEn5dZZQAjSNCPMAHzpf4GQ.jpg" group-title="Filmes: Terror",30 Dias de Noite - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2035: Dimensão Proibida - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azN9cVZVAxDpNQFExcP7imLdXdr.jpg" group-title="Filmes: Terror",2035: Dimensão Proibida - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1303 - Apartamento do Mal - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTANZaCUwG6prdRygximOdWKV6U.jpg" group-title="Filmes: Terror",1303 - Apartamento do Mal - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Câmeras - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm3VUPEducGgHg18wxYgj4R7OOh.jpg" group-title="Filmes: Terror",13 Câmeras - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Fantasmas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVcigGnXNtYQoBAhTWGAS9o03jc.jpg" group-title="Filmes: Terror",13 Fantasmas (2001)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Desejos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZIeMWNciyHyhIqrLiZXJ4VgXHb.jpg" group-title="Filmes: Terror",7 Desejos - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Minutos na Escuridão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKky6k7xs1JZfeS2AtbBUhHkRze.jpg" group-title="Filmes: Terror",7 Minutos na Escuridão - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Cera - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrqBT8jsr7TiePFLRU0F8e9fcrC.jpg" group-title="Filmes: Terror",A Casa de Cera - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Filmes: Terror",A Casa do Medo: Incidente em Ghostland - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRapSkoVtHeXDPfUP4883njzIJ3.jpg" group-title="Filmes: Terror",A Casa do Terror - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/109681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa dos 1000 Corpos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg" group-title="Filmes: Terror",A Casa dos 1000 Corpos - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa que Jack Construiu - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKG4YJJCoXJSZ89J52CNJwmVKS0.jpg" group-title="Filmes: Terror",A Casa que Jack Construiu - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Silenciosa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrjjNKUQikiPoS8tK0vSTtruig.jpg" group-title="Filmes: Terror",A Casa Silenciosa (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Sombria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg" group-title="Filmes: Terror",A Casa Sombria (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/183566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwQ9XAjHzRqjVtFI98XAsHwBNx3.jpg" group-title="Filmes: Terror",A Caverna - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cidade dos Amaldiçoados - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8lcLtm2kws6wfCI72FP4n3K3bz.jpg" group-title="Filmes: Terror",A Cidade dos Amaldiçoados - 1995
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colheita do Mal - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7QvpkDYGnHyiWrJjGIxfYoa5FV.jpg" group-title="Filmes: Terror",A Colheita do Mal - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg" group-title="Filmes: Terror",A Colina Escarlate - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Coisa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg" group-title="Filmes: Terror",A Coisa (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg" group-title="Filmes: Terror",A Chorona (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg" group-title="Filmes: Terror",A Chorona (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/243068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="Filmes: Terror",A Cor Que Caiu do Espaço - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/142367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama do Espelho: O Ritual das Trevas - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9kTsSbkBBFYMFuqZZux70fyzne.jpg" group-title="Filmes: Terror",A Dama do Espelho: O Ritual das Trevas - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Praga - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNCuIN7hF5LCNUcf30ZRyBe8cZ.jpg" group-title="Filmes: Terror",A Grande Praga - 2008
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gruta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg" group-title="Filmes: Terror",A Gruta (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/133445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria de Simuroc - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHzPPG1GGpl1HVXoNnZO2L9u6tl.jpg" group-title="Filmes: Terror",A Fúria de Simuroc - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Descarrego (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg" group-title="Filmes: Terror",A Hora do Descarrego (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/156497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FRvJEZFB2eNtYKJlopC5LI3i6O.jpg" group-title="Filmes: Terror",A Hora do Espanto (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FRvJEZFB2eNtYKJlopC5LI3i6O.jpg" group-title="Filmes: Terror",A Hora do Espanto (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNYnZDZoqsJCUvxpd0H9fx5RESt.jpg" group-title="Filmes: Terror",A Hora do Espanto 2 (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobisomem / Bala de Prata - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWF1TvbVzvKDSWee3AvYmXFWmu8.jpg" group-title="Filmes: Terror",A Hora do Lobisomem / Bala de Prata - 1985
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGtWD2V7xqRtrA2ImKmcHXJvq56.jpg" group-title="Filmes: Terror",A Hora do Pesadelo (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/255167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXP80BTB8cVproeIAIsBusc2U8.jpg" group-title="Filmes: Terror",A Hora do Pesadelo - 1984
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2: A Vingança de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn0vsuhElx5Q3QZ8qlGkJ0aqKlJ.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4luZCBZ5qOWiwSPGkEdXCDoVvI.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos - 1987
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anDq8ufiodjnNEZ0q5X3XCuCD1N.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/273050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 4: O Mestre dos Sonhos - 1988
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfRrbvlfMyDANSWaSG7KGiM9zr.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwpg0lkkzGKGxD1EqSCGUOpJVQh.jpg" group-title="Filmes: Terror",A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Irmã Perturbada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnz42GhrSfXRl8SpyS5Vrnii4SV.jpg" group-title="Filmes: Terror",A Irmã Perturbada - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/13767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg" group-title="Filmes: Terror",A Lenda de Candyman (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Golem - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgiclBTEH86P3IoURr9En7vdv2M.jpg" group-title="Filmes: Terror",A Lenda de Golem - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Sharon Tate - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6HBnMsznUcAZuGIdAAwlGxfdZF.jpg" group-title="Filmes: Terror",A Maldição de Sharon Tate - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/2484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Valburga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBPCankcTQci3ZYxnuzkfPtZ2Qr.jpg" group-title="Filmes: Terror",A Maldição de Valburga (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/257936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Boneco Robert - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA435Cf8C3Mu9Gjqfs4IZPnSNQ.jpg" group-title="Filmes: Terror",A Maldição do Boneco Robert - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Espelho - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ws3ZQ8hCTUwFf6FtSUcksIoo69.jpg" group-title="Filmes: Terror",A Maldição do Espelho - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Poço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOBYC7p4SDGpoF8ENsM8VYX2NOu.jpg" group-title="Filmes: Terror",A Maldição do Poço (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte te dá Parabéns - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg" group-title="Filmes: Terror",A Morte te dá Parabéns - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Moça da Limpeza - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44afwxQiJb2qwy0EHE8dVyif3dL.jpg" group-title="Filmes: Terror",A Moça da Limpeza - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição dos Esquecidos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LSwj9bxaNCPVIBShpgwzTZNalt.jpg" group-title="Filmes: Terror",A Maldição dos Esquecidos - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/7614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marca do Demônio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysxJaqSEdWXNBYYvIcE5uLFGkDI.jpg" group-title="Filmes: Terror",A Marca do Demônio (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mata Negra - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26JmomubdEYyNMqtZ5jz67lcPyW.jpg" group-title="Filmes: Terror",A Mata Negra - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mansão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4Nva627Xd5KDwUbeX4ilfzFWit.jpg" group-title="Filmes: Terror",A Mansão (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Devorou o Mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d135KvTklwzfU2As1wkTB7EZI.jpg" group-title="Filmes: Terror",A Noite Devorou o Mundo (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/247192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Devorou o Mundo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d135KvTklwzfU2As1wkTB7EZI.jpg" group-title="Filmes: Terror",A Noite Devorou o Mundo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sedução do Mal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xquTtgZo5SkF63GI2XWuHuK6u78.jpg" group-title="Filmes: Terror",A Sedução do Mal - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176131.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Acao.xml"
+############## Filmes: Acao ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Acao" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NpTxlHcMz5dV9LEBrCcDTegruq.jpg" group-title="Filmes: Acao",15 Minutos - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="16 Quadras - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbWd6N4ORhDJxlMVO4vxRNEZtib.jpg" group-title="Filmes: Acao",16 Quadras - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o6VLpFWRyYkjQVSWJY4hWBTzrs.jpg" group-title="Filmes: Acao",2019: O Ano da Extinção - 2009
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58cFSEHxqSJcsyWN63vbSjA01vX.jpg" group-title="Filmes: Acao",211 - O Grande Assalto - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EkhsU6augJjLU83AiONvs3y97s.jpg" group-title="Filmes: Acao",22 Balas (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="Filmes: Acao",22 Milhas (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="Filmes: Acao",47 Ronins (2013)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="48 Horas - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgW4inpyJKv9KkUYEaaA6MFk0eY.jpg" group-title="Filmes: Acao",48 Horas - 1982
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="48 Horas, Parte 2 - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO4DyHX0vYkeUTuZpFStMTFbaI4.jpg" group-title="Filmes: Acao",48 Horas, Parte 2 - 1990
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes: Acao",6 Balas - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="Filmes: Acao",6 Dias - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYT218ykdkD1XHtcbMNBnOnTb1X.jpg" group-title="Filmes: Acao",72 Horas Depois (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arma Perfeita - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HvX8tXLu58y0qrfzVdFI3lryTe.jpg" group-title="Filmes: Acao",A Arma Perfeita - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arqueira - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="Filmes: Acao",A Arqueira - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Filmes: Acao",A Batalha de Riddick - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cartada Final - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg" group-title="Filmes: Acao",A Cartada Final - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caçada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="Filmes: Acao",A Caçada (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caçada - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlAWHVFbb0cxOxG4LsNWWa6tLR2.jpg" group-title="Filmes: Acao",A Caçada - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/164691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cilada - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4UenMPPa05COVGaOW5J7wfUUfS.jpg" group-title="Filmes: Acao",A Cilada - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes: Acao",A Colônia - 1997
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/1266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="Filmes: Acao",A Divisão (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espada do Imortal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjFObrOXLc4kOMktboywpsJZFTp.jpg" group-title="Filmes: Acao",A Espada do Imortal - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDUXu0cO2u4ZhNvk6MZtbK5lkTx.jpg" group-title="Filmes: Acao",A Fortaleza (1992)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eByIA9G8dinaMJRexKbjmqJF8nF.jpg" group-title="Filmes: Acao",A Fuga (1994)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gripe - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5RJvivnXItnJOFP3fJfuu8wt8M.jpg" group-title="Filmes: Acao",A Gripe - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha" tvg-logo="https://www.californiafilmes.com.br/wp-content/uploads/2020/08/poster-vertical_a-ilha.jpg" group-title="Filmes: Acao",A Ilha
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/149568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Justiceira - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXJek3Z6aOpT3c0ssPEmtnZhxLq.jpg" group-title="Filmes: Acao",A Justiceira - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/177379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7taNfesbTgQ7lQmz1MVJ096dTWb.jpg" group-title="Filmes: Acao",A Lenda do Mestre Chinês (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/218901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda dos 108 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swhS5FSx24h8YWYH4hoOUlj70Dk.jpg" group-title="Filmes: Acao",A Lenda dos 108 - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Superman - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Filmes: Acao",A Morte do Superman - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="Filmes: Acao",A Múmia - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Face - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLBlcdtP2XvfN0cytMmSy0yrRt.jpg" group-title="Filmes: Acao",A Outra Face - 1997
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Porteira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg" group-title="Filmes: Acao",A Porteira (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A queda da Terra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCaPFrbKnAjfcz9fUIoX0slelbk.jpg" group-title="Filmes: Acao",A queda da Terra - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rocha - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFPh6GQMQROAe6y1KQuL9f0TFRX.jpg" group-title="Filmes: Acao",A Rocha - 1996
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="Filmes: Acao",A Saga de um Herói (1993)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/181841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Senha: Swordfish (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFgB7Zi6la12z8bjgdlqOe6kdAC.jpg" group-title="Filmes: Acao",A Senha: Swordfish (2001)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/188680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Soma de Todos os Medos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34u0sGVtrhxmAGR8j32xFrxwlNX.jpg" group-title="Filmes: Acao",A Soma de Todos os Medos (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/53515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4IeczvPNloj3IrDm2NjALKMV01.jpg" group-title="Filmes: Acao",A Torre Negra (2017)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/245522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra e o Sangue - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" group-title="Filmes: Acao",A Terra e o Sangue - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Proposta - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3AKdgueYypcflGdFvo0XyoZvIK.jpg" group-title="Filmes: Acao",A Proposta - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Acao",A Princesa da Yakuza (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite nos Persegue - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="Filmes: Acao",A Noite nos Persegue - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga Extraordinária - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg" group-title="Filmes: Acao",A Liga Extraordinária - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="Filmes: Acao",A Hora do Rush - 1998
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="Filmes: Acao",A Hora do Rush 2 - 2001
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="Filmes: Acao",A Hora do Rush 3 - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Balada do Pistoleiro - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnnbMcHuytlxlof4nIjcCQ9UuUX.jpg" group-title="Filmes: Acao",A Balada do Pistoleiro - 1995
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Super Máquina 2000 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fneLowMD1mTRT6JhIPPJbxSlSW.jpg" group-title="Filmes: Acao",A Super Máquina 2000 (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDwtFD4jQPh2YLmfzPQC4kDBdX.jpg" group-title="Filmes: Acao",A Supremacia Bourne - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25165.mp4
 
 #EXTM3U url-tvg="http://grade-de-Ação Crime.xml"
 ############## Ação Crime ################# 
@@ -4329,6 +3847,202 @@ https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES | AÇÃO CINEMA",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Ficcao Cientifica.xml"
+############## Filmes: Ficcao Cientifica ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Ficcao Cientifica" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" group-title="Filmes: Ficcao Cientifica",A Batalha do Planeta dos Macacos (1973)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewZDnY33pLLsVJOsEQHYyibzc9H.jpg" group-title="Filmes: Ficcao Cientifica",A Fera (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gente Se Vê Ontem - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="Filmes: Ficcao Cientifica",A Gente Se Vê Ontem - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmYwqH7avrYZ3AwAODtw5ZAyavW.jpg" group-title="Filmes: Ficcao Cientifica",A Ilha - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/150307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Passagem Secreta - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes: Ficcao Cientifica",A Lenda da Passagem Secreta - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Passagem Secreta - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes: Ficcao Cientifica",A Lenda da Passagem Secreta - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nuvem Rosa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMebkU27UYVoPg1FA12uHp6ilkM.jpg" group-title="Filmes: Ficcao Cientifica",A Nuvem Rosa (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Odisseia dos Tontos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd27JV1FJ7bHX5kStuw0JISMShQ.jpg" group-title="Filmes: Aventura",A Odisseia dos Tontos - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Origem - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="Filmes: Ficcao Cientifica",A Origem - 2010
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Noite de Crime - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" group-title="Filmes: Ficcao Cientifica",A Primeira Noite de Crime - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/73525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Convergente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAYhVm44sofmqaEGuQl4j5RL62S.jpg" group-title="Filmes: Ficcao Cientifica",A Série Divergente: Convergente (2016)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Insurgente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0i7VfG5HAQT49ZKZNcef2booIq.jpg" group-title="Filmes: Ficcao Cientifica",A Série Divergente: Insurgente (2015)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rebelião - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="Filmes: Ficcao Cientifica",A Rebelião - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="Filmes: Ficcao Cientifica",A Máquina De Lembranças - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jornada Mágica de Emily (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg" group-title="Filmes: Ficcao Cientifica",A Jornada Mágica de Emily (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/199143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Câmara do Medo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trtIbNNY72gR1S8Ds2pPppdQ92y.jpg" group-title="Filmes: Ficcao Cientifica",A Câmara do Medo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/74793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="Filmes: Ficcao Cientifica",A Conquista do Planeta dos Macacos (1972)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="Filmes: Ficcao Cientifica",A Conquista do Planeta dos Macacos (1972)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="400 Dias - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGH9FWmvUZsbVi3qqxXsI4v6NRw.jpg" group-title="Filmes: Ficcao Cientifica",400 Dias - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="Filmes: Ficcao Cientifica",2067 (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2101 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9lJNUWNvoInWAxs8KPnY5dyh0k.jpg" group-title="Filmes: Ficcao Cientifica",2101 - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisséia no Espaço - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66cLRuqg7dLXRgvgk427leeZhjd.jpg" group-title="Filmes: Ficcao Cientifica",2001: Uma Odisséia no Espaço - 1968
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153909.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes: Romance.xml"
+############## Filmes: Romance ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Romance" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Titia Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17jx2QfSofvhmzQKC8kai14hINc.jpg" group-title="Filmes: Romance",A Titia Noel (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSDndWH1GeFkCl9UgDDSmd0nmM4.jpg" group-title="Filmes: Romance",A Princesa e a Plebeia - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/9061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg" group-title="Filmes: Romance",A Princesa e a Plebeia: Nova Aventura (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/143890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Onda Perfeita - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIX6tXNPftlOGPQswq5Gge5Gv1f.jpg" group-title="Filmes: Romance",A Onda Perfeita - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Superstar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMsDcIk6UOOi2cwW17SrbKUuURb.jpg" group-title="Filmes: Romance",A Nova Cinderela: Superstar (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva Cadáver - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg" group-title="Filmes: Romance",A Noiva Cadáver - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Minha Garota para Sempre - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg" group-title="Filmes: Romance",A Minha Garota para Sempre - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta pela Esperança - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bpr1OSSUkBhpMxuI9isDpYuetz.jpg" group-title="Filmes: Romance",A Luta pela Esperança - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="Filmes: Romance",A Garota Invisível (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Filmes: Romance",A Fotografia (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/195489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Chefe - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ZwrTG9U0mjxFTh1cBFTuKCo74.jpg" group-title="Filmes: Romance",A Filha do Chefe - 2003
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família da Noiva - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvIgkHV0PC7Dcdyiy3zfRunxz5E.jpg" group-title="Filmes: Romance",A Família da Noiva - 2005
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnBl7huZPEPsxD2ZmqZqRBI3efr.jpg" group-title="Filmes: Romance",A Dama e o Vagabundo - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é das Estrelas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg" group-title="Filmes: Romance",A Culpa é das Estrelas - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnBPFZ9DJO20ZbvNq0VavgskHA.jpg" group-title="Filmes: Romance",A Corrente do Bem - 2000
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Lago - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niavrwLXMY09O5x3mrlE4OrMN6O.jpg" group-title="Filmes: Romance",A Casa do Lago - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg" group-title="Filmes: Romance",A Batida Perfeita (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="40 Dias e 40 Noites (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0EdiB7bnGswLrHpeyLHAZkhONx.jpg" group-title="Filmes: Romance",40 Dias e 40 Noites (2002)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/219426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Corações - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13vkyx0RU8Pikdaow8Yjsb8J9aL.jpg" group-title="Filmes: Romance",3 Corações - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Dias para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg" group-title="Filmes: Romance",100 Dias para o Natal (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Eu Odeio em Você - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="Filmes: Romance",10 Coisas Que Eu Odeio em Você - 1999
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToxNOxfRZONNTSoKHIVWWqRNTR.jpg" group-title="Filmes: Romance",72 Horas (2010)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 ½ Semanas de Amor (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGD5GE2dmhZ13aZsj5oxCj5WKOL.jpg" group-title="Filmes: Romance",9 ½ Semanas de Amor (1986)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bota de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx6OHPTnO5yQNdmgn7BDHDDBGSy.jpg" group-title="Filmes: Romance",A Bota de Natal (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/221468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Romance",A Bela e a Fera (1991)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/214692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Meu Melhor Amigo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg" group-title="Filmes: Romance",A Filha do Meu Melhor Amigo - 2011
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz Entre Oceanos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V2Kkmt75V8U4KsWTBmSc5z63yS.jpg" group-title="Filmes: Romance",A Luz Entre Oceanos - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mala e os Errantes - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgQlsW25abkrlIvPiCTHBL2UYu2.jpg" group-title="Filmes: Romance",A Mala e os Errantes - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte da Paixão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kPtzxEyikQEE2wuA1klSsJdLV9.jpg" group-title="Filmes: Romance",A Arte da Paixão - 2013
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="Filmes: Romance",A Barraca do Beijo - 2018
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="Filmes: Romance",A Barraca do Beijo 2 - 2020
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg" group-title="Filmes: Romance",A Barraca do Beijo 3 (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OuCrhu0VktCJQbSeuXvWa1o5jw.jpg" group-title="Filmes: Romance",A Acompanhante - 2015
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24553.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Comedia.xml"
 ############## Filmes: Comedia ################# 
@@ -4830,6 +4544,16 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/133417.m3u8
 ############## Faroeste ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFaroeste" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="Faroeste",A Difícil Vingança - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="Faroeste",A Morte anda a Cavalo - 1967
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Salvação - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="Faroeste",A Salvação - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/14306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill Hickok - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Faroeste",A Lenda de Wild Bill Hickok - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="Faroeste",A Face Oculta - 1961
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="Faroeste",Django (1966)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/52665.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Django Livre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFOZFOdQFijudZrgX53mHeBI2Ff.jpg" group-title="Faroeste",Django Livre (2012)

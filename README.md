@@ -2014,34 +2014,20 @@ https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorot
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de uma Super Professora"tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="FILMES | ADOLECENTE CINEMA",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-24HRS ANIMES.xml"
-############## 24HRS ANIMES ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24HRS ANIMES" group-title="
+#EXTM3U url-tvg="http://grade-de-24HRS DESENHOS.xml"
+############## 24HRS DESENHOS ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24HRS DESENHOS" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL HEROES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DRAGON BALL HEROES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176131
-#EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176130
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176129
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176128
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PUNKY, A LEVADA DA BRECA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PUNKY, A LEVADA DA BRECA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176127
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALO DE FOGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVALO DE FOGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176126
-#EXTINF:-1 tvg-id="" tvg-name="[24H]  A GRANDE FAMILIA - O ÃLBUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H]  A GRANDE FAMILIA - O ÃLBUM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98643
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] 3 PALAVRINHAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97844
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A CASA DO MICKEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A CASA DO MICKEY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98621
 #EXTINF:-1 tvg-id="" tvg-name="[24H] A PANTERA COR DE ROSA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A PANTERA COR DE ROSA
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97827
 #EXTINF:-1 tvg-id="" tvg-name="[24H] A PEQUENA SEREIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A PEQUENA SEREIA
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98681
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DA MONICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A TURMA DA MONICA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98622
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176129
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176128
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALO DE FOGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVALO DE FOGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176126
 #EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A TURMA DO CHARLIE BROWN E SNOOPY
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98565
 #EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO PERNALONGA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A TURMA DO PERNALONGA
@@ -2060,24 +2046,155 @@ http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98571
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98572
 #EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AS MENINAS SUPERPODEROSAS
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98573
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AS VISÕES DA RAVEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] AS VISÕES DA RAVEN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98636
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BOB ESPONJA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98577
 #EXTINF:-1 tvg-id="" tvg-name="[24H] AVENTURAS DE TINTIM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AVENTURAS DE TINTIM
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98574
 #EXTINF:-1 tvg-id="" tvg-name="[24H] BEAVIS AND BUTT-HEAD LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BEAVIS AND BUTT-HEAD LEGENDADO
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98575
 #EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BEN 10
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98576
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN E HOLLY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BEN E HOLLY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97846
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEYBLADE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] BEYBLADE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98667
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BOB ESPONJA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98577
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BOB ZOOM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98623
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CASTELO RÁ-TIM-BUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CASTELO RÁ-TIM-BUM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98669
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVERNA DO DRAGÃO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97848
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CLARENCIO O OTIMISTA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CLARENCIO O OTIMISTA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98578
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CORAGEM, O CÃO COVARDE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORAGEM, O CÃO COVARDE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98668
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORRIDA MALUCA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97847
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES EM DESENHO ANIMADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CHAVES EM DESENHO ANIMADO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98670
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DENNIS: O PIMENTINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DENNIS: O PIMENTINHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98671
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DICK VIGARISTA E MUTTLEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DICK VIGARISTA E MUTTLEY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98580
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DORA, A AVENTUREIRA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DORA, A AVENTUREIRA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/106152
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DOUG FUNNIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DOUG FUNNIE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98581
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GASPARZINHO E SEUS AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] GASPARZINHO E SEUS AMIGOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98584
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98586
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN 2002" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN 2002
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98585
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JOHNNY BRAVO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JOHNNY BRAVO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98677
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JONNY QUEST" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JONNY QUEST
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98588
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO PRINCIPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO PRINCIPE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98594
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO URSO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98682
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA CHUVA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MANDA CHUVA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98589
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LILO E STITCH: A SÉRIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] LILO E STITCH: A SÉRIE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98678
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY E DONALD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY E DONALD
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98592
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY: AVENTURAS SOBRE RODAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY: AVENTURAS SOBRE RODAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98693
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MIRACULOUS AS AVENTURAS DE LADYBUG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MIRACULOUS AS AVENTURAS DE LADYBUG
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98593
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OPERAÇÃO BIG HERO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OPERAÇÃO BIG HERO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98595
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS FLINTSTONES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS FLINTSTONES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98679
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JETSONS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS JETSONS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98597
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS PADRINHOS MÁGICOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS PADRINHOS MÁGICOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98680
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PARADISE PD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PARADISE PD
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98598
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PICA-PAU" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PICA-PAU
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98599
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PINKY E O CÉREBRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PINKY E O CÉREBRO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98684
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POPEYE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] POPEYE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98601
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RICK AND MORTY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RICK AND MORTY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98602
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RUGRATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RUGRATS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98603
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SHE RA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SHE RA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98604
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97811
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 3" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 3
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97810
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98605
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98606
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SPEED RACER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SPEED RACER
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS REBELS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS REBELS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98607
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS RESISTANCE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS RESISTANCE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98608
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS THE CLONE WARS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS THE CLONE WARS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98609
+#EXTINF:-1 tvg-id="" tvg-name="[24H] STREET FIGHTER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STREET FIGHTER
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98610
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER CHOQUE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER CHOQUE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98611
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER MARIO BROS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER MARIO BROS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98686
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TAZ-MANIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TAZ-MANIA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] THUNDERCATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] THUNDERCATS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98612
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98688
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO: E OS DEFENSORES DA LEI" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO: E OS DEFENSORES DA LEI
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98613
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TIMÃO E PUMBA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TIMÃO E PUMBA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98614
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TRÊS ESPIÃS DEMAIS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98617
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTIMATE HOMEM ARANHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTIMATE HOMEM ARANHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98618
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTRAMAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98619
+#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] WOLVERINE E OS X-MEN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98689
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN CLASSIC" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN CLASSIC
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97777
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN EVOLUTION" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN EVOLUTION
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97778
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ZAK STORM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZAK STORM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98620
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ZE BUSCAPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZE BUSCAPE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97779
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ZÉ COLMEIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZÉ COLMEIA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98690
+#EXTINF:-1 tvg-id="" tvg-name="[24] A FORMIGA ATÔMICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] A FORMIGA ATÔMICA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98674
+#EXTINF:-1 tvg-id="" tvg-name="[24] DETONA RALPH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] DETONA RALPH
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98673
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124981
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TOM E JERRY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TOM E JERRY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140016
+#EXTINF:-1 tvg-id="" tvg-name="[24] HOMEM DE FERRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] HOMEM DE FERRO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98676
+
+#EXTM3U url-tvg="http://grade-de-24HRS ANIMES.xml"
+############## 24HRS ANIMES ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24HRS ANIMES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97768
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO SHIPPUDEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO SHIPPUDEN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97767
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAILOR MOON
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97766
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97769
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X - OVAS E FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X - OVAS E FILME
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97770
+#EXTINF:-1 tvg-id="" tvg-name="[24] HAMTARO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24] HAMTARO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98675
 #EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97673
 #EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS
@@ -2094,38 +2211,10 @@ http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97678
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97755
 #EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODÍACO 7 - ALMA DE OURO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODÍACO 7 - ALMA DE OURO
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97754
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVERNA DO DRAGÃO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97848
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHANGEMAN + FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] CHANGEMAN + FILME
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98656
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97647
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97648
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97649
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97650
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES EM DESENHO ANIMADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CHAVES EM DESENHO ANIMADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98670
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98637
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98638
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CLARENCIO O OTIMISTA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CLARENCIO O OTIMISTA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98578
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CONTOS DA MASHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] CONTOS DA MASHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98624
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CORAGEM, O CÃO COVARDE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORAGEM, O CÃO COVARDE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98668
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORRIDA MALUCA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97847
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CYBERCOPS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] CYBERCOPS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97658
-#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97828
-#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97829
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL HEROES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DRAGON BALL HEROES
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176131
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEYBLADE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] BEYBLADE
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98667
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DB - CLASSICO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DB - CLASSICO
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97762
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DBGT" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBGT
@@ -2144,20 +2233,43 @@ http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97761
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97763
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ SUPER CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ SUPER CANAL 2
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97764
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DENNIS: O PIMENTINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DENNIS: O PIMENTINHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98671
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DICK VIGARISTA E MUTTLEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DICK VIGARISTA E MUTTLEY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98580
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DIGIMON ADVENTURES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DIGIMON ADVENTURES
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97765
+
+#EXTM3U url-tvg="http://grade-de-24HRS SÉRIES E PROGRAMAS.xml"
+############## 24HRS SÉRIES E PROGRAMAS ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24HRS SÉRIES E PROGRAMAS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PUNKY, A LEVADA DA BRECA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PUNKY, A LEVADA DA BRECA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176127
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  A GRANDE FAMILIA - O ÃLBUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H]  A GRANDE FAMILIA - O ÃLBUM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98643
+#EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176130
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS VISÕES DA RAVEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] AS VISÕES DA RAVEN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98636
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CASTELO RÁ-TIM-BUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CASTELO RÁ-TIM-BUM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98669
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98637
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98638
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97647
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97648
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97649
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97650
+#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97828
+#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97829
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DOIS HOMENS E MEIO CANAL 1
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97646
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DOIS HOMENS E MEIO CANAL 2
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97644
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DORA, A AVENTUREIRA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DORA, A AVENTUREIRA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/106152
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DOUG FUNNIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DOUG FUNNIE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98581
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DR. HOUSE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DR. HOUSE
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98639
 #EXTINF:-1 tvg-id="" tvg-name="[24H] DRAKE E JOSH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DRAKE E JOSH
@@ -2168,244 +2280,97 @@ http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98640
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97645
 #EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 1
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97776
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FAIRY TAIL CANAL 1 LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] FAIRY TAIL CANAL 1 LEGENDADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97772
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FAIRY TAIL CANAL 2 LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] FAIRY TAIL CANAL 2 LEGENDADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97773
 #EXTINF:-1 tvg-id="" tvg-name="[24H] FAMÍLIA DINOSSAURO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FAMÍLIA DINOSSAURO
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97830
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FILMES SENTAI" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] FILMES SENTAI
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98657
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FLASHMAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] FLASHMAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97849
 #EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FRIENDS CANAL 1
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97656
 #EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FRIENDS CANAL 2
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97657
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] GALINHA PINTADINHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97831
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GASPARZINHO E SEUS AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] GASPARZINHO E SEUS AMIGOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98584
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GAVAN + FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] GAVAN + FILME
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98658
 #EXTINF:-1 tvg-id="" tvg-name="[24H] GREY’S ANATOMY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] GREY’S ANATOMY
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97832
-#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98586
-#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN 2002" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN 2002
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98585
-#EXTINF:-1 tvg-id="" tvg-name="[24H] INSANITY DELUXE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] INSANITY DELUXE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98652
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JASPION" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] JASPION
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97780
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JIBAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] JIBAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97850
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JIRAYA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] JIRAYA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97659
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JOHNNY BRAVO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JOHNNY BRAVO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98677
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JONNY QUEST" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JONNY QUEST
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98588
-#EXTINF:-1 tvg-id="" tvg-name="[24H] KAMEN RIDER BLACK" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] KAMEN RIDER BLACK
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98659
-#EXTINF:-1 tvg-id="" tvg-name="[24H] KAMEN RIDER BLACK RX" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] KAMEN RIDER BLACK RX
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98660
-#EXTINF:-1 tvg-id="" tvg-name="[24H] KAMEN RIDER WIZARD LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] KAMEN RIDER WIZARD LEGENDADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98661
-#EXTINF:-1 tvg-id="" tvg-name="[24H] KENAN E KEL" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] KENAN E KEL
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97655
 #EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: A TRIBO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] LARGADOS E PELADOS: A TRIBO
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98641
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LEO O CAMINHÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LEO O CAMINHÃO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98562
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LILO E STITCH: A SÉRIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] LILO E STITCH: A SÉRIE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98678
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LOOLOO KIDS - JOHNY E AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LOOLOO KIDS - JOHNY E AMIGOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97833
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LULUZINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LULUZINHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98626
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MACGYVER - PROFISSÃO PERIGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MACGYVER - PROFISSÃO PERIGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98642
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA CHUVA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MANDA CHUVA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98589
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MASHA E O URSO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98627
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY E DONALD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY E DONALD
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98592
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY: AVENTURAS SOBRE RODAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY: AVENTURAS SOBRE RODAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98693
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MIRACULOUS AS AVENTURAS DE LADYBUG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MIRACULOUS AS AVENTURAS DE LADYBUG
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98593
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MONGO E DRONGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MONGO E DRONGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97834
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MR. BEAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MR. BEAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97835
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MUNDO BITA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MUNDO BITA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97836
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97768
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO SHIPPUDEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO SHIPPUDEN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97767
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NINNINGER LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] NINNINGER LEGENDADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98662
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O FANTÁSTICO MUNDO DE BOBBY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98628
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO PRINCIPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO PRINCIPE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98594
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO URSO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98682
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PODEROSO CHEFINHO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O PODEROSO CHEFINHO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98629
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OPERAÇÃO BIG HERO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OPERAÇÃO BIG HERO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98595
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS FLINTSTONES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS FLINTSTONES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98679
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JETSONS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS JETSONS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98597
 #EXTINF:-1 tvg-id="" tvg-name="[24H] OS NORMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] OS NORMAIS
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98645
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS PADRINHOS MÁGICOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS PADRINHOS MÁGICOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98680
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MR. BEAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MR. BEAN
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97835
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KENAN E KEL" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] KENAN E KEL
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97655
 #EXTINF:-1 tvg-id="" tvg-name="[24H] OS TRAPALHOES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] OS TRAPALHOES
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97838
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PARADISE PD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PARADISE PD
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98598
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98644
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PEPPA PIG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PEPPA PIG
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97839
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PICA-PAU" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PICA-PAU
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98599
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PINKY E O CÉREBRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PINKY E O CÉREBRO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98684
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ MASKS - HEROIS DE PIJAMA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PJ MASKS - HEROIS DE PIJAMA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98630
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POCOYO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] POCOYO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97812
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POKÉMON - SUN & MOON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] POKÉMON - SUN & MOON
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97774
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POPEYE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] POPEYE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98601
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POWER RANGERS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] POWER RANGERS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97809
-#EXTINF:-1 tvg-id="" tvg-name="[24H] QUEIMA 48" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] QUEIMA 48
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98653
-#EXTINF:-1 tvg-id="" tvg-name="[24H] RICK AND MORTY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RICK AND MORTY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98602
-#EXTINF:-1 tvg-id="" tvg-name="[24H] RUGRATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RUGRATS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98603
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAILOR MOON
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97766
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON LIVE ACTION LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] SAILOR MOON LIVE ACTION LEGENDADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98663
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97769
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X - OVAS E FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X - OVAS E FILME
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97770
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHARIVAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] SHARIVAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98664
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHE RA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SHE RA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98604
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHOW DA LUNA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SHOW DA LUNA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98631
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97811
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 3" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 3
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97810
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98646
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98647
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC BOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SONIC BOOM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98632
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98605
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98606
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SPEED RACER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SPEED RACER
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS REBELS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS REBELS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98607
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS RESISTANCE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS RESISTANCE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98608
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS THE CLONE WARS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS THE CLONE WARS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98609
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STREET FIGHTER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STREET FIGHTER
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98610
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SUMMER ABS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] SUMMER ABS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98654
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER CHOQUE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER CHOQUE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98611
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER MARIO BROS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER MARIO BROS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98686
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TAZ-MANIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TAZ-MANIA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] THE BIG BANG THEORY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] THE BIG BANG THEORY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97652
-#EXTINF:-1 tvg-id="" tvg-name="[24H] THUNDERCATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] THUNDERCATS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98612
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98688
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO: E OS DEFENSORES DA LEI" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO: E OS DEFENSORES DA LEI
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98613
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TIMÃO E PUMBA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TIMÃO E PUMBA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98614
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124979
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124980
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YOUNG SHELDON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] YOUNG SHELDON
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98651
 #EXTINF:-1 tvg-id="" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TODO MUNDO ODEIA O CHRIS
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97653
 #EXTINF:-1 tvg-id="" tvg-name="[24H] TOMA LA DA CA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TOMA LA DA CA
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98648
 #EXTINF:-1 tvg-id="" tvg-name="[24H] TRES É DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TRES É DEMAIS
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97654
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TRÊS ESPIÃS DEMAIS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98617
+#EXTINF:-1 tvg-id="" tvg-name="[24H] THE BIG BANG THEORY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] THE BIG BANG THEORY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97652
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98644
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 1
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98646
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 2
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98647
 #EXTINF:-1 tvg-id="" tvg-name="[24H] TÔ DE GRAÇA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TÔ DE GRAÇA
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97840
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTIMATE HOMEM ARANHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTIMATE HOMEM ARANHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98618
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTRAMAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98619
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN." tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS TOKUSATSU ",[24H] ULTRAMAN.
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98665
-#EXTINF:-1 tvg-id="" tvg-name="[24H] UM MALUCO NO PEDAÇO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] UM MALUCO NO PEDAÇO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98650
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] ALF, O ETEIMOSO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140015
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MACGYVER - PROFISSÃO PERIGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MACGYVER - PROFISSÃO PERIGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98642
+
+#EXTM3U url-tvg="http://grade-de-24HRS INFANTIL.xml"
+############## 24HRS INFANTIL ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24HRS INFANTIL" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LEO O CAMINHÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LEO O CAMINHÃO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98562
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] GALINHA PINTADINHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97831
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LULUZINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LULUZINHA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98626
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MASHA E O URSO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98627
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MONGO E DRONGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MONGO E DRONGO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97834
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LOOLOO KIDS - JOHNY E AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LOOLOO KIDS - JOHNY E AMIGOS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97833
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC BOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SONIC BOOM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98632
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SHOW DA LUNA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SHOW DA LUNA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98631
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PEPPA PIG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PEPPA PIG
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97839
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O FANTÁSTICO MUNDO DE BOBBY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98628
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PODEROSO CHEFINHO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O PODEROSO CHEFINHO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98629
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MUNDO BITA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MUNDO BITA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97836
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POCOYO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] POCOYO
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97812
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN E HOLLY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BEN E HOLLY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97846
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BOB ZOOM
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98623
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] 3 PALAVRINHAS
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97844
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A CASA DO MICKEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A CASA DO MICKEY
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98621
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DA MONICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A TURMA DA MONICA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98622
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ MASKS - HEROIS DE PIJAMA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PJ MASKS - HEROIS DE PIJAMA
+http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98630
 #EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] URSINHOS CARINHOSOS
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98633
 #EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS E SEUS PRIMOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] URSINHOS CARINHOSOS E SEUS PRIMOS
 http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98634
-#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] WOLVERINE E OS X-MEN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98689
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN CLASSIC" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN CLASSIC
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97777
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN EVOLUTION" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN EVOLUTION
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97778
-#EXTINF:-1 tvg-id="" tvg-name="[24H] XTREME HIIT 7" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS POWER FITNESS",[24H] XTREME HIIT 7
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98655
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YOUNG SHELDON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] YOUNG SHELDON
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98651
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZAK STORM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZAK STORM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98620
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZE BUSCAPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZE BUSCAPE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97779
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZÉ COLMEIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZÉ COLMEIA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98690
-#EXTINF:-1 tvg-id="" tvg-name="[24] A FORMIGA ATÔMICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] A FORMIGA ATÔMICA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98674
-#EXTINF:-1 tvg-id="" tvg-name="[24] DETONA RALPH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] DETONA RALPH
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98673
-#EXTINF:-1 tvg-id="" tvg-name="[24] HAMTARO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24] HAMTARO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98675
-#EXTINF:-1 tvg-id="" tvg-name="[24] HOMEM DE FERRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] HOMEM DE FERRO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98676
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124979
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124980
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124981
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] ALF, O ETEIMOSO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140015
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TOM E JERRY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TOM E JERRY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140016
 
 #EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
 ############## 24 Horas | Desenhos ################# 
@@ -3240,8 +3205,7 @@ http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183608.mp4
 http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183607.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DESTINO: NATAL (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF3IGXQHlnMUH4aoZYghtqRb8xd.jpg" group-title="2023",DESTINO: NATAL (2022)
 http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DAPHNE E VELMA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg" group-title="COMÉDIA",DAPHNE E VELMA (2018)
-http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183605.mp4
+
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Top 2022.xml"
 ############## Filmes: Top 2022 ################# 
@@ -3619,10 +3583,6 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/260106.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169879.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Oitava Página (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF4qGhBGn8ECgsrWnBKqawuLpOG.jpg" group-title="Filmes: Suspense",A Oitava Página (2011)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Paixão de Cristo - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg" group-title=" Filmes: Religiosos",A Paixão de Cristo - 2004
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/136899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg" group-title="Filmes: Animacao / Infantil",A Pequena Sereia (1989)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/236066.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Morte Salvou Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="Filmes: Suspense",A Morte Salvou Minha Vida (2021)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/169878.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldWIvavK0LA15aC2vAcqj4c7FPX.jpg" group-title="Filmes: Suspense",A Hora do Lobo (2019)
@@ -4343,82 +4303,6 @@ https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES | AÇÃO CINEMA",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U url-tvg="http://grade-de-Filmes: Ficcao Cientifica.xml"
 ############## Filmes: Ficcao Cientifica ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes: Ficcao Cientifica" group-title="
@@ -4437,8 +4321,6 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24898.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Nuvem Rosa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMebkU27UYVoPg1FA12uHp6ilkM.jpg" group-title="Filmes: Ficcao Cientifica",A Nuvem Rosa (2021)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/178445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Odisseia dos Tontos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd27JV1FJ7bHX5kStuw0JISMShQ.jpg" group-title="Filmes: Aventura",A Odisseia dos Tontos - 2019
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25036.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Origem - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="Filmes: Ficcao Cientifica",A Origem - 2010
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/174935.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Primeira Noite de Crime - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDeTqCBAoRHD9zQXZefhtJs2sez.jpg" group-title="Filmes: Ficcao Cientifica",A Primeira Noite de Crime - 2018
@@ -4543,6 +4425,8 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24553.mp4
 ############## Filmes: Comedia ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes: Comedia" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="DAPHNE E VELMA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg" group-title="Filmes: Comedia",DAPHNE E VELMA (2018)
+http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183605.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Toda Velocidade - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mlZcYl8w8bkBeWz1dlltYzNXUI.jpg" group-title="Filmes: Comedia",A Toda Velocidade - 2016
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153990.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Sogra Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31Mad8qY3gsWYd7OeOgDXqqsUlt.jpg" group-title="Filmes: Comedia",A Sogra Perfeita (2020)
@@ -4581,16 +4465,8 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25006.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/12172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Namorada do Meu Irmão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEZhXtc7Ni05kMIs4wrQKrE0xYH.jpg" group-title="Filmes: Comedia",A Namorada do Meu Irmão - 2018
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/179154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Partida Final - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k58OkwuRjQRnjeKtNySAsSY8o3Y.jpg" group-title="Documentários",A Partida Final - 2018
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pedra da Serpente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c8pMd6M6zBsOqF82lG7niLB9xt.jpg" group-title="Filmes: Ficcao Cientifica",A Pedra da Serpente (2019)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Pedra Mágica (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u3mGapOO35dW3M8vRgQ4dOL0TD.jpg" group-title="Filmes: Comedia",A Pedra Mágica (2009)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/251437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pedreira (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg" group-title="Filmes: Crimes",A Pedreira (2020)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/246004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Pele Fria - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSVXKem6hkiWn1D5yVK2e19I6SI.jpg" group-title="Filmes: Terror",A Pele Fria - 2017
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25060.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Pequena Suíça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHb8aBC93OD8ZklARiiLlFl7dp1.jpg" group-title="Filmes: Comedia",A Pequena Suíça (2019)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/213901.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Proposta - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BkfGYq0IQF9NnNmNbdxeshhn1t.jpg" group-title="Filmes: Comedia",A Proposta - 2009
@@ -4673,8 +4549,6 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24731.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24693.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Christmas Carol Goes Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf8kL1UNl347dviVUEeNwfLny20.jpg" group-title="Filmes: Comedia",A Christmas Carol Goes Wrong (2017)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/244148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Christmas Carol Goes Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf8kL1UNl347dviVUEeNwfLny20.jpg" group-title="Filmes: Comedia",A Christmas Carol Goes Wrong (2017)
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269544.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Casa Maluca - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZKCe3e7zlOWY3XdA4cSg2yWigR.jpg" group-title="Filmes: Comedia",A Casa Maluca - 1990
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Boneca que Virou Gente 2 - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CwzaIz7MvzPs5fA4NddlFD27M5.jpg" group-title="Filmes: Comedia",A Boneca que Virou Gente 2 - 2018
@@ -4766,8 +4640,6 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163520.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/87697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bruta Flor do Querer (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwlPHiWsO32kJUFOg36cSRpqN9e.jpg" group-title="Filmes: Drama",A Bruta Flor do Querer (2016)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/238188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama de Vermelho - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg" group-title="Filmes: Comedia",A Dama de Vermelho - 1984
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24682.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Gaivota - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZSfnuFf7Td0WJShqaQyKcwLRU.jpg" group-title="Filmes: Drama",A Gaivota - 2018
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154705.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Infância de um Líder - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf1MGzVzEpoWrE5ztcBf7Mhu0Sz.jpg" group-title="Filmes: Drama",A Infância de um Líder - 2016

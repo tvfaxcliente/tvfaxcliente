@@ -2760,6 +2760,4295 @@ http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
 
+#EXTM3U url-tvg="http://grade-de-ANIMACAO/INFANTIL.xml"
+############## ANIMACAO/INFANTIL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeANIMACAO/INFANTIL" group-title="
+
+#EXTINF:-1 tvg-name="Zé Colmeia : O Filme - 2010" tvg-logo="http://urlon.me/ZgYY4D" group-title="ANIMACAO/INFANTIL",Zé Colmeia : O Filme - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/92142.mp4
+#EXTINF:-1 tvg-name="Zog e os Doutores Voadores - 2021" tvg-logo="http://5ce.co:80/images/aow2SrU1nKY1onSTjHhhLW8Ndd6_big.jpg" group-title="ANIMACAO/INFANTIL",Zog e os Doutores Voadores - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194026.mp4
+#EXTINF:-1 tvg-name="Zoo: Uma Amizade Maior que a Vida - 2018" tvg-logo="http://urlon.me/Zol" group-title="ANIMACAO/INFANTIL",Zoo: Uma Amizade Maior que a Vida - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43917.mp4
+#EXTINF:-1 tvg-name="Zootopia - 2016" tvg-logo="http://urlon.me/ZgY1Oq" group-title="ANIMACAO/INFANTIL",Zootopia - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43894.mp4
+#EXTINF:-1 tvg-name="Zumbilênio -  O Parque dos Monstros - 2017" tvg-logo="http://urlon.me/ZgY1Lo" group-title="ANIMACAO/INFANTIL",Zumbilênio -  O Parque dos Monstros - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/72548.mp4
+#EXTINF:-1 tvg-name="Você Já Foi à Bahia - 1944" tvg-logo="http://urlon.me/ZgY1aJ" group-title="ANIMACAO/INFANTIL",Você Já Foi à Bahia - 1944
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69810.mp4
+#EXTINF:-1 tvg-name="Voltando do Inferno - 2015" tvg-logo="http://urlon.me/ZgY1Fi" group-title="ANIMACAO/INFANTIL",Voltando do Inferno - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61640.mp4
+#EXTINF:-1 tvg-name="Vombate ao Combate - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg" group-title="ANIMACAO/INFANTIL",Vombate ao Combate - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134787.mp4
+#EXTINF:-1 tvg-name="WALL-E - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3g8vyePqVatTaUSnrNnrrwguhxM.jpg" group-title="ANIMACAO/INFANTIL",WALL-E - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43895.mp4
+#EXTINF:-1 tvg-name="Wallace & Gromit: A Batalha dos Vegetais - 2005" tvg-logo="http://urlon.me/Ofj" group-title="ANIMACAO/INFANTIL",Wallace & Gromit: A Batalha dos Vegetais - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61731.mp4
+#EXTINF:-1 tvg-name="Wheely - Velozes e Divertidos - 2018" tvg-logo="http://5ce.co:80/images/dv3bCotHeaIrXEtqZGCEsnwe9zQ_big.jpg" group-title="ANIMACAO/INFANTIL",Wheely - Velozes e Divertidos - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160103.mp4
+#EXTINF:-1 tvg-name="WiFi Ralph – Quebrando A Internet - 2018" tvg-logo="http://urlon.me/ZzY" group-title="ANIMACAO/INFANTIL",WiFi Ralph – Quebrando A Internet - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43126.mp4
+#EXTINF:-1 tvg-name="Wolfwalkers - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehAKuE48okTuonq6TpsNQj8vFTC.jpg" group-title="ANIMACAO/INFANTIL",Wolfwalkers - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134414.mp4
+#EXTINF:-1 tvg-name="Xico, O Cachorro Mágico - 2021" tvg-logo="http://5ce.me:80/images/15cxrJfMkSyJqGCT6CgKncsUkmV_big.jpg" group-title="ANIMACAO/INFANTIL",Xico, O Cachorro Mágico - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142900.mp4
+#EXTINF:-1 tvg-name="Universidade Monstros - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ObMNf0O9RylDBBWjaujQodUeQP.jpg" group-title="ANIMACAO/INFANTIL",Universidade Monstros - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61729.mp4
+#EXTINF:-1 tvg-name="Up  Altas Aventuras - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEc9bNtbeCP1Xf9Z6xhU62rqtYe.jpg" group-title="ANIMACAO/INFANTIL",Up  Altas Aventuras - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61730.mp4
+#EXTINF:-1 tvg-name="Ursos Sem Curso: O Filme - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHpNW0DNaJKHEHo80rl4anr4fxs.jpg" group-title="ANIMACAO/INFANTIL",Ursos Sem Curso: O Filme - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129462.mp4
+#EXTINF:-1 tvg-name="Valente - 2012" tvg-logo="http://urlon.me/6q7" group-title="ANIMACAO/INFANTIL",Valente - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45830.mp4
+#EXTINF:-1 tvg-name="Valiant - Um Herói que Vale a Pena - 2005" tvg-logo="http://5ce.co:80/images/r9VNtY1qUflzWIWgOvPe3PUKMi0_big.jpg" group-title="ANIMACAO/INFANTIL",Valiant - Um Herói que Vale a Pena - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182680.mp4
+#EXTINF:-1 tvg-name="Vera - Sonhos de Inverno - 2019" tvg-logo="http://urlon.me/ZgY17C" group-title="ANIMACAO/INFANTIL",Vera - Sonhos de Inverno - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61051.mp4
+#EXTINF:-1 tvg-name="Viagem ao Topo da Terra - 2021" tvg-logo="http://5ce.co:80/images/18Z07JBzzUAtsHtLPQvKofeSRqp_big.jpg" group-title="ANIMACAO/INFANTIL",Viagem ao Topo da Terra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193160.mp4
+#EXTINF:-1 tvg-name="Vida de Inseto - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP3JnpZwdP0l3sWLbifTf84HZ6h.jpg" group-title="ANIMACAO/INFANTIL",Vida de Inseto - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43898.mp4
+#EXTINF:-1 tvg-name="Viva - A Vida é uma Festa - 2017" tvg-logo="http://urlon.me/Zod" group-title="ANIMACAO/INFANTIL",Viva - A Vida é uma Festa - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43897.mp4
+#EXTINF:-1 tvg-name="Voando Alto - 2019" tvg-logo="http://urlon.me/O3l" group-title="ANIMACAO/INFANTIL",Voando Alto - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61030.mp4
+#EXTINF:-1 tvg-name="Turminha Paraíso 10 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCNymfJbnZ1WDdgl2Yr62m2mjv3.jpg" group-title="ANIMACAO/INFANTIL",Turminha Paraíso 10 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111605.mp4
+#EXTINF:-1 tvg-name="UglyDolls - 2019" tvg-logo="http://urlon.me/63M" group-title="ANIMACAO/INFANTIL",UglyDolls - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44837.mp4
+#EXTINF:-1 tvg-name="Um Espião Animal - 2019" tvg-logo="http://5ce.co:80/images/aAOKVhTESY4tMqjDPn3KW4ugnFn_big.jpg" group-title="ANIMACAO/INFANTIL",Um Espião Animal - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/71665.mp4
+#EXTINF:-1 tvg-name="Um Lobo em Pele de Cordeiro 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kettRut0IDbza6YrpiedssWbWxc.jpg" group-title="ANIMACAO/INFANTIL",Um Lobo em Pele de Cordeiro 2 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/118055.mp4
+#EXTINF:-1 tvg-name="Um Panda em Apuros - 2019" tvg-logo="http://urlon.me/Obr" group-title="ANIMACAO/INFANTIL",Um Panda em Apuros - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65663.mp4
+#EXTINF:-1 tvg-name="Um Time Show de Bola - 2013" tvg-logo="http://urlon.me/OfM" group-title="ANIMACAO/INFANTIL",Um Time Show de Bola - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61727.mp4
+#EXTINF:-1 tvg-name="Uma Aventura Lego - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akt1i1g47sS4Bhz5bR43U371E0k.jpg" group-title="ANIMACAO/INFANTIL",Uma Aventura Lego - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124700.mp4
+#EXTINF:-1 tvg-name="Uma Aventura Lego 2 - 2019" tvg-logo="http://urlon.me/ZgY3So" group-title="ANIMACAO/INFANTIL",Uma Aventura Lego 2 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42707.mp4
+#EXTINF:-1 tvg-name="Uma Família Feliz - 2017" tvg-logo="http://urlon.me/Of7" group-title="ANIMACAO/INFANTIL",Uma Família Feliz - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61728.mp4
+#EXTINF:-1 tvg-name="Uma Família Feliz 2 - 2022" tvg-logo="http://5ce.co:80/images/bz9qnV41N3gbMStjXKL2YkR9aXE_big.jpg" group-title="ANIMACAO/INFANTIL",Uma Família Feliz 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202505.mp4
+#EXTINF:-1 tvg-name="Uma Floresta Muito Louca - 2017" tvg-logo="http://urlon.me/ZoX" group-title="ANIMACAO/INFANTIL",Uma Floresta Muito Louca - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43899.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry: A Fantástica Fábrica de Chocolates - 2017" tvg-logo="http://5ce.co:80/images/vh5iYhj80l1inSdep61sF8g1S8m_big.jpg" group-title="ANIMACAO/INFANTIL",Tom e Jerry: A Fantástica Fábrica de Chocolates - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43907.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry: Aventura Gigante - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bjq8DHLjSW39uBOR8RRzl6zH51.jpg" group-title="ANIMACAO/INFANTIL",Tom e Jerry: Aventura Gigante - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45809.mkv
+#EXTINF:-1 tvg-name="Tom e Jerry: Velozes e Ferozes - 2005" tvg-logo="http://urlon.me/6yx" group-title="ANIMACAO/INFANTIL",Tom e Jerry: Velozes e Ferozes - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45806.mkv
+#EXTINF:-1 tvg-name="Toy Story - Um Mundo de Aventuras - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPjSZmnoSdGLA2mxgccfqVQV78w.jpg" group-title="ANIMACAO/INFANTIL",Toy Story - Um Mundo de Aventuras - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43906.mp4
+#EXTINF:-1 tvg-name="Toy Story 2 - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxvFpBEBJkvZS9EHLpaLsc1tDKs.jpg" group-title="ANIMACAO/INFANTIL",Toy Story 2 - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43905.mp4
+#EXTINF:-1 tvg-name="Toy Story 3 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83hHwstUsEEjE55kTgDkZMFweR.jpg" group-title="ANIMACAO/INFANTIL",Toy Story 3 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43904.mp4
+#EXTINF:-1 tvg-name="Toy Story 4 - 2019" tvg-logo="http://5ce.co:80/images/tfUoNkDptfQbNS0z1jFnd5sEEc7_big.jpg" group-title="ANIMACAO/INFANTIL",Toy Story 4 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202420.mp4
+#EXTINF:-1 tvg-name="Toy Story de Terror - 2013" tvg-logo="http://urlon.me/ZgYY78" group-title="ANIMACAO/INFANTIL",Toy Story de Terror - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80476.mp4
+#EXTINF:-1 tvg-name="Três Espiãs Demais: O Filme - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ivq3HCMSEe7e5SnqQHKHl2JbYS.jpg" group-title="ANIMACAO/INFANTIL",Três Espiãs Demais: O Filme - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61724.mp4
+#EXTINF:-1 tvg-name="Trolls  Vamos Festejar - 2017" tvg-logo="http://urlon.me/Zo3" group-title="ANIMACAO/INFANTIL",Trolls  Vamos Festejar - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43903.mp4
+#EXTINF:-1 tvg-name="Trolls - 2016" tvg-logo="http://urlon.me/OfP" group-title="ANIMACAO/INFANTIL",Trolls - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61725.mp4
+#EXTINF:-1 tvg-name="Trolls 2 - 2020 " tvg-logo="http://5ce.me:80/images/wTKHno6OeMc0RtxSEbmquPIk1M_big.jpg" group-title="ANIMACAO/INFANTIL",Trolls 2 - 2020 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140218.mp4
+#EXTINF:-1 tvg-name="Túmulo dos Vagalumes - 1988" tvg-logo="http://urlon.me/ZgYY2K" group-title="ANIMACAO/INFANTIL",Túmulo dos Vagalumes - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/83562.mp4
+#EXTINF:-1 tvg-name="Turbo - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE3A98CfBWVReurJqpOBFbzIwMf.jpg" group-title="ANIMACAO/INFANTIL",Turbo - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61726.mp4
+#EXTINF:-1 tvg-name="Turma da Mônica em Uma Aventura no Tempo - 2007" tvg-logo="http://5ce.co:80/images/4gtgUYAngSN6NlFX2ybJSDKCSVE_big.jpg" group-title="ANIMACAO/INFANTIL",Turma da Mônica em Uma Aventura no Tempo - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/164902.mp4
+#EXTINF:-1 tvg-name="The Fantasia Legacy: Fantasia Continued - 2000" tvg-logo="http://urlon.me/ZgY10i" group-title="ANIMACAO/INFANTIL",The Fantasia Legacy: Fantasia Continued - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67791.mp4
+#EXTINF:-1 tvg-name="The Loud House: O Filme - 2021" tvg-logo="http://5ce.co:80/images/6iVbbnaSyi4PfPRCjfooXq17gne_big.jpg" group-title="ANIMACAO/INFANTIL",The Loud House: O Filme - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/181236.mp4
+#EXTINF:-1 tvg-name="Tina & Téo - A Pedra Encantada - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg" group-title="ANIMACAO/INFANTIL",Tina & Téo - A Pedra Encantada - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98440.mp4
+#EXTINF:-1 tvg-name="Tinker Bell 6 - e o Monstro da Terra do Nunca - 2014" tvg-logo="http://urlon.me/OfO" group-title="ANIMACAO/INFANTIL",Tinker Bell 6 - e o Monstro da Terra do Nunca - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61721.mp4
+#EXTINF:-1 tvg-name="Tinker Bell e O Resgate das Fadas - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ec1sNGVAuQpFS8e7mPWMK9RflD.jpg" group-title="ANIMACAO/INFANTIL",Tinker Bell e O Resgate das Fadas - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61718.mp4
+#EXTINF:-1 tvg-name="Tinker Bell e O Tesouro Perdido - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lPZueYyDiUCpVqr4WsIUSkJ9rV.jpg" group-title="ANIMACAO/INFANTIL",Tinker Bell e O Tesouro Perdido - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61717.mp4
+#EXTINF:-1 tvg-name="Tinker Bell: Fadas e Piratas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wnJj5SPmR70o6YK3m31SnOT33.jpg" group-title="ANIMACAO/INFANTIL",Tinker Bell: Fadas e Piratas - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61720.mp4
+#EXTINF:-1 tvg-name="Tinker Bell: O Segredo das Fadas - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4XtmRHjpcN8r4ZUn7g3kGEE3F4.jpg" group-title="ANIMACAO/INFANTIL",Tinker Bell: O Segredo das Fadas - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61719.mp4
+#EXTINF:-1 tvg-name="Tinker Bell: Uma Aventura no Mundo das Fadas - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi1TPdMmhFRhN1MsveEH5D7kXwo.jpg" group-title="ANIMACAO/INFANTIL",Tinker Bell: Uma Aventura no Mundo das Fadas - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61716.mp4
+#EXTINF:-1 tvg-name="Titan A.E. - 2000" tvg-logo="http://urlon.me/ZgY1a4" group-title="ANIMACAO/INFANTIL",Titan A.E. - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69833.mp4
+#EXTINF:-1 tvg-name="Tito e os Pássaros - 2019" tvg-logo="http://urlon.me/Zf3" group-title="ANIMACAO/INFANTIL",Tito e os Pássaros - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43061.mp4
+#EXTINF:-1 tvg-name="Todos Os Cães Merecem O Céu - 1989" tvg-logo="http://urlon.me/Zoq" group-title="ANIMACAO/INFANTIL",Todos Os Cães Merecem O Céu - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43908.mkv
+#EXTINF:-1 tvg-name="Todos os Cães Merecem o Céu 2 - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Am8Tjc2ku1M7HcZ0Yyi2mylVgw.jpg" group-title="ANIMACAO/INFANTIL",Todos os Cães Merecem o Céu 2 - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69834.mp4
+#EXTINF:-1 tvg-name="Tom  Jerry: O Dragão Perdido - 2014" tvg-logo="https://media.fstatic.com/woSmqHRES_yfBflDS2qUdJu85vQ=/fit-in/210x312/smart/media/movies/covers/2014/10/tom-and-jerry-the-lost-dragon_tNone.jpg" group-title="ANIMACAO/INFANTIL",Tom  Jerry: O Dragão Perdido - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45808.mkv
+#EXTINF:-1 tvg-name="Tom amp; Jerry - O Filme - 2021" tvg-logo="http://5ce.me:80/images/6KErczPBROQty7QoIsaa6wJYXZi_big.jpg" group-title="ANIMACAO/INFANTIL",Tom amp; Jerry - O Filme - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/148705.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry - Aventuras em Marte - 2012" tvg-logo="http://5ce.me:80/images/uge5fpkXjfLxrfTfzT79S2XAg4_big.jpg" group-title="ANIMACAO/INFANTIL",Tom e Jerry - Aventuras em Marte - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137030.mp4
+#EXTINF:-1 tvg-name="StarBeam: Halloween Hero - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNKqblrUjbGXtqGmf1upqFWx3ww.jpg" group-title="ANIMACAO/INFANTIL",StarBeam: Halloween Hero - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123591.mp4
+#EXTINF:-1 tvg-name="Steven Universo - O Filme - 2019" tvg-logo="http://urlon.me/O1Y" group-title="ANIMACAO/INFANTIL",Steven Universo - O Filme - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61068.mp4
+#EXTINF:-1 tvg-name="Super Monstros - Superamigos para Sempre - 2019" tvg-logo="http://urlon.me/ZgY10M" group-title="ANIMACAO/INFANTIL",Super Monstros - Superamigos para Sempre - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67783.mp4
+#EXTINF:-1 tvg-name="Super Monstros Turma Nova - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dv6emhYCz6JVwUJZU5j8C4Jdi7.jpg" group-title="ANIMACAO/INFANTIL",Super Monstros Turma Nova - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121157.mp4
+#EXTINF:-1 tvg-name="Super Urso - Um Resgate na Cidade Grande - 2019" tvg-logo="http://5ce.me:80/images/mOQEn51mD518IXuILNWezEwyOAE_big.jpg" group-title="ANIMACAO/INFANTIL",Super Urso - Um Resgate na Cidade Grande - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142897.mp4
+#EXTINF:-1 tvg-name="Super Vilões Liga da Justiça Mentores do Crime Disco 1 - 2014" tvg-logo="http://5ce.co:80/images/cClWF1mpKTkPXH3jb2tt5fhSagE_big.jpg" group-title="ANIMACAO/INFANTIL",Super Vilões Liga da Justiça Mentores do Crime Disco 1 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200188.mp4
+#EXTINF:-1 tvg-name="Super Vilões Liga da Justiça Mentores do Crime Disco 2 - 2014" tvg-logo="http://5ce.co:80/images/nSr4nCTxGFVioyEd4e8VdOqzwTl_big.jpg" group-title="ANIMACAO/INFANTIL",Super Vilões Liga da Justiça Mentores do Crime Disco 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200189.mp4
+#EXTINF:-1 tvg-name="Superman: Brainiac Ataca - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMvchkFOI9teuajed3ewuwTYgI.jpg" group-title="ANIMACAO/INFANTIL",Superman: Brainiac Ataca - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43794.mp4
+#EXTINF:-1 tvg-name="SupermanBatman: Inimigos Públicos - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKabU2oNgCpp4uM5ITnXtaInbWL.jpg" group-title="ANIMACAO/INFANTIL",SupermanBatman: Inimigos Públicos - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59627.mp4
+#EXTINF:-1 tvg-name="Tá Chovendo Hambúrguer - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg" group-title="ANIMACAO/INFANTIL",Tá Chovendo Hambúrguer - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43902.mp4
+#EXTINF:-1 tvg-name="Tá Chovendo Hambúrguer 2 - 2013" tvg-logo="http://urlon.me/ZoJ" group-title="ANIMACAO/INFANTIL",Tá Chovendo Hambúrguer 2 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43901.mp4
+#EXTINF:-1 tvg-name="Tá Dando Onda - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLrjGHONC7CsUjClHHRI8rzoDwZ.jpg" group-title="ANIMACAO/INFANTIL",Tá Dando Onda - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/126088.mp4
+#EXTINF:-1 tvg-name="Ta Dando Onda 2 - 2017" tvg-logo="http://5ce.me:80/images/fiCW7altJzbK0Vfq32vfEssDotR_big.jpg" group-title="ANIMACAO/INFANTIL",Ta Dando Onda 2 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/141523.mp4
+#EXTINF:-1 tvg-name="Tarzan - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urlu2XhSCA8gQypBJmc1nsRQz1Y.jpg" group-title="ANIMACAO/INFANTIL",Tarzan - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61714.mp4
+#EXTINF:-1 tvg-name="Tempo de Melodia - 1948" tvg-logo="http://urlon.me/ZgY10N" group-title="ANIMACAO/INFANTIL",Tempo de Melodia - 1948
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67800.mp4
+#EXTINF:-1 tvg-name="Tesouros da Disney 1935 a 1951 - 2004" tvg-logo="http://5ce.me:80/images/17ewGIBdTlFaFM8ES6KdDhVkp2o_big.jpg" group-title="ANIMACAO/INFANTIL",Tesouros da Disney 1935 a 1951- 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/135314.mp4
+#EXTINF:-1 tvg-name="Shrek - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg" group-title="ANIMACAO/INFANTIL",Shrek - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43812.mp4
+#EXTINF:-1 tvg-name="Shrek 2 - 2004" tvg-logo="http://urlon.me/ZNt" group-title="ANIMACAO/INFANTIL",Shrek 2 - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43809.mp4
+#EXTINF:-1 tvg-name="Shrek Para Sempre - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg" group-title="ANIMACAO/INFANTIL",Shrek Para Sempre - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43806.mp4
+#EXTINF:-1 tvg-name="Shrek Terceiro - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg" group-title="ANIMACAO/INFANTIL",Shrek Terceiro - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43803.mp4
+#EXTINF:-1 tvg-name="Sinbad - A Lenda dos Sete Mares - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg" group-title="ANIMACAO/INFANTIL",Sinbad - A Lenda dos Sete Mares - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69831.mp4
+#EXTINF:-1 tvg-name="Sing - Quem Canta Seus Males Espanta - 2016" tvg-logo="http://urlon.me/Zer" group-title="ANIMACAO/INFANTIL",Sing - Quem Canta Seus Males Espanta - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43888.mp4
+#EXTINF:-1 tvg-name="Sing 2 - 2021" tvg-logo="http://5ce.co:80/images/aWeKITRFbbwY8txG5uCj4rMCfSP_big.jpg" group-title="ANIMACAO/INFANTIL",Sing 2 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201458.mp4
+#EXTINF:-1 tvg-name="Snoopy Apresenta: Feliz Ano Novo, Lucy - 2021" tvg-logo="http://5ce.co:80/images/bqx5WTWPX4H4g9LUCmnrtg9BIPZ_big.jpg" group-title="ANIMACAO/INFANTIL",Snoopy Apresenta: Feliz Ano Novo, Lucy - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194589.mp4
+#EXTINF:-1 tvg-name="Snoopy e Charlie Brown: Peanuts, O Filme - 2015" tvg-logo="http://urlon.me/OkB" group-title="ANIMACAO/INFANTIL",Snoopy e Charlie Brown: Peanuts, O Filme - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61712.mp4
+#EXTINF:-1 tvg-name="Sociedade da Justiça: 2ª Guerra Mundial - 2021" tvg-logo="http://5ce.me:80/images/haFimehtZoP6rSz53kEqXSKianS_big.jpg" group-title="ANIMACAO/INFANTIL",Sociedade da Justiça: 2ª Guerra Mundial - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156802.mp4
+#EXTINF:-1 tvg-name="Sonhos S.A. - 2020" tvg-logo="http://cms-central.co:80/images/dV9Ur1L7spy6irGNOlTWU5RG3b4_big.jpg" group-title="ANIMACAO/INFANTIL",Sonhos S.A. - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154245.mp4
+#EXTINF:-1 tvg-name="Soul - Uma Aventura com Alma - 2020" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg" group-title="ANIMACAO/INFANTIL",Soul - Uma Aventura com Alma - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137530.mp4
+#EXTINF:-1 tvg-name="South Park: Pós-Covid - A Volta Da Covid - 2021" tvg-logo="http://5ce.co:80/images/xD88mrJ8hsqYVqQ6kinNNGQLdg1_big.jpg" group-title="ANIMACAO/INFANTIL",South Park: Pós-Covid - A Volta Da Covid - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196574.mp4
+#EXTINF:-1 tvg-name="Space Jam - O Jogo do Século - 1996" tvg-logo="http://urlon.me/OkN" group-title="ANIMACAO/INFANTIL",Space Jam - O Jogo do Século - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61713.mp4
+#EXTINF:-1 tvg-name="Space Jam: Um Novo Legado - 2021" tvg-logo="http://5ce.me:80/images/5bFK5d3mVTAvBCXi5NPWH0tYjKl_big.jpg" group-title="ANIMACAO/INFANTIL",Space Jam: Um Novo Legado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/173277.mp4
+#EXTINF:-1 tvg-name="Spark - Uma Aventura Espacial - 2017" tvg-logo="http://urlon.me/ZgY1dr" group-title="ANIMACAO/INFANTIL",Spark - Uma Aventura Espacial - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43800.mp4
+#EXTINF:-1 tvg-name="Spirit -  O Corcel Indomável - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jycgp5AdZFKj2Qh2VACG9ilK93l.jpg" group-title="ANIMACAO/INFANTIL",Spirit -  O Corcel Indomável - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43797.mp4
+#EXTINF:-1 tvg-name="Spirit: O Indomável - 2021" tvg-logo="http://5ce.co:80/images/dSFaiG2xgwq2Z0ceUXPyfxnITC8_big.jpg" group-title="ANIMACAO/INFANTIL",Spirit: O Indomável - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/183826.mp4
+#EXTINF:-1 tvg-name="STAND BY ME Doraemon 2 - 2022" tvg-logo="http://5ce.co:80/images/7BYnS5w8pDrCUa801f2A0aubKk0_big.jpg" group-title="ANIMACAO/INFANTIL",STAND BY ME Doraemon 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199902.mp4
+#EXTINF:-1 tvg-name="StarBeam - Aventura de Ano-Novo - 2021" tvg-logo="http://5ce.co:80/images/wEg51AiGCVdMb3GwylnTD8dfySZ_big.jpg" group-title="ANIMACAO/INFANTIL",StarBeam - Aventura de Ano-Novo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194906.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo Halloween - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg" group-title="ANIMACAO/INFANTIL",Scooby-Doo Halloween - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124699.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo!: O Misterio Começa - 2009" tvg-logo="http://urlon.me/ZNV" group-title="ANIMACAO/INFANTIL",Scooby-Doo!: O Misterio Começa - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43813.mp4
+#EXTINF:-1 tvg-name="SCOOBY O Filme - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg" group-title="ANIMACAO/INFANTIL",SCOOBY O Filme - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/114580.mp4
+#EXTINF:-1 tvg-name="Selvagem - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDnDREbW2eNjd9KvjVKtnNf5A5Y.jpg" group-title="ANIMACAO/INFANTIL",Selvagem - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/122252.mp4
+#EXTINF:-1 tvg-name="Shaun the Sheep: The Flight Before Christmas - 2021" tvg-logo="http://5ce.co:80/images/1eh6Yv6bAU2ghHxP1zgUlMfaOR3_big.jpg" group-title="ANIMACAO/INFANTIL",Shaun the Sheep: The Flight Before Christmas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193567.mp4
+#EXTINF:-1 tvg-name="Shaun, O Carneiro - O Filme: A Fazenda Contra-Ataca - 2019" tvg-logo="http://cms-central.co:80/images/uVr8U96Pbj7sLk9qX6EQ8s3eTin_big.jpg" group-title="ANIMACAO/INFANTIL",Shaun, O Carneiro - O Filme: A Fazenda Contra-Ataca - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/155570.mp4
+#EXTINF:-1 tvg-name="Shaun, o Carneiro: O Filme - 2015" tvg-logo="http://urlon.me/ZgYY2z" group-title="ANIMACAO/INFANTIL",Shaun, o Carneiro: O Filme - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/83564.mp4
+#EXTINF:-1 tvg-name="Shopkins - World Vacation - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiyqUqxSSXOR7MydX2iKhaAoasp.jpg" group-title="ANIMACAO/INFANTIL",Shopkins - World Vacation - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/113539.mp4
+#EXTINF:-1 tvg-name="Shopkins: Aventura Selvagem - 2018" tvg-logo="http://urlon.me/OkC" group-title="ANIMACAO/INFANTIL",Shopkins: Aventura Selvagem - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61711.mp4
+#EXTINF:-1 tvg-name="Sapatinho Vermelho e os Sete Anões - 2019" tvg-logo="http://5ce.me:80/images/eqrSjDbIN4beOs7BwpZJNM3OpBr_big.jpg" group-title="ANIMACAO/INFANTIL",Sapatinho Vermelho e os Sete Anões - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/146019.mp4
+#EXTINF:-1 tvg-name="Sargento Stubby - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XVsObudHhHJrNLB5l08yyZ8P6o.jpg" group-title="ANIMACAO/INFANTIL",Sargento Stubby - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/97952.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo - 2002" tvg-logo="http://5ce.co:80/images/98zsG0FX7z6R4i5q0HONLM21dpt_big.jpg" group-title="ANIMACAO/INFANTIL",Scooby-Doo - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204275.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo 2: Monstros à Solta - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2K8t5nybJfoVOHulIq4ONyeSi0.jpg" group-title="ANIMACAO/INFANTIL",Scooby-Doo 2: Monstros à Solta - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/122812.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! De Volta à Ilha dos Zumbis - 2019" tvg-logo="http://urlon.me/Oks" group-title="ANIMACAO/INFANTIL",Scooby-Doo! De Volta à Ilha dos Zumbis - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61709.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo e o Fantasma Gourmet - 2018" tvg-logo="http://urlon.me/OkR" group-title="ANIMACAO/INFANTIL",Scooby-Doo e o Fantasma Gourmet - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61710.mp4
+#EXTINF:-1 tvg-name="Por Água Abaixo - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vLUH6eedXqWWfUKxndjzf1nDgC.jpg" group-title="ANIMACAO/INFANTIL",Por Água Abaixo - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43893.mp4
+#EXTINF:-1 tvg-name="Porta dos Fundos: Te Prego Lá Fora - 2021" tvg-logo="http://5ce.co:80/images/k06TIjqtbwplF2Q0EIHT229qUvC_big.jpg" group-title="ANIMACAO/INFANTIL",Porta dos Fundos: Te Prego Lá Fora - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194745.mp4
+#EXTINF:-1 tvg-name="Princesinha Sofia - Era Uma Vez - 2012" tvg-logo="http://5ce.co:80/images/znnOjcIOE6bbuwpBSKPU3WfCUpj_big.jpg" group-title="ANIMACAO/INFANTIL",Princesinha Sofia - Era Uma Vez - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165044.mp4
+#EXTINF:-1 tvg-name="Procurando Dory - 2016" tvg-logo="http://urlon.me/OkA" group-title="ANIMACAO/INFANTIL",Procurando Dory - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61706.mp4
+#EXTINF:-1 tvg-name="Procurando Nemo - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djbivExXSZb0sTO8uYaaQC5vMRM.jpg" group-title="ANIMACAO/INFANTIL",Procurando Nemo - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43831.mp4
+#EXTINF:-1 tvg-name="Próxima Parada: Lar Doce Lar - 2021" tvg-logo="http://5ce.co:80/images/zNXNRLH5wJprUG6B1olaBTNZOjy_big.jpg" group-title="ANIMACAO/INFANTIL",Próxima Parada: Lar Doce Lar - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194428.mp4
+#EXTINF:-1 tvg-name="Psiconautas, os Filhos Esquecidos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bohGnWzHPX4k8lTNoqk6kEg2k2q.jpg" group-title="ANIMACAO/INFANTIL",Psiconautas, os Filhos Esquecidos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45834.mkv
+#EXTINF:-1 tvg-name="Rabbids: A Invasão – Missão para Marte - 2022" tvg-logo="http://5ce.co:80/images/pHM0DBDnvFlxIvwPckaVIV6KbLw_big.jpg" group-title="ANIMACAO/INFANTIL",Rabbids: A Invasão – Missão para Marte - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201224.mp4
+#EXTINF:-1 tvg-name="Racetime - Hora da Corrida - 2018" tvg-logo="http://urlon.me/ZgY1tX" group-title="ANIMACAO/INFANTIL",Racetime - Hora da Corrida - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67656.mp4
+#EXTINF:-1 tvg-name="Rango - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwsHEw5IWOx6cjrgAsMPlYm0J6h.jpg" group-title="ANIMACAO/INFANTIL",Rango - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43825.mp4
+#EXTINF:-1 tvg-name="Ratatouille - 2007" tvg-logo="http://5ce.me:80/images/t3vaWRPSf6WjDSamIkKDs1iQWna_big.jpg" group-title="ANIMACAO/INFANTIL",Ratatouille - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211668.mp4
+#EXTINF:-1 tvg-name="Raya e o Último Dragão - 2021" tvg-logo="http://5ce.me:80/images/yXrb84zJidCefyhTWHwo4yCDvwz_big.jpg" group-title="ANIMACAO/INFANTIL",Raya e o Último Dragão - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145019.mp4
+#EXTINF:-1 tvg-name="Reino do Superman - 2019" tvg-logo="http://urlon.me/Zrg" group-title="ANIMACAO/INFANTIL",Reino do Superman - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43824.mp4
+#EXTINF:-1 tvg-name="Reino Escondido - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJKRz3JV4mg68IpB4DEmSggH9zH.jpg" group-title="ANIMACAO/INFANTIL",Reino Escondido - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61708.mp4
+#EXTINF:-1 tvg-name="Resident Evil: A Vingança - 2017" tvg-logo="http://5ce.co:80/images/qF0R9nx8gtne6tdhVt4lMxXXVvE_big.jpg" group-title="ANIMACAO/INFANTIL",Resident Evil: A Vingança - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203176.mp4
+#EXTINF:-1 tvg-name="Rio - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQwLqNwEpnibu5TDaQx66UJ3gKX.jpg" group-title="ANIMACAO/INFANTIL",Rio - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43817.mp4
+#EXTINF:-1 tvg-name="Rio 2 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urFzh1shUnJCzc6eI7MqV4RsJWP.jpg" group-title="ANIMACAO/INFANTIL",Rio 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43815.mp4
+#EXTINF:-1 tvg-name="Riverdance: Uma Aventura Dançante - 2021" tvg-logo="http://5ce.me:80/images/yn9DrhUBPrUTFEUHtdXSxgWcFTA_big.jpg" group-title="ANIMACAO/INFANTIL",Riverdance: Uma Aventura Dançante - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198325.mp4
+#EXTINF:-1 tvg-name="Robôs - 2005" tvg-logo="http://5ce.co:80/images/tC9hcesF7QpMFuB6MvQg900VUyX_big.jpg" group-title="ANIMACAO/INFANTIL",Robôs - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158387.mp4
+#EXTINF:-1 tvg-name="Rock Dog - No Faro do Sucesso - 2016" tvg-logo="http://5ce.co:80/images/vR5u9IQkxFHc2FXC1JkMCQ8GkEe_big.jpg" group-title="ANIMACAO/INFANTIL",Rock Dog - No Faro do Sucesso - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188542.mp4
+#EXTINF:-1 tvg-name="Rock Dog - Uma Estrela Renasce - 2021" tvg-logo="http://5ce.co:80/images/kETYRGA15L0wkVPugSl8lKmSgFn_big.jpg" group-title="ANIMACAO/INFANTIL",Rock Dog - Uma Estrela Renasce - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185783.mp4
+#EXTINF:-1 tvg-name="Ron Bugado - 2021" tvg-logo="http://5ce.co:80/images/h8eqqC9KLoN8TUe1EXtIqwX8BpP_big.jpg" group-title="ANIMACAO/INFANTIL",Ron Bugado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194748.mp4
+#EXTINF:-1 tvg-name="100 Lobo - 2020" tvg-logo="http://5ce.me:80/images/n1oFUoYmj4JuJl5T417VQnZNCgB_big.jpg" group-title="ANIMACAO/INFANTIL",100 Lobo - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/143909.mp4
+#EXTINF:-1 tvg-name="101 Dálmatas - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sytZMXtuWlqqYs5lOzt5yjwFiAE.jpg" group-title="ANIMACAO/INFANTIL",101 Dálmatas - 1961
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45837.mp4
+#EXTINF:-1 tvg-name="101 Dálmatas 2 - A Aventura de Patch em Londres - 2003" tvg-logo="http://urlon.me/ZgY1mx" group-title="ANIMACAO/INFANTIL",101 Dálmatas 2 - A Aventura de Patch em Londres - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/50661.mp4
+#EXTINF:-1 tvg-name="9 Satra - A Lenda do Muay Thai - 2018" tvg-logo="http://5ce.co:80/images/pQPKRpI34LtQ16WKhYKqh1dIbMK_big.jpg" group-title="ANIMACAO/INFANTIL",9 Satra - A Lenda do Muay Thai - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208757.mp4
+#EXTINF:-1 tvg-name="A Abelha Maya: O Filme - 2014" tvg-logo="http://urlon.me/ZRk" group-title="ANIMACAO/INFANTIL",A Abelha Maya: O Filme - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43594.mp4
+#EXTINF:-1 tvg-name="A Abelhinha Maya e O Ovo Dourado - 2021" tvg-logo="http://5ce.co:80/images/nA6Jg8fLhJtabQYozYOUM3GzXs7_big.jpg" group-title="ANIMACAO/INFANTIL",A Abelhinha Maya e O Ovo Dourado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187661.mp4
+#EXTINF:-1 tvg-name="A Árvore dos Desejos - 2020" tvg-logo="http://5ce.me:80/images/jbNYpZoe1TMw2L78VGS8NTspAwj_big.jpg" group-title="ANIMACAO/INFANTIL",A Árvore dos Desejos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137180.mp4
+#EXTINF:-1 tvg-name="A aventura de ARI: meu amigo robô - 2021" tvg-logo="http://5ce.co:80/images/txcjXiyhBvsSFyZtgCHWW7CyIeN_big.jpg" group-title="ANIMACAO/INFANTIL",A aventura de ARI: meu amigo robô - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200536.mp4
+#EXTINF:-1 tvg-name="A Bailarina - 2016" tvg-logo="http://urlon.me/ZgY1d5" group-title="ANIMACAO/INFANTIL",A Bailarina - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43588.mp4
+#EXTINF:-1 tvg-name="A Bela Adormecida - 1959" tvg-logo="http://urlon.me/ZgY10h" group-title="ANIMACAO/INFANTIL",A Bela Adormecida - 1959
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67776.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera - 1991" tvg-logo="http://5ce.me:80/images/k69nGBs0nw1L3ZnAibCl9u5eNvo_big.jpg" group-title="ANIMACAO/INFANTIL",A Bela e a Fera - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150237.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera: O Natal Encantado - 1997" tvg-logo="http://5ce.co:80/images/bkNjZN0gQtlsA0ZkAr3weIh9m7C_big.jpg" group-title="ANIMACAO/INFANTIL",A Bela e a Fera: O Natal Encantado - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185922.mp4
+#EXTINF:-1 tvg-name="A Caminho da Lua - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jalZ1oVkuuVXek0B2BKrFWMUv9.jpg" group-title="ANIMACAO/INFANTIL",A Caminho da Lua - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/126085.mp4
+#EXTINF:-1 tvg-name="A Canção do Oceano - 2014" tvg-logo="http://urlon.me/ZgY109" group-title="ANIMACAO/INFANTIL",A Canção do Oceano - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67778.mp4
+#EXTINF:-1 tvg-name="A Casa Monstro - 2006" tvg-logo="http://urlon.me/ZRd" group-title="ANIMACAO/INFANTIL",A Casa Monstro - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43577.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo - 1955" tvg-logo="http://urlon.me/ZgY17M" group-title="ANIMACAO/INFANTIL",A Dama e o Vagabundo - 1955
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59649.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="http://urlon.me/ZgY1N5" group-title="ANIMACAO/INFANTIL",A Dama e o Vagabundo - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69839.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo 2: As Aventuras de Banzé - 2001" tvg-logo="http://urlon.me/ZgY1WL" group-title="ANIMACAO/INFANTIL",A Dama e o Vagabundo 2: As Aventuras de Banzé - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69466.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo - A Grande Caçada aos Ovos de Páscoa - 2016" tvg-logo="http://urlon.me/ZgY1h4" group-title="ANIMACAO/INFANTIL",A Era do Gelo - A Grande Caçada aos Ovos de Páscoa - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43558.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 1 - 2002" tvg-logo="http://urlon.me/Z24" group-title="ANIMACAO/INFANTIL",A Era do Gelo 1 - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43571.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 2 - 2006" tvg-logo="http://urlon.me/ZgY1dg" group-title="ANIMACAO/INFANTIL",A Era do Gelo 2 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43567.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 3 - 2009" tvg-logo="http://urlon.me/Z2V" group-title="ANIMACAO/INFANTIL",A Era do Gelo 3 - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43564.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 4 - 2012" tvg-logo="http://urlon.me/ZgY1hL" group-title="ANIMACAO/INFANTIL",A Era do Gelo 4 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43561.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo: O Big Bang - 2016" tvg-logo="http://5ce.co:80/images/gh9LEW4bzN2nuDfyViLqWSV67sa_big.jpg" group-title="ANIMACAO/INFANTIL",A Era do Gelo: O Big Bang - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187409.mp4
+#EXTINF:-1 tvg-name="A Espada Era a Lei - 1963" tvg-logo="http://urlon.me/ZgY10O" group-title="ANIMACAO/INFANTIL",A Espada Era a Lei - 1963
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67777.mp4
+#EXTINF:-1 tvg-name="A Estrela de Belém - 2017" tvg-logo="http://urlon.me/ZgYY0L" group-title="ANIMACAO/INFANTIL",A Estrela de Belém - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81706.mp4
+#EXTINF:-1 tvg-name="A Família Addams - 2019" tvg-logo="http://urlon.me/OGh" group-title="ANIMACAO/INFANTIL",A Família Addams - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61247.mp4
+#EXTINF:-1 tvg-name="A Família Addams 2: Pé na Estrada - 2021" tvg-logo="http://5ce.co:80/images/ig0RMUyjiAw7hdCRsXYnOCKSucg_big.jpg" group-title="ANIMACAO/INFANTIL",A Família Addams 2: Pé na Estrada - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194497.mp4
+#EXTINF:-1 tvg-name="A Família do Futuro - 2007" tvg-logo="http://urlon.me/ZgY1ho" group-title="ANIMACAO/INFANTIL",A Família do Futuro - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43556.mp4
+#EXTINF:-1 tvg-name="A Família Mitchell e a Revolta das Máquinas - 2021" tvg-logo="http://5ce.me:80/images/gmnAu2G9EvHbUYTiT6eNd6XlaBx_big.jpg" group-title="ANIMACAO/INFANTIL",A Família Mitchell e a Revolta das Máquinas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156551.mp4
+#EXTINF:-1 tvg-name="A Fuga Das Galinhas - 2000" tvg-logo="http://urlon.me/Z2q" group-title="ANIMACAO/INFANTIL",A Fuga Das Galinhas - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43554.mp4
+#EXTINF:-1 tvg-name="A Fuga do Planeta Terra - 2013" tvg-logo="http://urlon.me/Z2Q" group-title="ANIMACAO/INFANTIL",A Fuga do Planeta Terra - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43553.mp4
+#EXTINF:-1 tvg-name="A Galinha Turuleca - 2019" tvg-logo="http://5ce.me:80/images/cf3LFFa8BSJvQnPyZhCHmKUpptX_big.jpg" group-title="ANIMACAO/INFANTIL",A Galinha Turuleca - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211502.mp4
+#EXTINF:-1 tvg-name="A Guarda do Leão - Um Novo Rugido - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcsp12VyKiWdxRegsCD76MMJbLw.jpg" group-title="ANIMACAO/INFANTIL",A Guarda do Leão - Um Novo Rugido - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43551.mp4
+#EXTINF:-1 tvg-name="A Ilha dos Monstros - 2017" tvg-logo="http://urlon.me/Z2Y" group-title="ANIMACAO/INFANTIL",A Ilha dos Monstros - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43550.mp4
+#EXTINF:-1 tvg-name="A Incrível História da Pera Gigante - 2017" tvg-logo="http://urlon.me/ZgYMZp" group-title="ANIMACAO/INFANTIL",A Incrível História da Pera Gigante - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/93700.mp4
+#EXTINF:-1 tvg-name="A Jornada de Vivo - 2021" tvg-logo="http://5ce.co:80/images/qNxZ40JG87gsSy8t1k1uGFmHCvM_big.jpg" group-title="ANIMACAO/INFANTIL",A Jornada de Vivo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178379.mp4
+#EXTINF:-1 tvg-name="A Lenda da Passagem Secreta - 2019" tvg-logo="http://urlon.me/ZgY17k" group-title="ANIMACAO/INFANTIL",A Lenda da Passagem Secreta - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60227.mp4
+#EXTINF:-1 tvg-name="A Lenda do Pato Sol - 2016" tvg-logo="http://urlon.me/OlQ" group-title="ANIMACAO/INFANTIL",A Lenda do Pato Sol - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61621.mp4
+#EXTINF:-1 tvg-name="A Lenda dos Guardiões - 2010" tvg-logo="http://urlon.me/ZgY19F" group-title="ANIMACAO/INFANTIL",A Lenda dos Guardiões - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44288.mp4
+#EXTINF:-1 tvg-name="A Menina e o Porquinho - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99VFNWidqSTJWamzBOJflFzeh2I.jpg" group-title="ANIMACAO/INFANTIL",A Menina e o Porquinho - 1973
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104699.mp4
+#EXTINF:-1 tvg-name="A Morte e o Retorno do Superman - 2019" tvg-logo="http://urlon.me/5dK" group-title="ANIMACAO/INFANTIL",A Morte e o Retorno do Superman - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66543.mp4
+#EXTINF:-1 tvg-name="A Noiva Cadáver - 2005" tvg-logo="http://urlon.me/ZgY1hW" group-title="ANIMACAO/INFANTIL",A Noiva Cadáver - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43547.mp4
+#EXTINF:-1 tvg-name="A Nova Onda do Imperador - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN4nsXWzASSjYUIHUkwSJQ6b2UW.jpg" group-title="ANIMACAO/INFANTIL",A Nova Onda do Imperador - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61622.mp4
+#EXTINF:-1 tvg-name="A Origem dos Guardiões - 2012" tvg-logo="http://urlon.me/Z2X" group-title="ANIMACAO/INFANTIL",A Origem dos Guardiões - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43546.mp4
+#EXTINF:-1 tvg-name="A Pequena Sereia - 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg" group-title="ANIMACAO/INFANTIL",A Pequena Sereia - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43545.mp4
+#EXTINF:-1 tvg-name="A Pequena Sereia II - O Retorno Para o Mar - 2000" tvg-logo="http://urlon.me/ZgY1hp" group-title="ANIMACAO/INFANTIL",A Pequena Sereia II - O Retorno Para o Mar - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43543.mp4
+#EXTINF:-1 tvg-name="A Pequena Sereia: A História de Ariel - 2008" tvg-logo="http://urlon.me/ZgY1hc" group-title="ANIMACAO/INFANTIL",A Pequena Sereia: A História de Ariel - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43541.mp4
+#EXTINF:-1 tvg-name="A princesa e a ervilha - 2002" tvg-logo="http://urlon.me/ZgY1WE" group-title="ANIMACAO/INFANTIL",A princesa e a ervilha - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69467.mp4
+#EXTINF:-1 tvg-name="A Princesa e o Dragão - 2018" tvg-logo="http://urlon.me/OUV" group-title="ANIMACAO/INFANTIL",A Princesa e o Dragão - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60239.mp4
+#EXTINF:-1 tvg-name="A Princesa e o Sapo - 2009" tvg-logo="http://urlon.me/ZgY1h0" group-title="ANIMACAO/INFANTIL",A Princesa e o Sapo - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43540.mp4
+#EXTINF:-1 tvg-name="A Princesa Encantada  O Casamento Real - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VnFR68Yto8p78c7y5rW4eaExhR.jpg" group-title="ANIMACAO/INFANTIL",A Princesa Encantada  O Casamento Real - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/117350.mp4
+#EXTINF:-1 tvg-name="A Princesa Encantada - 1994" tvg-logo="http://urlon.me/ZgY1IM" group-title="ANIMACAO/INFANTIL",A Princesa Encantada - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69671.mp4
+#EXTINF:-1 tvg-name="A Ratinha Valente - 1982" tvg-logo="http://urlon.me/ZgY1Cg" group-title="ANIMACAO/INFANTIL",A Ratinha Valente - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69468.mp4
+#EXTINF:-1 tvg-name="A Ratinha Valente 2 - O Segredo Do Ratinho - 1998" tvg-logo="http://urlon.me/ZgY1C6" group-title="ANIMACAO/INFANTIL",A Ratinha Valente 2 - O Segredo Do Ratinho - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69469.mp4
+#EXTINF:-1 tvg-name="A Sabiá Sabiazinha - 2021" tvg-logo="http://5ce.co:80/images/bKIdlJbd17rrIm4oZzhXTbmqpon_big.jpg" group-title="ANIMACAO/INFANTIL",A Sabiá Sabiazinha - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/192362.mp4
+#EXTINF:-1 tvg-name="A Vida Moderna de Rocko: Volta ao Lar - 2019" tvg-logo="http://urlon.me/ZgY1NQ" group-title="ANIMACAO/INFANTIL",A Vida Moderna de Rocko: Volta ao Lar - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69847.mp4
+#EXTINF:-1 tvg-name="Abominável - 2019 " tvg-logo="http://5ce.me:80/images/oC89hsRFoF4OcrgYIKysDD7M6XO_big.jpg" group-title="ANIMACAO/INFANTIL",Abominável - 2019 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154184.mp4
+#EXTINF:-1 tvg-name="Agência Secreta de Controle de Magias - 2021" tvg-logo="http://5ce.me:80/images/B3Xz48iyIh9ejffVtfCxwzTO7n_big.jpg" group-title="ANIMACAO/INFANTIL",Agência Secreta de Controle de Magias - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/149423.mp4
+#EXTINF:-1 tvg-name="Ainbo: A Guerreira da Amazônia - 2021" tvg-logo="http://5ce.co:80/images/xGkmm8YB1HzM3GaQ3FBv1NTwWxS_big.jpg" group-title="ANIMACAO/INFANTIL",Ainbo: A Guerreira da Amazônia - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196776.mp4
+#EXTINF:-1 tvg-name="Aladdin - 1992" tvg-logo="http://urlon.me/ZgY1aU" group-title="ANIMACAO/INFANTIL",Aladdin - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69811.mp4
+#EXTINF:-1 tvg-name="Aladdin - O Retorno de Jafar - 1994" tvg-logo="http://urlon.me/ZgY1a3" group-title="ANIMACAO/INFANTIL",Aladdin - O Retorno de Jafar - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69812.mp4
+#EXTINF:-1 tvg-name="Aladdin e os 40 Ladrões - 1996" tvg-logo="http://urlon.me/ZgY1aY" group-title="ANIMACAO/INFANTIL",Aladdin e os 40 Ladrões - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69813.mp4
+#EXTINF:-1 tvg-name="Alice no País das Maravilhas - 1951" tvg-logo="http://urlon.me/ZgY1aG" group-title="ANIMACAO/INFANTIL",Alice no País das Maravilhas - 1951
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69814.mp4
+#EXTINF:-1 tvg-name="Alô, Amigos - 1942" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWWITF02c1M1w6Q4jTFuC5KqTc7.jpg" group-title="ANIMACAO/INFANTIL",Alô, Amigos - 1942
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67779.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos - 2007" tvg-logo="http://urlon.me/ZgY1hw" group-title="ANIMACAO/INFANTIL",Alvin e os Esquilos - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43532.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos 2 - 2009" tvg-logo="http://urlon.me/ZgY1h8" group-title="ANIMACAO/INFANTIL",Alvin e os Esquilos 2 - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43530.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos 3 - 2011" tvg-logo="http://urlon.me/ZgY1hk" group-title="ANIMACAO/INFANTIL",Alvin e os Esquilos 3 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43528.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos 4 - Na Estrada - 2015" tvg-logo="http://urlon.me/ZsI" group-title="ANIMACAO/INFANTIL",Alvin e os Esquilos 4 - Na Estrada - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43534.mp4
+#EXTINF:-1 tvg-name="Amarelo é o Novo Preto - 2018" tvg-logo="http://urlon.me/ZgY1Z5" group-title="ANIMACAO/INFANTIL",Amarelo é o Novo Preto - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43014.mp4
+#EXTINF:-1 tvg-name="America: The Motion Picture - 2021" tvg-logo="http://5ce.co:80/images/j0HnLa6FtGcslbqClKOIyvCXfpe_big.jpg" group-title="ANIMACAO/INFANTIL",America: The Motion Picture - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170486.mp4
+#EXTINF:-1 tvg-name="Amigos Alienígenas - 2018" tvg-logo="http://urlon.me/ZF8" group-title="ANIMACAO/INFANTIL",Amigos Alienígenas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42773.mp4
+#EXTINF:-1 tvg-name="Anastasia - 1997" tvg-logo="http://urlon.me/ZgY1Fx" group-title="ANIMACAO/INFANTIL",Anastasia - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61641.mp4
+#EXTINF:-1 tvg-name="Angry Birds 1 - O Filme - 2016" tvg-logo="http://urlon.me/ZgY1hq" group-title="ANIMACAO/INFANTIL",Angry Birds 1 - O Filme - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43526.mp4
+#EXTINF:-1 tvg-name="Angry Birds 2 - O Filme - 2019" tvg-logo="http://5ce.co:80/images/pMqAjEyj234escPleCthcmh84ka_big.jpg" group-title="ANIMACAO/INFANTIL",Angry Birds 2 - O Filme - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60203.mp4
+#EXTINF:-1 tvg-name="Animais em Apuros -2018" tvg-logo="http://urlon.me/ZgY1Sw" group-title="ANIMACAO/INFANTIL",Animais em Apuros -2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/72861.mp4
+#EXTINF:-1 tvg-name="Apenas um Show: O Filme - 2015" tvg-logo="http://urlon.me/ZgY1hQ" group-title="ANIMACAO/INFANTIL",Apenas um Show: O Filme - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43524.mp4
+#EXTINF:-1 tvg-name="Aqui Estamos Nós: notas sobre como viver no planeta Terra - 2020" tvg-logo="http://urlon.me/ZgYY7G" group-title="ANIMACAO/INFANTIL",Aqui Estamos Nós: notas sobre como viver no planeta Terra - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80470.mp4
+#EXTINF:-1 tvg-name="Arctic Dogs - 2019" tvg-logo="http://urlon.me/ZgY1AP" group-title="ANIMACAO/INFANTIL",Arctic Dogs - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67813.mp4
+#EXTINF:-1 tvg-name="Aristogatas - 1970" tvg-logo="http://urlon.me/ZgY1aF" group-title="ANIMACAO/INFANTIL",Aristogatas - 1970
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69815.mp4
+#EXTINF:-1 tvg-name="Arlo, o Menino Jacaré - 2021" tvg-logo="http://cms-central.co:80/images/oOQMJM7G2W8v2AEK722k8welIJY_big.jpg" group-title="ANIMACAO/INFANTIL",Arlo, o Menino Jacaré - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154195.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Azur e Asmar - 2006" tvg-logo="http://urlon.me/ZgY1aQ" group-title="ANIMACAO/INFANTIL",As Aventuras de Azur e Asmar - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69816.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Fujiwara Manchester: O Filme - 2019" tvg-logo="http://urlon.me/ZgY1ZF" group-title="ANIMACAO/INFANTIL",As Aventuras de Fujiwara Manchester: O Filme - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43109.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Ichabod e Sr. Sapo - 1949" tvg-logo="http://urlon.me/ZgY1aq" group-title="ANIMACAO/INFANTIL",As Aventuras de Ichabod e Sr. Sapo - 1949
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69817.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Ozzy - 2016" tvg-logo="http://urlon.me/ZK5" group-title="ANIMACAO/INFANTIL",As Aventuras de Ozzy - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42993.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Paddington - 2014" tvg-logo="http://urlon.me/ZgY1lT" group-title="ANIMACAO/INFANTIL",As Aventuras de Paddington - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66226.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Paddington 2 - 2017" tvg-logo="http://urlon.me/ZgY1lm" group-title="ANIMACAO/INFANTIL",As Aventuras de Paddington 2 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66227.mp4
+#EXTINF:-1 tvg-name="As aventuras de Paddington 2 - 2018" tvg-logo="http://5ce.co:80/images/n7Kvh4mj28zqJ1ji3gClFKag3ES_big.jpg" group-title="ANIMACAO/INFANTIL",As aventuras de Paddington 2 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43772.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Peabody e Sherman - 2014" tvg-logo="http://urlon.me/ZgY1jj" group-title="ANIMACAO/INFANTIL",As Aventuras de Peabody e Sherman - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65352.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Peter Pan - 1953" tvg-logo="http://urlon.me/ZgY10C" group-title="ANIMACAO/INFANTIL",As Aventuras de Peter Pan - 1953
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67798.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Shoom - 2019" tvg-logo="http://5ce.co:80/images/fOoNsclGvm3RSMLKbEgPIcRkxRJ_big.jpg" group-title="ANIMACAO/INFANTIL",As Aventuras de Shoom - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204848.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo - 2012" tvg-logo="http://urlon.me/ZgY1hF" group-title="ANIMACAO/INFANTIL",As Aventuras de Tadeo - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43522.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo 2: O Segredo do Rei Midas - 2017" tvg-logo="http://urlon.me/ZgY1hY" group-title="ANIMACAO/INFANTIL",As Aventuras de Tadeo 2: O Segredo do Rei Midas - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43519.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tintim - 2011" tvg-logo="http://urlon.me/ZgY1h3" group-title="ANIMACAO/INFANTIL",As Aventuras de Tintim - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43518.mp4
+#EXTINF:-1 tvg-name="As Aventuras do Capitão Cueca - O Filme - 2017" tvg-logo="http://urlon.me/Olp" group-title="ANIMACAO/INFANTIL",As Aventuras do Capitão Cueca - O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61643.mp4
+#EXTINF:-1 tvg-name="As Aventuras do Ursinho Puff - 1977" tvg-logo="http://urlon.me/ZgY1al" group-title="ANIMACAO/INFANTIL",As Aventuras do Ursinho Puff - 1977
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69818.mp4
+#EXTINF:-1 tvg-name="As Fantasias de Nicolás - 2020" tvg-logo="http://5ce.me:80/images/razgQWxwMFXyhI6musNJBTgCUbb_big.jpg" group-title="ANIMACAO/INFANTIL",As Fantasias de Nicolás - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/151845.mp4
+#EXTINF:-1 tvg-name="As Meninas Superpoderosas - 2002" tvg-logo="http://urlon.me/ZgY1I7" group-title="ANIMACAO/INFANTIL",As Meninas Superpoderosas - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69672.mp4
+#EXTINF:-1 tvg-name="As Peripécias de um Ratinho Detetive - 1986" tvg-logo="http://urlon.me/ZgY1aI" group-title="ANIMACAO/INFANTIL",As Peripécias de um Ratinho Detetive - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69829.mp4
+#EXTINF:-1 tvg-name="Asterix Conquista a América - 1994" tvg-logo="http://urlon.me/ZgY107" group-title="ANIMACAO/INFANTIL",Asterix Conquista a América - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67784.mp4
+#EXTINF:-1 tvg-name="Asterix e o Domínio dos Deuses - 2014" tvg-logo="http://5ce.me:80/images/axLyPQz7Dln0a7tpl2iST60vTSY_big.jpg" group-title="ANIMACAO/INFANTIL",Asterix e o Domínio dos Deuses - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/173263.mp4
+#EXTINF:-1 tvg-name="Asterix e o Segredo da Poção Mágica - 2018" tvg-logo="http://urlon.me/ZgY1NF" group-title="ANIMACAO/INFANTIL",Asterix e o Segredo da Poção Mágica - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69846.mp4
+#EXTINF:-1 tvg-name="Astro Kid - 2019" tvg-logo="http://urlon.me/ZgY1Am" group-title="ANIMACAO/INFANTIL",Astro Kid - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67812.mp4
+#EXTINF:-1 tvg-name="Atlantis: O Reino Perdido - 2001" tvg-logo="http://urlon.me/ZgY1Fu" group-title="ANIMACAO/INFANTIL",Atlantis: O Reino Perdido - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61644.mp4
+#EXTINF:-1 tvg-name="Atlantis: O Retorno de Milo - 2003" tvg-logo="http://5ce.co:80/images/541LAj7Usd5SdgCuDCh0OnnJcmi_big.jpg" group-title="ANIMACAO/INFANTIL",Atlantis: O Retorno de Milo - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/191932.mp4
+#EXTINF:-1 tvg-name="Aventuras de Betty - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMZRPm4tcwdzfx7xu3sVzdNPVYi.jpg" group-title="ANIMACAO/INFANTIL",Aventuras de Betty - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/131296.mp4
+#EXTINF:-1 tvg-name="Aviões - 2013" tvg-logo="http://urlon.me/ZgY1hJ" group-title="ANIMACAO/INFANTIL",Aviões - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43515.mp4
+#EXTINF:-1 tvg-name="Aviões 2: Heróis do Fogo ao Resgate - 2014" tvg-logo="http://urlon.me/ZgY1hX" group-title="ANIMACAO/INFANTIL",Aviões 2: Heróis do Fogo ao Resgate - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43514.mp4
+#EXTINF:-1 tvg-name="Axel e os Meninos do Espaço - 2017" tvg-logo="http://urlon.me/ZgY1IP" group-title="ANIMACAO/INFANTIL",Axel e os Meninos do Espaço - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69669.mp4
+#EXTINF:-1 tvg-name="Balto - 1995" tvg-logo="http://5ce.co:80/images/yMREwJaQngERIqaHTIJ6RSQRexY_big.jpg" group-title="ANIMACAO/INFANTIL",Balto - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/172760.mp4
+#EXTINF:-1 tvg-name="Balto 2 - Uma Aventura na Terra do Gelo - 2002" tvg-logo="http://5ce.co:80/images/dZ958HnW3JO2pEZeedjmoZCV8Rn_big.jpg" group-title="ANIMACAO/INFANTIL",Balto 2 - Uma Aventura na Terra do Gelo - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182260.mp4
+#EXTINF:-1 tvg-name="Balto 3: Nas Asas do Destino - 2004" tvg-logo="http://5ce.co:80/images/3tKVHAMFTajrSLfU6gUgdubiXBG_big.jpg" group-title="ANIMACAO/INFANTIL",Balto 3: Nas Asas do Destino - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/172761.mp4
+#EXTINF:-1 tvg-name="Bambi - 1942" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqGWdxAYRH7uwFAhIIJdKkmCKob.jpg" group-title="ANIMACAO/INFANTIL",Bambi - 1942
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61645.mp4
+#EXTINF:-1 tvg-name="Bambi 2 - 2006" tvg-logo="http://urlon.me/ZgY1Fs" group-title="ANIMACAO/INFANTIL",Bambi 2 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61646.mp4
+#EXTINF:-1 tvg-name="Barbie - A Estrela do Rock - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wtDymu06JzOdF5FANz9Nl6Erqs.jpg" group-title="ANIMACAO/INFANTIL",Barbie - A Estrela do Rock - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85482.mp4
+#EXTINF:-1 tvg-name="Barbie - A Princesa & a Pop Star - 2012" tvg-logo="http://urlon.me/ZgYYeT" group-title="ANIMACAO/INFANTIL",Barbie - A Princesa & a Pop Star - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85782.mp4
+#EXTINF:-1 tvg-name="Barbie - Escola de Princesas - 2011" tvg-logo="http://urlon.me/ZgYYey" group-title="ANIMACAO/INFANTIL",Barbie - Escola de Princesas - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85789.mp4
+#EXTINF:-1 tvg-name="Barbie – Mistério da Sereia Mágica - 2019" tvg-logo="http://urlon.me/ZgYYe7" group-title="ANIMACAO/INFANTIL",Barbie – Mistério da Sereia Mágica - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85787.mp4
+#EXTINF:-1 tvg-name="Barbie Aventura da Princesa - 2020" tvg-logo="http://5ce.me:80/images/AwkmMTKJBAatbeAVhTwhcU3Pyp4_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie Aventura da Princesa - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150804.mp4
+#EXTINF:-1 tvg-name="Barbie como Rapunzel - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FgdtwT3Ln5PX4Sa0mkA70IPVXt.jpg" group-title="ANIMACAO/INFANTIL",Barbie como Rapunzel - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104706.mp4
+#EXTINF:-1 tvg-name="Barbie Dreamtopia: Festival da Alegria - 2017" tvg-logo="http://5ce.co:80/images/z2yMr33rR7LwGGgDNkyEuIjzgfc_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie Dreamtopia: Festival da Alegria - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186767.mp4
+#EXTINF:-1 tvg-name="Barbie e as Agentes Secretas - 2016" tvg-logo="http://urlon.me/ZsU" group-title="ANIMACAO/INFANTIL",Barbie e as Agentes Secretas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43512.mp4
+#EXTINF:-1 tvg-name="Barbie e as Sapatilhas Mágicas - 2013" tvg-logo="http://urlon.me/ZgYY4x" group-title="ANIMACAO/INFANTIL",Barbie e as Sapatilhas Mágicas - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/92139.mp4
+#EXTINF:-1 tvg-name="Barbie e As Três Mosqueteiras - 2009" tvg-logo="http://urlon.me/ZgYYeP" group-title="ANIMACAO/INFANTIL",Barbie e As Três Mosqueteiras - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85784.mp4
+#EXTINF:-1 tvg-name="Barbie e o Castelo de Diamante - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvjFM3GgYm3gDZ6Ulw0JurDYs4r.jpg" group-title="ANIMACAO/INFANTIL",Barbie e o Castelo de Diamante - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85788.mp4
+#EXTINF:-1 tvg-name="Barbie e o Portal Secreto - 2014" tvg-logo="http://urlon.me/ZgY1FR" group-title="ANIMACAO/INFANTIL",Barbie e o Portal Secreto - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61648.mp4
+#EXTINF:-1 tvg-name="Barbie e os Golfinhos Mágicos - 2017" tvg-logo="http://5ce.co:80/images/ePUgOakX5pokx1FV98py5jWnkJm_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie e os Golfinhos Mágicos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186768.mp4
+#EXTINF:-1 tvg-name="Barbie e Suas Irmãs em Uma Aventura de Cachorrinhos - 2015" tvg-logo="http://5ce.co:80/images/lhRdNP1wx1wnz5aZSHVXmvoTufs_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie e Suas Irmãs em Uma Aventura de Cachorrinhos - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186772.mp4
+#EXTINF:-1 tvg-name="Barbie em a Pequena Polegar - 2009" tvg-logo="http://urlon.me/ZgYYe9" group-title="ANIMACAO/INFANTIL",Barbie em a Pequena Polegar - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85781.mp4
+#EXTINF:-1 tvg-name="Barbie em a Princesa da Ilha - 2007" tvg-logo="http://urlon.me/ZgYYeM" group-title="ANIMACAO/INFANTIL",Barbie em a Princesa da Ilha - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85786.mp4
+#EXTINF:-1 tvg-name="Barbie em as 12 Princesas Bailarinas - 2006" tvg-logo="http://5ce.co:80/images/d1WbtY6ThUE2P7riFqmPIYCnUdi_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie em as 12 Princesas Bailarinas - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186769.mp4
+#EXTINF:-1 tvg-name="Barbie Em Um Mundo de Video Game - 2017" tvg-logo="http://urlon.me/ZgY1hd" group-title="ANIMACAO/INFANTIL",Barbie Em Um Mundo de Video Game - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43510.mp4
+#EXTINF:-1 tvg-name="Barbie O Lago dos Cisnes - 2003" tvg-logo="http://urlon.me/ZgYYeO" group-title="ANIMACAO/INFANTIL",Barbie O Lago dos Cisnes - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85780.mp4
+#EXTINF:-1 tvg-name="Barbie: A Magia de Aladus - 2005" tvg-logo="http://5ce.co:80/images/wqKNLSzGN9lqnmtFFwu40g2eWgQ_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie: A Magia de Aladus - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/163296.mp4
+#EXTINF:-1 tvg-name="Barbie: A Princesa e a Popstar - 2012" tvg-logo="http://urlon.me/ZgY1mE" group-title="ANIMACAO/INFANTIL",Barbie: A Princesa e a Popstar - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/54839.mp4
+#EXTINF:-1 tvg-name="Barbie: A Sereia das Pérolas - 2013" tvg-logo="http://urlon.me/OlI" group-title="ANIMACAO/INFANTIL",Barbie: A Sereia das Pérolas - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61647.mp4
+#EXTINF:-1 tvg-name="Barbie: Aventura nas Estrelas - 2016" tvg-logo="http://urlon.me/Zsg" group-title="ANIMACAO/INFANTIL",Barbie: Aventura nas Estrelas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43506.mp4
+#EXTINF:-1 tvg-name="Barbie: Moda e magia - 2010" tvg-logo="http://urlon.me/ZgY1FN" group-title="ANIMACAO/INFANTIL",Barbie: Moda e magia - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61651.mp4
+#EXTINF:-1 tvg-name="Barbie: Rainhas do Rock - 2015" tvg-logo="http://urlon.me/Zsd" group-title="ANIMACAO/INFANTIL",Barbie: Rainhas do Rock - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43508.mp4
+#EXTINF:-1 tvg-name="Barbie: Super Princesa - 2015" tvg-logo="http://urlon.me/ZgY1mL" group-title="ANIMACAO/INFANTIL",Barbie: Super Princesa - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/54838.mp4
+#EXTINF:-1 tvg-name="Barbie: Um Natal Perfeito - 2011" tvg-logo="http://5ce.co:80/images/rdWcoJMn7ZwXpTTChNy1OIqwit3_big.jpg" group-title="ANIMACAO/INFANTIL",Barbie: Um Natal Perfeito - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200451.mp4
+#EXTINF:-1 tvg-name="Barbie: Vida de Sereia - 2010" tvg-logo="http://urlon.me/ZgY1Ug" group-title="ANIMACAO/INFANTIL",Barbie: Vida de Sereia - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/54840.mp4
+#EXTINF:-1 tvg-name="Barbie: Vida de Sereia 2 - 2012" tvg-logo="http://urlon.me/ZgY1FB" group-title="ANIMACAO/INFANTIL",Barbie: Vida de Sereia 2 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61650.mp4
+#EXTINF:-1 tvg-name="Bartok o Magnífico - 1999" tvg-logo="http://urlon.me/ZgY1Iv" group-title="ANIMACAO/INFANTIL",Bartok o Magnífico - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69673.mp4
+#EXTINF:-1 tvg-name="Batalha por T.E.R.R.A. - 2007" tvg-logo="http://urlon.me/ZgY1Iy" group-title="ANIMACAO/INFANTIL",Batalha por T.E.R.R.A. - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69674.mp4
+#EXTINF:-1 tvg-name="Batman  Contra o Capuz Vermelho - 2010" tvg-logo="http://5ce.co:80/images/dEujs48u3n4cmh15ITtHHDFxSaS_big.jpg" group-title="ANIMACAO/INFANTIL",Batman  Contra o Capuz Vermelho - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203815.mp4
+#EXTINF:-1 tvg-name="Batman & Mr. Freeze: Abaixo de Zero - 1998" tvg-logo="http://urlon.me/ZVE" group-title="ANIMACAO/INFANTIL",Batman & Mr. Freeze: Abaixo de Zero - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43505.mp4
+#EXTINF:-1 tvg-name="Batman do Futuro: O Retorno do Coringa - 2000" tvg-logo="http://5ce.me:80/images/b3gmcPiVFpGJuhMSDuRfgjDtkRJ_big.jpg" group-title="ANIMACAO/INFANTIL",Batman do Futuro: O Retorno do Coringa - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/146027.mp4
+#EXTINF:-1 tvg-name="Batman Ninja - 2018" tvg-logo="http://urlon.me/ZV4" group-title="ANIMACAO/INFANTIL",Batman Ninja - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43503.mp4
+#EXTINF:-1 tvg-name="Batman Sem Limites Caos Monstruoso - 2015" tvg-logo="http://5ce.co:80/images/jceXBNFMPLAKlo2MPJGJlXJBQJL_big.jpg" group-title="ANIMACAO/INFANTIL",Batman Sem Limites Caos Monstruoso - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203651.mp4
+#EXTINF:-1 tvg-name="Batman Sem Limites Instintos Animais - 2015" tvg-logo="http://5ce.co:80/images/kxvw4c4Yx9HYqprP4lnZEtzezRd_big.jpg" group-title="ANIMACAO/INFANTIL",Batman Sem Limites Instintos Animais - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203652.mp4
+#EXTINF:-1 tvg-name="Batman Sem Limites: Robôs Vs Mutantes - 2016" tvg-logo="http://5ce.co:80/images/dcc6uM6RiCi9hRekxYO7DGAkoys_big.jpg" group-title="ANIMACAO/INFANTIL",Batman Sem Limites: Robôs Vs Mutantes - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202118.mp4
+#EXTINF:-1 tvg-name="Batman vs As Tartarugas Ninja - 2019" tvg-logo="http://urlon.me/Zzr" group-title="ANIMACAO/INFANTIL",Batman vs As Tartarugas Ninja - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43144.mp4
+#EXTINF:-1 tvg-name="Batman vs. Duas-Caras - 2017" tvg-logo="http://urlon.me/OlL" group-title="ANIMACAO/INFANTIL",Batman vs. Duas-Caras - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61652.mp4
+#EXTINF:-1 tvg-name="Batman: A Máscara do Fantasma - 1993" tvg-logo="http://urlon.me/ZVI" group-title="ANIMACAO/INFANTIL",Batman: A Máscara do Fantasma - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43497.mp4
+#EXTINF:-1 tvg-name="Batman: A Piada Mortal - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coBGOvmAfSVC5nnmsSm6RO4YMXx.jpg" group-title="ANIMACAO/INFANTIL",Batman: A Piada Mortal - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/112771.mp4
+#EXTINF:-1 tvg-name="Batman: Alma do Dragão - 2021" tvg-logo="http://5ce.me:80/images/bqBGQUV1IsLP1zXwMxwgXwYfNG2_big.jpg" group-title="ANIMACAO/INFANTIL",Batman: Alma do Dragão - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140049.mp4
+#EXTINF:-1 tvg-name="Batman: Ataque ao Arkham - 2014" tvg-logo="http://urlon.me/ZV2" group-title="ANIMACAO/INFANTIL",Batman: Ataque ao Arkham - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43495.mp4
+#EXTINF:-1 tvg-name="Batman: Morte em Família - 2020" tvg-logo="http://5ce.co:80/images/97zKwVhOLyTnFbnuLZHbOboLyrM_big.jpg" group-title="ANIMACAO/INFANTIL",Batman: Morte em Família - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193150.mp4
+#EXTINF:-1 tvg-name="Batman: O Cavaleiro das Trevas, Parte 1 - 2012" tvg-logo="http://urlon.me/ZVV" group-title="ANIMACAO/INFANTIL",Batman: O Cavaleiro das Trevas, Parte 1 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43494.mp4
+#EXTINF:-1 tvg-name="Batman: O Cavaleiro de Gotham - 2008" tvg-logo="http://urlon.me/ZgY16o" group-title="ANIMACAO/INFANTIL",Batman: O Cavaleiro de Gotham - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43493.mp4
+#EXTINF:-1 tvg-name="Batman: O Longo Dia das Bruxas – Parte 1 - 2021" tvg-logo="http://5ce.co:80/images/5QiyFLxCQNojxA6PUJwkgeE2HvD_big.jpg" group-title="ANIMACAO/INFANTIL",Batman: O Longo Dia das Bruxas – Parte 1 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/172415.mp4
+#EXTINF:-1 tvg-name="Batman: O Longo Dia das Bruxas – Parte 2 - 2021" tvg-logo="http://5ce.co:80/images/5X1n5q08mZ7NpNpxehMFODxfNYq_big.jpg" group-title="ANIMACAO/INFANTIL",Batman: O Longo Dia das Bruxas – Parte 2 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177059.mp4
+#EXTINF:-1 tvg-name="Batman: O Mistério da Mulher Morcego - 2003" tvg-logo="http://urlon.me/ZVc" group-title="ANIMACAO/INFANTIL",Batman: O Mistério da Mulher Morcego - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43492.mp4
+#EXTINF:-1 tvg-name="Batman: Silêncio - 2019" tvg-logo="http://urlon.me/ZiQ" group-title="ANIMACAO/INFANTIL",Batman: Silêncio - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43191.mp4
+#EXTINF:-1 tvg-name="Bee Movie: A História de uma Abelha - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg" group-title="ANIMACAO/INFANTIL",Bee Movie: A História de uma Abelha - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/132084.mp4
+#EXTINF:-1 tvg-name="Ben 10 Contra o Universo: O Filme - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtOEKVq8UOtendmSO8yxM9i4TUQ.jpg" group-title="ANIMACAO/INFANTIL",Ben 10 Contra o Universo: O Filme - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129491.mp4
+#EXTINF:-1 tvg-name="Bernardo e Bianca - 1977" tvg-logo="http://urlon.me/ZgY10m" group-title="ANIMACAO/INFANTIL",Bernardo e Bianca - 1977
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67780.mp4
+#EXTINF:-1 tvg-name="Bernardo e Bianca na Terra dos Cangurus - 1990" tvg-logo="http://urlon.me/ZgY10v" group-title="ANIMACAO/INFANTIL",Bernardo e Bianca na Terra dos Cangurus - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67785.mp4
+#EXTINF:-1 tvg-name="Beto - O Travesso  - 2005" tvg-logo="http://urlon.me/ZgY1IK" group-title="ANIMACAO/INFANTIL",Beto - O Travesso  - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69676.mp4
+#EXTINF:-1 tvg-name="Big Pai, Big Filho - 2017" tvg-logo="http://urlon.me/6qf" group-title="ANIMACAO/INFANTIL",Big Pai, Big Filho - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45835.mp4
+#EXTINF:-1 tvg-name="Big Pai, Big Filho, Big Família - 2020" tvg-logo="http://5ce.me:80/images/dwMW49v8FvqPUXS8YSdhP1XOchj_big.jpg" group-title="ANIMACAO/INFANTIL",Big Pai, Big Filho, Big Família - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/149424.mp4
+#EXTINF:-1 tvg-name="Bita e as Brincadeiras - 2014" tvg-logo="http://5ce.me:80/images/rVp3wMAxbFptf0HgIPUnzROAbQK_big.jpg" group-title="ANIMACAO/INFANTIL",Bita e as Brincadeiras - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140350.mp4
+#EXTINF:-1 tvg-name="Bita e o Corpo Humano - 2016" tvg-logo="http://5ce.me:80/images/5ykVrOSVe3v5XvtepIO67ScqBWx_big.jpg" group-title="ANIMACAO/INFANTIL",Bita e o Corpo Humano - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140351.mp4
+#EXTINF:-1 tvg-name="Bita e os Animais - 2014" tvg-logo="http://5ce.me:80/images/pBVCO2hida9NnC6c2CF6XSUUsvU_big.jpg" group-title="ANIMACAO/INFANTIL",Bita e os Animais - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140349.mp4
+#EXTINF:-1 tvg-name="Blush - 2021" tvg-logo="http://5ce.co:80/images/xRUTWExrqX40qUr5vZRR0MGAc7i_big.jpg" group-title="ANIMACAO/INFANTIL",Blush - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186211.mp4
+#EXTINF:-1 tvg-name="Bob Esponja Mundo Da Luva Para Sempre - 2016" tvg-logo="http://urlon.me/6qj" group-title="ANIMACAO/INFANTIL",Bob Esponja Mundo Da Luva Para Sempre - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45833.mp4
+#EXTINF:-1 tvg-name="Bob Esponja - Um Herói Fora D'Água - 2015" tvg-logo="http://urlon.me/ZgY1Fe" group-title="ANIMACAO/INFANTIL",Bob Esponja - Um Herói Fora D'Água - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61653.mp4
+#EXTINF:-1 tvg-name="Bob Esponja: O Incrível Resgate - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="ANIMACAO/INFANTIL",Bob Esponja: O Incrível Resgate - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/128153.mp4
+#EXTINF:-1 tvg-name="Bobbleheads O Filme - 2021" tvg-logo="http://5ce.co:80/images/3kC7JbrTxEQZMWkcp6mlRot56Hk_big.jpg" group-title="ANIMACAO/INFANTIL",Bobbleheads O Filme - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193152.mp4
+#EXTINF:-1 tvg-name="Bolt - Supercão - 2008" tvg-logo="http://urlon.me/ZgY1T4" group-title="ANIMACAO/INFANTIL",Bolt - Supercão - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45836.mp4
+#EXTINF:-1 tvg-name="Bombay Rose - 2019" tvg-logo="http://5ce.me:80/images/cwNcowNdKTawjwpV9nR2t2EZrFW_big.jpg" group-title="ANIMACAO/INFANTIL",Bombay Rose - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145803.mp4
+#EXTINF:-1 tvg-name="Bons de Bico - 2013" tvg-logo="http://urlon.me/ZgY1To" group-title="ANIMACAO/INFANTIL",Bons de Bico - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45832.mp4
+#EXTINF:-1 tvg-name="Boonie Bears: Aventura em Miniatura - 2018" tvg-logo="http://urlon.me/ZgYYeZ" group-title="ANIMACAO/INFANTIL",Boonie Bears: Aventura em Miniatura - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85527.mp4
+#EXTINF:-1 tvg-name="Branca de Neve e os Sete Anões - 1937" tvg-logo="http://urlon.me/6qv" group-title="ANIMACAO/INFANTIL",Branca de Neve e os Sete Anões - 1937
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45831.mp4
+#EXTINF:-1 tvg-name="Bruxarias - 2015" tvg-logo="http://urlon.me/6qM" group-title="ANIMACAO/INFANTIL",Bruxarias - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45829.mp4
+#EXTINF:-1 tvg-name="BugiGangue no Espaço - 2017" tvg-logo="http://5ce.co:80/images/cQ0qDcIPed4rkss06mAUkbrHEYC_big.jpg" group-title="ANIMACAO/INFANTIL",BugiGangue no Espaço - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195259.mp4
+#EXTINF:-1 tvg-name="Bunyan e Babe: Os Amigos da Floresta - 2017" tvg-logo="http://urlon.me/6q1" group-title="ANIMACAO/INFANTIL",Bunyan e Babe: Os Amigos da Floresta - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45828.mp4
+#EXTINF:-1 tvg-name="Caça-Fantasmas - Na Trilha do Gelo - 2015" tvg-logo="http://urlon.me/ZgY1Kh" group-title="ANIMACAO/INFANTIL",Caça-Fantasmas - Na Trilha do Gelo - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66544.mp4
+#EXTINF:-1 tvg-name="Caçadores de Dragões - 2008" tvg-logo="http://urlon.me/ZgY1Tr" group-title="ANIMACAO/INFANTIL",Caçadores de Dragões - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45827.mp4
+#EXTINF:-1 tvg-name="Caçadores de Trolls: A ascensão dos titãs - 2021" tvg-logo="https://tinyurl.com/9ueudr" group-title="ANIMACAO/INFANTIL",Caçadores de Trolls: A ascensão dos titãs - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/174631.mp4
+#EXTINF:-1 tvg-name="Cada Um na Sua Casa - 2015" tvg-logo="http://5ce.co:80/images/oPSogYd8PM9XaW8SkiIjPev85Mp_big.jpg" group-title="ANIMACAO/INFANTIL",Cada Um na Sua Casa - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160950.mp4
+#EXTINF:-1 tvg-name="Caminhando com Dinossauros - 2013" tvg-logo="http://urlon.me/ZgY1Fb" group-title="ANIMACAO/INFANTIL",Caminhando com Dinossauros - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61654.mp4
+#EXTINF:-1 tvg-name="Cão-Estrela E Turbo-Gato - 2019" tvg-logo="http://5ce.co:80/images/nHMG4oDPkip3mvGGnnUMAk6ytPs_big.jpg" group-title="ANIMACAO/INFANTIL",Cão-Estrela E Turbo-Gato - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200080.mp4
+#EXTINF:-1 tvg-name="Capitão Dentes de Sabre e o Diamante Mágico - 2020" tvg-logo="http://urlon.me/ZgY1ak" group-title="ANIMACAO/INFANTIL",Capitão Dentes de Sabre e o Diamante Mágico - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69819.mp4
+#EXTINF:-1 tvg-name="Cara, Cadê o Dragão - 2015" tvg-logo="http://urlon.me/ZgY1A1" group-title="ANIMACAO/INFANTIL",Cara, Cadê o Dragão - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67814.mp4
+#EXTINF:-1 tvg-name="Carros - 2006" tvg-logo="http://5ce.me:80/images/2nM2NRV8wt3n3ffoHQ3KdMkY3vR_big.jpg" group-title="ANIMACAO/INFANTIL",Carros - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169425.mp4
+#EXTINF:-1 tvg-name="Carros 2 - 2011" tvg-logo="http://urlon.me/6qT" group-title="ANIMACAO/INFANTIL",Carros 2 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45825.mp4
+#EXTINF:-1 tvg-name="Carros 3 - 2017" tvg-logo="http://urlon.me/6q9" group-title="ANIMACAO/INFANTIL",Carros 3 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45824.mp4
+#EXTINF:-1 tvg-name="Cegonhas - A História que Não te Contaram - 2016" tvg-logo="http://urlon.me/ZgYYem" group-title="ANIMACAO/INFANTIL",Cegonhas - A História que Não te Contaram - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85783.mp4
+#EXTINF:-1 tvg-name="Cinderela - 1950" tvg-logo="http://5ce.me:80/images/ap19fJ8WqdjXSpkreUawPGB0ezN_big.jpg" group-title="ANIMACAO/INFANTIL",Cinderela - 1950
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67786.mp4
+#EXTINF:-1 tvg-name="Cinderela e o Príncipe Secreto - 2018" tvg-logo="http://urlon.me/ZKG" group-title="ANIMACAO/INFANTIL",Cinderela e o Príncipe Secreto - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42999.mp4
+#EXTINF:-1 tvg-name="Combatentes da Liberdade: Ray - 2018" tvg-logo="http://urlon.me/ZgYY4s" group-title="ANIMACAO/INFANTIL",Combatentes da Liberdade: Ray - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/92143.mp4
+#EXTINF:-1 tvg-name="Como é Bom se Divertir - 1947" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXNjnp4C73NLFzEWBO4dpVKH4WH.jpg" group-title="ANIMACAO/INFANTIL",Como é Bom se Divertir - 1947
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67787.mp4
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão 1 - 2010" tvg-logo="http://urlon.me/ZgY1WV" group-title="ANIMACAO/INFANTIL",Como Treinar o Seu Dragão 1 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69457.mp4
+#EXTINF:-1 tvg-name="Como Treinar o seu Dragão 2 - 2014" tvg-logo="http://urlon.me/ZgY1W2" group-title="ANIMACAO/INFANTIL",Como Treinar o seu Dragão 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69458.mp4
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão 3 - 2019" tvg-logo="http://urlon.me/ZKJ" group-title="ANIMACAO/INFANTIL",Como Treinar o Seu Dragão 3 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42995.mp4
+#EXTINF:-1 tvg-name="Companhia das Focas - 2021" tvg-logo="http://5ce.co:80/images/swLTLv0IcmXTLF0BzjYd8W9mcD4_big.jpg" group-title="ANIMACAO/INFANTIL",Companhia das Focas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196215.mp4
+#EXTINF:-1 tvg-name="Coracao de Fogo - 2022" tvg-logo="http://5ce.co:80/images/bBYfhuIOld8UafUF5rDScxroLit_big.jpg" group-title="ANIMACAO/INFANTIL",Coracao de Fogo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207504.mp4
+#EXTINF:-1 tvg-name="Coraline e o Mundo Secreto - 2009" tvg-logo="http://urlon.me/ZgY15g" group-title="ANIMACAO/INFANTIL",Coraline e o Mundo Secreto - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44073.mp4
+#EXTINF:-1 tvg-name="Corgi: Top Dog - 2019" tvg-logo="http://urlon.me/5dz" group-title="ANIMACAO/INFANTIL",Corgi: Top Dog - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66545.mp4
+#EXTINF:-1 tvg-name="Cory Carson e o Halloween - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEE93qOoF24wFaqNjd7fxyZz8Ni.jpg" group-title="ANIMACAO/INFANTIL",Cory Carson e o Halloween - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123590.mp4
+#EXTINF:-1 tvg-name="Daisy Quokka: O Animal Mais Feroz Do Mundo - 2021" tvg-logo="http://5ce.co:80/images/p9dbwWKE8SQqyHoN3Vo8BHpt8fc_big.jpg" group-title="ANIMACAO/INFANTIL",Daisy Quokka: O Animal Mais Feroz Do Mundo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197126.mp4
+#EXTINF:-1 tvg-name="De Volta a Ilha da Imaginação - 2013" tvg-logo="http://5ce.me:80/images/qcmBwtLH9waYDD1BdX6RMR7tDAF_big.jpg" group-title="ANIMACAO/INFANTIL",De Volta a Ilha da Imaginação - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137025.mp4
+#EXTINF:-1 tvg-name="Descendentes: O Casamento Real - 2021" tvg-logo="http://5ce.co:80/images/qzNIgQ4hjeNFln9DdLuJmNXVV9j_big.jpg" group-title="ANIMACAO/INFANTIL",Descendentes: O Casamento Real - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189929.mp4
+#EXTINF:-1 tvg-name="Detetive Conan: O Mistério do Atirador de Elite - 2014" tvg-logo="http://5ce.me:80/images/os9XDSO9wZpePDXScZ91c1RoWBQ_big.jpg" group-title="ANIMACAO/INFANTIL",Detetive Conan: O Mistério do Atirador de Elite - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156604.mp4
+#EXTINF:-1 tvg-name="Detona Ralph - 2012" tvg-logo="http://5ce.co:80/images/zWoIgZ7mgmPkaZjG0102BSKFIqQ_big.jpg" group-title="ANIMACAO/INFANTIL",Detona Ralph - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201520.mp4
+#EXTINF:-1 tvg-name="Deu a Louca na Branca de Neve - 2009" tvg-logo="http://5ce.me:80/images/hkfFVwbqvzdgy6CTcTxCjxL1RP3_big.jpg" group-title="ANIMACAO/INFANTIL",Deu a Louca na Branca de Neve - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150197.mp4
+#EXTINF:-1 tvg-name="Deu a Louca na Chapeuzinho - 2005" tvg-logo="http://5ce.me:80/images/rsScGMpLG1XzY0MWNeRUVsPlBU5_big.jpg" group-title="ANIMACAO/INFANTIL",Deu a Louca na Chapeuzinho - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150200.mp4
+#EXTINF:-1 tvg-name="Deu a Louca na Chapeuzinho 2 - 2011" tvg-logo="http://5ce.me:80/images/7gDPL7IajxEr9rrXCESmyovsbDG_big.jpg" group-title="ANIMACAO/INFANTIL",Deu a Louca na Chapeuzinho 2 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150199.mp4
+#EXTINF:-1 tvg-name="Deu a Louca na Cinderela - 2007" tvg-logo="http://5ce.me:80/images/iQHANwF0Gd1aY9bbbtspzFdMun9_big.jpg" group-title="ANIMACAO/INFANTIL",Deu a Louca na Cinderela - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150198.mp4
+#EXTINF:-1 tvg-name="Diário da Barbie - 2006" tvg-logo="http://urlon.me/ZgYYej" group-title="ANIMACAO/INFANTIL",Diário da Barbie - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85790.mp4
+#EXTINF:-1 tvg-name="Diário de um Banana - 2021" tvg-logo="http://5ce.co:80/images/mRCRJs5lee78cY27uu2IH92TINH_big.jpg" group-title="ANIMACAO/INFANTIL",Diário de um Banana - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193559.mp4
+#EXTINF:-1 tvg-name="Din e o Dragão Genial - 2021" tvg-logo="http://5ce.me:80/images/ySpuOH05bQXXhmQmJtatbZ86rEy_big.jpg" group-title="ANIMACAO/INFANTIL",Din e o Dragão Genial - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/166833.mp4
+#EXTINF:-1 tvg-name="Dinossauro - 2000" tvg-logo="http://urlon.me/ZgY1a8" group-title="ANIMACAO/INFANTIL",Dinossauro - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69820.mp4
+#EXTINF:-1 tvg-name="Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - 2021" tvg-logo="http://5ce.co:80/images/kIzMlyaIFWWkFDVbla2O10kYe1b_big.jpg" group-title="ANIMACAO/INFANTIL",Diretamente de Lugar Nenhum: Scooby-Doo Encontra Coragem - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184704.mp4
+#EXTINF:-1 tvg-name="Distante da Árvore - 2021" tvg-logo="http://5ce.co:80/images/i6aKCvYBCSVzkrJtd9mXZNvunn2_big.jpg" group-title="ANIMACAO/INFANTIL",Distante da Árvore - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196566.mp4
+#EXTINF:-1 tvg-name="Divertida Mente - 2015" tvg-logo="http://urlon.me/ZgY1dp" group-title="ANIMACAO/INFANTIL",Divertida Mente - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43773.mp4
+#EXTINF:-1 tvg-name="Dora e a Cidade Perdida - 2019" tvg-logo="http://urlon.me/OMS" group-title="ANIMACAO/INFANTIL",Dora e a Cidade Perdida - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61244.mp4
+#EXTINF:-1 tvg-name="Doug - O Filme - 1999" tvg-logo="http://urlon.me/ZgY10f" group-title="ANIMACAO/INFANTIL",Doug - O Filme - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67789.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho - 2007" tvg-logo="http://urlon.me/ZgY1Za" group-title="ANIMACAO/INFANTIL",Doutor Estranho - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43291.mp4
+#EXTINF:-1 tvg-name="Doutora Brinquedos - Veterinária - 2015" tvg-logo="http://5ce.co:80/images/cCy5vLXRQkCAHOB5BPN4XIquxIt_big.jpg" group-title="ANIMACAO/INFANTIL",Doutora Brinquedos - Veterinária - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202411.mp4
+#EXTINF:-1 tvg-name="Doutora Brinquedos: Amizade é o melhor remédio - 2012" tvg-logo="http://5ce.co:80/images/bCCV3TQo5RQkxBjLW3TW28N5PLt_big.jpg" group-title="ANIMACAO/INFANTIL",Doutora Brinquedos: Amizade é o melhor remédio - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202412.mp4
+#EXTINF:-1 tvg-name="Dragões - Equipe de Resgate: Os segredos do Melo-Draco - 2020" tvg-logo="http://5ce.co:80/images/f9Y38VLC7G6YFrM67ukncM688f3_big.jpg" group-title="ANIMACAO/INFANTIL",Dragões - Equipe de Resgate: Os segredos do Melo-Draco - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/162709.mp4
+#EXTINF:-1 tvg-name="Dragões: Equipe de Resgate: Em Busca do Dragão Dourado - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afecdT4uWB9sjo6MnnnjOQmRljq.jpg" group-title="ANIMACAO/INFANTIL",Dragões: Equipe de Resgate: Em Busca do Dragão Dourado - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/112066.mp4
+#EXTINF:-1 tvg-name="Duda e os Gnomos - 2017" tvg-logo="http://urlon.me/ZBW" group-title="ANIMACAO/INFANTIL",Duda e os Gnomos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43745.mp4
+#EXTINF:-1 tvg-name="Dumbo - 1941" tvg-logo="http://urlon.me/ZgY10z" group-title="ANIMACAO/INFANTIL",Dumbo - 1941
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67790.mp4
+#EXTINF:-1 tvg-name="Ella Bella Bingo - 2020" tvg-logo="http://5ce.co:80/images/uQ6Kq1cRcbTPeF0chodsWVh9vw9_big.jpg" group-title="ANIMACAO/INFANTIL",Ella Bella Bingo - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199158.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado 1 - 1988" tvg-logo="http://urlon.me/OK9" group-title="ANIMACAO/INFANTIL",Em Busca do Vale Encantado 1 - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61658.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado 3 - A Época Da Grande Partilha - 1995" tvg-logo="http://urlon.me/ZgYMpF" group-title="ANIMACAO/INFANTIL",Em Busca do Vale Encantado 3 - A Época Da Grande Partilha - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61660.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado II: A Grande Aventura Do Vale - 1994" tvg-logo="http://urlon.me/ZgYMpG" group-title="ANIMACAO/INFANTIL",Em Busca do Vale Encantado II: A Grande Aventura Do Vale - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61659.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado IV: Viagem Através Da Névoa - 1996" tvg-logo="http://urlon.me/ZgYMpQ" group-title="ANIMACAO/INFANTIL",Em Busca do Vale Encantado IV: Viagem Através Da Névoa - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61661.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado V - 1997" tvg-logo="http://urlon.me/ZgYMpq" group-title="ANIMACAO/INFANTIL",Em Busca do Vale Encantado V - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61662.mp4
+#EXTINF:-1 tvg-name="Emoji: O Filme - 2017" tvg-logo="http://urlon.me/ZB2" group-title="ANIMACAO/INFANTIL",Emoji: O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43744.mp4
+#EXTINF:-1 tvg-name="Encantado - 2018" tvg-logo="http://urlon.me/OKM" group-title="ANIMACAO/INFANTIL",Encantado - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61663.mp4
+#EXTINF:-1 tvg-name="Encanto - 2021" tvg-logo="http://5ce.co:80/images/4j0PNHkMr5ax3IA8tjtxcmPU3QT_big.jpg" group-title="ANIMACAO/INFANTIL",Encanto - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195675.mp4
+#EXTINF:-1 tvg-name="EncrenCão - 2021" tvg-logo="http://5ce.me:80/images/i81gRwi056tQCjnLL9PKnZ6X3YW_big.jpg" group-title="ANIMACAO/INFANTIL",EncrenCão - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/167462.mp4
+#EXTINF:-1 tvg-name="Enrolados - 2010" tvg-logo="http://urlon.me/ZgYMpl" group-title="ANIMACAO/INFANTIL",Enrolados - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61707.mp4
+#EXTINF:-1 tvg-name="Enrolados Outra Vez: Rainha por um dia - 2017" tvg-logo="http://urlon.me/Zeo" group-title="ANIMACAO/INFANTIL",Enrolados Outra Vez: Rainha por um dia - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43889.mp4
+#EXTINF:-1 tvg-name="Epa Cade o Noe 2 - 2020" tvg-logo="http://5ce.co:80/images/ukfzshUEvxX81X199zx3xItOk1h_big.jpg" group-title="ANIMACAO/INFANTIL",Epa Cade o Noe 2 - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209085.mp4
+#EXTINF:-1 tvg-name="Epa! Cadê o Noé? - 2015" tvg-logo="http://urlon.me/ZgYMut" group-title="ANIMACAO/INFANTIL",Epa! Cadê o Noé? - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43742.mp4
+#EXTINF:-1 tvg-name="Era Uma Vez um Boneco de Neve - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/334CebHp60Kg8xhMnJrrTtgiRxK.jpg" group-title="ANIMACAO/INFANTIL",Era Uma Vez um Boneco de Neve - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134410.mp4
+#EXTINF:-1 tvg-name="Ethel  Ernest - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSBSbvdI9j381JSORvhAhRu7Mrh.jpg" group-title="ANIMACAO/INFANTIL",Ethel  Ernest - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43740.mp4
+#EXTINF:-1 tvg-name="Fantasia - 1940" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSJgxrTaTgDSOoggIPcj3ZoZswT.jpg" group-title="ANIMACAO/INFANTIL",Fantasia - 1940
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69821.mp4
+#EXTINF:-1 tvg-name="Fantástica - Uma Aventura no Mundo Boonie Bears - 2017" tvg-logo="http://urlon.me/ZgYYBk" group-title="ANIMACAO/INFANTIL",Fantástica - Uma Aventura no Mundo Boonie Bears - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/84708.mp4
+#EXTINF:-1 tvg-name="Felix e o Tesouro de Morgan - 2022" tvg-logo="http://5ce.co:80/images/fqRKcVybzM2NXV9p9vvx337HMXy_big.jpg" group-title="ANIMACAO/INFANTIL",Felix e o Tesouro de Morgan - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203816.mp4
+#EXTINF:-1 tvg-name="Festa no Céu - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeYYskD0dABW0drkgvWNIb4OqAy.jpg" group-title="ANIMACAO/INFANTIL",Festa no Céu - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61664.mp4
+#EXTINF:-1 tvg-name="Fievel – Um Conto Americano - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sifDTzpKs6s2iQaBHe327Vyj9Eo.jpg" group-title="ANIMACAO/INFANTIL",Fievel – Um Conto Americano - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69822.mp4
+#EXTINF:-1 tvg-name="Fixies - Amigos Secretos - 2017" tvg-logo="http://urlon.me/ZgYYP7" group-title="ANIMACAO/INFANTIL",Fixies - Amigos Secretos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77548.mp4
+#EXTINF:-1 tvg-name="Flummels: Extintos - 2021" tvg-logo="http://5ce.co:80/images/mqa3vQPN2jvxIIcfK287WhaJAh1_big.jpg" group-title="ANIMACAO/INFANTIL",Flummels: Extintos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/191937.mp4
+#EXTINF:-1 tvg-name="Força G - 2009" tvg-logo="http://5ce.me:80/images/mebBWpOzmwEwdMfcQV8NjKXL5Ff_big.jpg" group-title="ANIMACAO/INFANTIL",Força G - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140146.mp4
+#EXTINF:-1 tvg-name="FormiguinhaZ - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plM5vyLRiiVrVlLC7bQPVmjSwN2.jpg" group-title="ANIMACAO/INFANTIL",FormiguinhaZ - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43726.mp4
+#EXTINF:-1 tvg-name="Frozen II - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6n7TdQSgozArIM0okXTjjCM9Np.jpg" group-title="ANIMACAO/INFANTIL",Frozen II - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/62203.mp4
+#EXTINF:-1 tvg-name="Frozen: Febre Congelante - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gowwCKxLvqnkMzlImDW3ONJWMu1.jpg" group-title="ANIMACAO/INFANTIL",Frozen: Febre Congelante - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43723.mp4
+#EXTINF:-1 tvg-name="Frozen: Uma Aventura Congelante - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWFgaDLfiLtsFIEa8fcbmP2SIp9.jpg" group-title="ANIMACAO/INFANTIL",Frozen: Uma Aventura Congelante - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43720.mp4
+#EXTINF:-1 tvg-name="Garfield - O Filme - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg" group-title="ANIMACAO/INFANTIL",Garfield - O Filme - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66147.mp4
+#EXTINF:-1 tvg-name="Garfield 2 - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXwKOr1LnYMetY7mROBQ3MFhb1a.jpg" group-title="ANIMACAO/INFANTIL",Garfield 2 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66144.mp4
+#EXTINF:-1 tvg-name="Garotos em Guerra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz4M2XMm5YO7fJx3ghXEjnGn91C.jpg" group-title="ANIMACAO/INFANTIL",Garotos em Guerra - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61665.mp4
+#EXTINF:-1 tvg-name="Gato de Botas - 2011" tvg-logo="http://urlon.me/ZIo" group-title="ANIMACAO/INFANTIL",Gato de Botas - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43718.mp4
+#EXTINF:-1 tvg-name="Gato de Botas - Preso Num Conto Épico - 2017" tvg-logo="http://urlon.me/ZIW" group-title="ANIMACAO/INFANTIL",Gato de Botas - Preso Num Conto Épico - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43714.mp4
+#EXTINF:-1 tvg-name="Gavin - Um Ratinho Corajoso - 2015" tvg-logo="http://urlon.me/ZIV" group-title="ANIMACAO/INFANTIL",Gavin - Um Ratinho Corajoso - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43712.mp4
+#EXTINF:-1 tvg-name="George o Curioso 3 - 2015" tvg-logo="http://urlon.me/ZgY171" group-title="ANIMACAO/INFANTIL",George o Curioso 3 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59648.mp4
+#EXTINF:-1 tvg-name="George, o Curioso - 2006" tvg-logo="http://urlon.me/ZgY1a0" group-title="ANIMACAO/INFANTIL",George, o Curioso - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69823.mp4
+#EXTINF:-1 tvg-name="Gnomeu e Julieta - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg" group-title="ANIMACAO/INFANTIL",Gnomeu e Julieta - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61666.mp4
+#EXTINF:-1 tvg-name="Gnomeu e Julieta: O Mistério do Jardim - 2018" tvg-logo="http://urlon.me/OKj" group-title="ANIMACAO/INFANTIL",Gnomeu e Julieta: O Mistério do Jardim - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61667.mp4
+#EXTINF:-1 tvg-name="Halo: The Fall of Reach - 2015" tvg-logo="http://5ce.co:80/images/ycAFRylr91NZOmec5FYN5lGsY5s_big.jpg" group-title="ANIMACAO/INFANTIL",Halo: The Fall of Reach - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203359.mp4
+#EXTINF:-1 tvg-name="Happy Feet - O Pinguim - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg" group-title="ANIMACAO/INFANTIL",Happy Feet - O Pinguim - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134398.mp4
+#EXTINF:-1 tvg-name="Happy Feet 2 - O Pinguim - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXahNaLTC6tczdo6UHEOkx8ZsLY.jpg" group-title="ANIMACAO/INFANTIL",Happy Feet 2 - O Pinguim - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134399.mp4
+#EXTINF:-1 tvg-name="He-Man E She-Ra - O Segredo da Espada Magica -1985" tvg-logo="http://5ce.co:80/images/iPU6h1EVljeoqIL5fZx4kSsXwLx_big.jpg" group-title="ANIMACAO/INFANTIL",He-Man E She-Ra - O Segredo da Espada Magica -1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/162712.mp4
+#EXTINF:-1 tvg-name="Hellboy Espadas da Tempestade - 2006" tvg-logo="http://5ce.co:80/images/3pGDUq4cVETYhVGeZKvVqurTWrY_big.jpg" group-title="ANIMACAO/INFANTIL",Hellboy Espadas da Tempestade - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152473.mp4
+#EXTINF:-1 tvg-name="Hellboy: Sangue e Ferro - 2007" tvg-logo="http://5ce.me:80/images/itj3KXrYL6iSa7eBDLYIVWZuZtW_big.jpg" group-title="ANIMACAO/INFANTIL",Hellboy: Sangue e Ferro - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152474.mp4
+#EXTINF:-1 tvg-name="Hércules - 1997" tvg-logo="http://urlon.me/ZgY1Fn" group-title="ANIMACAO/INFANTIL",Hércules - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61668.mp4
+#EXTINF:-1 tvg-name="Hilda e o Rei da Montanha - 2021" tvg-logo="http://5ce.co:80/images/3vm7LOe7DhkiA7umBhslQy9MdkY_big.jpg" group-title="ANIMACAO/INFANTIL",Hilda e o Rei da Montanha - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197128.mp4
+#EXTINF:-1 tvg-name="Horton e o Mundo dos Quem! - 2008" tvg-logo="http://urlon.me/ZgYYO7" group-title="ANIMACAO/INFANTIL",Horton e o Mundo dos Quem! - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74481.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8xgxYJHmIHHREFxlNqUD23kvvc.jpg" group-title="ANIMACAO/INFANTIL",Hotel Transilvânia - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43703.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKFgwQnR5q08UFsAvtoYyTIiHyj.jpg" group-title="ANIMACAO/INFANTIL",Hotel Transilvânia 2 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43709.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia 3: Férias Monstruosas - 2018" tvg-logo="http://5ce.me:80/images/3ji1aJB052iPLnnzL082It683Nr_big.jpg" group-title="ANIMACAO/INFANTIL",Hotel Transilvânia 3: Férias Monstruosas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152476.mp4
+#EXTINF:-1 tvg-name="Hotel Transylvania: Transformania - 2022" tvg-logo="http://5ce.co:80/images/9PbtCo5IIkd26WPQfZUpPyn6fTz_big.jpg" group-title="ANIMACAO/INFANTIL",Hotel Transylvania: Transformania - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198083.mp4
+#EXTINF:-1 tvg-name="Injustiça: Deuses Entre Nós - 2013" tvg-logo="https://s2.glbimg.com/7ojO8XEqLJVqFD_CZNnsNsbB1Ss=/696x390/top/smart/s.glbimg.com/po/tt/f/original/2013/04/15/injustice-gods-among-us-tera-batalhas-irrefreaveis_.jpg" group-title="ANIMACAO/INFANTIL",Injustiça: Deuses Entre Nós - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44224.mp4
+#EXTINF:-1 tvg-name="Injustice - 2021" tvg-logo="http://5ce.co:80/images/lNRdCfVcjLs2LhO1Vb5rgnHV4JW_big.jpg" group-title="ANIMACAO/INFANTIL",Injustice - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187755.mp4
+#EXTINF:-1 tvg-name="Irmão Urso - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIzn6W7znipa9YcPMr5arsMm2UP.jpg" group-title="ANIMACAO/INFANTIL",Irmão Urso - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61670.mp4
+#EXTINF:-1 tvg-name="Irmão Urso 2 - 2006" tvg-logo="http://urlon.me/ZeL" group-title="ANIMACAO/INFANTIL",Irmão Urso 2 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43892.mp4
+#EXTINF:-1 tvg-name="Irmãos Urso: A Viagem de Volta Pra Casa - 2013" tvg-logo="http://urlon.me/ZIF" group-title="ANIMACAO/INFANTIL",Irmãos Urso: A Viagem de Volta Pra Casa - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43700.mp4
+#EXTINF:-1 tvg-name="James e o Pêssego Gigante - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rdW1hvBPzV9hn75EXobaatywoT.jpg" group-title="ANIMACAO/INFANTIL",James e o Pêssego Gigante - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/135187.mp4
+#EXTINF:-1 tvg-name="Juntos Novamente - 2021" tvg-logo="http://5ce.co:80/images/lthNzQnuzais3BXr3M43kYKn9Ut_big.jpg" group-title="ANIMACAO/INFANTIL",Juntos Novamente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157185.mp4
+#EXTINF:-1 tvg-name="Khumba - 2013" tvg-logo="http://urlon.me/ZgY1iI" group-title="ANIMACAO/INFANTIL",Khumba - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67510.mp4
+#EXTINF:-1 tvg-name="Kikoriki Deja Vu - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC0IbNhWN1QQQkOJQsxXaud6eBh.jpg" group-title="ANIMACAO/INFANTIL",Kikoriki Deja Vu - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/97949.mp4
+#EXTINF:-1 tvg-name="Klaus - 2019" tvg-logo="http://urlon.me/Oqk" group-title="ANIMACAO/INFANTIL",Klaus - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61551.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda - 2008" tvg-logo="http://urlon.me/ZgY1dq" group-title="ANIMACAO/INFANTIL",Kung Fu Panda - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43698.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda 2 - 2011" tvg-logo="http://urlon.me/ZgY1dQ" group-title="ANIMACAO/INFANTIL",Kung Fu Panda 2 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43694.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda 3 - 2016" tvg-logo="http://urlon.me/ZgY1dF" group-title="ANIMACAO/INFANTIL",Kung Fu Panda 3 - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43692.mp4
+#EXTINF:-1 tvg-name="Larva: Ilhados - O Filme - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="ANIMACAO/INFANTIL",Larva: Ilhados - O Filme - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111585.mp4
+#EXTINF:-1 tvg-name="Lassie - 1994" tvg-logo="http://urlon.me/ZgYYMl" group-title="ANIMACAO/INFANTIL",Lassie - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80310.mp4
+#EXTINF:-1 tvg-name="Lego Batman: O Filme - 2017" tvg-logo="http://urlon.me/Okb" group-title="ANIMACAO/INFANTIL",Lego Batman: O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61715.mp4
+#EXTINF:-1 tvg-name="LEGO DC Batman - Assunto de Família - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLDAx2dPpZdd5va0FcufxsgFiJw.jpg" group-title="ANIMACAO/INFANTIL",LEGO DC Batman - Assunto de Família - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124683.mp4
+#EXTINF:-1 tvg-name="LEGO DC Comics Super Heróis: Liga da Justiça vs Liga Bizarro - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bp0exZFHBLV0gWNXkBINtymOeom.jpg" group-title="ANIMACAO/INFANTIL",LEGO DC Comics Super Heróis: Liga da Justiça vs Liga Bizarro - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43690.mp4
+#EXTINF:-1 tvg-name="Lego DC Super Girls - Controle Mental - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuyacaKnFwOnsu8YKMcRMr8lIeO.jpg" group-title="ANIMACAO/INFANTIL",Lego DC Super Girls - Controle Mental - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124831.mp4
+#EXTINF:-1 tvg-name="Lego DC Super Hero Girls - Escola de Super Vilãs - 2018" tvg-logo="http://urlon.me/ZCo" group-title="ANIMACAO/INFANTIL",Lego DC Super Hero Girls - Escola de Super Vilãs - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43683.mp4
+#EXTINF:-1 tvg-name="LEGO DC: Aquaman – A Fúria de Atlântida - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcNbV993Yd7Ksk5QWF0KfyQof6.jpg" group-title="ANIMACAO/INFANTIL",LEGO DC: Aquaman – A Fúria de Atlântida - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124684.mp4
+#EXTINF:-1 tvg-name="LEGO DC: Shazam – Magia e Monstros - 2020" tvg-logo="http://urlon.me/ZgYMTn" group-title="ANIMACAO/INFANTIL",LEGO DC: Shazam – Magia e Monstros - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95314.mp4
+#EXTINF:-1 tvg-name="Lego Friends - Para Sempre Amigas - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVcwSDfkxXbnBAixNcS4DgopU9x.jpg" group-title="ANIMACAO/INFANTIL",Lego Friends - Para Sempre Amigas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124685.mp4
+#EXTINF:-1 tvg-name="Lego Jurassic World A Fuga do Indominus Rex - 2016" tvg-logo="http://5ce.co:80/images/3sKJifTlVvM7jEnFEYFwJSay5Vu_big.jpg" group-title="ANIMACAO/INFANTIL",Lego Jurassic World A Fuga do Indominus Rex - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204281.mp4
+#EXTINF:-1 tvg-name="Lego Jurassic World: A Exposição Secreta - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rFSUpslOYqYcevRm3ZAGkr3RMz.jpg" group-title="ANIMACAO/INFANTIL",Lego Jurassic World: A Exposição Secreta - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124687.mp4
+#EXTINF:-1 tvg-name="LEGO Jurassic World: Escape the Indoraptor - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivTJwuR3GRlGsKq698pObcOWq7P.jpg" group-title="ANIMACAO/INFANTIL",LEGO Jurassic World: Escape the Indoraptor - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124688.mp4
+#EXTINF:-1 tvg-name="LEGO Liga da Justiça - Combate Cosmico - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxO2VxlzrgoW59Ox92HQWoVZy1Y.jpg" group-title="ANIMACAO/INFANTIL",LEGO Liga da Justiça - Combate Cosmico - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61673.mp4
+#EXTINF:-1 tvg-name="LEGO Liga da Justiça - Fuga em Massa em Gotham City - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RtELjwhVXCDmhg8ZzQSNQsheo5.jpg" group-title="ANIMACAO/INFANTIL",LEGO Liga da Justiça - Fuga em Massa em Gotham City - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124689.mp4
+#EXTINF:-1 tvg-name="LEGO Liga da Justiça - O Ataque da Legião do Mal - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQktXbJSac5xkGDo2sXkEvNRqAb.jpg" group-title="ANIMACAO/INFANTIL",LEGO Liga da Justiça - O Ataque da Legião do Mal - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124832.mp4
+#EXTINF:-1 tvg-name="Lego Marvel Super-Herois - Sobrecarga Maxima - 2013" tvg-logo="http://5ce.co:80/images/3M9bnOwso1RgoUSJEtqfRfmfVtR_big.jpg" group-title="ANIMACAO/INFANTIL",Lego Marvel Super-Herois - Sobrecarga Maxima - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204328.mp4
+#EXTINF:-1 tvg-name="Lego Ninjago: O Filme - 2017" tvg-logo="http://urlon.me/OKu" group-title="ANIMACAO/INFANTIL",Lego Ninjago: O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61674.mp4
+#EXTINF:-1 tvg-name="Lego Scooby-Doo Hollywood Assombrada - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pv0ULiQ1gT0b8V95RvWg6uC9xY.jpg" group-title="ANIMACAO/INFANTIL",Lego Scooby-Doo Hollywood Assombrada - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124690.mp4
+#EXTINF:-1 tvg-name="LEGO Scooby-Doo! O Golpe da Praia - 2017" tvg-logo="http://5ce.co:80/images/A3LL3XqTqqucEIUa8kAGAHpU9Gm_big.jpg" group-title="ANIMACAO/INFANTIL",LEGO Scooby-Doo! O Golpe da Praia - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190852.mp4
+#EXTINF:-1 tvg-name="Lego Star Wars: A Ameaça Padawan - 2011" tvg-logo="http://5ce.co:80/images/lcAA36kzOahKXVwWeJLaepMr58M_big.jpg" group-title="ANIMACAO/INFANTIL",Lego Star Wars: A Ameaça Padawan - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178253.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars: Contos Aterrorizantes - 2021" tvg-logo="http://5ce.co:80/images/fUOPfnGknCYmdTbAsrWsgvwR7Ah_big.jpg" group-title="ANIMACAO/INFANTIL",LEGO Star Wars: Contos Aterrorizantes - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186212.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars: Especial de Festas - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kqN43yygrJM2ckpnYBdtJRmn1b.jpg" group-title="ANIMACAO/INFANTIL",LEGO Star Wars: Especial de Festas - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134784.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars: The Padawan Menace - 2011" tvg-logo="http://5ce.co:80/images/lcAA36kzOahKXVwWeJLaepMr58M_big.jpg" group-title="ANIMACAO/INFANTIL",LEGO Star Wars: The Padawan Menace - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204280.mp4
+#EXTINF:-1 tvg-name="LEGO Super - Herois da Marvel Sobrecarga Maxima - 2013" tvg-logo="http://5ce.co:80/images/3M9bnOwso1RgoUSJEtqfRfmfVtR_big.jpg" group-title="ANIMACAO/INFANTIL",LEGO Super - Herois da Marvel Sobrecarga Maxima - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204279.mp4
+#EXTINF:-1 tvg-name="LEGO Super Heróis DC: O Flash - 2018" tvg-logo="http://urlon.me/ZCE" group-title="ANIMACAO/INFANTIL",LEGO Super Heróis DC: O Flash - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43687.mp4
+#EXTINF:-1 tvg-name="LEGO: As Aventuras de Clutch Powers - 2010" tvg-logo="http://5ce.co:80/images/y6zNplF1R6WrNizxEkzmuGlufcU_big.jpg" group-title="ANIMACAO/INFANTIL",LEGO: As Aventuras de Clutch Powers - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178254.mp4
+#EXTINF:-1 tvg-name="Leo Da Vinci: Missão Mona Lisa - 2021" tvg-logo="http://5ce.co:80/images/vyJBGnjaSHCgmgbx5YsLjDhOuJu_big.jpg" group-title="ANIMACAO/INFANTIL",Leo Da Vinci: Missão Mona Lisa - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/192128.mp4
+#EXTINF:-1 tvg-name="Leroy e Stitch - 2006" tvg-logo="http://5ce.me:80/images/8ddTcTllI5U1Gq2EvGYE2CBprOS_big.jpg" group-title="ANIMACAO/INFANTIL",Leroy e Stitch - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215160.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça 1 - Ponto de Ignição - 2013" tvg-logo="http://5ce.me:80/images/yaXvq45nhocTTJ3wicx3ewrluSq_big.jpg" group-title="ANIMACAO/INFANTIL",Liga da Justiça 1 - Ponto de Ignição - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140652.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça Sombria: Guerra de Apokolips - 2020" tvg-logo="http://urlon.me/ZgYYoG" group-title="ANIMACAO/INFANTIL",Liga da Justiça Sombria: Guerra de Apokolips - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/90335.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça: Deuses e Monstros - 2015" tvg-logo="http://urlon.me/ZCW" group-title="ANIMACAO/INFANTIL",Liga da Justiça: Deuses e Monstros - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43679.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça: Os Cinco Fatais - 2019" tvg-logo="http://urlon.me/OKD" group-title="ANIMACAO/INFANTIL",Liga da Justiça: Os Cinco Fatais - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61675.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça: Sombria - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCpA5hvjwwZ2Swaexp3WszPCFJ2.jpg" group-title="ANIMACAO/INFANTIL",Liga da Justiça: Sombria - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43675.mp4
+#EXTINF:-1 tvg-name="Lilo & Stitch - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg" group-title="ANIMACAO/INFANTIL",Lilo & Stitch - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61676.mp4
+#EXTINF:-1 tvg-name="Lilo & Stitch 2: Stitch Deu Defeito - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcn7a7ENxi5TBTlka4wYLzmKQIp.jpg" group-title="ANIMACAO/INFANTIL",Lilo & Stitch 2: Stitch Deu Defeito - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69825.mp4
+#EXTINF:-1 tvg-name="Link Perdido - 2019" tvg-logo="http://urlon.me/ZgY1ir" group-title="ANIMACAO/INFANTIL",Link Perdido - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67514.mp4
+#EXTINF:-1 tvg-name="Lino: Uma Aventura de Sete Vidas - 2017" tvg-logo="http://urlon.me/OKR" group-title="ANIMACAO/INFANTIL",Lino: Uma Aventura de Sete Vidas - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61677.mp4
+#EXTINF:-1 tvg-name="Looney Tunes - De Volta à Ação - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24p3ThN0TvLeSsZMFQZIorSIPU8.jpg" group-title="ANIMACAO/INFANTIL",Looney Tunes - De Volta à Ação - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66296.mp4
+#EXTINF:-1 tvg-name="Looney Tunes: Fuga dos Coelhos - 2015" tvg-logo="http://5ce.me:80/images/A3SepsQ5k4BZrjBDhyrkNUFHA26_big.jpg" group-title="ANIMACAO/INFANTIL",Looney Tunes: Fuga dos Coelhos - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169444.mp4
+#EXTINF:-1 tvg-name="Luca - 2021" tvg-logo="http://5ce.me:80/images/1lk7QISmTam2iOzzUAQYs6voeFg_big.jpg" group-title="ANIMACAO/INFANTIL",Luca - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/168144.mp4
+#EXTINF:-1 tvg-name="Lucas, um Intruso no Formigueiro - 2006" tvg-logo="http://urlon.me/ZgY1dY" group-title="ANIMACAO/INFANTIL",Lucas, um Intruso no Formigueiro - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43668.mp4
+#EXTINF:-1 tvg-name="Lucky Duck - 2014" tvg-logo="http://urlon.me/ZCQ" group-title="ANIMACAO/INFANTIL",Lucky Duck - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43665.mp4
+#EXTINF:-1 tvg-name="Madagascar - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aoLcwd4nQVGbG7L4vqu0d929JD.jpg" group-title="ANIMACAO/INFANTIL",Madagascar - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45822.mp4
+#EXTINF:-1 tvg-name="Madagascar 2 - A Grande Escapada - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDajHGXl6DgOlrfNAogh7ncQrxD.jpg" group-title="ANIMACAO/INFANTIL",Madagascar 2 - A Grande Escapada - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45821.mp4
+#EXTINF:-1 tvg-name="Madagascar 3 - Os Procurados - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg" group-title="ANIMACAO/INFANTIL",Madagascar 3 - Os Procurados - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61678.mp4
+#EXTINF:-1 tvg-name="Magia Estranha - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg" group-title="ANIMACAO/INFANTIL",Magia Estranha - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61679.mp4
+#EXTINF:-1 tvg-name="Manda-Chuva: O Filme - 2011" tvg-logo="http://urlon.me/ZgYY4A" group-title="ANIMACAO/INFANTIL",Manda-Chuva: O Filme - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/92140.mp4
+#EXTINF:-1 tvg-name="Marnie e os Amigos  Agente 00-Gato - 2019" tvg-logo="https://media.fstatic.com/EoNCwJFkN988BizMInNuim5SvLc=/fit-in/290x478/smart/media/movies/covers/2019/12/agente-00-gato-capa.jpg" group-title="ANIMACAO/INFANTIL",Marnie e os Amigos  Agente 00-Gato - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67811.mp4
+#EXTINF:-1 tvg-name="Marvel Rising - Guerreiros Secretos - 2018" tvg-logo="http://urlon.me/OKe" group-title="ANIMACAO/INFANTIL",Marvel Rising - Guerreiros Secretos - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61681.mp4
+#EXTINF:-1 tvg-name="Marvel Rising: Coração de Ferro - 2019" tvg-logo="http://urlon.me/OKN" group-title="ANIMACAO/INFANTIL",Marvel Rising: Coração de Ferro - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61680.mp4
+#EXTINF:-1 tvg-name="Marvel Superheroes: Vingadores Reunidos - 2015" tvg-logo="http://5ce.co:80/images/xUBZNoY7idPfqKZepnDEv7Qc8GC_big.jpg" group-title="ANIMACAO/INFANTIL",Marvel Superheroes: Vingadores Reunidos - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178252.mp4
+#EXTINF:-1 tvg-name="Masha e o Urso - 2016" tvg-logo="http://urlon.me/ZgYY4u" group-title="ANIMACAO/INFANTIL",Masha e o Urso - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/92141.mp4
+#EXTINF:-1 tvg-name="Master Moley em O Convite Real - 2021" tvg-logo="http://5ce.co:80/images/99h0I9Lj00KkXVuput3vlgzjQSt_big.jpg" group-title="ANIMACAO/INFANTIL",Master Moley em O Convite Real - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/194588.mp4
+#EXTINF:-1 tvg-name="Megamente - 2010" tvg-logo="http://urlon.me/6qZ" group-title="ANIMACAO/INFANTIL",Megamente - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45820.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Vampiro - 2017" tvg-logo="http://urlon.me/6yS" group-title="ANIMACAO/INFANTIL",Meu Amigo Vampiro - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45819.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS6GWMkvsRmKC64xsMyNWLgAO36.jpg" group-title="ANIMACAO/INFANTIL",Meu Malvado Favorito - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43656.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito 2 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg" group-title="ANIMACAO/INFANTIL",Meu Malvado Favorito 2 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43654.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito 3 - 2017" tvg-logo="http://urlon.me/ZC6" group-title="ANIMACAO/INFANTIL",Meu Malvado Favorito 3 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43651.mp4
+#EXTINF:-1 tvg-name="Meus Amigos Dinossauros - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c60TZggGozoJR5OpVlMJTXFFKTj.jpg" group-title="ANIMACAO/INFANTIL",Meus Amigos Dinossauros - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61683.mp4
+#EXTINF:-1 tvg-name="Minha Vida de Abobrinha - 2016" tvg-logo="http://urlon.me/ZgY10P" group-title="ANIMACAO/INFANTIL",Minha Vida de Abobrinha - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67781.mp4
+#EXTINF:-1 tvg-name="Minions - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9koSRBSn9rEmHpdoZj99oc0B7o5.jpg" group-title="ANIMACAO/INFANTIL",Minions - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43646.mp4
+#EXTINF:-1 tvg-name="Minions - Ajudantes do Papai Noel - 2019" tvg-logo="http://urlon.me/ZKa" group-title="ANIMACAO/INFANTIL",Minions - Ajudantes do Papai Noel - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43015.mp4
+#EXTINF:-1 tvg-name="Minions 2 A Origem de Gru - 2022" tvg-logo="http://5ce.me:80/images/tzFAboMUGJKoPQEtlxfxbbYsSWa_big.jpg" group-title="ANIMACAO/INFANTIL",Minions 2 A Origem de Gru - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210824.mp4
+#EXTINF:-1 tvg-name="Minúsculos: O Filme - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWmBO9gHNILHZYEYVPmtMwTaZNO.jpg" group-title="ANIMACAO/INFANTIL",Minúsculos: O Filme - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/107855.mp4
+#EXTINF:-1 tvg-name="Miraculous World - Xangai, a Lenda de Lady Dragon - 2021" tvg-logo="http://5ce.co:80/images/t7cPk3hTF3X8IMZr0hPAG0cVLTI_big.jpg" group-title="ANIMACAO/INFANTIL",Miraculous World - Xangai, a Lenda de Lady Dragon - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182935.mp4
+#EXTINF:-1 tvg-name="Miraculous World: Nova Iorque, Heróis Unidos - 2020" tvg-logo="http://5ce.co:80/images/eHAfw4FcU6i1X8jrr8cQZtyLsmg_big.jpg" group-title="ANIMACAO/INFANTIL",Miraculous World: Nova Iorque, Heróis Unidos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160953.mp4
+#EXTINF:-1 tvg-name="Moana: Um Mar de Aventuras - 2016" tvg-logo="https://tinyurl.com/sky5udx4" group-title="ANIMACAO/INFANTIL",Moana: Um Mar de Aventuras - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189269.mp4
+#EXTINF:-1 tvg-name="Mogli - O Menino Lobo - 1967" tvg-logo="http://urlon.me/6yH" group-title="ANIMACAO/INFANTIL",Mogli - O Menino Lobo - 1967
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45818.mp4
+#EXTINF:-1 tvg-name="Mogli - O Menino Lobo - 2016" tvg-logo="http://urlon.me/ZgY10H" group-title="ANIMACAO/INFANTIL",Mogli - O Menino Lobo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67804.mp4
+#EXTINF:-1 tvg-name="Mogli – O Menino Lobo 2 - 2003" tvg-logo="http://5ce.co:80/images/1xVK9gsLgGpDt6nJO7VjjTW2Uy5_big.jpg" group-title="ANIMACAO/INFANTIL",Mogli – O Menino Lobo 2 - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45817.mp4
+#EXTINF:-1 tvg-name="Monster High: A Assustadora Barreira de Coral - 2016" tvg-logo="http://5ce.me:80/images/fSyx6I8PVT91d6LgNReYLRyDt0e_big.jpg" group-title="ANIMACAO/INFANTIL",Monster High: A Assustadora Barreira de Coral - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140305.mp4
+#EXTINF:-1 tvg-name="Monster High: Boo York, Boo York - 2015" tvg-logo="http://5ce.me:80/images/fgSI3MJ2xQSAI287RQFDXOzXgxa_big.jpg" group-title="ANIMACAO/INFANTIL",Monster High: Boo York, Boo York - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/153590.mp4
+#EXTINF:-1 tvg-name="Monster Hunter: Legends of the Guild - 2021" tvg-logo="http://5ce.co:80/images/fctSbleL7ozVcGyC163nPv4arW1_big.jpg" group-title="ANIMACAO/INFANTIL",Monster Hunter: Legends of the Guild - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/179847.mp4
+#EXTINF:-1 tvg-name="Monstros S.A. - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXPXknyWtrL2dh6C6xxrW4XGt2L.jpg" group-title="ANIMACAO/INFANTIL",Monstros S.A. - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43642.mp4
+#EXTINF:-1 tvg-name="Monstros vs Alienígenas - 2009" tvg-logo="http://urlon.me/ZgY1CN" group-title="ANIMACAO/INFANTIL",Monstros vs Alienígenas - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69657.mp4
+#EXTINF:-1 tvg-name="Mortadelo e Salaminho: Missão Inacreditável - 2014" tvg-logo="http://5ce.co:80/images/mBKoXlVMGol8YpoMgbqcBU33bZc_big.jpg" group-title="ANIMACAO/INFANTIL",Mortadelo e Salaminho: Missão Inacreditável - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202345.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat Legends: Batalha dos Reinos - 2021" tvg-logo="http://5ce.co:80/images/ablrE8IbWcIrAxMmm4gnPn75AMS_big.jpg" group-title="ANIMACAO/INFANTIL",Mortal Kombat Legends: Batalha dos Reinos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/183383.mp4
+#EXTINF:-1 tvg-name="Mulan 1 - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCVcnQ2fm77vm7vFjTcrWGjz1Wb.jpg" group-title="ANIMACAO/INFANTIL",Mulan 1 - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43886.mp4
+#EXTINF:-1 tvg-name="Mulan 2: A Lenda Continua - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg" group-title="ANIMACAO/INFANTIL",Mulan 2: A Lenda Continua - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43885.mp4
+#EXTINF:-1 tvg-name="Mulher-Gato: A Caçada - 2022" tvg-logo="http://5ce.co:80/images/50hJAtlhqnNtEvEffUYkmNtWJHX_big.jpg" group-title="ANIMACAO/INFANTIL",Mulher-Gato: A Caçada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200602.mp4
+#EXTINF:-1 tvg-name="Mulher-Maravilha - Linhagem de Sangue - 2019" tvg-logo="http://urlon.me/OKH" group-title="ANIMACAO/INFANTIL",Mulher-Maravilha - Linhagem de Sangue - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61684.mp4
+#EXTINF:-1 tvg-name="Muppets Haunted Mansion: A Festa Aterrorizante - 2021" tvg-logo="http://5ce.co:80/images/hctd04c3kD7TppVA577C3L51yqg_big.jpg" group-title="ANIMACAO/INFANTIL",Muppets Haunted Mansion: A Festa Aterrorizante - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186771.mp4
+#EXTINF:-1 tvg-name="Música, Maestro - 1946" tvg-logo="http://urlon.me/ZgY10x" group-title="ANIMACAO/INFANTIL",Música, Maestro - 1946
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67792.mp4
+#EXTINF:-1 tvg-name="My Little Pony: Nova Geração - 2021" tvg-logo="http://5ce.co:80/images/gsd8CzmWi4daZbEvuH4rgWbu5yT_big.jpg" group-title="ANIMACAO/INFANTIL",My Little Pony: Nova Geração - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186016.mp4
+#EXTINF:-1 tvg-name="My Little Pony: O Filme - 2017" tvg-logo="http://urlon.me/OKS" group-title="ANIMACAO/INFANTIL",My Little Pony: O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61685.mp4
+#EXTINF:-1 tvg-name="Nem que a Vaca Tussa - 2004" tvg-logo="http://urlon.me/Ze2" group-title="ANIMACAO/INFANTIL",Nem que a Vaca Tussa - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43884.mp4
+#EXTINF:-1 tvg-name="Next Gen - 2018" tvg-logo="http://urlon.me/ZwJ" group-title="ANIMACAO/INFANTIL",Next Gen - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43154.mp4
+#EXTINF:-1 tvg-name="Nicky e o Feitiço do Dragão - 2016" tvg-logo="http://5ce.me:80/images/8BMipaETpMxHUCnyvbpAgrtC0jJ_big.jpg" group-title="ANIMACAO/INFANTIL",Nicky e o Feitiço do Dragão - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/173676.mp4
+#EXTINF:-1 tvg-name="Nível Hard - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqd6lBtyfyJf5X8B0T94C9w9DAS.jpg" group-title="ANIMACAO/INFANTIL",Nível Hard - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/118360.mp4
+#EXTINF:-1 tvg-name="Norm e os Invencíveis - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg" group-title="ANIMACAO/INFANTIL",Norm e os Invencíveis - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43883.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg" group-title="ANIMACAO/INFANTIL",O Bicho Vai Pegar - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61686.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar 2 - 2008" tvg-logo="http://urlon.me/Okh" group-title="ANIMACAO/INFANTIL",O Bicho Vai Pegar 2 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61687.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar 3 - 2010" tvg-logo="http://urlon.me/OkO" group-title="ANIMACAO/INFANTIL",O Bicho Vai Pegar 3 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61688.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar 4 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o0cI4jxQIYh6hLBWTV8mElZztM.jpg" group-title="ANIMACAO/INFANTIL",O Bicho Vai Pegar 4 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61689.mp4
+#EXTINF:-1 tvg-name="O Bom Dinossauro - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DIObOvdH1jCCIe06DLjQFIsZOY.jpg" group-title="ANIMACAO/INFANTIL",O Bom Dinossauro - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43882.mp4
+#EXTINF:-1 tvg-name="O Caldeirão Mágico - 1985" tvg-logo="http://urlon.me/ZgY10A" group-title="ANIMACAO/INFANTIL",O Caldeirão Mágico - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67793.mp4
+#EXTINF:-1 tvg-name="O Caminho para El Dorado - 2000" tvg-logo="http://urlon.me/ZgYYOv" group-title="ANIMACAO/INFANTIL",O Caminho para El Dorado - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74482.mp4
+#EXTINF:-1 tvg-name="O Cão e a Raposa - 1981" tvg-logo="http://5ce.co:80/images/rmdeW5vZggMcKaQcoRVHcGkcoAA_big.jpg" group-title="ANIMACAO/INFANTIL",O Cão e a Raposa - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200090.mp4
+#EXTINF:-1 tvg-name="O Cão e a Raposa 2 - 2006" tvg-logo="http://urlon.me/ZgY1WW" group-title="ANIMACAO/INFANTIL",O Cão e a Raposa 2 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69460.mp4
+#EXTINF:-1 tvg-name="O Cavaleiro do Dragão - 2021" tvg-logo="http://5ce.co:80/images/v8O3Sk7xw50LMLpxYNhEY4gTZvd_big.jpg" group-title="ANIMACAO/INFANTIL",O Cavaleiro do Dragão - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184121.mp4
+#EXTINF:-1 tvg-name="O Chefinho  Pega Esse Bebe - 2020" tvg-logo="http://5ce.co:80/images/wSpHWT1YpwC2sUUYAPuW5LarFEA_big.jpg" group-title="ANIMACAO/INFANTIL",O Chefinho  Pega Esse Bebe - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/119649.mp4
+#EXTINF:-1 tvg-name="O Corcel Negro - 1979" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7sRWYHagzFrsuehCj8SBviKSFi.jpg" group-title="ANIMACAO/INFANTIL",O Corcel Negro - 1979
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61690.mp4
+#EXTINF:-1 tvg-name="O Corcunda de Notre Dame 2 – O Segredo do Sino - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TLAX4PLdHV4aBfhYIqNzh1gmpH.jpg" group-title="ANIMACAO/INFANTIL",O Corcunda de Notre Dame 2 – O Segredo do Sino - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43890.mp4
+#EXTINF:-1 tvg-name="O Desejo de Natal de Mickey e Minnie - 2021" tvg-logo="http://5ce.co:80/images/mmfcnU42ghEdxySVi2HLynvXZxl_big.jpg" group-title="ANIMACAO/INFANTIL",O Desejo de Natal de Mickey e Minnie - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196571.mp4
+#EXTINF:-1 tvg-name="O Espanta Tubarões - 2004" tvg-logo="http://urlon.me/Okm" group-title="ANIMACAO/INFANTIL",O Espanta Tubarões - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61691.mp4
+#EXTINF:-1 tvg-name="O Expresso Polar - 2004" tvg-logo="http://urlon.me/ZgY17O" group-title="ANIMACAO/INFANTIL",O Expresso Polar - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59625.mp4
+#EXTINF:-1 tvg-name="O Fascinante Mundo dos Corais -2021" tvg-logo="http://5ce.co:80/images/3jW7VXaI955lIfegDlB0F5OShbP_big.jpg" group-title="ANIMACAO/INFANTIL",O Fascinante Mundo dos Corais -2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195181.mp4
+#EXTINF:-1 tvg-name="O Filho do Batman 1 - 2014" tvg-logo="http://5ce.co:80/images/yHx8OLSKc3VtIBB5lIe90c0fHOX_big.jpg" group-title="ANIMACAO/INFANTIL",O Filho do Batman 1 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203940.mp4
+#EXTINF:-1 tvg-name="O Filho do Batman 2- Batman vs Robin - 2015" tvg-logo="http://5ce.co:80/images/aGp9XDXmVM5lCKHWtgBC15S7XLr_big.jpg" group-title="ANIMACAO/INFANTIL",O Filho do Batman 2- Batman vs Robin - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203820.mp4
+#EXTINF:-1 tvg-name="O Filme Looney, Looney, Looney do Pernalonga - 1981" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4qMlWQ420zkUBIHrUkcwmAasxH.jpg" group-title="ANIMACAO/INFANTIL",O Filme Looney, Looney, Looney do Pernalonga - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99598.mp4
+#EXTINF:-1 tvg-name="O Gato de Botas: Os Três Diabos - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptvbHUWpU8Nh6vrmSvjx4ESDgfC.jpg" group-title="ANIMACAO/INFANTIL",O Gato de Botas: Os Três Diabos - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43716.mp4
+#EXTINF:-1 tvg-name="O Gigante de Ferro - 1999" tvg-logo="http://urlon.me/ZgY1a2" group-title="ANIMACAO/INFANTIL",O Gigante de Ferro - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69827.mp4
+#EXTINF:-1 tvg-name="O Grande Milagre - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roiO7K3J4Up2TDJT8dK56Dl1UMc.jpg" group-title="ANIMACAO/INFANTIL",O Grande Milagre - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/108786.mp4
+#EXTINF:-1 tvg-name="O Grinch - 2018" tvg-logo="http://urlon.me/Zk0" group-title="ANIMACAO/INFANTIL",O Grinch - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43040.mp4
+#EXTINF:-1 tvg-name="O Herói Cuco - 2016" tvg-logo="http://urlon.me/ZgYYKk" group-title="ANIMACAO/INFANTIL",O Herói Cuco - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80780.mp4
+#EXTINF:-1 tvg-name="O Lorax Em Busca da Trufula Perdida - 2012" tvg-logo="http://5ce.me:80/images/3rfClKuMmhFawkdCJXMEV3OGOJ3_big.jpg" group-title="ANIMACAO/INFANTIL",O Lorax Em Busca da Trufula Perdida - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213502.mp4
+#EXTINF:-1 tvg-name="O Parque dos Sonhos - 2019" tvg-logo="http://urlon.me/Zkk" group-title="ANIMACAO/INFANTIL",O Parque dos Sonhos - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43036.mp4
+#EXTINF:-1 tvg-name="O Pequeno Narigudo - 2003" tvg-logo="http://urlon.me/ZgY1aW" group-title="ANIMACAO/INFANTIL",O Pequeno Narigudo - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69828.mp4
+#EXTINF:-1 tvg-name="O Pequeno Stuart Little - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tDGeL0e7xLlvy4Gm3anaYckRKH.jpg" group-title="ANIMACAO/INFANTIL",O Pequeno Stuart Little - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61693.mp4
+#EXTINF:-1 tvg-name="O Pequeno Stuart Little 2 - 2002" tvg-logo="http://urlon.me/ZgY1vB" group-title="ANIMACAO/INFANTIL",O Pequeno Stuart Little 2 - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63884.mp4
+#EXTINF:-1 tvg-name="O Pergaminho Vermelho - 2021" tvg-logo="http://5ce.co:80/images/7W8sLUGJqe2jByIe4cAYZFwTZL6_big.jpg" group-title="ANIMACAO/INFANTIL",O Pergaminho Vermelho - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182675.mp4
+#EXTINF:-1 tvg-name="O Poderoso Chefinho - 2017" tvg-logo="http://urlon.me/OF5" group-title="ANIMACAO/INFANTIL",O Poderoso Chefinho - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61323.mp4
+#EXTINF:-1 tvg-name="O Poderoso Chefinho 2: Negócios da Família - 2021" tvg-logo="http://5ce.co:80/images/p033k6k8V9USI0TWZavIxoYzsGi_big.jpg" group-title="ANIMACAO/INFANTIL",O Poderoso Chefinho 2: Negócios da Família - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190355.mp4
+#EXTINF:-1 tvg-name="O Que Será de Nozes 2 - 2017" tvg-logo="http://urlon.me/Zet" group-title="ANIMACAO/INFANTIL",O Que Será de Nozes 2 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43876.mp4
+#EXTINF:-1 tvg-name="O Que Será de Nozes 1 - 2014" tvg-logo="http://urlon.me/Ze0" group-title="ANIMACAO/INFANTIL",O Que Será de Nozes 1 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43877.mp4
+#EXTINF:-1 tvg-name="O Rei Leao - 2019" tvg-logo="http://urlon.me/Z7k" group-title="ANIMACAO/INFANTIL",O Rei Leao - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42698.mp4
+#EXTINF:-1 tvg-name="O Rei Leão 1 - 1994" tvg-logo="http://urlon.me/OkM" group-title="ANIMACAO/INFANTIL",O Rei Leão 1 - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61694.mp4
+#EXTINF:-1 tvg-name="O Rei Leão 3: Hakuna Matata - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg" group-title="ANIMACAO/INFANTIL",O Rei Leão 3: Hakuna Matata - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43874.mp4
+#EXTINF:-1 tvg-name="O Rei Leão II: O Reino de Simba - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdtGFfjds2rUp4f6DQdtK61WHGQ.jpg" group-title="ANIMACAO/INFANTIL",O Rei Leão II: O Reino de Simba - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43875.mp4
+#EXTINF:-1 tvg-name="O Reino do Golfinho - 2020" tvg-logo="http://5ce.co:80/images/lTZSqK5yauDzoozLsuTQr5q3T0O_big.jpg" group-title="ANIMACAO/INFANTIL",O Reino do Golfinho - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205035.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado 1 - 2012" tvg-logo="http://urlon.me/6yb" group-title="ANIMACAO/INFANTIL",O Reino Gelado 1 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45816.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado 2 - 2014" tvg-logo="http://urlon.me/6ye" group-title="ANIMACAO/INFANTIL",O Reino Gelado 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45815.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado 3 - 2016" tvg-logo="http://urlon.me/6yN" group-title="ANIMACAO/INFANTIL",O Reino Gelado 3 - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45814.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado: A Terra dos Espelhos - 2018" tvg-logo="http://urlon.me/ZgYYPy" group-title="ANIMACAO/INFANTIL",O Reino Gelado: A Terra dos Espelhos - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77550.mp4
+#EXTINF:-1 tvg-name="O Ritmo da Selva: O Filme - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRCfJ7jItEnk0AnLUHTuWA2dT1U.jpg" group-title="ANIMACAO/INFANTIL",O Ritmo da Selva: O Filme - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/118324.mp4
+#EXTINF:-1 tvg-name="O Santo Guerreiro - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nziTxFxx0l2hO7ZddZo903kVVU0.jpg" group-title="ANIMACAO/INFANTIL",O Santo Guerreiro - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43873.mp4
+#EXTINF:-1 tvg-name="O Segredo dos Animais - 2006" tvg-logo="http://urlon.me/Ok7" group-title="ANIMACAO/INFANTIL",O Segredo dos Animais - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61697.mp4
+#EXTINF:-1 tvg-name="O Show da Luna – Das Ilhas ao Continente - 2019" tvg-logo="http://urlon.me/ZgY1AM" group-title="ANIMACAO/INFANTIL",O Show da Luna – Das Ilhas ao Continente - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67815.mp4
+#EXTINF:-1 tvg-name="O Show da Luna: Bichos na Fazenda - 2019" tvg-logo="http://urlon.me/Zvd" group-title="ANIMACAO/INFANTIL",O Show da Luna: Bichos na Fazenda - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42791.mp4
+#EXTINF:-1 tvg-name="O Touro Ferdinando - 2017" tvg-logo="http://urlon.me/Zel" group-title="ANIMACAO/INFANTIL",O Touro Ferdinando - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43871.mp4
+#EXTINF:-1 tvg-name="Octonautas e As Cavernas de Sac Actun - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XD1RfwaLX81NCu4kFzBGNlijE5.jpg" group-title="ANIMACAO/INFANTIL",Octonautas e As Cavernas de Sac Actun - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/118606.mp4
+#EXTINF:-1 tvg-name="OFilho de Batman 3 - Sangue Ruim -  2016" tvg-logo="http://5ce.co:80/images/1UmPJWfaivtNjsScJqcsbsQRGNY_big.jpg" group-title="ANIMACAO/INFANTIL",OFilho de Batman 3 - Sangue Ruim -  2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203822.mp4
+#EXTINF:-1 tvg-name="Oi, Alberto - 2021" tvg-logo="http://5ce.co:80/images/lgQ4vA8BnMgXfSAVbxHiPcqapB7_big.jpg" group-title="ANIMACAO/INFANTIL",Oi, Alberto - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190968.mp4
+#EXTINF:-1 tvg-name="Olaf em uma Nova Aventura Congelante de Frozen - 2017" tvg-logo="http://5ce.co:80/images/cjiJUyLpLuyQZO3sbIlTsvQioEj_big.jpg" group-title="ANIMACAO/INFANTIL",Olaf em uma Nova Aventura Congelante de Frozen - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/180993.mp4
+#EXTINF:-1 tvg-name="Oliver e Sua Turma - 1988" tvg-logo="http://urlon.me/ZgY10D" group-title="ANIMACAO/INFANTIL",Oliver e Sua Turma - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67795.mp4
+#EXTINF:-1 tvg-name="Operação Big Hero - 2014" tvg-logo="http://urlon.me/ZgY179" group-title="ANIMACAO/INFANTIL",Operação Big Hero - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59626.mp4
+#EXTINF:-1 tvg-name="Operação Presente - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl3jpbZ1weIUIUBB3OzUY9HSSSF.jpg" group-title="ANIMACAO/INFANTIL",Operação Presente - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61698.mp4
+#EXTINF:-1 tvg-name="Os Barkers e Os Gatos - 2020" tvg-logo="http://5ce.co:80/images/gLNN21V7ezNzw5lblFqVfaLc7Y7_big.jpg" group-title="ANIMACAO/INFANTIL",Os Barkers e Os Gatos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209817.mp4
+#EXTINF:-1 tvg-name="Os Croods  - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wMyH1odZkVrM3uLcPRInGgx53S.jpg" group-title="ANIMACAO/INFANTIL",Os Croods  - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99610.mp4
+#EXTINF:-1 tvg-name="Os Croods 2: Uma Nova Era - 2020" tvg-logo="http://5ce.me:80/images/vRTScutueW9gLF3dSo2Za7o0v7n_big.jpg" group-title="ANIMACAO/INFANTIL",Os Croods 2: Uma Nova Era - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150243.mp4
+#EXTINF:-1 tvg-name="Os Fantasmas de Scrooge - 2009" tvg-logo="http://urlon.me/Oky" group-title="ANIMACAO/INFANTIL",Os Fantasmas de Scrooge - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61699.mp4
+#EXTINF:-1 tvg-name="Os Incríveis - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohxeKUSj1EX0zoFNP3gFfqLs3dE.jpg" group-title="ANIMACAO/INFANTIL",Os Incríveis - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43349.mp4
+#EXTINF:-1 tvg-name="Os Incríveis 2 - 2018" tvg-logo="http://urlon.me/ZeF" group-title="ANIMACAO/INFANTIL",Os Incríveis 2 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43868.mp4
+#EXTINF:-1 tvg-name="Os Irmãos Willoughby - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DnmmpThvdY1PrOAJoL3rDEI4el.jpg" group-title="ANIMACAO/INFANTIL",Os Irmãos Willoughby - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98157.mp4
+#EXTINF:-1 tvg-name="Os Jovens Titãs Assistem A Space Jam - 2021" tvg-logo="http://5ce.co:80/images/rMoVOCw6DF3zC6hS76ZhQMWiXNX_big.jpg" group-title="ANIMACAO/INFANTIL",Os Jovens Titãs Assistem A Space Jam - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/180526.mp4
+#EXTINF:-1 tvg-name="Os Jovens Titãs em Ação Vs. Os Jovens Titãs - 2019" tvg-logo="http://urlon.me/OKi" group-title="ANIMACAO/INFANTIL",Os Jovens Titãs em Ação Vs. Os Jovens Titãs - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61671.mp4
+#EXTINF:-1 tvg-name="Os Jovens Titãs em Ação! Nos Cinemas - 2018" tvg-logo="http://urlon.me/ZeG" group-title="ANIMACAO/INFANTIL",Os Jovens Titãs em Ação! Nos Cinemas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43867.mp4
+#EXTINF:-1 tvg-name="Os Jovens Titãs: Missão Tóquio - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUIczHTpnBDC6Mbp0dFGDZldcc1.jpg" group-title="ANIMACAO/INFANTIL",Os Jovens Titãs: Missão Tóquio - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43863.mp4
+#EXTINF:-1 tvg-name="Os Paspalhões em Pinóquio 3000 - 1980" tvg-logo="https://imagens.publicocdn.com/imagens.aspx/293253?tp=KM" group-title="ANIMACAO/INFANTIL",Os Paspalhões em Pinóquio 3000 - 1980
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63890.mp4
+#EXTINF:-1 tvg-name="Os Sem-Floresta - 2006" tvg-logo="http://urlon.me/Okj" group-title="ANIMACAO/INFANTIL",Os Sem-Floresta - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61700.mp4
+#EXTINF:-1 tvg-name="Os Simpsons - O Filme - 2007" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sMcsZ7BlOf2LDhTlfPlWb3w6lJM.jpg" group-title="ANIMACAO/INFANTIL",Os Simpsons - O Filme - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170496.mp4
+#EXTINF:-1 tvg-name="Os Simpsons em Plusniversário - 2021" tvg-logo="http://5ce.co:80/images/hYNFywlOCBGBz8ZX7nDVpDHbsSG_big.jpg" group-title="ANIMACAO/INFANTIL",Os Simpsons em Plusniversário - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190976.mp4
+#EXTINF:-1 tvg-name="Os Simpsons: O Bem, o Bart e o Loki - 2021" tvg-logo="http://5ce.co:80/images/jTBiR84Pyt22VMNsxvCQfFPf6iq_big.jpg" group-title="ANIMACAO/INFANTIL",Os Simpsons: O Bem, o Bart e o Loki - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/171227.mp4
+#EXTINF:-1 tvg-name="Os Smurfs 1 - 2011" tvg-logo="http://urlon.me/ZeX" group-title="ANIMACAO/INFANTIL",Os Smurfs 1 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43862.mp4
+#EXTINF:-1 tvg-name="Os Smurfs 2 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52p2PtBAebB0HwvfY5YIowT7sFI.jpg" group-title="ANIMACAO/INFANTIL",Os Smurfs 2 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43860.mp4
+#EXTINF:-1 tvg-name="Os Smurfs e a Flauta Mágica - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHMA03s2zf9SWjNsdYfNKZkZOoI.jpg" group-title="ANIMACAO/INFANTIL",Os Smurfs e a Flauta Mágica - 1976
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69830.mp4
+#EXTINF:-1 tvg-name="Os Smurfs e a Vila Perdida - 2017" tvg-logo="http://urlon.me/ZrE" group-title="ANIMACAO/INFANTIL",Os Smurfs e a Vila Perdida - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43857.mp4
+#EXTINF:-1 tvg-name="Os Under Undergrounds, O Começo - 2021" tvg-logo="http://5ce.me:80/images/lJSQxSYMHBEirQJa5yjOkucMUGJ_big.jpg" group-title="ANIMACAO/INFANTIL",Os Under Undergrounds, O Começo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198360.mp4
+#EXTINF:-1 tvg-name="Os Vilões da Disney - 2002" tvg-logo="http://urlon.me/ZgY10s" group-title="ANIMACAO/INFANTIL",Os Vilões da Disney - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67796.mp4
+#EXTINF:-1 tvg-name="Osmose Jones - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg" group-title="ANIMACAO/INFANTIL",Osmose Jones - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43851.mp4
+#EXTINF:-1 tvg-name="Pachamama - 2018" tvg-logo="http://urlon.me/OkK" group-title="ANIMACAO/INFANTIL",Pachamama - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61701.mp4
+#EXTINF:-1 tvg-name="Papai, eu sou uma zumbi - 2012" tvg-logo="http://5ce.co:80/images/2bmszgvagYv1FZJYyezVkRj9a3w_big.jpg" group-title="ANIMACAO/INFANTIL",Papai, eu sou uma zumbi - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/159774.mp4
+#EXTINF:-1 tvg-name="ParaNorman - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg" group-title="ANIMACAO/INFANTIL",ParaNorman - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43849.mp4
+#EXTINF:-1 tvg-name="Pateta - O Filme - 1995" tvg-logo="http://urlon.me/ZgY10R" group-title="ANIMACAO/INFANTIL",Pateta - O Filme - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67797.mp4
+#EXTINF:-1 tvg-name="Pateta 2 - Radicalmente Pateta - 2000" tvg-logo="https://tinyurl.com/374fzhkz" group-title="ANIMACAO/INFANTIL",Pateta 2 - Radicalmente Pateta - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170497.mp4
+#EXTINF:-1 tvg-name="Pato Pato Ganso - 2018" tvg-logo="http://urlon.me/Zr2" group-title="ANIMACAO/INFANTIL",Pato Pato Ganso - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43847.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina: O Filme - 2021" tvg-logo="http://5ce.co:80/images/56V3xa8ymXzOQLFGsiU9T1sDmfI_big.jpg" group-title="ANIMACAO/INFANTIL",Patrulha Canina: O Filme - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188942.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina Super Filhotes - 2018" tvg-logo="http://urlon.me/dM7" group-title="ANIMACAO/INFANTIL",Patrulha Canina Super Filhotes - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/54837.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina: Super Filhotes - 2019" tvg-logo="http://urlon.me/ZFl" group-title="ANIMACAO/INFANTIL",Patrulha Canina: Super Filhotes - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42771.mp4
+#EXTINF:-1 tvg-name="Pé Grande vs. Papai Noel - 2019" tvg-logo="http://urlon.me/ZgYY2f" group-title="ANIMACAO/INFANTIL",Pé Grande vs. Papai Noel - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/83563.mp4
+#EXTINF:-1 tvg-name="Pedro Coelho - 2018" tvg-logo="http://5ce.co:80/images/f9Yp41eDDrx4HxFKW8vt9xKPobB_big.jpg" group-title="ANIMACAO/INFANTIL",Pedro Coelho - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43845.mp4
+#EXTINF:-1 tvg-name="Pedro Coelho 2: O Fugitivo - 2021" tvg-logo="http://5ce.co:80/images/pxdSJCpqMOp3gakScrzHgGDEvVr_big.jpg" group-title="ANIMACAO/INFANTIL",Pedro Coelho 2: O Fugitivo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/180527.mp4
+#EXTINF:-1 tvg-name="PéPequeno - 2018" tvg-logo="http://urlon.me/Zr5" group-title="ANIMACAO/INFANTIL",PéPequeno - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43827.mp4
+#EXTINF:-1 tvg-name="Pequenos Grandes Heróis - 2020" tvg-logo="http://5ce.me:80/images/qz8V4opEXdcY7qeU5djTdrfmuhX_big.jpg" group-title="ANIMACAO/INFANTIL",Pequenos Grandes Heróis - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152481.mp4
+#EXTINF:-1 tvg-name="Perdi Meu Corpo - 2019" tvg-logo="http://urlon.me/OGG" group-title="ANIMACAO/INFANTIL",Perdi Meu Corpo - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61263.mp4
+#EXTINF:-1 tvg-name="Pets United - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg" group-title="ANIMACAO/INFANTIL",Pets United - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/120835.mp4
+#EXTINF:-1 tvg-name="Pets: A Vida Secreta dos Bichos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKpQ8fDDu1qCvBl5bF2vpsZPSUj.jpg" group-title="ANIMACAO/INFANTIL",Pets: A Vida Secreta dos Bichos - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43843.mp4
+#EXTINF:-1 tvg-name="Pets: A Vida Secreta dos Bichos 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPEAwV5u6cwqNMBV6MD4CWFAclu.jpg" group-title="ANIMACAO/INFANTIL",Pets: A Vida Secreta dos Bichos 2 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60249.mp4
+#EXTINF:-1 tvg-name="Phineas e Ferb, O Filme: Candace Contra o Universo - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNYCXgfBZiFdPcSY5h1AGxly7W8.jpg" group-title="ANIMACAO/INFANTIL",Phineas e Ferb, O Filme: Candace Contra o Universo - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/126265.mp4
+#EXTINF:-1 tvg-name="Pinóquio - 1940" tvg-logo="https://image.tmdb.org/t/p/w1280/m4PBH7COEjryvL6MRtUpzjPKkCc.jpg" group-title="ANIMACAO/INFANTIL",Pinóquio - 1940
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61703.mp4
+#EXTINF:-1 tvg-name="Piratas Pirados - 2012" tvg-logo="http://urlon.me/ZgYMyx" group-title="ANIMACAO/INFANTIL",Piratas Pirados - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/97328.mp4
+#EXTINF:-1 tvg-name="Planeta do Tesouro - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GJnKM1CLylmp8phkyiITiwu7L.jpg" group-title="ANIMACAO/INFANTIL",Planeta do Tesouro - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43839.mp4
+#EXTINF:-1 tvg-name="Playmobil - O Filme - 2019" tvg-logo="http://urlon.me/ZgY1bC" group-title="ANIMACAO/INFANTIL",Playmobil - O Filme - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70820.mp4
+#EXTINF:-1 tvg-name="PLOEY: Você Nunca Voará Sozinho - 2018" tvg-logo="http://5ce.co:80/images/2ioAymnfrJ28kIyUge2lWN83G5h_big.jpg" group-title="ANIMACAO/INFANTIL",PLOEY: Você Nunca Voará Sozinho - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193452.mp4
+#EXTINF:-1 tvg-name="Pocahontas - O Encontro de Dois Mundos - 1995" tvg-logo="http://5ce.me:80/images/edIqnYPOW0gkTsX2CEFdqpHhQhz_big.jpg" group-title="ANIMACAO/INFANTIL",Pocahontas - O Encontro de Dois Mundos - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/167991.mp4
+#EXTINF:-1 tvg-name="Pocahontas 2 - Uma Jornada para o Novo Mundo - 1998" tvg-logo="http://5ce.me:80/images/xNsHnGRoGYziVpz0D6hS4x78y2A_big.jpg" group-title="ANIMACAO/INFANTIL",Pocahontas 2 - Uma Jornada para o Novo Mundo - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/167990.mp4
+
+#EXTM3U url-tvg="http://grade-de-MARVEL.xml"
+############## MARVEL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeMARVEL" group-title="
+
+#EXTINF:-1 tvg-name="Blade 1 - O Caçador de Vampiros - 1998" tvg-logo="http://urlon.me/ZgY1Fv" group-title="MARVEL",Blade 1 - O Caçador de Vampiros - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61413.mp4
+#EXTINF:-1 tvg-name="Blade 2 - O Caçador de Vampiros - 2002" tvg-logo="http://urlon.me/ZgY1Fj" group-title="MARVEL",Blade 2 - O Caçador de Vampiros - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61415.mp4
+#EXTINF:-1 tvg-name="Blade 3 - Trinity - 2004" tvg-logo="http://urlon.me/ZgY1Fy" group-title="MARVEL",Blade 3 - Trinity - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61414.mp4
+#EXTINF:-1 tvg-name="Capitã Marvel - 2019" tvg-logo="http://urlon.me/Zz3" group-title="MARVEL",Capitã Marvel - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43125.mp4
+#EXTINF:-1 tvg-name="Capitão América 1 - O Primeiro Vingador - 2011" tvg-logo="http://urlon.me/O8D" group-title="MARVEL",Capitão América 1 - O Primeiro Vingador - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/62008.mp4
+#EXTINF:-1 tvg-name="Capitão América 2 - O Soldado Invernal - 2014" tvg-logo="http://urlon.me/Z0l" group-title="MARVEL",Capitão América 2 - O Soldado Invernal - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43290.mp4
+#EXTINF:-1 tvg-name="Capitão América 3 - Guerra Civil - 2016" tvg-logo="http://urlon.me/Z0q" group-title="MARVEL",Capitão América 3 - Guerra Civil - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43289.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho - 2016" tvg-logo="http://urlon.me/ZgYMul" group-title="MARVEL",Doutor Estranho - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43284.mp4
+#EXTINF:-1 tvg-name="Era Uma Vez Um Deadpool - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="MARVEL",Era Uma Vez Um Deadpool - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44254.mp4
+#EXTINF:-1 tvg-name="Eternos - 2022" tvg-logo="http://5ce.co:80/images/mzezdUZEnpiUIlxpdyLO1R08Lqm_big.jpg" group-title="MARVEL",Eternos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199359.mp4
+#EXTINF:-1 tvg-name="Guardiões da Galáxia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="MARVEL",Guardiões da Galáxia - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43282.mp4
+#EXTINF:-1 tvg-name="Guardiões da Galáxia Vol. 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="MARVEL",Guardiões da Galáxia Vol. 2 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/84964.mp4
+#EXTINF:-1 tvg-name="Homem de Ferro - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="MARVEL",Homem de Ferro - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43280.mp4
+#EXTINF:-1 tvg-name="Homem de Ferro 2 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="MARVEL",Homem de Ferro 2 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44223.mp4
+#EXTINF:-1 tvg-name="Homem de Ferro 3 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzL3IlELFTRnRLdGqRv33SecqtD.jpg" group-title="MARVEL",Homem de Ferro 3 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43274.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha 1 - 2002" tvg-logo="http://urlon.me/Zxo" group-title="MARVEL",Homem-Aranha 1 - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43272.mkv
+#EXTINF:-1 tvg-name="Homem-Aranha 2 - 2004" tvg-logo="http://urlon.me/Zxa" group-title="MARVEL",Homem-Aranha 2 - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43270.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha 3 - 2007" tvg-logo="http://urlon.me/ZxI" group-title="MARVEL",Homem-Aranha 3 - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43269.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha no Aranhaverso - 2018" tvg-logo="http://urlon.me/ZkX" group-title="MARVEL",Homem-Aranha no Aranhaverso - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43026.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha: De Volta ao Lar - 2017" tvg-logo="http://urlon.me/ZxW" group-title="MARVEL",Homem-Aranha: De Volta ao Lar - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43268.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha: Longe de Casa - 2019" tvg-logo="http://urlon.me/Z78" group-title="MARVEL",Homem-Aranha: Longe de Casa - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42699.mp4
+#EXTINF:-1 tvg-name="Homem-Formiga - 2015" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Ant_Man-Poster.jpg" group-title="MARVEL",Homem-Formiga - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43267.mp4
+#EXTINF:-1 tvg-name="Homem-Formiga e a Vespa - 2018" tvg-logo="http://urlon.me/ZxV" group-title="MARVEL",Homem-Formiga e a Vespa - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43266.mp4
+#EXTINF:-1 tvg-name="Hulk - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg" group-title="MARVEL",Hulk - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44227.mp4
+#EXTINF:-1 tvg-name="Motoqueiro Fantasma 1 - 2007" tvg-logo="http://urlon.me/Zxp" group-title="MARVEL",Motoqueiro Fantasma 1 - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43265.mp4
+#EXTINF:-1 tvg-name="Motoqueiro Fantasma 2 - Espírito de Vingança - 2011" tvg-logo="http://urlon.me/Zxc" group-title="MARVEL",Motoqueiro Fantasma 2 - Espírito de Vingança - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43264.mp4
+#EXTINF:-1 tvg-name="O Espetacular Homem-Aranha 1 - 2012" tvg-logo="http://urlon.me/Zx0" group-title="MARVEL",O Espetacular Homem-Aranha 1 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43263.mp4
+#EXTINF:-1 tvg-name="O Espetacular Homem-Aranha 2 - A Ameaça de Electro - 2014" tvg-logo="http://urlon.me/Zxt" group-title="MARVEL",O Espetacular Homem-Aranha 2 - A Ameaça de Electro - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43262.mp4
+#EXTINF:-1 tvg-name="O Incrível Hulk - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="MARVEL",O Incrível Hulk - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43261.mp4
+#EXTINF:-1 tvg-name="Os Vingadores: The Avengers - 2012" tvg-logo="http://5ce.co:80/images/u49fzmIJHkb1H4oGFTXtBGgaUS1_big.jpg" group-title="MARVEL",Os Vingadores: The Avengers - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186281.mp4
+#EXTINF:-1 tvg-name="Thor - 2011" tvg-logo="http://5ce.co:80/images/prSfAi1xGrhLQNxVSUFh61xQ4Qy_big.jpg" group-title="MARVEL",Thor - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43258.mp4
+#EXTINF:-1 tvg-name="Thor 2 - O Mundo Sombrio - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="MARVEL",Thor 2 - O Mundo Sombrio - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43257.mp4
+#EXTINF:-1 tvg-name="Thor 3 - Ragnarok - 2017" tvg-logo="http://urlon.me/ZxQ" group-title="MARVEL",Thor 3 - Ragnarok - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43256.mp4
+#EXTINF:-1 tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="MARVEL",Venom - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43255.mp4
+#EXTINF:-1 tvg-name="Venom: Tempo de Carnificina - 2021" tvg-logo="http://5ce.co:80/images/h5UzYZquMwO9FVn15R2eK2itmHu_big.jpg" group-title="MARVEL",Venom: Tempo de Carnificina - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/191946.mp4
+#EXTINF:-1 tvg-name="Vingadores: Era de Ultron - 2015" tvg-logo="http://urlon.me/ZxG" group-title="MARVEL",Vingadores: Era de Ultron - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43254.mp4
+#EXTINF:-1 tvg-name="Vingadores: Guerra Infinita - 2018" tvg-logo="http://urlon.me/ZxY" group-title="MARVEL",Vingadores: Guerra Infinita - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43253.mp4
+#EXTINF:-1 tvg-name="Vingadores: Ultimato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="MARVEL",Vingadores: Ultimato - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42783.mp4
+#EXTINF:-1 tvg-name="Viúva Negra - 2021" tvg-logo="http://5ce.co:80/images/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf_big.jpg" group-title="MARVEL",Viúva Negra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/183591.mp4
+#EXTINF:-1 tvg-name="X-Men 1 - O Filme - 2000" tvg-logo="http://urlon.me/ZLG" group-title="MARVEL",X-Men 1 - O Filme - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44077.mp4
+#EXTINF:-1 tvg-name="X-Men 10 - Logan - 2017" tvg-logo="http://urlon.me/ZSc" group-title="MARVEL",X-Men 10 - Logan - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44201.mp4
+#EXTINF:-1 tvg-name="X-Men 11 - Deadpool 2 - 2018" tvg-logo="http://urlon.me/Z0F" group-title="MARVEL",X-Men 11 - Deadpool 2 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43286.mp4
+#EXTINF:-1 tvg-name="X-Men 12 - Fênix Negra - 2019" tvg-logo="http://urlon.me/ZgY3SW" group-title="MARVEL",X-Men 12 - Fênix Negra - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42701.mp4
+#EXTINF:-1 tvg-name="X-Men 2 - 2003" tvg-logo="https://img.elo7.com.br/product/original/2678F93/big-poster-x-men-2-2003-lo01-tamanho-90x60-cm-nerd.jpg" group-title="MARVEL",X-Men 2 - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44089.mp4
+#EXTINF:-1 tvg-name="X-Men 3 - O Confronto Final - 2006" tvg-logo="http://urlon.me/ZLc" group-title="MARVEL",X-Men 3 - O Confronto Final - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44087.mp4
+#EXTINF:-1 tvg-name="X-Men 4 - Origens: Wolverine - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="MARVEL",X-Men 4 - Origens: Wolverine - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44085.mp4
+#EXTINF:-1 tvg-name="X-Men 5 - Primeira Classe - 2011" tvg-logo="https://2.bp.blogspot.com/-3R7YBLnNl68/TelgbyazHHI/AAAAAAAAE9U/0yrX40NPut8/s1600/poster-frances-04Mai2011.jpg" group-title="MARVEL",X-Men 5 - Primeira Classe - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44083.mp4
+#EXTINF:-1 tvg-name="X-Men 6 - Wolverine: Imortal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="MARVEL",X-Men 6 - Wolverine: Imortal - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65471.mp4
+#EXTINF:-1 tvg-name="X-Men 7 - Dias De Um Futuro Esquecido - 2014" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/X-Men_Dias_Futuro_Esquecido_2014.jpg" group-title="MARVEL",X-Men 7 - Dias De Um Futuro Esquecido - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44079.mp4
+#EXTINF:-1 tvg-name="X-Men 8 - Deadpool - 2016" tvg-logo="http://urlon.me/ZgYMAn" group-title="MARVEL",X-Men 8 - Deadpool - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43725.mp4
+#EXTINF:-1 tvg-name="X-Men 9 - Apocalipse - 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Xmen_apocalypse_ver18.jpg" group-title="MARVEL",X-Men 9 - Apocalipse - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44081.mp4
+
+#EXTM3U url-tvg="http://grade-de-NACIONAIS.xml"
+############## NACIONAIS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeNACIONAIS" group-title="
+
+#EXTINF:-1 tvg-name="1 Contra Todos - 2016" tvg-logo="http://urlon.me/6J8" group-title="NACIONAIS",1 Contra Todos - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44567.mp4
+#EXTINF:-1 tvg-name="2 Filhos de Francisco - 2005" tvg-logo="http://urlon.me/ZgY1vu" group-title="NACIONAIS",2 Filhos de Francisco - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63870.mp4
+#EXTINF:-1 tvg-name="400 Contra 1: Uma História do Crime Organizado - 2010" tvg-logo="http://5ce.co:80/images/sMncURxEueGeBxdmx2gTFaNUgzF_big.jpg" group-title="NACIONAIS",400 Contra 1: Uma História do Crime Organizado - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182262.mp4
+#EXTINF:-1 tvg-name="45 Dias Sem Você - 2018" tvg-logo="http://urlon.me/OsL" group-title="NACIONAIS",45 Dias Sem Você - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63871.mp4
+#EXTINF:-1 tvg-name="A Bruta Flor do Querer - 2016" tvg-logo="http://urlon.me/ZgY1X8" group-title="NACIONAIS",A Bruta Flor do Querer - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44566.mp4
+#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva - 2018" tvg-logo="http://5ce.me:80/images/2nrfMcUHswJN6kRdXBulQI8FDZx_big.jpg" group-title="NACIONAIS",A Cabeça de Gumercindo Saraiva - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/144678.mp4
+#EXTINF:-1 tvg-name="A Coleção Invisível - 2013" tvg-logo="http://urlon.me/ZgY1vD" group-title="NACIONAIS",A Coleção Invisível - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63872.mp4
+#EXTINF:-1 tvg-name="A Comédia Divina - 2017" tvg-logo="http://urlon.me/6Jq" group-title="NACIONAIS",A Comédia Divina - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44564.mp4
+#EXTINF:-1 tvg-name="A Filha dos Trapalhões - 1984" tvg-logo="http://urlon.me/6JF" group-title="NACIONAIS",A Filha dos Trapalhões - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44562.avi
+#EXTINF:-1 tvg-name="A Frente Fria Que a Chuva Traz - 2016" tvg-logo="http://urlon.me/6JY" group-title="NACIONAIS",A Frente Fria Que a Chuva Traz - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44560.mp4
+#EXTINF:-1 tvg-name="A Glória e a Graça - 2017" tvg-logo="http://urlon.me/ZgY1Xl" group-title="NACIONAIS",A Glória e a Graça - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44558.mp4
+#EXTINF:-1 tvg-name="A Menina Índigo - 2017" tvg-logo="http://urlon.me/6JX" group-title="NACIONAIS",A Menina Índigo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44556.mp4
+#EXTINF:-1 tvg-name="A Menina Que Matou os Pais - 2021" tvg-logo="http://5ce.co:80/images/rARhJwdW2cAeh8tgdc7WZqs2nZ1_big.jpg" group-title="NACIONAIS",A Menina Que Matou os Pais - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185612.mp4
+#EXTINF:-1 tvg-name="A Nossa Bandeira Jamais Será Vermelha - 2021" tvg-logo="http://5ce.me:80/images/l7G4kxqdtsrKgjXEp21KQEugY4X_big.jpg" group-title="NACIONAIS",A Nossa Bandeira Jamais Será Vermelha - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140829.mp4
+#EXTINF:-1 tvg-name="A Onda da Vida - Uma História de Amor & Surf - 2014" tvg-logo="https://www.garopabamidia.com.br/images/noticia/g/20140502170901.jpg" group-title="NACIONAIS",A Onda da Vida - Uma História de Amor & Surf - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44552.mp4
+#EXTINF:-1 tvg-name="A Princesa Xuxa e os Trapalhões - 1989" tvg-logo="http://urlon.me/6Jg" group-title="NACIONAIS",A Princesa Xuxa e os Trapalhões - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44551.avi
+#EXTINF:-1 tvg-name="A Última Chance - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNUHzkgP3zFjbnbHhEc0Em0QvtI.jpg" group-title="NACIONAIS",A Última Chance - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/97805.mp4
+#EXTINF:-1 tvg-name="Abraço - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYLBlq2NfMdoDiCfmcHzBxg1EXY.jpg" group-title="NACIONAIS",Abraço - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/128315.mp4
+#EXTINF:-1 tvg-name="Aladim e a Lâmpada Maravilhosa - 1973" tvg-logo="http://urlon.me/6T4" group-title="NACIONAIS",Aladim e a Lâmpada Maravilhosa - 1973
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44548.mp4
+#EXTINF:-1 tvg-name="Albatroz - 2019" tvg-logo="http://urlon.me/Zvc" group-title="NACIONAIS",Albatroz - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42808.mp4
+#EXTINF:-1 tvg-name="Alemão - 2014" tvg-logo="http://urlon.me/ZgY1XQ" group-title="NACIONAIS",Alemão - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44547.mp4
+#EXTINF:-1 tvg-name="Alguém Como Eu - 2017" tvg-logo="http://urlon.me/ZNL" group-title="NACIONAIS",Alguém Como Eu - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43821.mp4
+#EXTINF:-1 tvg-name="Ali Babá e os Quarenta Ladrões - 1972" tvg-logo="http://5ce.co:80/images/AuoLAGJvUFGv6LtvWv2EgtCJWfw_big.jpg" group-title="NACIONAIS",Ali Babá e os Quarenta Ladrões - 1972
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158351.mp4
+#EXTINF:-1 tvg-name="Alok ao vivo Festival de Verão Salvador - 2017" tvg-logo="http://urlon.me/OBx" group-title="NACIONAIS",Alok ao vivo Festival de Verão Salvador - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65329.mp4
+#EXTINF:-1 tvg-name="Amanhã Nunca Mais - 2011" tvg-logo="http://urlon.me/ZgY1XF" group-title="NACIONAIS",Amanhã Nunca Mais - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44543.mp4
+#EXTINF:-1 tvg-name="Amor em Sampa - 2016" tvg-logo="http://urlon.me/ZgY1Ta" group-title="NACIONAIS",Amor em Sampa - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45759.mp4
+#EXTINF:-1 tvg-name="Amor Sem Medida - 2021" tvg-logo="http://5ce.co:80/images/glFwaNYHhzUa1pao25O2o2aFkxj_big.jpg" group-title="NACIONAIS",Amor Sem Medida - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/191929.mp4
+#EXTINF:-1 tvg-name="Amor, Estranho Amor - 1982" tvg-logo="http://urlon.me/ZgY1XG" group-title="NACIONAIS",Amor, Estranho Amor - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44541.mp4
+#EXTINF:-1 tvg-name="Amor.com - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0af8u9n0BEW999ZQVEDDCHCRVV.jpg" group-title="NACIONAIS",Amor.com - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63874.mp4
+#EXTINF:-1 tvg-name="Amores de Chumbo - 2017" tvg-logo="http://cms-central.co:80/images/fZPUSJsCEuhDhBqzwF5sd9vuv3w_big.jpg" group-title="NACIONAIS",Amores de Chumbo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/155572.mp4
+#EXTINF:-1 tvg-name="Ana E Vitoria - 2018" tvg-logo="http://urlon.me/ZNF" group-title="NACIONAIS",Ana E Vitoria - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43802.mp4
+#EXTINF:-1 tvg-name="Animal Político - 2017" tvg-logo="http://urlon.me/6Tc" group-title="NACIONAIS",Animal Político - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44539.mp4
+#EXTINF:-1 tvg-name="Aos Teus Olhos - 2017" tvg-logo="http://urlon.me/O2d" group-title="NACIONAIS",Aos Teus Olhos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63875.mp4
+#EXTINF:-1 tvg-name="Apaixonados - O Filme - 2016" tvg-logo="http://urlon.me/ZgY1vR" group-title="NACIONAIS",Apaixonados - O Filme - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63876.mp4
+#EXTINF:-1 tvg-name="Aquarius - 2016" tvg-logo="http://urlon.me/O2X" group-title="NACIONAIS",Aquarius - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63877.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Pedro Malasartes - 1960" tvg-logo="http://urlon.me/ZgY19k" group-title="NACIONAIS",As Aventuras de Pedro Malasartes - 1960
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44306.mp4
+#EXTINF:-1 tvg-name="As Boas Maneiras - 2017" tvg-logo="http://urlon.me/6Tt" group-title="NACIONAIS",As Boas Maneiras - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44537.mp4
+#EXTINF:-1 tvg-name="As Fábulas Negras - 2015" tvg-logo="http://urlon.me/ZgY1XY" group-title="NACIONAIS",As Fábulas Negras - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44533.mp4
+#EXTINF:-1 tvg-name="As Mães de Chico Xavier - 2011" tvg-logo="http://5ce.me:80/images/9znC61R03glG9UV0YqtRg97L9Mf_big.jpg" group-title="NACIONAIS",As Mães de Chico Xavier - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95308.mp4
+#EXTINF:-1 tvg-name="As Melhores Coisas do Mundo - 2010" tvg-logo="http://urlon.me/ZgY1X3" group-title="NACIONAIS",As Melhores Coisas do Mundo - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44531.mp4
+#EXTINF:-1 tvg-name="Assalto ao Banco Central - 2011" tvg-logo="http://urlon.me/ZgY1vi" group-title="NACIONAIS",Assalto ao Banco Central - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63802.mp4
+#EXTINF:-1 tvg-name="Até que a Sorte nos Separe - 2012" tvg-logo="http://urlon.me/ZgYYKo" group-title="NACIONAIS",Até que a Sorte nos Separe - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80793.mp4
+#EXTINF:-1 tvg-name="Até que a Sorte nos Separe 2 - 2013" tvg-logo="http://urlon.me/ZgYYK4" group-title="NACIONAIS",Até que a Sorte nos Separe 2 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80794.mp4
+#EXTINF:-1 tvg-name="Até Que A Sorte Nos Separe 3 - A Falência Final - 2015" tvg-logo="http://urlon.me/ZgYYKL" group-title="NACIONAIS",Até Que A Sorte Nos Separe 3 - A Falência Final - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80795.mp4
+#EXTINF:-1 tvg-name="Através da Sombra - 2016" tvg-logo="http://urlon.me/6TG" group-title="NACIONAIS",Através da Sombra - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44529.mp4
+#EXTINF:-1 tvg-name="Axé - Canto do Povo de um Lugar - 2017" tvg-logo="http://urlon.me/ZgY1XU" group-title="NACIONAIS",Axé - Canto do Povo de um Lugar - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44527.mp4
+#EXTINF:-1 tvg-name="Benzinho - 2018" tvg-logo="http://urlon.me/O2u" group-title="NACIONAIS",Benzinho - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63893.mp4
+#EXTINF:-1 tvg-name="Betão Ronca Ferro - 1970" tvg-logo="http://urlon.me/ZgY19c" group-title="NACIONAIS",Betão Ronca Ferro - 1970
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44336.mp4
+#EXTINF:-1 tvg-name="Bezerra de Menezes: O Diário de um Espírito - 2008" tvg-logo="http://urlon.me/ZgY1XJ" group-title="NACIONAIS",Bezerra de Menezes: O Diário de um Espírito - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44525.mp4
+#EXTINF:-1 tvg-name="Bia - 2.0 - 2018" tvg-logo="http://urlon.me/O2D" group-title="NACIONAIS",Bia - 2.0 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63894.mp4
+#EXTINF:-1 tvg-name="Bicho de Sete Cabeças - 2001" tvg-logo="http://5ce.co:80/images/ucFRXjYTuIhMEa2ZgK4FKrwTPN_big.jpg" group-title="NACIONAIS",Bicho de Sete Cabeças - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196465.mp4
+#EXTINF:-1 tvg-name="Big Jato - 2015" tvg-logo="http://urlon.me/ZgY1XX" group-title="NACIONAIS",Big Jato - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44523.mp4
+#EXTINF:-1 tvg-name="Bingo - O Rei das Manhãs - 2017" tvg-logo="http://urlon.me/O2R" group-title="NACIONAIS",Bingo - O Rei das Manhãs - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63896.mp4
+#EXTINF:-1 tvg-name="Boa Sorte - 2014" tvg-logo="http://urlon.me/O2C" group-title="NACIONAIS",Boa Sorte - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63897.mp4
+#EXTINF:-1 tvg-name="Bonga, o Vagabundo - 1969" tvg-logo="http://5ce.co:80/images/bvz6oCiQmd8VqSenDuyhKOg0tUP_big.jpg" group-title="NACIONAIS",Bonga, o Vagabundo - 1969
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158383.mp4
+#EXTINF:-1 tvg-name="Bruna Surfistinha  - 2011" tvg-logo="http://urlon.me/ZgY1vN" group-title="NACIONAIS",Bruna Surfistinha  - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63898.mp4
+#EXTINF:-1 tvg-name="Bye bye Jaqueline - 2017" tvg-logo="http://urlon.me/6Td" group-title="NACIONAIS",Bye bye Jaqueline - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44521.mp4
+#EXTINF:-1 tvg-name="Calango Ball - 2017" tvg-logo="http://urlon.me/6Tg" group-title="NACIONAIS",Calango Ball - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44519.mp4
+#EXTINF:-1 tvg-name="Califórnia - 2015" tvg-logo="http://urlon.me/ZgY1vx" group-title="NACIONAIS",Califórnia - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63803.mp4
+#EXTINF:-1 tvg-name="Cano Serrado - 2018" tvg-logo="http://urlon.me/ZgYYtJ" group-title="NACIONAIS",Cano Serrado - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81452.mp4
+#EXTINF:-1 tvg-name="Carandiru - 2003" tvg-logo="http://urlon.me/ZgY19l" group-title="NACIONAIS",Carandiru - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44305.mp4
+#EXTINF:-1 tvg-name="Carnaval - 2021" tvg-logo="http://5ce.co:80/images/ze1Sdb7WB64TBJhPqg8sJtwQtes_big.jpg" group-title="NACIONAIS",Carnaval - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/163601.mp4
+#EXTINF:-1 tvg-name="Carrossel - O Filme - 2015" tvg-logo="http://urlon.me/ZgY1ve" group-title="NACIONAIS",Carrossel - O Filme - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63899.mp4
+#EXTINF:-1 tvg-name="Carrossel 2: O Sumiço de Maria Joaquina - 2016" tvg-logo="http://urlon.me/ZgY1X5" group-title="NACIONAIS",Carrossel 2: O Sumiço de Maria Joaquina - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44517.mp4
+#EXTINF:-1 tvg-name="Casa da Mãe Joana - 2008" tvg-logo="http://urlon.me/ZgY1Xd" group-title="NACIONAIS",Casa da Mãe Joana - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44515.mp4
+#EXTINF:-1 tvg-name="Casa da Mãe Joana 2 - 2013" tvg-logo="http://urlon.me/ZgY1X6" group-title="NACIONAIS",Casa da Mãe Joana 2 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44513.mp4
+#EXTINF:-1 tvg-name="Casa de Praia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNyGsCqjmRUqE1Jiy7qdbJ6dTFZ.jpg" group-title="NACIONAIS",Casa de Praia - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/122476.mp4
+#EXTINF:-1 tvg-name="Casa Grande - 2014" tvg-logo="http://urlon.me/ZgY1vb" group-title="NACIONAIS",Casa Grande - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63900.mp4
+#EXTINF:-1 tvg-name="Casinha Pequenina - 1963" tvg-logo="http://urlon.me/ZgY19t" group-title="NACIONAIS",Casinha Pequenina - 1963
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44334.mp4
+#EXTINF:-1 tvg-name="Causa e Efeito - 2014" tvg-logo="http://urlon.me/ZgYMTB" group-title="NACIONAIS",Causa e Efeito - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95310.mp4
+#EXTINF:-1 tvg-name="Cazuza - O tempo não pára - 2004" tvg-logo="http://urlon.me/O2b" group-title="NACIONAIS",Cazuza - O tempo não pára - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63901.mp4
+#EXTINF:-1 tvg-name="Central do Brasil - 1998" tvg-logo="http://urlon.me/OVM" group-title="NACIONAIS",Central do Brasil - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63804.mp4
+#EXTINF:-1 tvg-name="Chico Fumaça - 1956" tvg-logo="http://urlon.me/ZgY19w" group-title="NACIONAIS",Chico Fumaça - 1956
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44333.mp4
+#EXTINF:-1 tvg-name="Chocante - 2017" tvg-logo="http://urlon.me/69q" group-title="NACIONAIS",Chocante - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44462.mp4
+#EXTINF:-1 tvg-name="Chofer de Praça - 1959" tvg-logo="http://urlon.me/ZgY198" group-title="NACIONAIS",Chofer de Praça - 1959
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44332.mp4
+#EXTINF:-1 tvg-name="Chorão: Marginal Alado - 2021" tvg-logo="http://5ce.me:80/images/gogfKsMhf4q8iOO8awqi9YWkt4g_big.jpg" group-title="NACIONAIS",Chorão: Marginal Alado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152700.mp4
+#EXTINF:-1 tvg-name="Chorar de Rir - 2019" tvg-logo="http://urlon.me/O2n" group-title="NACIONAIS",Chorar de Rir - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63902.mp4
+#EXTINF:-1 tvg-name="Cidade de Deus - 2002" tvg-logo="http://urlon.me/O2H" group-title="NACIONAIS",Cidade de Deus - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63903.mp4
+#EXTINF:-1 tvg-name="Cidade Dormitório - 2018" tvg-logo="http://5ce.me:80/images/zRtQtUOqsfVzViyfSrOZ8ERzvPG_big.jpg" group-title="NACIONAIS",Cidade Dormitório - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145805.mp4
+#EXTINF:-1 tvg-name="Cidade dos Homens - 2007" tvg-logo="http://urlon.me/ZgY1vn" group-title="NACIONAIS",Cidade dos Homens - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63904.mp4
+#EXTINF:-1 tvg-name="Cilada.com - 2011" tvg-logo="http://urlon.me/ZgY1vH" group-title="NACIONAIS",Cilada.com - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63905.mp4
+#EXTINF:-1 tvg-name="Cinderela Pop - 2019" tvg-logo="http://urlon.me/ZQc" group-title="NACIONAIS",Cinderela Pop - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42840.mp4
+#EXTINF:-1 tvg-name="Cine Holliúdy - 2013" tvg-logo="http://urlon.me/ZgY194" group-title="NACIONAIS",Cine Holliúdy - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44459.mp4
+#EXTINF:-1 tvg-name="Clarisse ou Alguma Coisa Sobre Nós Dois - 2015" tvg-logo="http://urlon.me/ORh" group-title="NACIONAIS",Clarisse ou Alguma Coisa Sobre Nós Dois - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63906.mp4
+#EXTINF:-1 tvg-name="Como é Cruel Viver Assim - 2018" tvg-logo="http://urlon.me/OV7" group-title="NACIONAIS",Como é Cruel Viver Assim - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63805.mp4
+#EXTINF:-1 tvg-name="Como Hackear Seu Chefe - 2021" tvg-logo="http://5ce.co:80/images/sXIIGA2VeK1FAhd9c547kcBIryq_big.jpg" group-title="NACIONAIS",Como Hackear Seu Chefe - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177911.mp4
+#EXTINF:-1 tvg-name="Como Nossos Pais - 2017" tvg-logo="http://urlon.me/69Y" group-title="NACIONAIS",Como Nossos Pais - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44457.mp4
+#EXTINF:-1 tvg-name="Como Se Tornar o Pior Aluno da Escola - 2017" tvg-logo="http://urlon.me/ORO" group-title="NACIONAIS",Como Se Tornar o Pior Aluno da Escola - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63907.mp4
+#EXTINF:-1 tvg-name="Condado Macabro - 2015" tvg-logo="http://urlon.me/ZgY1vA" group-title="NACIONAIS",Condado Macabro - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63806.mp4
+#EXTINF:-1 tvg-name="Contra a Parede - 2018" tvg-logo="http://urlon.me/ZgY1Oo" group-title="NACIONAIS",Contra a Parede - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44065.mp4
+#EXTINF:-1 tvg-name="Copa de Elite - 2014" tvg-logo="http://urlon.me/ZgYMcC" group-title="NACIONAIS",Copa de Elite - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63908.mp4
+#EXTINF:-1 tvg-name="Cora Coralina - Todas as Vidas - 2017" tvg-logo="http://urlon.me/ZgY19o" group-title="NACIONAIS",Cora Coralina - Todas as Vidas - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44454.mp4
+#EXTINF:-1 tvg-name="Corpo Eletrico - 2017" tvg-logo="http://urlon.me/69d" group-title="NACIONAIS",Corpo Eletrico - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44450.mp4
+#EXTINF:-1 tvg-name="Cortina de Fumaça - 2011" tvg-logo="http://5ce.co:80/images/vFQtralVNLc1KovPqhhjNPGbUsI_big.jpg" group-title="NACIONAIS",Cortina de Fumaça - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170005.mp4
+#EXTINF:-1 tvg-name="Crô - O Filme - 2013" tvg-logo="http://urlon.me/ORT" group-title="NACIONAIS",Crô - O Filme - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63909.mp4
+#EXTINF:-1 tvg-name="Crô em Família - 2018" tvg-logo="http://urlon.me/ZBI" group-title="NACIONAIS",Crô em Família - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43746.mp4
+#EXTINF:-1 tvg-name="D.P.A. Detetives do Prédio Azul - O Filme - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ezEwZp2gUCfiT5STguLWNV4BYR.jpg" group-title="NACIONAIS",D.P.A. Detetives do Prédio Azul - O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44449.mp4
+#EXTINF:-1 tvg-name="De Onde Eu Te Vejo - 2015" tvg-logo="http://urlon.me/ZgYMcM" group-title="NACIONAIS",De Onde Eu Te Vejo - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44448.mp4
+#EXTINF:-1 tvg-name="De Pernas pro Ar - 2010" tvg-logo="http://urlon.me/ZgYMAH" group-title="NACIONAIS",De Pernas pro Ar - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43735.mp4
+#EXTINF:-1 tvg-name="De Pernas pro Ar 2 - 2012" tvg-logo="http://urlon.me/ZBG" group-title="NACIONAIS",De Pernas pro Ar 2 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43731.mp4
+#EXTINF:-1 tvg-name="De Pernas Pro Ar 3 - 2019" tvg-logo="http://urlon.me/ZFo" group-title="NACIONAIS",De Pernas Pro Ar 3 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42785.mp4
+#EXTINF:-1 tvg-name="Deserto - 2016" tvg-logo="http://5ce.co:80/images/k3EvKgyVDkhaG1w3XLdTnrBw3Tg_big.jpg" group-title="NACIONAIS",Deserto - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44446.mp4
+#EXTINF:-1 tvg-name="Detetives do Prédio Azul 2 - O Mistério Italiano - 2018" tvg-logo="http://urlon.me/ORm" group-title="NACIONAIS",Detetives do Prédio Azul 2 - O Mistério Italiano - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63910.mp4
+#EXTINF:-1 tvg-name="Deus é Brasileiro - 2003" tvg-logo="http://5ce.me:80/images/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p_big.jpg" group-title="NACIONAIS",Deus é Brasileiro - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139789.mp4
+#EXTINF:-1 tvg-name="Diários de Intercâmbio - 2021" tvg-logo="http://5ce.co:80/images/vqVVwT8hwHUlPscS2yE8c4aEm0T_big.jpg" group-title="NACIONAIS",Diários de Intercâmbio - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/180800.mp4
+#EXTINF:-1 tvg-name="Dias Vazios - 2018" tvg-logo="http://urlon.me/ZQ4" group-title="NACIONAIS",Dias Vazios - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42850.mkv
+#EXTINF:-1 tvg-name="Disparos - 2012" tvg-logo="http://urlon.me/ZgYMcP" group-title="NACIONAIS",Disparos - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44444.mp4
+#EXTINF:-1 tvg-name="Divórcio - 2017" tvg-logo="http://urlon.me/ZIt" group-title="NACIONAIS",Divórcio - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43707.mp4
+#EXTINF:-1 tvg-name="Doidas e Santas - 2017" tvg-logo="http://urlon.me/65a" group-title="NACIONAIS",Doidas e Santas - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44442.mp4
+#EXTINF:-1 tvg-name="Dois na Lona - 1968" tvg-logo="http://5ce.co:80/images/ghUvFCnbGmFdBz2antoB4eg2jTj_big.jpg" group-title="NACIONAIS",Dois na Lona - 1968
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158395.mp4
+#EXTINF:-1 tvg-name="Dona Flor e Seus Dois Maridos - 2017" tvg-logo="http://urlon.me/65W" group-title="NACIONAIS",Dona Flor e Seus Dois Maridos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44440.mp4
+#EXTINF:-1 tvg-name="Duas de Mim - 2017" tvg-logo="http://urlon.me/652" group-title="NACIONAIS",Duas de Mim - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44439.mp4
+#EXTINF:-1 tvg-name="E a Vida Continua... - 2012" tvg-logo="http://urlon.me/ZgYMTN" group-title="NACIONAIS",E a Vida Continua... - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95311.mp4
+#EXTINF:-1 tvg-name="E Aí... Comeu? - 2012" tvg-logo="http://urlon.me/ZgYMu4" group-title="NACIONAIS",E Aí... Comeu? - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44437.mp4
+#EXTINF:-1 tvg-name="Ela Disse, Ele Disse - 2019" tvg-logo="http://urlon.me/Ooi" group-title="NACIONAIS",Ela Disse, Ele Disse - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65487.mp4
+#EXTINF:-1 tvg-name="Eldorado - Mengele Vivo ou Morto? - 2019" tvg-logo="http://urlon.me/ZgYYmU" group-title="NACIONAIS",Eldorado - Mengele Vivo ou Morto? - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/76929.mp4
+#EXTINF:-1 tvg-name="Elis - 2016" tvg-logo="http://urlon.me/ZgYMpk" group-title="NACIONAIS",Elis - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63911.mp4
+#EXTINF:-1 tvg-name="Elon Não Acredita na Morte - 2017" tvg-logo="http://urlon.me/650" group-title="NACIONAIS",Elon Não Acredita na Morte - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44435.mp4
+#EXTINF:-1 tvg-name="Em 97 Era Assim - 2016" tvg-logo="http://urlon.me/OR1" group-title="NACIONAIS",Em 97 Era Assim - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63912.mp4
+#EXTINF:-1 tvg-name="Em Nome da Lei - 2016" tvg-logo="http://urlon.me/ZgYMuo" group-title="NACIONAIS",Em Nome da Lei - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44433.mp4
+#EXTINF:-1 tvg-name="Entrando Numa Roubada - 2015" tvg-logo="http://urlon.me/ZgYMua" group-title="NACIONAIS",Entrando Numa Roubada - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44431.mp4
+#EXTINF:-1 tvg-name="Entre Abelhas - 2015" tvg-logo="http://urlon.me/ZgYMp8" group-title="NACIONAIS",Entre Abelhas - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63913.mp4
+#EXTINF:-1 tvg-name="Entre Idas e Vindas - 2016" tvg-logo="http://urlon.me/ZgYMuI" group-title="NACIONAIS",Entre Idas e Vindas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44430.mp4
+#EXTINF:-1 tvg-name="Eu Fico Loko - 2017" tvg-logo="http://urlon.me/65Q" group-title="NACIONAIS",Eu Fico Loko - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44428.mp4
+#EXTINF:-1 tvg-name="Eu Sou Mais Eu - 2019" tvg-logo="http://urlon.me/ZkF" group-title="NACIONAIS",Eu Sou Mais Eu - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43032.mp4
+#EXTINF:-1 tvg-name="Expandir Jeca e Seu Filho Preto - 1978" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Jeca_Seu_Filho_Preto_CN_0501.jpg" group-title="NACIONAIS",Expandir Jeca e Seu Filho Preto - 1978
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44328.mp4
+#EXTINF:-1 tvg-name="Exterminadores do Além Contra a Loira do Banheiro - 2018" tvg-logo="http://urlon.me/ZkG" group-title="NACIONAIS",Exterminadores do Além Contra a Loira do Banheiro - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43031.mp4
+#EXTINF:-1 tvg-name="Fala Comigo - 2016" tvg-logo="http://urlon.me/65G" group-title="NACIONAIS",Fala Comigo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44426.mp4
+#EXTINF:-1 tvg-name="Fala Sério, Mãe! - 2017" tvg-logo="http://urlon.me/OR7" group-title="NACIONAIS",Fala Sério, Mãe! - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63914.mp4
+#EXTINF:-1 tvg-name="Faroeste Caboclo - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bUJCRMz7bI9MiPbxRzcFjUiBL7.jpg" group-title="NACIONAIS",Faroeste Caboclo - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63915.mp4
+#EXTINF:-1 tvg-name="Ferrugem - 2015" tvg-logo="http://urlon.me/ORy" group-title="NACIONAIS",Ferrugem - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63916.mp4
+#EXTINF:-1 tvg-name="Fuzileiro do Amor - 1956" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6soNtOb4gjIf7IAgWOtrrGFAum.jpg" group-title="NACIONAIS",Fuzileiro do Amor - 1956
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44331.mp4
+#EXTINF:-1 tvg-name="Gabriel e a Montanha - 2017" tvg-logo="http://urlon.me/OVy" group-title="NACIONAIS",Gabriel e a Montanha - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63807.mp4
+#EXTINF:-1 tvg-name="Galeria Futuro - 2022" tvg-logo="http://5ce.co:80/images/3dJsqGb8pQydRTvz8clV49BbErI_big.jpg" group-title="NACIONAIS",Galeria Futuro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201054.mp4
+#EXTINF:-1 tvg-name="Getúlio - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aISy7Ai4SsogAMZCvClPtzsByEi.jpg" group-title="NACIONAIS",Getúlio - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44424.mp4
+#EXTINF:-1 tvg-name="Gonzaga – De Pai Pra Filho - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LRWQiq43cIc03sC5ZLGB8zYrjU.jpg" group-title="NACIONAIS",Gonzaga – De Pai Pra Filho - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44423.mp4
+#EXTINF:-1 tvg-name="Gosto se Discute - 2017" tvg-logo="http://urlon.me/65U" group-title="NACIONAIS",Gosto se Discute - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44422.mp4
+#EXTINF:-1 tvg-name="Gostosas, Lindas e Sexies - 2017" tvg-logo="http://urlon.me/65J" group-title="NACIONAIS",Gostosas, Lindas e Sexies - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44421.mp4
+#EXTINF:-1 tvg-name="Hector - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2im87Lg9o19mfqezmQzhLqJ4nc.jpg" group-title="NACIONAIS",Hector - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/130385.mp4
+#EXTINF:-1 tvg-name="Histórias Que Só Existem Quando Lembradas - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJINMy15brphnR910IAIJbQWEUO.jpg" group-title="NACIONAIS",Histórias Que Só Existem Quando Lembradas - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44419.mp4
+#EXTINF:-1 tvg-name="Historietas Assombradas - O Filme - 2017" tvg-logo="http://urlon.me/65X" group-title="NACIONAIS",Historietas Assombradas - O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44420.mp4
+#EXTINF:-1 tvg-name="Hoje Eu Quero Voltar Sozinho - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9XmBSclAvoWgZ1AUKWLr5ej619.jpg" group-title="NACIONAIS",Hoje Eu Quero Voltar Sozinho - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44418.mp4
+#EXTINF:-1 tvg-name="Internet - O Filme - 2017" tvg-logo="http://urlon.me/ORj" group-title="NACIONAIS",Internet - O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63917.mp4
+#EXTINF:-1 tvg-name="Intervenção - 2021" tvg-logo="http://5ce.co:80/images/ti3j7htTkhvUyNqmxbTFUTEVgxU_big.jpg" group-title="NACIONAIS",Intervenção - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196775.mp4
+#EXTINF:-1 tvg-name="Intimidade Entre Estranhos - 2018" tvg-logo="http://urlon.me/ORK" group-title="NACIONAIS",Intimidade Entre Estranhos - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63918.mp4
+#EXTINF:-1 tvg-name="Inverno - 2022" tvg-logo="http://5ce.co:80/images/sXtEMHqIJ1CQ1EagoPofA2KUpek_big.jpg" group-title="NACIONAIS",Inverno - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204048.mp4
+#EXTINF:-1 tvg-name="Inversão - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iosVT3NqWmJqvtW7JIk7jNF3zMP.jpg" group-title="NACIONAIS",Inversão - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/130402.mp4
+#EXTINF:-1 tvg-name="Jeca Contra o Capeta - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title="NACIONAIS",Jeca Contra o Capeta - 1976
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44329.mp4
+#EXTINF:-1 tvg-name="Jeca Tatu - 1960" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title="NACIONAIS",Jeca Tatu - 1960
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44327.mp4
+#EXTINF:-1 tvg-name="Jecão... Um Fofoqueiro no Céu - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title="NACIONAIS",Jecão... Um Fofoqueiro no Céu - 1977
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44326.mp4
+#EXTINF:-1 tvg-name="Jesus Kid - 2022" tvg-logo="http://5ce.co:80/images/fdTmMWEPPwDbLru0JfNrTn4hBm9_big.jpg" group-title="NACIONAIS",Jesus Kid - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200336.mp4
+#EXTINF:-1 tvg-name="Joaquim - 2017" tvg-logo="http://urlon.me/656" group-title="NACIONAIS",Joaquim - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44417.mp4
+#EXTINF:-1 tvg-name="Jonas - 2016" tvg-logo="https://media.fstatic.com/m4M5uOc-UfR9PqaISlqGbtk1lgg=/640x480/smart/media/movies/photos/2015/09/jonas_t93423_lU1ieOa.jpg" group-title="NACIONAIS",Jonas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44416.mp4
+#EXTINF:-1 tvg-name="Juízo - 2007 " tvg-logo="https://tinyurl.com/4hha2eur" group-title="NACIONAIS",Juízo - 2007 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/168377.mp4
+#EXTINF:-1 tvg-name="Júpiter - 2022" tvg-logo="http://5ce.co:80/images/xHmwrpNIKoeYNTn8ZPDSRrrGxW4_big.jpg" group-title="NACIONAIS",Júpiter - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198787.mp4
+#EXTINF:-1 tvg-name="Kardec - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDfki2cMZnwHOUKNfVNWiRNMGht.jpg" group-title="NACIONAIS",Kardec - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42770.mp4
+#EXTINF:-1 tvg-name="Lampião e Maria Bonita - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYtSxM1NTQuAJ2w1k9iEHTiRAyA.jpg" group-title="NACIONAIS",Lampião e Maria Bonita - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129958.mp4
+#EXTINF:-1 tvg-name="Lascados - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5OFhM2kkh1H4XsUx7WJ9OUu9dY.jpg" group-title="NACIONAIS",Lascados - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63919.mp4
+#EXTINF:-1 tvg-name="Legalize Já! - Amizade Nunca Morre - 2017" tvg-logo="http://urlon.me/Zkg" group-title="NACIONAIS",Legalize Já! - Amizade Nunca Morre - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43022.mp4
+#EXTINF:-1 tvg-name="Libertos - O Preço da Vida - 2018" tvg-logo="http://urlon.me/Zn6" group-title="NACIONAIS",Libertos - O Preço da Vida - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44030.mp4
+#EXTINF:-1 tvg-name="Linda de Morrer - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUGJUCQ8LINN6tKL9zpVtNPURo3.jpg" group-title="NACIONAIS",Linda de Morrer - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66298.mp4
+#EXTINF:-1 tvg-name="Loucas Pra Casar - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a85dJjBuHVmWTByJYml525i5U4l.jpg" group-title="NACIONAIS",Loucas Pra Casar - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43352.mp4
+#EXTINF:-1 tvg-name="Lua de Cristal - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMSjtQPE5cUQOOwy1pqTVbQ5g2o.jpg" group-title="NACIONAIS",Lua de Cristal - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59322.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em  A Gincana Na Netoland - 2022" tvg-logo="http://5ce.me:80/images/pX0diuVyLlOOs6YiqXrdpDVEQoX_big.jpg" group-title="NACIONAIS",Luccas Neto em  A Gincana Na Netoland - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211051.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em   O Plano dos Viloes - 2022" tvg-logo="http://5ce.co:80/images/p4ck2CY4r01FXkOXz4TwJcaSiPf_big.jpg" group-title="NACIONAIS",Luccas Neto em   O Plano dos Viloes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204562.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em O Fim do Natal - 2019" tvg-logo="http://urlon.me/OYh" group-title="NACIONAIS",Luccas Neto em O Fim do Natal - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61105.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Acampamento de Férias - 2019" tvg-logo="http://5ce.co:80/images/qZPBUSqcJ2LbKYEitosojSLclkx_big.jpg" group-title="NACIONAIS",Luccas Neto em: Acampamento de Férias - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/46051.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Acampamento de Férias 2 - 2020" tvg-logo="http://urlon.me/ZgY1uX" group-title="NACIONAIS",Luccas Neto em: Acampamento de Férias 2 - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/68180.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Acampamento de Férias 3 - 2021" tvg-logo="http://5ce.me:80/images/nTmYMM7divfQx6CrGUEnU0EbLEZ_big.jpg" group-title="NACIONAIS",Luccas Neto em: Acampamento de Férias 3 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140296.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Dia das Crianças - 2019" tvg-logo="http://urlon.me/OVj" group-title="NACIONAIS",Luccas Neto em: Dia das Crianças - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63808.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Duas Babás Muito Esquisitas - 2021" tvg-logo="http://cms-central.co:80/images/1qR5zAj6d0r7qoB9ONEV52l8EoY_big.jpg" group-title="NACIONAIS",Luccas Neto em: Duas Babás Muito Esquisitas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154239.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Hotel Mágico - 2020" tvg-logo="http://urlon.me/ZgYYr2" group-title="NACIONAIS",Luccas Neto em: O Hotel Mágico - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85203.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Hotel Mágico 2 - 2021" tvg-logo="http://5ce.co:80/images/wEUlxyFHZ838xnjWk1MrWeumVWw_big.jpg" group-title="NACIONAIS",Luccas Neto em: O Hotel Mágico 2 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195263.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Mapa do Tesouro - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RDxMKvGGqNElnHpjPenlHEJUg.jpg" group-title="NACIONAIS",Luccas Neto em: O Mapa do Tesouro - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/125215.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Mapa do Tesouro 2 - 2021" tvg-logo="http://5ce.co:80/images/qhMv2uDyraW3s9t30FFfkauDyI9_big.jpg" group-title="NACIONAIS",Luccas Neto em: O Mapa do Tesouro 2 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182258.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Perdidos na Noite de Natal - 2019" tvg-logo="http://5ce.me:80/images/sCHCa1y3JpR5KynKtsR53ngFAql_big.jpg" group-title="NACIONAIS",Luccas Neto em: Perdidos na Noite de Natal - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63809.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Um Natal Muito Atrapalhado - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biXaoEHitB8v5tkQJUjDNx6Z1fn.jpg" group-title="NACIONAIS",Luccas Neto em: Um Natal Muito Atrapalhado - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/132075.mp4
+#EXTINF:-1 tvg-name="Luccas Neto Em: Uma Babá Muito Esquisita - 2019" tvg-logo="http://urlon.me/ZKE" group-title="NACIONAIS",Luccas Neto Em: Uma Babá Muito Esquisita - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43021.mp4
+#EXTINF:-1 tvg-name="Lulli - 2021" tvg-logo="http://5ce.co:80/images/ztJHKv6KSSgCTWAI2STrX2BeuJZ_big.jpg" group-title="NACIONAIS",Lulli - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196774.mp4
+#EXTINF:-1 tvg-name="Magal e os Formigas - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hl4k1IUSX3kD7lZ7thu6zx1acHs.jpg" group-title="NACIONAIS",Magal e os Formigas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44415.mp4
+#EXTINF:-1 tvg-name="Mais Forte que o Mundo - A História de José Aldo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2M7eDUFeFUOMSgGkyELRwK02RXc.jpg" group-title="NACIONAIS",Mais Forte que o Mundo - A História de José Aldo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63921.mp4
+#EXTINF:-1 tvg-name="Malasartes e o Duelo com a Morte - 2017" tvg-logo="http://urlon.me/6OL" group-title="NACIONAIS",Malasartes e o Duelo com a Morte - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44414.mp4
+#EXTINF:-1 tvg-name="Marco Luque - Tamo Junto - 2017" tvg-logo="http://urlon.me/6dU" group-title="NACIONAIS",Marco Luque - Tamo Junto - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44354.mp4
+#EXTINF:-1 tvg-name="Mare Nostrum - 2018" tvg-logo="http://urlon.me/ORi" group-title="NACIONAIS",Mare Nostrum - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63922.mp4
+#EXTINF:-1 tvg-name="Maria do Caritó - 2021" tvg-logo="http://5ce.co:80/images/rKhdv1t80EEvsSTidzcR4WgBovq_big.jpg" group-title="NACIONAIS",Maria do Caritó - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201994.mp4
+#EXTINF:-1 tvg-name="Marighella - 2019" tvg-logo="http://5ce.co:80/images/oqHLyxKGhlGe1S2S9X8hragmNQl_big.jpg" group-title="NACIONAIS",Marighella - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158019.mp4
+#EXTINF:-1 tvg-name="Mate-me Por Favor - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI1WK8RgBXznisQAj7aNmCnyYiy.jpg" group-title="NACIONAIS",Mate-me Por Favor - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63923.mp4
+#EXTINF:-1 tvg-name="Mato sem Cachorro - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3smHWlrTpGSZKPj5BiAu11tZ1h.jpg" group-title="NACIONAIS",Mato sem Cachorro - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63810.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - A Banda das Velhas Virgens - 1979" tvg-logo="http://urlon.me/ZgY19p" group-title="NACIONAIS",Mazzaropi - A Banda das Velhas Virgens - 1979
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44338.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - A Carrocinha - 1955" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe8ma8Gw4LutBUKeXJKDE1O09RX.jpg" group-title="NACIONAIS",Mazzaropi - A Carrocinha - 1955
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44337.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - Candinho - 1954" tvg-logo="http://urlon.me/ZgY190" group-title="NACIONAIS",Mazzaropi - Candinho - 1954
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44335.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - Nadando em Dinheiro - 1952" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1gXc5JlNLp0zIKKNu2ie5ed2xU.jpg" group-title="NACIONAIS",Mazzaropi - Nadando em Dinheiro - 1952
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44324.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - O Cineasta das Platéias - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAcTZc4bxkcOnhX3hlfiGuH32Q3.jpg" group-title="NACIONAIS",Mazzaropi - O Cineasta das Platéias - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44322.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - O Corintiano - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lY2woblKwOwm5NsgWAE9IhfdfW3.jpg" group-title="NACIONAIS",Mazzaropi - O Corintiano - 1967
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44321.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - Sai da Frente - 1952" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oox6jNishO5KKdprtzmtBEQjgS.jpg" group-title="NACIONAIS",Mazzaropi - Sai da Frente - 1952
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44311.mp4
+#EXTINF:-1 tvg-name="Mazzaropi - Zé do Periquito - 1960" tvg-logo="https://cineplayers.com/sites/default/files/posters/12048_poster.jpg" group-title="NACIONAIS",Mazzaropi - Zé do Periquito - 1960
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44307.mp4
+#EXTINF:-1 tvg-name="Meu Japão Brasileiro - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title="NACIONAIS",Meu Japão Brasileiro - 1965
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44325.mp4
+#EXTINF:-1 tvg-name="Meu Nome E Bagda - 2020" tvg-logo="http://5ce.co:80/images/7WRBlDLzpuTWQpsbf5PNuEG2luC_big.jpg" group-title="NACIONAIS",Meu Nome E Bagda - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204329.mp4
+#EXTINF:-1 tvg-name="Meu Nome Não é Johnny - 2008" tvg-logo="http://urlon.me/6QI" group-title="NACIONAIS",Meu Nome Não é Johnny - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45757.mp4
+#EXTINF:-1 tvg-name="Meu País - 2011" tvg-logo="http://5ce.co:80/images/2IaoLQ6kX8ulWSBozI6B9sgwt0y_big.jpg" group-title="NACIONAIS",Meu País - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160099.mp4
+#EXTINF:-1 tvg-name="Meu Passado me Condena - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypGPyNewWQREYMW3Iv45UEiehf2.jpg" group-title="NACIONAIS",Meu Passado me Condena - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45755.mp4
+#EXTINF:-1 tvg-name="Meu Passado me Condena 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1oHQbm9j0OQ7C8ZyHhxTizct4.jpg" group-title="NACIONAIS",Meu Passado me Condena 2 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45756.mp4
+#EXTINF:-1 tvg-name="Meu Tio Jose - 2021" tvg-logo="http://5ce.me:80/images/dhpvRFDloNPVYDzE5LcLXtstXw_big.jpg" group-title="NACIONAIS",Meu Tio Jose - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211084.mp4
+#EXTINF:-1 tvg-name="Meus 15 Anos - 2017" tvg-logo="http://urlon.me/6O4" group-title="NACIONAIS",Meus 15 Anos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44413.mp4
+#EXTINF:-1 tvg-name="Minha Fama de Mau - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMx8QhEZrnHRjeDUDRAhZyUFiaY.jpg" group-title="NACIONAIS",Minha Fama de Mau - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42755.mp4
+#EXTINF:-1 tvg-name="Minha Mãe é Uma Peça 1 - O Filme - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cF5v8N0wMALMcgEHpBZHyYQZDl.jpg" group-title="NACIONAIS",Minha Mãe é Uma Peça 1 - O Filme - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44411.mp4
+#EXTINF:-1 tvg-name="Minha Mãe é uma Peça 2 - O Filme - 2016" tvg-logo="http://urlon.me/6Oo" group-title="NACIONAIS",Minha Mãe é uma Peça 2 - O Filme - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44412.mp4
+#EXTINF:-1 tvg-name="Minha Mãe é uma Peça 3 - 2019" tvg-logo="http://urlon.me/O2w" group-title="NACIONAIS",Minha Mãe é uma Peça 3 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63889.mp4
+#EXTINF:-1 tvg-name="Minha Vida em Marte - 2018" tvg-logo="http://urlon.me/ZKr" group-title="NACIONAIS",Minha Vida em Marte - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43016.mp4
+#EXTINF:-1 tvg-name="Moscow - Onde o Inesperado Sempre Acontece - 2021" tvg-logo="http://5ce.co:80/images/lmhvzr4UvmiFYzaH7zfjM5UXABO_big.jpg" group-title="NACIONAIS",Moscow - Onde o Inesperado Sempre Acontece - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189800.mp4
+#EXTINF:-1 tvg-name="Motorrad - 2017" tvg-logo="http://urlon.me/6Oa" group-title="NACIONAIS",Motorrad - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44410.mp4
+#EXTINF:-1 tvg-name="Muita Calma Nessa Hora 1 - 2010" tvg-logo="http://urlon.me/ORA" group-title="NACIONAIS",Muita Calma Nessa Hora 1 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63924.mp4
+#EXTINF:-1 tvg-name="Muita Calma Nessa Hora 2 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m22N5QelYWptGUIYHl76RcOg2yn.jpg" group-title="NACIONAIS",Muita Calma Nessa Hora 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45753.mp4
+#EXTINF:-1 tvg-name="Muitos Homens Num Só - 2015" tvg-logo="https://tinyurl.com/y6kjoo6l" group-title="NACIONAIS",Muitos Homens Num Só - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129962.mp4
+#EXTINF:-1 tvg-name="Muleque Té Doido - O Filme - 2014" tvg-logo="https://tinyurl.com/y7vy2c3w" group-title="NACIONAIS",Muleque Té Doido - O Filme - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/135190.mp4
+#EXTINF:-1 tvg-name="Mulheres Alteradas - 2018" tvg-logo="http://urlon.me/ZWQ" group-title="NACIONAIS",Mulheres Alteradas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43623.mp4
+#EXTINF:-1 tvg-name="Mundo Cão - 2016" tvg-logo="http://5ce.co:80/images/md8H1STnq0UjBOUwPQjh6OaI3se_big.jpg" group-title="NACIONAIS",Mundo Cão - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182643.mp4
+#EXTINF:-1 tvg-name="Música Para Morrer de Amor - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7IQdTQ5tWzAvzgzJdn0CalW3GH.jpg" group-title="NACIONAIS",Música Para Morrer de Amor - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123333.mp4
+#EXTINF:-1 tvg-name="Na Carne e Na Alma - 2012" tvg-logo="https://tinyurl.com/xu9vpayc" group-title="NACIONAIS",Na Carne e Na Alma - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160100.mp4
+#EXTINF:-1 tvg-name="Não por Acaso - 2007" tvg-logo="http://5ce.co:80/images/siphfdf7bcCBIER7xF780nlzUZd_big.jpg" group-title="NACIONAIS",Não por Acaso - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160597.mp4
+#EXTINF:-1 tvg-name="Não Se Aceitam Devoluções - 2018" tvg-logo="http://urlon.me/Zkr" group-title="NACIONAIS",Não Se Aceitam Devoluções - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43048.mp4
+#EXTINF:-1 tvg-name="Não Vai Ter Golpe - 2019" tvg-logo="http://urlon.me/dSh" group-title="NACIONAIS",Não Vai Ter Golpe - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59165.mp4
+#EXTINF:-1 tvg-name="Nervo Craniano Zero - 2012" tvg-logo="http://urlon.me/6OW" group-title="NACIONAIS",Nervo Craniano Zero - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44408.mp4
+#EXTINF:-1 tvg-name="Ninguém Entra, Ninguém Sai - 2017" tvg-logo="http://5ce.me:80/images/inx2lpitq7r5jeYv3j3K2UcKCj9_big.jpg" group-title="NACIONAIS",Ninguém Entra, Ninguém Sai - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152477.mp4
+#EXTINF:-1 tvg-name="No Paraíso das Solteironas - 1969" tvg-logo="http://urlon.me/6hG" group-title="NACIONAIS",No Paraíso das Solteironas - 1969
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44323.mp4
+#EXTINF:-1 tvg-name="O Amor de Catarina - 2016" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhlNmVmMWMtNDFkMS00M2NkLTg5MmUtYzc5OTNjMDhiZjE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc2MDQyNTU@._V1_SY1000_CR0,0,684,1000_AL_.jpg" group-title="NACIONAIS",O Amor de Catarina - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44406.mp4
+#EXTINF:-1 tvg-name="O Auto da Compadecida - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg" group-title="NACIONAIS",O Auto da Compadecida - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43615.mp4
+#EXTINF:-1 tvg-name="O Braço Direito - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldaxfv8caz4aDCxYawokwRU2CCI.jpg" group-title="NACIONAIS",O Braço Direito - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124630.mp4
+#EXTINF:-1 tvg-name="O Buscador - 2019" tvg-logo="http://5ce.co:80/images/zpeJyyX6panT3IiKFrEFwJ6oxRL_big.jpg" group-title="NACIONAIS",O Buscador - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186143.mp4
+#EXTINF:-1 tvg-name="O Candidato Honesto - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNFjUdDmyJmAST6qOz2ie10UwTP.jpg" group-title="NACIONAIS",O Candidato Honesto - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43613.mp4
+#EXTINF:-1 tvg-name="O Candidato Honesto 2 - 2018" tvg-logo="http://urlon.me/ZRE" group-title="NACIONAIS",O Candidato Honesto 2 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43610.mp4
+#EXTINF:-1 tvg-name="O Cangaceiro Trapalhão - 1983" tvg-logo="http://5ce.co:80/images/vTeVkngp93Cxw1t5RpWy8ErSN4f_big.jpg" group-title="NACIONAIS",O Cangaceiro Trapalhão - 1983
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158397.mp4
+#EXTINF:-1 tvg-name="O Casamento dos Trapalhões - 1988" tvg-logo="http://5ce.co:80/images/xKoM05UcZEFznOwrs0RjX4afS1g_big.jpg" group-title="NACIONAIS",O Casamento dos Trapalhões - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158398.mp4
+#EXTINF:-1 tvg-name="O Caseiro - 2016" tvg-logo="http://urlon.me/6O0" group-title="NACIONAIS",O Caseiro - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44403.mp4
+#EXTINF:-1 tvg-name="O Cinderelo Trapalhão - 1979" tvg-logo="http://urlon.me/6Ot" group-title="NACIONAIS",O Cinderelo Trapalhão - 1979
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44402.avi
+#EXTINF:-1 tvg-name="O Concurso - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WmGIGsxURwUYUKShqVxRqajAvq.jpg" group-title="NACIONAIS",O Concurso - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63925.mp4
+#EXTINF:-1 tvg-name="O Doutrinador - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CTLPePcpr1knfbPhgJkHgnX3H.jpg" group-title="NACIONAIS",O Doutrinador - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43042.mp4
+#EXTINF:-1 tvg-name="O Escaravelho do Diabo - 2016" tvg-logo="http://5ce.me:80/images/e6tYJXyDURMhR0GM5AxH6RLJzRu_big.jpg" group-title="NACIONAIS",O Escaravelho do Diabo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/153592.mp4
+#EXTINF:-1 tvg-name="O Estigma - 2018" tvg-logo="http://5ce.me:80/images/uHaTS3VTWfqL7dmnA8M1CkpILKz_big.jpg" group-title="NACIONAIS",O Estigma - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157023.mp4
+#EXTINF:-1 tvg-name="O Filho Eterno - 2016" tvg-logo="https://br.web.img2.acsta.net/pictures/16/10/08/16/41/092580.jpg" group-title="NACIONAIS",O Filho Eterno - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44401.mp4
+#EXTINF:-1 tvg-name="O Filme da Minha Vida - 2017" tvg-logo="http://urlon.me/6O8" group-title="NACIONAIS",O Filme da Minha Vida - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44400.mp4
+#EXTINF:-1 tvg-name="O Filme dos Espíritos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNPgowPqQotHuGZ6S0ET53jg4Hu.jpg" group-title="NACIONAIS",O Filme dos Espíritos - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44399.mp4
+#EXTINF:-1 tvg-name="O Gato de Madame - 1957" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title="NACIONAIS",O Gato de Madame - 1957
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44330.mp4
+#EXTINF:-1 tvg-name="O Grande Circo Místico - 2018" tvg-logo="http://urlon.me/OVN" group-title="NACIONAIS",O Grande Circo Místico - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63831.mp4
+#EXTINF:-1 tvg-name="O Grande Xerife - 1972" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title="NACIONAIS",O Grande Xerife - 1972
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44320.mp4
+#EXTINF:-1 tvg-name="O Homem do Futuro - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajjvpHJcO9TD45Y0aLZU5yBeW2G.jpg" group-title="NACIONAIS",O Homem do Futuro - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63926.mp4
+#EXTINF:-1 tvg-name="O Homem Perfeito - 2018" tvg-logo="http://urlon.me/OVe" group-title="NACIONAIS",O Homem Perfeito - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63832.mp4
+#EXTINF:-1 tvg-name="O Homem Que Copiava - 2003" tvg-logo="http://urlon.me/ORs" group-title="NACIONAIS",O Homem Que Copiava - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63927.mp4
+#EXTINF:-1 tvg-name="O Homem Que Desafiou o Diabo - 2007" tvg-logo="http://urlon.me/ORR" group-title="NACIONAIS",O Homem Que Desafiou o Diabo - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63928.mp4
+#EXTINF:-1 tvg-name="O Incrível Monstro Trapalhão - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAP2ZzCdiOdrynIwPR702gMK668.jpg" group-title="NACIONAIS",O Incrível Monstro Trapalhão - 1980
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44398.avi
+#EXTINF:-1 tvg-name="O Jeca e a Égua Milagrosa - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title="NACIONAIS",O Jeca e a Égua Milagrosa - 1980
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44319.mp4
+#EXTINF:-1 tvg-name="O Jeca e a Freira - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY8Cu2e4nH4l8vbZNsRuRl77fTq.jpg" group-title="NACIONAIS",O Jeca e a Freira - 1968
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44318.mp4
+#EXTINF:-1 tvg-name="O Jeca Macumbeiro - 1975" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BXsJb54ITmHFsYB0pte2m5KgCD.jpg" group-title="NACIONAIS",O Jeca Macumbeiro - 1975
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44317.mp4
+#EXTINF:-1 tvg-name="O Lamparina - 1964" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8YmMAhidHffj3Ffqvq0tYZfeME.jpg" group-title="NACIONAIS",O Lamparina - 1964
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44316.mp4
+#EXTINF:-1 tvg-name="O Lobo atrás da Porta - 2013" tvg-logo="http://5ce.me:80/images/64a7yu3vEEnvN1hwbODDQb8cap1_big.jpg" group-title="NACIONAIS",O Lobo atrás da Porta - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169461.mp4
+#EXTINF:-1 tvg-name="O Madeireiro - 2011" tvg-logo="http://5ce.me:80/images/9M8qoqsTPrU5jkT0efuHJYCMJ8P_big.jpg" group-title="NACIONAIS",O Madeireiro - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152691.mp4
+#EXTINF:-1 tvg-name="O Matador - 2017" tvg-logo="http://urlon.me/ZpF" group-title="NACIONAIS",O Matador - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43418.mp4
+#EXTINF:-1 tvg-name="O Menino da Porteira - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwv11O9gdmAvPFmzMxspomTs1OS.jpg" group-title="NACIONAIS",O Menino da Porteira - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124244.mp4
+#EXTINF:-1 tvg-name="O Menino Que Matou Meus Pais - 2021" tvg-logo="http://5ce.co:80/images/rZDEY4IztUVky6hEjGFfqKE4hiu_big.jpg" group-title="NACIONAIS",O Menino Que Matou Meus Pais - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185624.mp4
+#EXTINF:-1 tvg-name="O Mistério de Robin Hood - 1990" tvg-logo="http://5ce.co:80/images/3VBItZiqd8FWzfNcJAAFY6no3Uc_big.jpg" group-title="NACIONAIS",O Mistério de Robin Hood - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158399.mp4
+#EXTINF:-1 tvg-name="O Noivo da Girafa - 1958" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmHnYnhMO2Cev9kFqbUwxkrhtKW.jpg" group-title="NACIONAIS",O Noivo da Girafa - 1958
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44315.mp4
+#EXTINF:-1 tvg-name="O Nome da Morte - 2017" tvg-logo="http://urlon.me/Z42" group-title="NACIONAIS",O Nome da Morte - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44013.mp4
+#EXTINF:-1 tvg-name="O Palhaço - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMkPcaSrZ1sPd0BPZhlxZ6fX3M5.jpg" group-title="NACIONAIS",O Palhaço - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63929.mp4
+#EXTINF:-1 tvg-name="O Puritano da Rua Augusta - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title="NACIONAIS",O Puritano da Rua Augusta - 1965
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44313.mp4
+#EXTINF:-1 tvg-name="O Rastro - 2017" tvg-logo="https://media.fstatic.com/64RAhH-eV-VLSLmhIOm9qIdoI3o=/fit-in/290x478/smart/media/movies/covers/2017/08/cx164642.jpg" group-title="NACIONAIS",O Rastro - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44395.mp4
+#EXTINF:-1 tvg-name="O Rei e os Trapalhões - 1979" tvg-logo="http://5ce.co:80/images/uawG2ASZPyBHujOuljEd0BqZaF1_big.jpg" group-title="NACIONAIS",O Rei e os Trapalhões - 1979
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200092.mp4
+#EXTINF:-1 tvg-name="O Renascimento do Parto - 2013" tvg-logo="https://br.web.img2.acsta.net/pictures/210/254/21025468_20130807233735342.jpg" group-title="NACIONAIS",O Renascimento do Parto - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111594.mp4
+#EXTINF:-1 tvg-name="O Roubo da Taça - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTpawXfV72mMfJYpIgJt4Yd9GZQ.jpg" group-title="NACIONAIS",O Roubo da Taça - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44394.mp4
+#EXTINF:-1 tvg-name="O Segundo Homem - 2022" tvg-logo="http://5ce.co:80/images/9Yw0YP4pbWbbGBcHmNvfCA97ZRD_big.jpg" group-title="NACIONAIS",O Segundo Homem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198791.mp4
+#EXTINF:-1 tvg-name="O Shaolin do Sertão - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHmD5ziiVvOM1femGTazj4bfkGK.jpg" group-title="NACIONAIS",O Shaolin do Sertão - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44393.mp4
+#EXTINF:-1 tvg-name="O Trapalhão e a Luz Azul - 1999" tvg-logo="http://5ce.co:80/images/r8h5xaVCsEBCAUEUdUPtYzMHv6K_big.jpg" group-title="NACIONAIS",O Trapalhão e a Luz Azul - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158400.mp4
+#EXTINF:-1 tvg-name="O Trapalhão na Arca de Noé - 1983" tvg-logo="http://5ce.co:80/images/wA6v0Rw9pmUI1DiWWB5ytxqYW4E_big.jpg" group-title="NACIONAIS",O Trapalhão na Arca de Noé - 1983
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158401.mp4
+#EXTINF:-1 tvg-name="O Trapalhão na Ilha do Tesouro - 1975" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azrBKuXCdKAIfg7P60SS3RhnEXB.jpg" group-title="NACIONAIS",O Trapalhão na Ilha do Tesouro - 1975
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44390.avi
+#EXTINF:-1 tvg-name="O Trapalhão nas Minas do Rei Salomão - 1977" tvg-logo="http://5ce.co:80/images/dcGPEgJp95zk00XiWYUAFy7F4ro_big.jpg" group-title="NACIONAIS",O Trapalhão nas Minas do Rei Salomão - 1977
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158396.mp4
+#EXTINF:-1 tvg-name="O Trapalhão no Planalto dos Macacos - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9OqnqJ6WsMYSqV194O3LkdYzSe.jpg" group-title="NACIONAIS",O Trapalhão no Planalto dos Macacos - 1976
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44389.avi
+#EXTINF:-1 tvg-name="O Último Virgem - 2016" tvg-logo="http://urlon.me/6O5" group-title="NACIONAIS",O Último Virgem - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44386.mp4
+#EXTINF:-1 tvg-name="O Vendedor de Linguiça - 1962" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28UUpBo0tWDbET3Vy507kqQrtx.jpg" group-title="NACIONAIS",O Vendedor de Linguiça - 1962
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44314.mp4
+#EXTINF:-1 tvg-name="O Vendedor de Sonhos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hV6l4wOhPDbEflqM1A2047D4F0E.jpg" group-title="NACIONAIS",O Vendedor de Sonhos - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44387.mp4
+#EXTINF:-1 tvg-name="Ônibus 174 - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AYrrZ03Rmp3XxAD2xYZEeSDdBc.jpg" group-title="NACIONAIS",Ônibus 174 - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70834.mp4
+#EXTINF:-1 tvg-name="Os Fantasmas Trapalhões - 1987" tvg-logo="http://5ce.co:80/images/iZ7QSsfkqJJNIT1GQcXVs01Rjq8_big.jpg" group-title="NACIONAIS",Os Fantasmas Trapalhões - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158402.mp4
+#EXTINF:-1 tvg-name="Os Farofeiros - 2018" tvg-logo="http://urlon.me/6Od" group-title="NACIONAIS",Os Farofeiros - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44385.mp4
+#EXTINF:-1 tvg-name="Os Heróis Trapalhões - Uma Aventura na Selva - 1988" tvg-logo="http://urlon.me/6O6" group-title="NACIONAIS",Os Heróis Trapalhões - Uma Aventura na Selva - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44384.avi
+#EXTINF:-1 tvg-name="Os Homens São de Marte... E É Pra Lá Que Eu Vou - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaHTuuJmFoSaeDnrhVQqvt7SGMm.jpg" group-title="NACIONAIS",Os Homens São de Marte... E É Pra Lá Que Eu Vou - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63930.mp4
+#EXTINF:-1 tvg-name="Os Inconfidentes - 1972" tvg-logo="http://urlon.me/6Og" group-title="NACIONAIS",Os Inconfidentes - 1972
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44383.mp4
+#EXTINF:-1 tvg-name="Os Normais 2 - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nLdwZTklH9aFYpPw819MPZ5M49.jpg" group-title="NACIONAIS",Os Normais 2 - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63932.mp4
+#EXTINF:-1 tvg-name="Os Normais: O Filme - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY6iAt1FydekczPvJ8AkbaKEZLv.jpg" group-title="NACIONAIS",Os Normais: O Filme - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63931.mp4
+#EXTINF:-1 tvg-name="Os Parças - 2017" tvg-logo="http://urlon.me/6dE" group-title="NACIONAIS",Os Parças - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44382.mp4
+#EXTINF:-1 tvg-name="Os Salafrários - 2021" tvg-logo="http://5ce.me:80/images/lUfEVcVrrGMuImqTV40OgP1DOdu_big.jpg" group-title="NACIONAIS",Os Salafrários - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156243.mp4
+#EXTINF:-1 tvg-name="Os Saltimbancos Trapalhões - 1981" tvg-logo="http://5ce.co:80/images/fWYBeNsJUPtxtnXHT1ViLI3LeKe_big.jpg" group-title="NACIONAIS",Os Saltimbancos Trapalhões - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158403.mp4
+#EXTINF:-1 tvg-name="Os Saltimbancos Trapalhões: Rumo a Hollywood - 2017" tvg-logo="http://urlon.me/6dL" group-title="NACIONAIS",Os Saltimbancos Trapalhões: Rumo a Hollywood - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44381.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões e a Árvore da Juventude - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhnNNuHs9qs45gy98GmdUIGKDh2.jpg" group-title="NACIONAIS",Os Trapalhões e a Árvore da Juventude - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44380.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões e o Rei do Futebol - 1986" tvg-logo="http://5ce.co:80/images/uEie8BuqKLzX5WFXQ6HExwPiqwJ_big.jpg" group-title="NACIONAIS",Os Trapalhões e o Rei do Futebol - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158382.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões na Guerra dos Planetas - 1978" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91JvtJlDKz7PPqpaIKuMuus1hbf.jpg" group-title="NACIONAIS",Os Trapalhões na Guerra dos Planetas - 1978
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44378.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões na Serra Pelada - 1982" tvg-logo="http://cms-central.co:80/images/wYwUK4lmYx5bhb2Mprxy3j1tJ8q_big.jpg" group-title="NACIONAIS",Os Trapalhões na Serra Pelada - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154927.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões no Rabo do Cometa - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XoZzttXVWuoYt8L6nxqP0xFAas.jpg" group-title="NACIONAIS",Os Trapalhões no Rabo do Cometa - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44377.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões no Reino da Fantasia - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vQYLnT3fOE1CfyHfRSYOsU1Xhc.jpg" group-title="NACIONAIS",Os Trapalhões no Reino da Fantasia - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44376.mp4
+#EXTINF:-1 tvg-name="Os Três Mosqueteiros Trapalhões - 1980" tvg-logo="http://5ce.co:80/images/nzi3t6CzLqHlJw9mUucH2Nq4bQx_big.jpg" group-title="NACIONAIS",Os Três Mosqueteiros Trapalhões - 1980
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158404.mp4
+#EXTINF:-1 tvg-name="Os Vagabundos Trapalhões - 1982" tvg-logo="http://5ce.co:80/images/sSIaLy7vbvmIRUx6J7IVXTZB9fo_big.jpg" group-title="NACIONAIS",Os Vagabundos Trapalhões - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158405.mp4
+#EXTINF:-1 tvg-name="Paraíso Perdido - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHfmviAZ06svB05laLcUIm6x8sY.jpg" group-title="NACIONAIS",Paraíso Perdido - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133225.mp4
+#EXTINF:-1 tvg-name="Peçanha Contra o Animal - 2021" tvg-logo="http://5ce.co:80/images/nH0EycssY8aFJxElTsGSRirP9qr_big.jpg" group-title="NACIONAIS",Peçanha Contra o Animal - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188115.mp4
+#EXTINF:-1 tvg-name="Peixonauta - O Filme - 2018" tvg-logo="http://urlon.me/6d2" group-title="NACIONAIS",Peixonauta - O Filme - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44373.mp4
+#EXTINF:-1 tvg-name="Pela Janela - 2017" tvg-logo="http://urlon.me/6dV" group-title="NACIONAIS",Pela Janela - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44372.mp4
+#EXTINF:-1 tvg-name="Pelé - 2021" tvg-logo="http://5ce.me:80/images/cVKAep8V6rrFh0IhABC0bkzjwK5_big.jpg" group-title="NACIONAIS",Pelé - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/144050.mp4
+#EXTINF:-1 tvg-name="Pelé Eterno - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxg4t41bE9PmjLUXkkLb7irD7Wu.jpg" group-title="NACIONAIS",Pelé Eterno - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/126087.mp4
+#EXTINF:-1 tvg-name="Pelé: O Nascimento de uma Lenda - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KoNnzOblmKkAPqKvawUrDkvaj.jpg" group-title="NACIONAIS",Pelé: O Nascimento de uma Lenda - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44371.mp4
+#EXTINF:-1 tvg-name="Pendular - 2017" tvg-logo="http://urlon.me/OVb" group-title="NACIONAIS",Pendular - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63833.mp4
+#EXTINF:-1 tvg-name="Pixinguinha: Um Homem Carinhoso - 2022" tvg-logo="http://5ce.me:80/images/bU7NpcFWplrCB7JxLONzW3yDtEd_big.jpg" group-title="NACIONAIS",Pixinguinha: Um Homem Carinhoso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198323.mp4
+#EXTINF:-1 tvg-name="Pixote: A Lei do Mais Fraco - 1981" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXGaFCneNvviIZv3wV0OxyLPWwn.jpg" group-title="NACIONAIS",Pixote: A Lei do Mais Fraco - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44370.mp4
+#EXTINF:-1 tvg-name="Polícia Federal: A Lei é Para Todos - 2017" tvg-logo="http://urlon.me/6dc" group-title="NACIONAIS",Polícia Federal: A Lei é Para Todos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44369.mp4
+#EXTINF:-1 tvg-name="Ponte Aérea - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yENjbwwk9T9cgrNiQt0d5VgcOhf.jpg" group-title="NACIONAIS",Ponte Aérea - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63934.mp4
+#EXTINF:-1 tvg-name="Por Um Fio - 2003" tvg-logo="http://5ce.co:80/images/qUNZvyOEyTG9T7xgRosqja4KpuE_big.jpg" group-title="NACIONAIS",Por Um Fio - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165042.mp4
+#EXTINF:-1 tvg-name="Porta dos Fundos: Contrato Vitalício - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtMhA3TGD0yJ65lDjywe1cxkQ6F.jpg" group-title="NACIONAIS",Porta dos Fundos: Contrato Vitalício - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44368.mp4
+#EXTINF:-1 tvg-name="Portugal... Minha Saudade - 1974" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title="NACIONAIS",Portugal... Minha Saudade - 1974
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44312.mp4
+#EXTINF:-1 tvg-name="Praça Paris - 2017" tvg-logo="http://urlon.me/OVn" group-title="NACIONAIS",Praça Paris - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63834.mp4
+#EXTINF:-1 tvg-name="Proibido Proibir - 2007" tvg-logo="http://urlon.me/6dt" group-title="NACIONAIS",Proibido Proibir - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44367.mp4
+#EXTINF:-1 tvg-name="Punhal - 2015" tvg-logo="http://urlon.me/6dw" group-title="NACIONAIS",Punhal - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44366.mp4
+#EXTINF:-1 tvg-name="Qualquer Gato Vira Lata 2 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79Bg6AMhpEZuWMnNIZaTu7RdYqK.jpg" group-title="NACIONAIS",Qualquer Gato Vira Lata 2 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63936.mp4
+#EXTINF:-1 tvg-name="Qualquer Gato Vira-Lata - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pza45sya47vgwKWbaQy6cpGBCQR.jpg" group-title="NACIONAIS",Qualquer Gato Vira-Lata - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63935.mp4
+#EXTINF:-1 tvg-name="Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTw4Ne8eROQFiG3wrrRRSDsiHLW.jpg" group-title="NACIONAIS",Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44365.mp4
+#EXTINF:-1 tvg-name="Quem matou Pixote? - 1996" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b9/Quem_matou_pixote.jpg/200px-Quem_matou_pixote.jpg" group-title="NACIONAIS",Quem matou Pixote? - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44364.mp4
+#EXTINF:-1 tvg-name="Querida Mamãe - 2017" tvg-logo="http://urlon.me/OVH" group-title="NACIONAIS",Querida Mamãe - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63835.mp4
+#EXTINF:-1 tvg-name="Quincas Berro d'Água - 2010" tvg-logo="http://5ce.me:80/images/7qUu6rctIPIseiue81DzjTzBHeV_big.jpg" group-title="NACIONAIS",Quincas Berro d'Água - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/151852.mp4
+#EXTINF:-1 tvg-name="Rafinha Bastos: Ultimato - 2018" tvg-logo="http://urlon.me/OdC" group-title="NACIONAIS",Rafinha Bastos: Ultimato - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59630.mp4
+#EXTINF:-1 tvg-name="Rasga Coração - 2018" tvg-logo="http://urlon.me/OVS" group-title="NACIONAIS",Rasga Coração - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63836.mp4
+#EXTINF:-1 tvg-name="Raul - O Início, o Fim e o Meio - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okfYRfPbX70WazoK2vU9Wc1yr65.jpg" group-title="NACIONAIS",Raul - O Início, o Fim e o Meio - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98461.mp4
+#EXTINF:-1 tvg-name="Real - O Plano por Trás da História - 2017" tvg-logo="http://urlon.me/6dk" group-title="NACIONAIS",Real - O Plano por Trás da História - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44363.mp4
+#EXTINF:-1 tvg-name="Redemoinho - 2017" tvg-logo="https://br.web.img3.acsta.net/pictures/17/01/06/20/12/324822.jpg" group-title="NACIONAIS",Redemoinho - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44362.mp4
+#EXTINF:-1 tvg-name="Riocorrente - 2013" tvg-logo="http://5ce.co:80/images/e7BK9TELKcLNFgDPSgG767YRYHI_big.jpg" group-title="NACIONAIS",Riocorrente - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/172888.mp4
+#EXTINF:-1 tvg-name="Robin Hood, O Trapalhão da Floresta - 1974" tvg-logo="http://5ce.co:80/images/kPH0ZO12dNVn05mhW8eW33qOK0a_big.jpg" group-title="NACIONAIS",Robin Hood, O Trapalhão da Floresta - 1974
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158406.mp4
+#EXTINF:-1 tvg-name="Rota de Fuga 1 - 2017" tvg-logo="http://urlon.me/6dq" group-title="NACIONAIS",Rota de Fuga 1 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44360.mp4
+#EXTINF:-1 tvg-name="Rúcula Com Tomate Seco - 2017" tvg-logo="http://urlon.me/6dQ" group-title="NACIONAIS",Rúcula Com Tomate Seco - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44359.mp4
+#EXTINF:-1 tvg-name="S.O.S.: Mulheres ao Mar 1 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cB6m75oYbbuRI9K1Tgi2DBKhw9.jpg" group-title="NACIONAIS",S.O.S.: Mulheres ao Mar 1 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44358.mp4
+#EXTINF:-1 tvg-name="S.O.S.: Mulheres ao Mar 2 - 2015" tvg-logo="http://urlon.me/OW9" group-title="NACIONAIS",S.O.S.: Mulheres ao Mar 2 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63940.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo: O Filme - 2019" tvg-logo="http://urlon.me/Z8L" group-title="NACIONAIS",Sai de Baixo: O Filme - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43116.mp4
+#EXTINF:-1 tvg-name="Salvador Martinha: Centro das Atenções - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1stTyFwkwCCzERPyZNBZfq8rgn.jpg" group-title="NACIONAIS",Salvador Martinha: Centro das Atenções - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/102149.mp4
+#EXTINF:-1 tvg-name="Salve Geral - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36GWKCCl8U7tCKH2QMAIOn1FKe6.jpg" group-title="NACIONAIS",Salve Geral - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/109767.mp4
+#EXTINF:-1 tvg-name="Se Deus Vier Que Venha Armado - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oaUZDnfG0HTRBR7ynw7aCOiU3v.jpg" group-title="NACIONAIS",Se Deus Vier Que Venha Armado - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63937.mp4
+#EXTINF:-1 tvg-name="Se eu fosse você - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAgYPRPXmTxEbCv96YXZTotl4ae.jpg" group-title="NACIONAIS",Se eu fosse você - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63938.mp4
+#EXTINF:-1 tvg-name="Se Eu Fosse Você 2 - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnNbnS0RyEmPETkxcfaH0BkJalW.jpg" group-title="NACIONAIS",Se Eu Fosse Você 2 - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63939.mp4
+#EXTINF:-1 tvg-name="Sedução da Carne - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yw5Iraro3rOFFsIkOYYyj5Prar.jpg" group-title="NACIONAIS",Sedução da Carne - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/118543.mp4
+#EXTINF:-1 tvg-name="Sem Fôlego - 2022" tvg-logo="http://5ce.co:80/images/3xkBEvQWGc7eZFSYr5oAOJvlBYh_big.jpg" group-title="NACIONAIS",Sem Fôlego - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201513.mp4
+#EXTINF:-1 tvg-name="Sequestro Relâmpago - 2018" tvg-logo="http://urlon.me/OsZ" group-title="NACIONAIS",Sequestro Relâmpago - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63837.mp4
+#EXTINF:-1 tvg-name="Serra Pelada - 2013" tvg-logo="http://cms-central.co:80/images/vkTVhx0ifMgYjyXbCOtA50KtDtX_big.jpg" group-title="NACIONAIS",Serra Pelada - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154926.mp4
+#EXTINF:-1 tvg-name="Sete Anos em Maio - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0PFcvD12GHiYzgHK0TSFwEfkEf.jpg" group-title="NACIONAIS",Sete Anos em Maio - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121440.mp4
+#EXTINF:-1 tvg-name="Simbad, O Marujo Trapalhão - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxrYij1gxwIakNrrVP5LNPrEMV8.jpg" group-title="NACIONAIS",Simbad, O Marujo Trapalhão - 1976
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44357.mp4
+#EXTINF:-1 tvg-name="Sob Pressão - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSibFrGTDaXy96lDZnUdtEDMYaw.jpg" group-title="NACIONAIS",Sob Pressão - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44356.mp4
+#EXTINF:-1 tvg-name="Sonhos Roubados - 2009" tvg-logo="http://5ce.co:80/images/yBXKD68dQXg7eeDDfzNhA87Qspb_big.jpg" group-title="NACIONAIS",Sonhos Roubados - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203340.mp4
+#EXTINF:-1 tvg-name="Sorria, Você Está Sendo Filmado - 2015" tvg-logo="https://br.web.img3.acsta.net/pictures/15/03/27/17/19/254765.jpg" group-title="NACIONAIS",Sorria, Você Está Sendo Filmado - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45752.mp4
+#EXTINF:-1 tvg-name="Tainá 2 - A Aventura Continua - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIBdGH3AV2Hni30KWwuq76XN1ty.jpg" group-title="NACIONAIS",Tainá 2 - A Aventura Continua - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95316.mp4
+#EXTINF:-1 tvg-name="Tainá 3 - A Origem - 2011" tvg-logo="http://urlon.me/ZgYMJZ" group-title="NACIONAIS",Tainá 3 - A Origem - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95317.mp4
+#EXTINF:-1 tvg-name="Tainá: Uma Aventura na Amazônia - 2001" tvg-logo="http://urlon.me/ZgYMJh" group-title="NACIONAIS",Tainá: Uma Aventura na Amazônia - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95318.mp4
+#EXTINF:-1 tvg-name="Tapete Vermelho - 2005" tvg-logo="http://urlon.me/ZgY1TW" group-title="NACIONAIS",Tapete Vermelho - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45748.mp4
+#EXTINF:-1 tvg-name="Tim Maia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" group-title="NACIONAIS",Tim Maia - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43957.mp4
+#EXTINF:-1 tvg-name="Tô Ryca! - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg" group-title="NACIONAIS",Tô Ryca! - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44348.mp4
+#EXTINF:-1 tvg-name="TOC: Transtornada Obsessiva Compulsiva - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Kh1iE2Micj0YPVs31ygnTFAT2h.jpg" group-title="NACIONAIS",TOC: Transtornada Obsessiva Compulsiva - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44355.mp4
+#EXTINF:-1 tvg-name="Todas As Canções de Amor - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qihRwggb2hpH3XbNqGOysAXRPh5.jpg" group-title="NACIONAIS",Todas As Canções de Amor - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63941.mp4
+#EXTINF:-1 tvg-name="Todo Clichê do Amor - 2018" tvg-logo="http://urlon.me/ZfJ" group-title="NACIONAIS",Todo Clichê do Amor - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43059.mp4
+#EXTINF:-1 tvg-name="Trash: A Esperança Vem do Lixo - 2014" tvg-logo="http://urlon.me/OWm" group-title="NACIONAIS",Trash: A Esperança Vem do Lixo - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63942.mp4
+#EXTINF:-1 tvg-name="Travessia - 2017" tvg-logo="http://urlon.me/6dJ" group-title="NACIONAIS",Travessia - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44353.mp4
+#EXTINF:-1 tvg-name="Trilhas - 2009" tvg-logo="http://5ce.me:80/images/IIjacYX0WNcki1HmjcDTogyYXq_big.jpg" group-title="NACIONAIS",Trilhas - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140139.mp4
+#EXTINF:-1 tvg-name="Tristeza do Jeca - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCBeW5tJGX1CdO7jlePqSN7u0b.jpg" group-title="NACIONAIS",Tristeza do Jeca - 1961
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44310.mp4
+#EXTINF:-1 tvg-name="Tudo Acaba Em Festa - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnlOjxVeUXHwcHOEN0s1vSgJHCh.jpg" group-title="NACIONAIS",Tudo Acaba Em Festa - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63838.mp4
+#EXTINF:-1 tvg-name="Tudo por um Popstar - 2018" tvg-logo="http://5ce.co:80/images/8SAAmvqFqYgO5AjKQLrvy4RozDM_big.jpg" group-title="NACIONAIS",Tudo por um Popstar - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/183798.mp4
+#EXTINF:-1 tvg-name="Turbulência - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4T2a0xVPHLazi4COChdASP4w8Jr.jpg" group-title="NACIONAIS",Turbulência - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44349.mp4
+#EXTINF:-1 tvg-name="Turma da Mônica: Laços - 2019" tvg-logo="http://urlon.me/ZgY1mI" group-title="NACIONAIS",Turma da Mônica: Laços - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/51783.mp4
+#EXTINF:-1 tvg-name="Turma da Mônica: Lições - 2022" tvg-logo="http://5ce.co:80/images/gzaLnQ2CctXaHqatSlRbSVp8Bh4_big.jpg" group-title="NACIONAIS",Turma da Mônica: Lições - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202282.mp4
+#EXTINF:-1 tvg-name="Última Parada 174 - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHvsILY4t4nd9Lu3KXMOWB19l5A.jpg" group-title="NACIONAIS",Última Parada 174 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63943.mp4
+#EXTINF:-1 tvg-name="Um Caipira em Bariloche - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title="NACIONAIS",Um Caipira em Bariloche - 1973
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44309.mp4
+#EXTINF:-1 tvg-name="Um Namorado Para Minha Mulher - 2016" tvg-logo="http://urlon.me/Zcr" group-title="NACIONAIS",Um Namorado Para Minha Mulher - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43369.mp4
+#EXTINF:-1 tvg-name="Um Novo Capitalismo - 2017" tvg-logo="http://urlon.me/OsO" group-title="NACIONAIS",Um Novo Capitalismo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63839.mp4
+#EXTINF:-1 tvg-name="Um Suburbano Sortudo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFChpljQt82f9SnjJdXEQ0uYVd1.jpg" group-title="NACIONAIS",Um Suburbano Sortudo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66163.mp4
+#EXTINF:-1 tvg-name="Um Tio Quase Perfeito - 2017" tvg-logo="http://urlon.me/6hL" group-title="NACIONAIS",Um Tio Quase Perfeito - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44345.mp4
+#EXTINF:-1 tvg-name="Uma Escola Atrapalhada - 1990" tvg-logo="http://5ce.co:80/images/9Q6UD3SUSIQ94KuHUTiJf1RzaSC_big.jpg" group-title="NACIONAIS",Uma Escola Atrapalhada - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158407.mp4
+#EXTINF:-1 tvg-name="Uma Loucura de Mulher - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2DRSRglZcXotwYw4GfPPF2Pjiu.jpg" group-title="NACIONAIS",Uma Loucura de Mulher - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44343.mp4
+#EXTINF:-1 tvg-name="Uma Noite em Sampa - 2017" tvg-logo="http://5ce.co:80/images/3tegS9SqfGxy8m1XxEhL4URjVzL_big.jpg" group-title="NACIONAIS",Uma Noite em Sampa - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44342.mp4
+#EXTINF:-1 tvg-name="Uma Pistola Para Djeca - 1969" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gZ9suzyO6V7UW1eRRSKNi3Tkd4.jpg" group-title="NACIONAIS",Uma Pistola Para Djeca - 1969
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44308.mp4
+#EXTINF:-1 tvg-name="Uma Quase Dupla - 2018" tvg-logo="http://urlon.me/ZcW" group-title="NACIONAIS",Uma Quase Dupla - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43366.mp4
+#EXTINF:-1 tvg-name="Urubus - 2022" tvg-logo="http://5ce.co:80/images/gFcqpl7oTp8Jlq3XY4U7X8FQVn4_big.jpg" group-title="NACIONAIS",Urubus - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200985.mp4
+#EXTINF:-1 tvg-name="Vai Que Cola 1 - O Filme - 2015" tvg-logo="http://urlon.me/6ha" group-title="NACIONAIS",Vai Que Cola 1 - O Filme - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44341.mp4
+#EXTINF:-1 tvg-name="Vai Que Dá Certo - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srKeBp0kbjVg33zcshCAXznl6nI.jpg" group-title="NACIONAIS",Vai Que Dá Certo - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63944.mp4
+#EXTINF:-1 tvg-name="Vai que Dá Certo 2 - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZXs9Fxca99RQUiFxyI4SXqOs7O.jpg" group-title="NACIONAIS",Vai que Dá Certo 2 - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63945.mp4
+#EXTINF:-1 tvg-name="Vazante - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK1CHVJ8A3MzRE6JrkWdIm1aQ60.jpg" group-title="NACIONAIS",Vazante - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63840.mp4
+#EXTINF:-1 tvg-name="Vende-se Imóvel - 2019" tvg-logo="http://urlon.me/OW7" group-title="NACIONAIS",Vende-se Imóvel - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63946.mp4
+#EXTINF:-1 tvg-name="Vendo ou Alugo - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MCEWhZXdMKEIueri2c6D41neJt.jpg" group-title="NACIONAIS",Vendo ou Alugo - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63947.mp4
+#EXTINF:-1 tvg-name="Vestido Pra Casar - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drLwYgHobi90mI1IqmXNPHIHXqx.jpg" group-title="NACIONAIS",Vestido Pra Casar - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103871.mp4
+#EXTINF:-1 tvg-name="Virando a Mesa - 2020" tvg-logo="http://5ce.co:80/images/pLsChLT7tuB96kBP7LrgIVz0O8T_big.jpg" group-title="NACIONAIS",Virando a Mesa - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197516.mp4
+#EXTINF:-1 tvg-name="Xingu - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z41DkjNycIZ5xRMsRJRO6g06rv8.jpg" group-title="NACIONAIS",Xingu - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44339.mp4
+#EXTINF:-1 tvg-name="Yonlu - 2018" tvg-logo="http://urlon.me/OsT" group-title="NACIONAIS",Yonlu - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63841.mp4
+
+#EXTM3U url-tvg="http://grade-de-INDICADOS AO OSCAR 2023.xml"
+############## INDICADOS AO OSCAR 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeINDICADOS AO OSCAR 2023" group-title="
+
+#EXTINF:-1 tvg-name="Triangulo Da Tristeza - 2023" tvg-logo="http://5ce.co:80/images/scfQwUUe0MQb0T5khF1x5e4HSoR_big.jpg" group-title="INDICADOS AO OSCAR 2023",Triangulo Da Tristeza - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219858.mp4
+#EXTINF:-1 tvg-name="A Fera do Mar - 2022" tvg-logo="http://5ce.co:80/images/ynHncD1HQZEQA2r747uv3eL3XDY_big.jpg" group-title="INDICADOS AO OSCAR 2023",A Fera do Mar - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209508.mp4
+#EXTINF:-1 tvg-name="Argentina 1985 - 2022" tvg-logo="http://5ce.me:80/images/nmh7vD2eDVRqFJoCpEzVcfGcPPf_big.jpg" group-title="INDICADOS AO OSCAR 2023",Argentina 1985 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215262.mp4
+#EXTINF:-1 tvg-name="Babilonia - 2022" tvg-logo="http://5ce.co:80/images/qZUmMxJbGmkIYwnS7qRfSOREmvC_big.jpg" group-title="INDICADOS AO OSCAR 2023",Babilonia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219632.mp4
+#EXTINF:-1 tvg-name="BARDO Falsa Cronica de Algumas Verdades - 2022 (L)" tvg-logo="http://5ce.me:80/images/mrtScSw8gPVIFe0c1Z9MqxPWM6l_big.jpg" group-title="INDICADOS AO OSCAR 2023",BARDO Falsa Cronica de Algumas Verdades - 2022 (L)
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216154.mp4
+#EXTINF:-1 tvg-name="Batman - 2022" tvg-logo="http://5ce.co:80/images/74xTEgt7R36Fpooo50r9T25onhq_big.jpg" group-title="INDICADOS AO OSCAR 2023",Batman - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204435.mp4
+#EXTINF:-1 tvg-name="Blonde - 2022" tvg-logo="http://5ce.me:80/images/jOgbnL5FB30pprEjZaY1E1iPtPM_big.jpg" group-title="INDICADOS AO OSCAR 2023",Blonde - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212705.mp4
+#EXTINF:-1 tvg-name="Como Cuidar de um Bebe Elefante - 2022" tvg-logo="http://5ce.me:80/images/1UQN0JIyAlyFRhYpmBcbrDw7Bsr_big.jpg" group-title="INDICADOS AO OSCAR 2023",Como Cuidar de um Bebe Elefante - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215955.mp4
+#EXTINF:-1 tvg-name="Elvis - 2022" tvg-logo="http://5ce.me:80/images/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB_big.jpg" group-title="INDICADOS AO OSCAR 2023",Elvis - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210581.mp4
+#EXTINF:-1 tvg-name="Gato de Botas 2 O Ultimo Pedido - 2022" tvg-logo="http://5ce.me:80/images/65NBNqJiaHeCmqDqkCmrRplJXw_big.jpg" group-title="INDICADOS AO OSCAR 2023",Gato de Botas 2 O Ultimo Pedido - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216786.mp4
+#EXTINF:-1 tvg-name="Glass Onion Um Misterio Knives Out - 2022" tvg-logo="http://5ce.me:80/images/zQJcENHbZUpLQ8RKYt9wTzcXCwv_big.jpg" group-title="INDICADOS AO OSCAR 2023",Glass Onion Um Misterio Knives Out - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216346.mp4
+#EXTINF:-1 tvg-name="Imperio da Luz - 2022" tvg-logo="http://5ce.co:80/images/9hoNGfSq3ZiolERu1yFEOWhGLPL_big.jpg" group-title="INDICADOS AO OSCAR 2023",Imperio da Luz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218682.mp4
+#EXTINF:-1 tvg-name="Living - 2022" tvg-logo="http://5ce.co:80/images/ftUdaxguhUoPAtwTkSLNglAaqfd_big.jpg" group-title="INDICADOS AO OSCAR 2023",Living - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219736.mp4
+#EXTINF:-1 tvg-name="Marcel the Shell with Shoes On - 2022 (L)" tvg-logo="http://5ce.me:80/images/jaYmP4Ct8YLnxWAW2oYkUjeXtzm_big.jpg" group-title="INDICADOS AO OSCAR 2023",Marcel the Shell with Shoes On - 2022 (L)
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211749.mp4
+#EXTINF:-1 tvg-name="Nada De Novo No Front - 2022" tvg-logo="http://5ce.me:80/images/qmcKs0Aoft7MBdBoj1haZyPRgM2_big.jpg" group-title="INDICADOS AO OSCAR 2023",Nada De Novo No Front - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214049.mp4
+#EXTINF:-1 tvg-name="O menino a toupeira a raposa e o cavalo - 2022" tvg-logo="http://5ce.me:80/images/765XUik0cbyWHITgE22FhpA8elG_big.jpg" group-title="INDICADOS AO OSCAR 2023",O menino a toupeira a raposa e o cavalo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216355.mp4
+#EXTINF:-1 tvg-name="Os Fabelmans - 2022" tvg-logo="http://5ce.co:80/images/BWHoAAcKnGtowRXju2c2RBrT0m_big.jpg" group-title="INDICADOS AO OSCAR 2023",Os Fabelmans - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218046.mp4
+#EXTINF:-1 tvg-name="Pantera Negra Wakanda para Sempre - 2022 " tvg-logo="http://5ce.co:80/images/sv1xJUazXeYqALzczSZ3O6nkH75_big.jpg" group-title="INDICADOS AO OSCAR 2023",Pantera Negra Wakanda para Sempre - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217458.mp4
+#EXTINF:-1 tvg-name="Passagem - 2022" tvg-logo="http://5ce.me:80/images/81eQIYIR7i5W0XsB2PtvZAt4I9w_big.jpg" group-title="INDICADOS AO OSCAR 2023",Passagem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214269.mp4
+#EXTINF:-1 tvg-name="Pinoquio por Guillermo Del Toro - 2022" tvg-logo="http://5ce.me:80/images/x3IkO2sW4rSSVluFDz8isr6YDm8_big.jpg" group-title="INDICADOS AO OSCAR 2023",Pinoquio por Guillermo Del Toro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215853.mp4
+#EXTINF:-1 tvg-name="Red -Crescer e Uma Fera - 2022" tvg-logo="http://5ce.co:80/images/725WE0Qb1BbUF7aGvjiQqzzffpg_big.jpg" group-title="INDICADOS AO OSCAR 2023",Red -Crescer e Uma Fera - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202318.mp4
+#EXTINF:-1 tvg-name="RRR  Revolta Rebeliao Revolucao - 2022" tvg-logo="http://5ce.me:80/images/wE0I6efAW4cDDmZQWtwZMOW44EJ_big.jpg" group-title="INDICADOS AO OSCAR 2023",RRR  Revolta Rebeliao Revolucao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212849.mp4
+#EXTINF:-1 tvg-name="Sra Harris Vai a Paris - 2022" tvg-logo="http://5ce.me:80/images/5RUXwZPgkOXMNlTBCcmYXYrMsNg_big.jpg" group-title="INDICADOS AO OSCAR 2023",Sra Harris Vai a Paris - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216623.mp4
+#EXTINF:-1 tvg-name="Os Banshees de Inisherin - 2022" tvg-logo="http://5ce.me:80/images/6tgmoZtdRWerdmK1KPcdf87uZyE_big.jpg" group-title="INDICADOS AO OSCAR 2023",Os Banshees de Inisherin - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216070.mp4
+#EXTINF:-1 tvg-name="Top Gun Maverick - 2022" tvg-logo="http://5ce.me:80/images/62HCnUTziyWcpDaBO2i1DX17ljH_big.jpg" group-title="INDICADOS AO OSCAR 2023",Top Gun Maverick - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211228.mp4
+#EXTINF:-1 tvg-name="Tudo em Todo Lugar ao Mesmo Tempo - 2022" tvg-logo="http://5ce.me:80/images/fd0SHLE9xQD2odct8OBxt4r7cSu_big.jpg" group-title="INDICADOS AO OSCAR 2023",Tudo em Todo Lugar ao Mesmo Tempo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210565.mp4
+#EXTINF:-1 tvg-name="Vulcoes A Tragedia de Katia e Maurice Krafft - 2022" tvg-logo="http://5ce.me:80/images/jT8R2lqEpC49odCc1fCzAi6Z0ZE_big.jpg" group-title="INDICADOS AO OSCAR 2023",Vulcoes A Tragedia de Katia e Maurice Krafft - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214783.mp4
+
+#EXTM3U url-tvg="http://grade-de-Lancamentos.xml"
+############## Lancamentos ################# 
+#EXTINF:-1 tvg-id=" iddocanalde Lancamentos" group-title="
+
+#EXTINF:-1 tvg-name="Avatar  O Caminho da Agua - 2022 " tvg-logo="http://5ce.me:80/images/tnmdUnztAYbfJ0jhjpN6oxwP2sb_big.jpg" group-title="LANCAMENTOS",Avatar  O Caminho da Agua - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216190.mp4
+#EXTINF:-1 tvg-name="Gigi e Nate - 2022" tvg-logo="http://5ce.co:80/images/xP1GXV1gms9b5BpHZP7S8qs8FO_big.jpg" group-title="LANCAMENTOS",Gigi e Nate - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221753.mp4
+#EXTINF:-1 tvg-name="Amor Inesperado - 2023" tvg-logo="http://5ce.co:80/images/mq3bh4aq5c3U0xAqMWXeDRnypCE_big.jpg" group-title="LANCAMENTOS",Amor Inesperado - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221693.mp4
+#EXTINF:-1 tvg-name="Nas Ondas da Fe - 2023" tvg-logo="http://5ce.co:80/images/q2ZU9LSYKUctx5Wmfgj4EIJe7jw_big.jpg" group-title="LANCAMENTOS",Nas Ondas da Fe - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221692.mp4
+#EXTINF:-1 tvg-name="O Encontro Mais Longo de Todos - 2023" tvg-logo="http://5ce.co:80/images/pzusJE1LqhG06S92IdPYlTu8N1p_big.jpg" group-title="LANCAMENTOS",O Encontro Mais Longo de Todos - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221691.mp4
+#EXTINF:-1 tvg-name="Oferenda ao Demonio - 2022" tvg-logo="http://5ce.co:80/images/lI8sI9pQuJmdYJgp6JuPIPg7Rqx_big.jpg" group-title="LANCAMENTOS",Oferenda ao Demonio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221690.mp4
+#EXTINF:-1 tvg-name="Power Rangers Agora e Sempre - 2023 " tvg-logo="http://5ce.co:80/images/lB1psIWct40ZSJPLp8wsQ98y0dI_big.jpg" group-title="LANCAMENTOS",Power Rangers Agora e Sempre - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221689.mp4
+#EXTINF:-1 tvg-name="O Estrangulador de Boston - 2023" tvg-logo="http://5ce.co:80/images/iyJM16EEF5jcQZipFjpRtEjeRyu_big.jpg" group-title="LANCAMENTOS",O Estrangulador de Boston - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221643.mp4
+#EXTINF:-1 tvg-name="Em Seus Sonhos - 2023" tvg-logo="http://5ce.co:80/images/rZe2lT3G9C7JrwB7Avu22mVhqFw_big.jpg" group-title="LANCAMENTOS",Em Seus Sonhos - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221642.mp4
+#EXTINF:-1 tvg-name="Ja Era Hora - 2023" tvg-logo="http://5ce.co:80/images/a8Sg7wHxquACYe4IIKyH0rORMp9_big.jpg" group-title="LANCAMENTOS",Ja Era Hora - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220127.mp4
+#EXTINF:-1 tvg-name="Querida Alice - 2022 " tvg-logo="http://5ce.co:80/images/3hGzrqIe24f7DyD3YD5U9qUdLHX_big.jpg" group-title="LANCAMENTOS",Querida Alice - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220125.mp4
+#EXTINF:-1 tvg-name="Tempestade - 2022 " tvg-logo="http://5ce.co:80/images/7sFsHSFqz9gvxyWjkQY4iJo0xQR_big.jpg" group-title="LANCAMENTOS",Tempestade - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220124.mp4
+#EXTINF:-1 tvg-name="A Profecia do Mal - 2023" tvg-logo="http://5ce.co:80/images/kIy8rzFTCFlEbW8L8tZ9ar81l6o_big.jpg" group-title="LANCAMENTOS",A Profecia do Mal - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220109.mp4
+#EXTINF:-1 tvg-name="Collide - 2022 " tvg-logo="http://5ce.co:80/images/xdoOkjtC6BLZGdVBfLCKVXrKOcO_big.jpg" group-title="LANCAMENTOS",Collide - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220107.mp4
+#EXTINF:-1 tvg-name="Muti Rituais Mortais - 2023" tvg-logo="http://5ce.co:80/images/1VtHaELqLMovl8EueBWHDtihhzF_big.jpg" group-title="LANCAMENTOS",Muti Rituais Mortais - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220102.mp4
+#EXTINF:-1 tvg-name="Pornhub Sexo Bilionario - 2023" tvg-logo="http://5ce.co:80/images/ae9ooWLtS4LEsSBCUvaFkrrxqiH_big.jpg" group-title="LANCAMENTOS",Pornhub Sexo Bilionario - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220101.mp4
+#EXTINF:-1 tvg-name=" O Assassino Perfeito - 2022" tvg-logo="http://5ce.co:80/images/62DJXEJbCazNo1woUU6Jr7l7rgQ_big.jpg" group-title="LANCAMENTOS", O Assassino Perfeito - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217075.mp4
+#EXTINF:-1 tvg-name=" O Metodo de Stutz - 2022" tvg-logo="http://5ce.me:80/images/uOiJmotRM12wsgfwiEXsp3AErdU_big.jpg" group-title="LANCAMENTOS", O Metodo de Stutz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214812.mp4
+#EXTINF:-1 tvg-name="10 Dias de um Homem Bom - 2023" tvg-logo="http://5ce.co:80/images/ihMCcc0vBQQyphiaoyoTvpJlTPi_big.jpg" group-title="LANCAMENTOS",10 Dias de um Homem Bom - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219643.mp4
+#EXTINF:-1 tvg-name="100 Medos - 2022" tvg-logo="http://5ce.me:80/images/o3YitLNoZsucoGrcjehaR9p45Ip_big.jpg" group-title="LANCAMENTOS",100 Medos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213158.mp4
+#EXTINF:-1 tvg-name="13 Minutos de Tormenta - 2021" tvg-logo="http://5ce.co:80/images/c0Y2aNGSPlF7y926n2uHvPfo5TF_big.jpg" group-title="LANCAMENTOS",13 Minutos de Tormenta - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202337.mp4
+#EXTINF:-1 tvg-name="13 O Musical - 2022" tvg-logo="http://5ce.me:80/images/3ndpRWh8iOvckVtHptIsD4OtayN_big.jpg" group-title="LANCAMENTOS",13 O Musical - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210993.mp4
+#EXTINF:-1 tvg-name="137 Disparos - 2022" tvg-logo="http://5ce.co:80/images/c62odansbfa1zQ01lnyN4tIu6Dc_big.jpg" group-title="LANCAMENTOS",137 Disparos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199843.mp4
+#EXTINF:-1 tvg-name="14 Cartas De Amor - 2022" tvg-logo="http://5ce.co:80/images/njtMnE4p7wb3PXEksqE5PU2Hu44_big.jpg" group-title="LANCAMENTOS",14 Cartas De Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208414.mp4
+#EXTINF:-1 tvg-name="30 Noites com a Minha Ex - 2022" tvg-logo="http://5ce.co:80/images/9GUOSsdQrchL57N4HTAncDEWxKO_big.jpg" group-title="LANCAMENTOS",30 Noites com a Minha Ex - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217373.mp4
+#EXTINF:-1 tvg-name="36 Horas de Guerra - 2021" tvg-logo="http://5ce.me:80/images/eRUrER9xFIiLp2aMIJjCTEOU3VX_big.jpg" group-title="LANCAMENTOS",36 Horas de Guerra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214259.mp4
+#EXTINF:-1 tvg-name="365 Dias Finais - 2022" tvg-logo="http://5ce.me:80/images/2pxKwxMbd5l3BxK5fBgVCWYweH2_big.jpg" group-title="LANCAMENTOS",365 Dias Finais - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211092.mp4
+#EXTINF:-1 tvg-name="365 Dias Hoje - 2022" tvg-logo="http://5ce.co:80/images/67vb4sQxJ06o4LvgoxB8Fj6mGqk_big.jpg" group-title="LANCAMENTOS",365 Dias Hoje - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205329.mp4
+#EXTINF:-1 tvg-name="438 Dias - 2019" tvg-logo="http://5ce.co:80/images/f3gYSg0tCXQ6LGDlz002f2O1bBa_big.jpg" group-title="LANCAMENTOS",438 Dias - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204324.mp4
+#EXTINF:-1 tvg-name="45 do Segundo Tempo - 2022" tvg-logo="http://5ce.me:80/images/xmUiGNvKTDwic273opiVednbQA8_big.jpg" group-title="LANCAMENTOS",45 do Segundo Tempo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214744.mp4
+#EXTINF:-1 tvg-name="4x4 - 2019" tvg-logo="http://5ce.co:80/images/gMJwGghKysgj6qgcLAWJFhDjFBs_big.jpg" group-title="LANCAMENTOS",4x4 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206638.mp4
+#EXTINF:-1 tvg-name="7 Mulheres e Um Misterio - 2021" tvg-logo="http://5ce.me:80/images/1FHo1tTKMWGwv9gxXASWhkctuC3_big.jpg" group-title="LANCAMENTOS",7 Mulheres e Um Misterio - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216536.mp4
+#EXTINF:-1 tvg-name="8 Presidentes 1 Juramento -  A História de um Tempo Presente - 2021" tvg-logo="http://5ce.co:80/images/iiYmAxhaWqrmHqvjzRfbY9t7B68_big.jpg" group-title="LANCAMENTOS",8 Presidentes 1 Juramento -  A História de um Tempo Presente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205607.mp4
+#EXTINF:-1 tvg-name="80 pelo Brady - 2023" tvg-logo="http://5ce.co:80/images/jixBLmH4gQuTKTenZr89egvqZbW_big.jpg" group-title="LANCAMENTOS",80 pelo Brady - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219744.mp4
+#EXTINF:-1 tvg-name="9 Dias Acordado - 2022" tvg-logo="http://5ce.co:80/images/u0OT5BxI64iww8lytXDHXlLvALD_big.jpg" group-title="LANCAMENTOS",9 Dias Acordado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202583.mp4
+#EXTINF:-1 tvg-name="90 Minutos - 2022" tvg-logo="http://5ce.me:80/images/sKAj8jKy3C32KUS6VOGBmpeThGE_big.jpg" group-title="LANCAMENTOS",90 Minutos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216535.mp4
+#EXTINF:-1 tvg-name="A Academia do Diabo - 2023" tvg-logo="http://5ce.co:80/images/tCd9zcdjHcidTkGNgwRx4hhXkI5_big.jpg" group-title="LANCAMENTOS",A Academia do Diabo - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218678.mp4
+#EXTINF:-1 tvg-name="A Avo - 2022" tvg-logo="http://5ce.me:80/images/ozT3LrHVBiA6IDJcQ28hs0hUAVI_big.jpg" group-title="LANCAMENTOS",A Avo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213790.mp4
+#EXTINF:-1 tvg-name="A Baba - 2022" tvg-logo="http://5ce.me:80/images/mPhXHRudGxsXIQq1WM6oVePkFIp_big.jpg" group-title="LANCAMENTOS",A Baba - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216143.mp4
+#EXTINF:-1 tvg-name="A Babá: O Chamado das Sombras - 2022" tvg-logo="http://5ce.co:80/images/urbyC5UsvP8Ym15S4Rd3sZ9WBkw_big.jpg" group-title="LANCAMENTOS",A Babá: O Chamado das Sombras - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199791.mp4
+#EXTINF:-1 tvg-name="A Bolha - 2022" tvg-logo="http://5ce.co:80/images/edYk5TSowZIDv138bCpF5ls3XI5_big.jpg" group-title="LANCAMENTOS",A Bolha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203646.mp4
+#EXTINF:-1 tvg-name="A Bravura de Molly - 2021" tvg-logo="http://5ce.me:80/images/kHHNF0jHpHgPU7JhrLDql5NMGRG_big.jpg" group-title="LANCAMENTOS",A Bravura de Molly - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214260.mp4
+#EXTINF:-1 tvg-name="A Camisa Mais Pesada do Mundo - 2022" tvg-logo="http://5ce.me:80/images/iKKB3S6FUi1NYjfok1SOyYieSBs_big.jpg" group-title="LANCAMENTOS",A Camisa Mais Pesada do Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214986.mp4
+#EXTINF:-1 tvg-name="A Casa da Morte - 2022" tvg-logo="http://5ce.me:80/images/1pkdudkxnK3mBlH3thy3FL7BN0Z_big.jpg" group-title="LANCAMENTOS",A Casa da Morte - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216340.mp4
+#EXTINF:-1 tvg-name="A Casa no Bayou - 2021" tvg-logo="http://5ce.co:80/images/7OhsKXY8CV4uAdrc82sGgpGXUNc_big.jpg" group-title="LANCAMENTOS",A Casa no Bayou - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202770.mp4
+#EXTINF:-1 tvg-name="A Casa Sombria - 2021" tvg-logo="http://5ce.co:80/images/5qoBMPkhmbDeTH8SEkY3V2flewD_big.jpg" group-title="LANCAMENTOS",A Casa Sombria - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188948.mp4
+#EXTINF:-1 tvg-name="A Civil - 2021" tvg-logo="http://5ce.me:80/images/bDxPuS199k3h8oPd68ALEr2PwpO_big.jpg" group-title="LANCAMENTOS",A Civil - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210622.mp4
+#EXTINF:-1 tvg-name="A Colmeia - 2021" tvg-logo="http://5ce.co:80/images/wkycvzLbq4lAvXQo06GcSa8iGXm_big.jpg" group-title="LANCAMENTOS",A Colmeia - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207755.mp4
+#EXTINF:-1 tvg-name="A Cozinheira Curiosa Receita Assassina - 2022" tvg-logo="http://5ce.me:80/images/43PkvE2c5YQTPMpeHXemiZJbD3Q_big.jpg" group-title="LANCAMENTOS",A Cozinheira Curiosa Receita Assassina - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214840.mp4
+#EXTINF:-1 tvg-name="A Deusa dos Vagalumes - 2020" tvg-logo="http://5ce.co:80/images/xWiOWC7bg50ik1FPpcY2XuGLoQx_big.jpg" group-title="LANCAMENTOS",A Deusa dos Vagalumes - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209583.mp4
+#EXTINF:-1 tvg-name="A Dupla Explosiva - 2022" tvg-logo="http://5ce.me:80/images/a3w9A9k7KSzLffT23dMdL0R7oMJ_big.jpg" group-title="LANCAMENTOS",A Dupla Explosiva - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211266.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo: As Aventuras de Buck - 2022" tvg-logo="http://5ce.co:80/images/1iVjKCGHPVNj7IQVB1DdpL8U7Y8_big.jpg" group-title="LANCAMENTOS",A Era do Gelo: As Aventuras de Buck - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199640.mp4
+#EXTINF:-1 tvg-name="A Escola Do Bem E Do Mal - 2022" tvg-logo="http://5ce.me:80/images/fbo6sHohCSQDOY6RYPQX3zO886y_big.jpg" group-title="LANCAMENTOS",A Escola Do Bem E Do Mal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213603.mp4
+#EXTINF:-1 tvg-name="A Espera de Liz - 2022" tvg-logo="http://5ce.me:80/images/k6BHFbih6ET0WGxL9VrcClZKANW_big.jpg" group-title="LANCAMENTOS",A Espera de Liz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214261.mp4
+#EXTINF:-1 tvg-name="A Estacao da Alegria - 2021" tvg-logo="http://5ce.me:80/images/8QkNOItJNy0mFwpMJIac9VGbgt9_big.jpg" group-title="LANCAMENTOS",A Estacao da Alegria - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211961.mp4
+#EXTINF:-1 tvg-name="A Extraordinaria Garota Chamada Estrela em Hollywood - 2022" tvg-logo="http://5ce.co:80/images/4wwdY9Xx6eI1g4C5i5Ni89UmlWw_big.jpg" group-title="LANCAMENTOS",A Extraordinaria Garota Chamada Estrela em Hollywood - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208093.mp4
+#EXTINF:-1 tvg-name="A Face Oculta do Feminismo - 2022" tvg-logo="http://5ce.co:80/images/iXjBoRHtOEFChA13YCPUrGRXWKD_big.jpg" group-title="LANCAMENTOS",A Face Oculta do Feminismo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206148.mp4
+#EXTINF:-1 tvg-name="A Família Noel - 2021" tvg-logo="http://5ce.co:80/images/xOkrJgY9oHl0FMkR8VqOgYEmp7f_big.jpg" group-title="LANCAMENTOS",A Família Noel - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189581.mp4
+#EXTINF:-1 tvg-name="A Familia Perfeita - 2021" tvg-logo="http://5ce.co:80/images/4EWtby5Sb1JKxwqVfpLLybmJK6E_big.jpg" group-title="LANCAMENTOS",A Familia Perfeita - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206639.mp4
+#EXTINF:-1 tvg-name="A Felicidade é de Matar - 2021" tvg-logo="http://5ce.co:80/images/oKNOa8a6MEbo2sQoTQFBVJYi0zd_big.jpg" group-title="LANCAMENTOS",A Felicidade é de Matar - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200761.mp4
+#EXTINF:-1 tvg-name="A Fera - 2022" tvg-logo="http://5ce.me:80/images/crnUUp1cyqwR9NeGhdt0mMQNN0Y_big.jpg" group-title="LANCAMENTOS",A Fera - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212587.mp4
+#EXTINF:-1 tvg-name="A Filha do Rei - 2022" tvg-logo="http://5ce.co:80/images/gSmLUushIlmqFxFEB4uT6IM2ei2_big.jpg" group-title="LANCAMENTOS",A Filha do Rei - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204428.mp4
+#EXTINF:-1 tvg-name="A Floresta do Escalpe - 2021" tvg-logo="http://5ce.me:80/images/2OG6YCYabCBNcmXv5w4AP9uTbsb_big.jpg" group-title="LANCAMENTOS",A Floresta do Escalpe - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214841.mp4
+#EXTINF:-1 tvg-name="A Fuga De Akilla - 2020" tvg-logo="http://5ce.co:80/images/7F3zWqksCUYErdDRugVQOQgY8NJ_big.jpg" group-title="LANCAMENTOS",A Fuga De Akilla - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209511.mp4
+#EXTINF:-1 tvg-name="A Garota da Foto - 2022" tvg-logo="http://5ce.co:80/images/5ia29pXk58SZHPuRJzPS3KBSJJL_big.jpg" group-title="LANCAMENTOS",A Garota da Foto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209507.mp4
+#EXTINF:-1 tvg-name="A Garota dos Seus Sonhos - 2022" tvg-logo="http://5ce.co:80/images/1iafCMS7cZ1mbZIMznPu3xqXeOI_big.jpg" group-title="LANCAMENTOS",A Garota dos Seus Sonhos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201445.mp4
+#EXTINF:-1 tvg-name="A Gestora - 2022" tvg-logo="http://5ce.me:80/images/hRqvE6dABictKuLwqQMzq6AptiZ_big.jpg" group-title="LANCAMENTOS",A Gestora - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211539.mp4
+#EXTINF:-1 tvg-name="A Grande Aventura de Blue na Cidade - 2022" tvg-logo="http://5ce.me:80/images/gFyB6XHUrvd3FvgN7NQbS0gjYv7_big.jpg" group-title="LANCAMENTOS",A Grande Aventura de Blue na Cidade - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214966.mp4
+#EXTINF:-1 tvg-name="A Grande Invasao do Balao Bomba - 2021" tvg-logo="http://5ce.co:80/images/2tFvXKycsYeQc6jbOmIxq8RVLx5_big.jpg" group-title="LANCAMENTOS",A Grande Invasao do Balao Bomba - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207740.mp4
+#EXTINF:-1 tvg-name="A Hora do Desespero - 2021" tvg-logo="http://5ce.co:80/images/xt3sIBS3Fy39JewUWJi9itj66pw_big.jpg" group-title="LANCAMENTOS",A Hora do Desespero - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208261.mp4
+#EXTINF:-1 tvg-name="A Invasao Ocupacao Alienigena - 2020" tvg-logo="http://5ce.co:80/images/k4PqKV5M9lIxrFreEIRmo3f5WEd_big.jpg" group-title="LANCAMENTOS",A Invasao Ocupacao Alienigena - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207739.mp4
+#EXTINF:-1 tvg-name="A Ira de Deus - 2022" tvg-logo="http://5ce.co:80/images/3fdh5M8Vt6PkS31bxLXMIn1GsaU_big.jpg" group-title="LANCAMENTOS",A Ira de Deus - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208481.mp4
+#EXTINF:-1 tvg-name="A Jangada - 2020" tvg-logo="http://5ce.co:80/images/5b5JmtUvQZxJdDCBKyr9hBde2o_big.jpg" group-title="LANCAMENTOS",A Jangada - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208480.mp4
+#EXTINF:-1 tvg-name="A Jaula - 2022" tvg-logo="http://5ce.me:80/images/4hl4vdf2QdKRMg5cU0CIO3eydg_big.jpg" group-title="LANCAMENTOS",A Jaula - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214183.mp4
+#EXTINF:-1 tvg-name="A Jogada de Chang - 2023" tvg-logo="http://5ce.co:80/images/x4bsfG5GcGJLwvQEvUVugLUmyuw_big.jpg" group-title="LANCAMENTOS",A Jogada de Chang - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219853.mp4
+#EXTINF:-1 tvg-name="A Lei - 2021" tvg-logo="http://5ce.me:80/images/pep83sKsypHJZwwGeAUHxAmXiyQ_big.jpg" group-title="LANCAMENTOS",A Lei - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211391.mp4
+#EXTINF:-1 tvg-name="A Lenda de Lanterns Lane - 2021" tvg-logo="http://5ce.me:80/images/4xJXC8tRAUKZeS7YoFK9UvEx8hb_big.jpg" group-title="LANCAMENTOS",A Lenda de Lanterns Lane - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214041.mp4
+#EXTINF:-1 tvg-name="A Lenda do Cavaleiro Negro - 2022" tvg-logo="http://5ce.me:80/images/q4lnEYzPdvgvxFWlPGsdnDdbxEn_big.jpg" group-title="LANCAMENTOS",A Lenda do Cavaleiro Negro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209926.mp4
+#EXTINF:-1 tvg-name="A Lenda do Cavaleiro Verde - 2021" tvg-logo="http://5ce.co:80/images/uEBz75PgdWLZ6KvVyzYn4xKJnrK_big.jpg" group-title="LANCAMENTOS",A Lenda do Cavaleiro Verde - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196972.mp4
+#EXTINF:-1 tvg-name="A Lenda do Submundo - 2021" tvg-logo="http://5ce.co:80/images/i388tln63NS5rI7e60cr8MWp6Ht_big.jpg" group-title="LANCAMENTOS",A Lenda do Submundo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190017.mp4
+#EXTINF:-1 tvg-name="A Liga de Monstros - 2021" tvg-logo="http://5ce.co:80/images/aeSfVBkewd75xMK2K9XH4BWxHRO_big.jpg" group-title="LANCAMENTOS",A Liga de Monstros - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201123.mp4
+#EXTINF:-1 tvg-name="A Loteria O Sonho Mexicano - 2022" tvg-logo="http://5ce.me:80/images/lR45LDhpjaBdk1JgRnuRXficWnC_big.jpg" group-title="LANCAMENTOS",A Loteria O Sonho Mexicano - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216156.mp4
+#EXTINF:-1 tvg-name="A Luta de uma Vida - 2022 " tvg-logo="http://5ce.me:80/images/maTuBPCOMEHCUHg1ytgZvsjU7kt_big.jpg" group-title="LANCAMENTOS",A Luta de uma Vida - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213960.mp4
+#EXTINF:-1 tvg-name="A Luz do Demonio - 2022" tvg-logo="http://5ce.me:80/images/mYa1vhjTYakyNCB65lR8Y7jujBn_big.jpg" group-title="LANCAMENTOS",A Luz do Demonio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216573.mp4
+#EXTINF:-1 tvg-name="A Madrasta - 2022" tvg-logo="http://5ce.me:80/images/xx3s9HORABYz3F3ZVPtomSANpYu_big.jpg" group-title="LANCAMENTOS",A Madrasta - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213832.mp4
+#EXTINF:-1 tvg-name="A Mae de Todas as Lutas - 2021" tvg-logo="http://5ce.me:80/images/1AHVyjmjJKUIjryArHFWKoYCWpS_big.jpg" group-title="LANCAMENTOS",A Mae de Todas as Lutas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214856.mp4
+#EXTINF:-1 tvg-name="A Maldicao  - 2021" tvg-logo="http://5ce.me:80/images/plS7R81TAtIJxCIW7PIze5vmy5A_big.jpg" group-title="LANCAMENTOS",A Maldicao  - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209927.mp4
+#EXTINF:-1 tvg-name="A Maldicao De Bridge Hollow - 2022" tvg-logo="http://5ce.me:80/images/f4hdxB3gErjNJtfWBU9rMdhiNbU_big.jpg" group-title="LANCAMENTOS",A Maldicao De Bridge Hollow - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213486.mp4
+#EXTINF:-1 tvg-name="A Maldicao de Rose - 2020" tvg-logo="http://5ce.co:80/images/17fqc7EvBTAvc0xqrOwjgiuLa3p_big.jpg" group-title="LANCAMENTOS",A Maldicao de Rose - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209635.mp4
+#EXTINF:-1 tvg-name="A Maldicao Despertar dos Mortos - 2021" tvg-logo="http://5ce.me:80/images/nVFZ0D4vgCh1Z6C4u2kq6HmZci3_big.jpg" group-title="LANCAMENTOS",A Maldicao Despertar dos Mortos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216188.mp4
+#EXTINF:-1 tvg-name="A Maldicao do Boneco Robert - 2022" tvg-logo="http://5ce.co:80/images/jhkzbOsnrhE6COA5mT3XLd5swKo_big.jpg" group-title="LANCAMENTOS",A Maldicao do Boneco Robert - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217785.mp4
+#EXTINF:-1 tvg-name="A Maquina Infernal - 2022" tvg-logo="http://5ce.me:80/images/oUOBG41EQQXUc6P7Ay7f73yZxH8_big.jpg" group-title="LANCAMENTOS",A Maquina Infernal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214891.mp4
+#EXTINF:-1 tvg-name="A Materia Noturna - 2021" tvg-logo="http://5ce.co:80/images/uZiPbcLAQ15b8SeZC9KlliSamx6_big.jpg" group-title="LANCAMENTOS",A Materia Noturna - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207604.mp4
+#EXTINF:-1 tvg-name="A Matriarca - 2022" tvg-logo="http://5ce.me:80/images/o57VVZImE6RcZAffPepZyuwNLKs_big.jpg" group-title="LANCAMENTOS",A Matriarca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214372.mp4
+#EXTINF:-1 tvg-name="A Megera Domada - 2022" tvg-logo="http://5ce.co:80/images/4JXsbuWTHWy9KieVRef5CmrzDN6_big.jpg" group-title="LANCAMENTOS",A Megera Domada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204482.mp4
+#EXTINF:-1 tvg-name="A Mulher Rei - 2022 " tvg-logo="http://5ce.me:80/images/ml7Ypdeev7s1MK38dQN0OXoZ8p9_big.jpg" group-title="LANCAMENTOS",A Mulher Rei - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214991.mp4
+#EXTINF:-1 tvg-name="A Novata - 2021" tvg-logo="http://5ce.me:80/images/aZgdsGk8Oo7bwhVBtg43pM3hbM5_big.jpg" group-title="LANCAMENTOS",A Novata - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215831.mp4
+#EXTINF:-1 tvg-name="A Oitava Clausula - 2022" tvg-logo="http://5ce.co:80/images/5CbVMeLvaGn87gx05waiIJ0JySr_big.jpg" group-title="LANCAMENTOS",A Oitava Clausula - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209605.mp4
+#EXTINF:-1 tvg-name="A Outra Face da Guerra - 2021" tvg-logo="http://5ce.co:80/images/arlwPVSQg3fsBCDhwORpiHnZjYt_big.jpg" group-title="LANCAMENTOS",A Outra Face da Guerra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189794.mp4
+#EXTINF:-1 tvg-name="A Porta Ao Lado - 2021" tvg-logo="http://5ce.me:80/images/pHqjBTmKVdcFceovCMdzm4mYoNw_big.jpg" group-title="LANCAMENTOS",A Porta Ao Lado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210839.mp4
+#EXTINF:-1 tvg-name="A Primeira Dama do Estado Islamico - 2022" tvg-logo="http://5ce.me:80/images/uwD6edttD0Z8FarrHmUEAF40Sr3_big.jpg" group-title="LANCAMENTOS",A Primeira Dama do Estado Islamico - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213487.mp4
+#EXTINF:-1 tvg-name="A Primeira Onda - 2022" tvg-logo="http://5ce.co:80/images/xLUeiYTLwLiwY0wreEeoU4qaU89_big.jpg" group-title="LANCAMENTOS",A Primeira Onda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200537.mp4
+#EXTINF:-1 tvg-name="A Prince in Paradise - 2023" tvg-logo="http://5ce.co:80/images/1TvadZkkskuOZHHoInE9wMXheh1_big.jpg" group-title="LANCAMENTOS",A Prince in Paradise - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219743.mp4
+#EXTINF:-1 tvg-name="A Princesa - 2022" tvg-logo="http://5ce.co:80/images/kp6SsW7uwDYRxkqUysIHJYTZ3hV_big.jpg" group-title="LANCAMENTOS",A Princesa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209372.mp4
+#EXTINF:-1 tvg-name="A Princesa da Yakuza - 2021" tvg-logo="http://5ce.co:80/images/o4TbqzNBAPKHpU3z93ysvRhSpeP_big.jpg" group-title="LANCAMENTOS",A Princesa da Yakuza - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204846.mp4
+#EXTINF:-1 tvg-name="A Profissional - 2022" tvg-logo="http://5ce.co:80/images/u0jGhri9AjtX3s9ldyyG6MGJfS0_big.jpg" group-title="LANCAMENTOS",A Profissional - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199358.mp4
+#EXTINF:-1 tvg-name="A Queda - 2022" tvg-logo="http://5ce.me:80/images/yNu4uqqCsLaEiEBEkkYIQmPvCTL_big.jpg" group-title="LANCAMENTOS",A Queda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214784.mp4
+#EXTINF:-1 tvg-name="A Queda - 2022" tvg-logo="http://5ce.me:80/images/ey5j9PzI1S0jsMPuN8H9ldrGzuX_big.jpg" group-title="LANCAMENTOS",A Queda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216189.mp4
+#EXTINF:-1 tvg-name="A Reciclagem do Rei Shakir - 2022" tvg-logo="http://5ce.co:80/images/p3qQ8s87QKsVAtMZBddcofFVhyV_big.jpg" group-title="LANCAMENTOS",A Reciclagem do Rei Shakir - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217196.mp4
+#EXTINF:-1 tvg-name="A Ressurreicao de Jesus - 2021" tvg-logo="http://5ce.co:80/images/f2ZkDH1ajAdgcMtsVXBeyS7twSf_big.jpg" group-title="LANCAMENTOS",A Ressurreicao de Jesus - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204290.mp4
+#EXTINF:-1 tvg-name="A Suspeita - 2022" tvg-logo="http://5ce.me:80/images/kCMljmR6qS0LdtUEyA8sdahCWmC_big.jpg" group-title="LANCAMENTOS",A Suspeita - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209928.mp4
+#EXTINF:-1 tvg-name="A Tática do Guepardo - 2022" tvg-logo="http://5ce.co:80/images/A0KDrF3rivzXPaaRCYjZe0Qh6Kt_big.jpg" group-title="LANCAMENTOS",A Tática do Guepardo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202772.mp4
+#EXTINF:-1 tvg-name="A Todo Vapor Destino Austurias - 2021" tvg-logo="http://5ce.co:80/images/zIrt7GJW1UF1fKF4OjXJyGFe1Cg_big.jpg" group-title="LANCAMENTOS",A Todo Vapor Destino Austurias - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207688.mp4
+#EXTINF:-1 tvg-name="A Última Chamada  - 2022" tvg-logo="http://5ce.co:80/images/mFflmLkMJNC9N74rZlIZbL5hWyv_big.jpg" group-title="LANCAMENTOS",A Última Chamada  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201301.mp4
+#EXTINF:-1 tvg-name="A Ultima Coisa que Mary Viu - 2021 " tvg-logo="http://5ce.me:80/images/gVFwfzPXfUcRI3mpb6rSX1LYtMj_big.jpg" group-title="LANCAMENTOS",A Ultima Coisa que Mary Viu - 2021 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214262.mp4
+#EXTINF:-1 tvg-name="A Última Exorcista - 2022" tvg-logo="http://5ce.co:80/images/ivWleLvEQkSJiJ2xw1IQjJWkldp_big.jpg" group-title="LANCAMENTOS",A Última Exorcista - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202585.mp4
+#EXTINF:-1 tvg-name="A Ultima Noite - 2021" tvg-logo="http://5ce.co:80/images/fMY66O0O74iPMWSvFA6vNge7Nzz_big.jpg" group-title="LANCAMENTOS",A Ultima Noite - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209607.mp4
+#EXTINF:-1 tvg-name="A Ultima Vítima - 2022" tvg-logo="http://5ce.me:80/images/hoJ4G6JVJL8OEB37mRr4t1jn8l0_big.jpg" group-title="LANCAMENTOS",A Ultima Vítima - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210777.mp4
+#EXTINF:-1 tvg-name="A Ursa Polar - 2022" tvg-logo="http://5ce.co:80/images/nCRUQcbBs6Ix6YaBeCgC9OwE0mt_big.jpg" group-title="LANCAMENTOS",A Ursa Polar - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204965.mp4
+#EXTINF:-1 tvg-name="A Verdadeira Historia Do Roubo Do Seculo - 2022" tvg-logo="http://5ce.me:80/images/xrYVZ5b0p0BKg6vZ3scU4iyOwC3_big.jpg" group-title="LANCAMENTOS",A Verdadeira Historia Do Roubo Do Seculo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210838.mp4
+#EXTINF:-1 tvg-name="A Viagem de Pedro - 2022" tvg-logo="http://5ce.me:80/images/rAeRtuhOYLCslGRkbfJlf1XaJ29_big.jpg" group-title="LANCAMENTOS",A Viagem de Pedro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214042.mp4
+#EXTINF:-1 tvg-name="A Vida de Togo - 2022" tvg-logo="http://5ce.me:80/images/9qkl34olpFVM9nAuYeveO6uKpaA_big.jpg" group-title="LANCAMENTOS",A Vida de Togo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213157.mp4
+#EXTINF:-1 tvg-name="A Vida Depois - 2022" tvg-logo="http://5ce.co:80/images/oFU6XQAQR6SidzNTnPLzNj9Xc4H_big.jpg" group-title="LANCAMENTOS",A Vida Depois - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199450.mp4
+#EXTINF:-1 tvg-name="A Vida é Agora - 2021" tvg-logo="http://5ce.co:80/images/hHd9Ug6FIHIn6y8myNdCOw69EZq_big.jpg" group-title="LANCAMENTOS",A Vida é Agora - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199070.mp4
+#EXTINF:-1 tvg-name="A Vida Eletrizante de Louis Wain - 2021" tvg-logo="http://5ce.co:80/images/lihTkVk0yoS6wZTLBYqsAkKbpsz_big.jpg" group-title="LANCAMENTOS",A Vida Eletrizante de Louis Wain - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201446.mp4
+#EXTINF:-1 tvg-name="A Vila dos Suicídios - 2021" tvg-logo="http://5ce.co:80/images/lm6yBPIraQtBvvvaUcWFB2yFXWz_big.jpg" group-title="LANCAMENTOS",A Vila dos Suicídios - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204567.mp4
+#EXTINF:-1 tvg-name="A Vila dos Uivos - 2022" tvg-logo="http://5ce.co:80/images/jUjtmhBXJx8xtvGD29aTmOXqlLq_big.jpg" group-title="LANCAMENTOS",A Vila dos Uivos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202773.mp4
+#EXTINF:-1 tvg-name="Abaixo o Rei - 2021" tvg-logo="http://5ce.me:80/images/j96pQXRWtfaP6EfGZw600f8Ofxm_big.jpg" group-title="LANCAMENTOS",Abaixo o Rei - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215891.mp4
+#EXTINF:-1 tvg-name="Abandonada - 2022" tvg-logo="http://5ce.me:80/images/rC3O8VIPhLhJOO68XsPruBoirDR_big.jpg" group-title="LANCAMENTOS",Abandonada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216534.mp4
+#EXTINF:-1 tvg-name="Abducao Alienigena Betty e Barney Hill - 2022" tvg-logo="http://5ce.me:80/images/3Jb7ezJAqvbvetGRBtx5JdfpXGh_big.jpg" group-title="LANCAMENTOS",Abducao Alienigena Betty e Barney Hill - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214043.mp4
+#EXTINF:-1 tvg-name="Abercrombie Fitch Ascensao e Queda - 2022" tvg-logo="http://5ce.co:80/images/zbA8GgIBRsVoAO1uEvS6k2rqVAV_big.jpg" group-title="LANCAMENTOS",Abercrombie Fitch Ascensao e Queda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204774.mp4
+#EXTINF:-1 tvg-name="Abracadabra 2 - 2022" tvg-logo="http://5ce.me:80/images/8G7EaPTocE0ok3YNxo972woo9EP_big.jpg" group-title="LANCAMENTOS",Abracadabra 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212723.mp4
+#EXTINF:-1 tvg-name="Acampamento em Familia - 2022" tvg-logo="http://5ce.co:80/images/qG9fOheV8chlcKjQdUgJaJXrzkf_big.jpg" group-title="LANCAMENTOS",Acampamento em Familia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218043.mp4
+#EXTINF:-1 tvg-name="Acampamento Intergalactico - 2022" tvg-logo="http://5ce.me:80/images/bm77tBJy28DA1DzP7qExKOPWsEL_big.jpg" group-title="LANCAMENTOS",Acampamento Intergalactico - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213831.mp4
+#EXTINF:-1 tvg-name="Accidentally in Love - 2022" tvg-logo="http://5ce.me:80/images/wv3tn1a00EgyoOjeBwqfZQps5nr_big.jpg" group-title="LANCAMENTOS",Accidentally in Love - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216160.mp4
+#EXTINF:-1 tvg-name="Acertando as Contas com o Diabo - 2020" tvg-logo="http://5ce.me:80/images/3VaJuPGaqxJ0Un8pbw5jL7uvWfS_big.jpg" group-title="LANCAMENTOS",Acertando as Contas com o Diabo - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215263.mp4
+#EXTINF:-1 tvg-name="Adao Negro - 2022" tvg-logo="http://5ce.me:80/images/9z256FFPDsL7kSVJ9oyLELaN1ph_big.jpg" group-title="LANCAMENTOS",Adao Negro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214990.mp4
+#EXTINF:-1 tvg-name="Adeus Borboleta - 2021" tvg-logo="http://5ce.co:80/images/e0OJcPxS4vX3oUlWscl1zWq6lrS_big.jpg" group-title="LANCAMENTOS",Adeus Borboleta - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205595.mp4
+#EXTINF:-1 tvg-name="Adrenalina Maxima - 2021" tvg-logo="http://5ce.me:80/images/nPxslVHIse0DNIbUHpHbFAnJ9Gd_big.jpg" group-title="LANCAMENTOS",Adrenalina Maxima - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211703.mp4
+#EXTINF:-1 tvg-name="After Depois da Promessa - 2022" tvg-logo="http://5ce.me:80/images/u4sjznbscJtlGsCeBfLTeeOjAUX_big.jpg" group-title="LANCAMENTOS",After Depois da Promessa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212704.mp4
+#EXTINF:-1 tvg-name="Afunde o Navio - 2019" tvg-logo="http://5ce.co:80/images/jWym6hb3avqbIGbAgd2UfT52BUf_big.jpg" group-title="LANCAMENTOS",Afunde o Navio - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207685.mp4
+#EXTINF:-1 tvg-name="Agente das Sombras - 2022" tvg-logo="http://5ce.me:80/images/3w12S7LKkabx7pddQzsR3PY30m_big.jpg" group-title="LANCAMENTOS",Agente das Sombras - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212115.mp4
+#EXTINF:-1 tvg-name="Agente Oculto - 2022" tvg-logo="http://5ce.co:80/images/1f10KUKW7KyNt8bF8NHmwbBQ9fs_big.jpg" group-title="LANCAMENTOS",Agente Oculto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209811.mp4
+#EXTINF:-1 tvg-name="Agente Z: Mistério no Zoo - 2022" tvg-logo="http://5ce.co:80/images/rIjM81EYU6kPVIkkBMqv1RbdwV6_big.jpg" group-title="LANCAMENTOS",Agente Z: Mistério no Zoo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202903.mp4
+#EXTINF:-1 tvg-name="Águas Profundas - 2022" tvg-logo="http://5ce.co:80/images/oGhSy2ao59xJDbCXyABofNhsV3o_big.jpg" group-title="LANCAMENTOS",Águas Profundas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202700.mp4
+#EXTINF:-1 tvg-name="Aileen Wuornos - Mente Assasina - 2021" tvg-logo="http://5ce.co:80/images/7JqtbHj6TecZzC6JEbgTLFrYCto_big.jpg" group-title="LANCAMENTOS",Aileen Wuornos - Mente Assasina - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205418.mp4
+#EXTINF:-1 tvg-name="Ainda Estou Aqui - 2022" tvg-logo="http://5ce.co:80/images/7RcyjraM1cB1Uxy2W9ZWrab4KCw_big.jpg" group-title="LANCAMENTOS",Ainda Estou Aqui - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204289.mp4
+#EXTINF:-1 tvg-name="Alem da Lenda - 2022" tvg-logo="http://5ce.me:80/images/6h0ggbJH5Q4VVoTS13AEriuxUgX_big.jpg" group-title="LANCAMENTOS",Alem da Lenda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212038.mp4
+#EXTINF:-1 tvg-name="Alemao 2  - 2022" tvg-logo="http://5ce.co:80/images/hlVjsMZ5nAlIMUDZztTmxOT73Sw_big.jpg" group-title="LANCAMENTOS",Alemao 2  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208756.mp4
+#EXTINF:-1 tvg-name="Alerta de Emergencia - 2022" tvg-logo="http://5ce.co:80/images/E6ShgX7LL02hDqoKpK79M5HBzv_big.jpg" group-title="LANCAMENTOS",Alerta de Emergencia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218051.mp4
+#EXTINF:-1 tvg-name="Alerta Maximo - 2023" tvg-logo="http://5ce.co:80/images/zr50kb04fTFcGfZTKFzbKTmQSiZ_big.jpg" group-title="LANCAMENTOS",Alerta Maximo - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218679.mp4
+#EXTINF:-1 tvg-name="Alerta Temporada de Tubaroes - 2022" tvg-logo="http://5ce.co:80/images/pODSiR9nguBXoB6iW0Qjz1LiuD0_big.jpg" group-title="LANCAMENTOS",Alerta Temporada de Tubaroes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218042.mp4
+#EXTINF:-1 tvg-name="Algo Azul - 2021" tvg-logo="http://5ce.me:80/images/zRUsslzgohSMwjJFBMZasUC0jlb_big.jpg" group-title="LANCAMENTOS",Algo Azul - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212133.mp4
+#EXTINF:-1 tvg-name="Algo para acreditar - 2020" tvg-logo="http://5ce.co:80/images/bmLmEBlSDluFzEWwdEoqCFAThdS_big.jpg" group-title="LANCAMENTOS",Algo para acreditar - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207184.mp4
+#EXTINF:-1 tvg-name="Alguem Que Eu Costumava Conhecer - 2023" tvg-logo="http://5ce.co:80/images/m7LufNqf6zrz9u112fNcn19Zr8W_big.jpg" group-title="LANCAMENTOS",Alguem Que Eu Costumava Conhecer - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217784.mp4
+#EXTINF:-1 tvg-name="Algum Lugar Especial - 2021" tvg-logo="http://5ce.co:80/images/bTMPKAcxw7LDWeXFlRaFViyTK45_big.jpg" group-title="LANCAMENTOS",Algum Lugar Especial - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189795.mp4
+#EXTINF:-1 tvg-name="Alice - 2022" tvg-logo="http://5ce.me:80/images/7akDcAHfp7Lkmuq2ygzNzOhWq8M_big.jpg" group-title="LANCAMENTOS",Alice - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214354.mp4
+#EXTINF:-1 tvg-name="Alice no Mundo da Internet - 2022" tvg-logo="http://5ce.me:80/images/5TFbrqLvB6eCXSbe208SUVzAyBd_big.jpg" group-title="LANCAMENTOS",Alice no Mundo da Internet - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210914.mp4
+#EXTINF:-1 tvg-name="Alieniginas Contatos Imediatos - 2021" tvg-logo="https://i.bj-share.info/40ae7d921542766d7b8eed7f7ed04746.jpg" group-title="LANCAMENTOS",Alieniginas Contatos Imediatos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210537.mp4
+#EXTINF:-1 tvg-name="Amado - 2022" tvg-logo="http://5ce.me:80/images/niRzmV9YdeJvNTQxeEXfSFPm1Sr_big.jpg" group-title="LANCAMENTOS",Amado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212085.mp4
+#EXTINF:-1 tvg-name="Amarração do Amor - 2021" tvg-logo="http://5ce.co:80/images/5yTpx1nE5PM8DhVxWVIq4ikKZc2_big.jpg" group-title="LANCAMENTOS",Amarração do Amor - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196565.mp4
+#EXTINF:-1 tvg-name="Ambulancia Um Dia de Crime - 2022" tvg-logo="http://5ce.co:80/images/k62v5oVhQ0e1sJWJ9nFpiTfcNoD_big.jpg" group-title="LANCAMENTOS",Ambulancia Um Dia de Crime - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209595.mp4
+#EXTINF:-1 tvg-name="Ameaca A Bordo - 2022" tvg-logo="http://5ce.me:80/images/1RmugOkBFU5eXu1dbr1zdxChLfQ_big.jpg" group-title="LANCAMENTOS",Ameaca A Bordo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213318.mp4
+#EXTINF:-1 tvg-name="American Underdog - 2022" tvg-logo="http://5ce.co:80/images/u3iXpvLPG4DbmuNY9yPjn1Ei54_big.jpg" group-title="LANCAMENTOS",American Underdog - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203647.mp4
+#EXTINF:-1 tvg-name="Amina - 2021" tvg-logo="http://5ce.co:80/images/gII53HAH7UA1yx189vROMzWA5ib_big.jpg" group-title="LANCAMENTOS",Amina - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189582.mp4
+#EXTINF:-1 tvg-name="Amor  Outra Vez  - 2023" tvg-logo="http://5ce.co:80/images/dxor2vaqkXLA6Z2VoJnqZWUTCKe_big.jpg" group-title="LANCAMENTOS",Amor  Outra Vez  - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217862.mp4
+#EXTINF:-1 tvg-name="Amor Alem Do Tempo - 2022" tvg-logo="http://5ce.me:80/images/qb2esYfCjkz2RhXDQCPz1evsQfY_big.jpg" group-title="LANCAMENTOS",Amor Alem Do Tempo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216925.mp4
+#EXTINF:-1 tvg-name="Amor ao Primeiro Beijo - 2023" tvg-logo="http://5ce.co:80/images/gkTzYs4pTnX6Mtx2SN0fa6vja7I_big.jpg" group-title="LANCAMENTOS",Amor ao Primeiro Beijo - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219631.mp4
+#EXTINF:-1 tvg-name="Amor Artificial - 2022" tvg-logo="http://5ce.co:80/images/soTOyI7d5vAWSNKv4XonEo0rn5p_big.jpg" group-title="LANCAMENTOS",Amor Artificial - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201053.mp4
+#EXTINF:-1 tvg-name="Amor Com Fetiche - 2022" tvg-logo="http://5ce.co:80/images/eQaZZ0CFfCmBv5H5Mk11agRZzl2_big.jpg" group-title="LANCAMENTOS",Amor Com Fetiche - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200862.mp4
+#EXTINF:-1 tvg-name="Amor Conectado - 2019" tvg-logo="http://5ce.co:80/images/kVGDmH9oNXtQgXfrqPj0mljXRVU_big.jpg" group-title="LANCAMENTOS",Amor Conectado - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206907.mp4
+#EXTINF:-1 tvg-name="Amor de Redencao - 2022" tvg-logo="http://5ce.me:80/images/o5qpPwlaAbOH2teRowl9ThzEF2r_big.jpg" group-title="LANCAMENTOS",Amor de Redencao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212039.mp4
+#EXTINF:-1 tvg-name="Amor Doentio - 2021" tvg-logo="http://5ce.me:80/images/b2v6R4V4vk3dGApTt42sdR2JjoB_big.jpg" group-title="LANCAMENTOS",Amor Doentio - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212903.mp4
+#EXTINF:-1 tvg-name="Amor e Food Trucks - 2021" tvg-logo="http://5ce.co:80/images/dOVhnDcLG2qUt5t63ye8DMz4EN2_big.jpg" group-title="LANCAMENTOS",Amor e Food Trucks - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200538.mp4
+#EXTINF:-1 tvg-name="Amor e gelato - 2022" tvg-logo="http://5ce.co:80/images/2qXCNa3w1rOZ4w7VXivVxXK4s0l_big.jpg" group-title="LANCAMENTOS",Amor e gelato - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208819.mp4
+#EXTINF:-1 tvg-name="Amor em Verona - 2022" tvg-logo="http://5ce.me:80/images/nQRJIFaCRkZgdwCWCBYchvSx6N6_big.jpg" group-title="LANCAMENTOS",Amor em Verona - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211623.mp4
+#EXTINF:-1 tvg-name="Amores Rebeldes - 2020" tvg-logo="http://5ce.co:80/images/p4Y3IV1lJLMlkS6YhzHBgm4UpMF_big.jpg" group-title="LANCAMENTOS",Amores Rebeldes - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208260.mp4
+#EXTINF:-1 tvg-name="Amsterdam - 2022 " tvg-logo="http://5ce.me:80/images/6sJcVzGCwrDCBMV0DU6eRzA2UxM_big.jpg" group-title="LANCAMENTOS",Amsterdam - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215734.mp4
+#EXTINF:-1 tvg-name="Anikalupo - 2022" tvg-logo="http://5ce.me:80/images/xb30hkUpBm23stnVgDJGYGsC0R0_big.jpg" group-title="LANCAMENTOS",Anikalupo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212841.mp4
+#EXTINF:-1 tvg-name="Animais Fantasticos Os Segredos de Dumbledore - 2022" tvg-logo="http://5ce.co:80/images/gopGghuMtmdMviBcl9G0JfVB2RZ_big.jpg" group-title="LANCAMENTOS",Animais Fantasticos Os Segredos de Dumbledore - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207691.mp4
+#EXTINF:-1 tvg-name="Animais Fantasticos Uma Historia Natural - 2022" tvg-logo="http://5ce.co:80/images/icqVeNNQPZ6vzQFirqcAHGchHCB_big.jpg" group-title="LANCAMENTOS",Animais Fantasticos Uma Historia Natural - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203936.mp4
+#EXTINF:-1 tvg-name="Anjo Da Minha Vida - 2021" tvg-logo="http://5ce.me:80/images/i9FINZQYODQRKKHagLdzsLdS7go_big.jpg" group-title="LANCAMENTOS",Anjo Da Minha Vida - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210994.mp4
+#EXTINF:-1 tvg-name="Anjos das Trevas - 2020" tvg-logo="http://5ce.me:80/images/49my4P9or2BZpbOT3ATSqCRomDy_big.jpg" group-title="LANCAMENTOS",Anjos das Trevas - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211768.mp4
+#EXTINF:-1 tvg-name="Anne Frank, Minha Melhor Amiga - 2022" tvg-logo="http://5ce.co:80/images/jOP7gXmJKmhcuadqU35UeP3oYYy_big.jpg" group-title="LANCAMENTOS",Anne Frank, Minha Melhor Amiga - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199897.mp4
+#EXTINF:-1 tvg-name="ANNE+: O Filme - 2022" tvg-logo="http://5ce.co:80/images/ch6G66SUe80YWEvTFe6mAKAwmdt_big.jpg" group-title="LANCAMENTOS",ANNE+: O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200863.mp4
+#EXTINF:-1 tvg-name="Antigona 442 A C - 2021" tvg-logo="http://5ce.me:80/images/ubcUwI6AyIFgzRF1FEgDfFuJwtO_big.jpg" group-title="LANCAMENTOS",Antigona 442 A C - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211041.mp4
+#EXTINF:-1 tvg-name="Antraz EUA Sob Ataque - 2022" tvg-logo="http://5ce.me:80/images/p4y4gYJktuu6Y40nzljVPbqFkEG_big.jpg" group-title="LANCAMENTOS",Antraz EUA Sob Ataque - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212722.mp4
+#EXTINF:-1 tvg-name="Ao 3  Dia - 2021" tvg-logo="http://5ce.me:80/images/uLmr2q3ZcQ8pqSUxUkekcRbpuAz_big.jpg" group-title="LANCAMENTOS",Ao 3  Dia - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214736.mp4
+#EXTINF:-1 tvg-name="Ao Lado de Cristo - 2021" tvg-logo="http://5ce.co:80/images/qgslCpWaZieFb463otrZIHXBiFx_big.jpg" group-title="LANCAMENTOS",Ao Lado de Cristo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190019.mp4
+#EXTINF:-1 tvg-name="Ao Leste das Montanhas - 2021" tvg-logo="http://5ce.me:80/images/Oj2hUfkpiq4qLeQE6k4V2Xv4Is_big.jpg" group-title="LANCAMENTOS",Ao Leste das Montanhas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214742.mp4
+#EXTINF:-1 tvg-name="Apex - 2021" tvg-logo="http://5ce.co:80/images/cobRV6hAj8h7dRU4WZ3dkGaRQv2_big.jpg" group-title="LANCAMENTOS",Apex - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189583.mp4
+#EXTINF:-1 tvg-name="Apollo 10 e Meio  Aventura na Era Espacial - 2022" tvg-logo="http://5ce.co:80/images/fBShWJhX4oMlDicPHocQc7wDPlt_big.jpg" group-title="LANCAMENTOS",Apollo 10 e Meio  Aventura na Era Espacial - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203648.mp4
+#EXTINF:-1 tvg-name="Apresentando Nate - 2022" tvg-logo="http://5ce.co:80/images/55gkFbie2Nbudo21rDpi6zG0XvC_big.jpg" group-title="LANCAMENTOS",Apresentando Nate - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203649.mp4
+#EXTINF:-1 tvg-name="Aranhas de Papel - 2021" tvg-logo="http://5ce.co:80/images/31dpLgUEsF4F4UgH7D3iAqYxteU_big.jpg" group-title="LANCAMENTOS",Aranhas de Papel - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203386.mp4
+#EXTINF:-1 tvg-name="Ardente Paciencia - 2022" tvg-logo="http://5ce.me:80/images/plSUrCv17GRqFph7qSKfhT0jwcH_big.jpg" group-title="LANCAMENTOS",Ardente Paciencia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215740.mp4
+#EXTINF:-1 tvg-name="Armadilha Explosiva - 2021" tvg-logo="http://5ce.me:80/images/uPzZu5hmNoS3X00ewINA9zQlfGp_big.jpg" group-title="LANCAMENTOS",Armadilha Explosiva - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211501.mp4
+#EXTINF:-1 tvg-name="Arquivos de um Serial Killer - 2021" tvg-logo="http://5ce.co:80/images/uxjB90IkoBNMKNao08228gdcrVa_big.jpg" group-title="LANCAMENTOS",Arquivos de um Serial Killer - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200763.mp4
+#EXTINF:-1 tvg-name="Arremessando Alto - 2022" tvg-logo="http://5ce.co:80/images/25aPHMlZNP5F3fgxUo4XB7xUVz7_big.jpg" group-title="LANCAMENTOS",Arremessando Alto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208479.mp4
+#EXTINF:-1 tvg-name="Arthur e Merlin Os Cavaleiros de Camelot - 2020" tvg-logo="http://5ce.co:80/images/9ERu4fmY6N0J7NaTGPU0boJcy3X_big.jpg" group-title="LANCAMENTOS",Arthur e Merlin Os Cavaleiros de Camelot - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208478.mp4
+#EXTINF:-1 tvg-name="Arvores da Paz  - 2022" tvg-logo="http://5ce.co:80/images/afMQQrv7np2IycgkpymhOjqCsrs_big.jpg" group-title="LANCAMENTOS",Arvores da Paz  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208329.mp4
+#EXTINF:-1 tvg-name="As Agentes 355 - 2022" tvg-logo="http://5ce.co:80/images/sz6z3k9UGeVmkC6YkdY0iTj9Ipk_big.jpg" group-title="LANCAMENTOS",As Agentes 355 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202774.mp4
+#EXTINF:-1 tvg-name="As Almas Perdidas do Voo 401 - 2022" tvg-logo="http://5ce.co:80/images/3eZmNQpFNf7KSoMVLi13di00ZQv_big.jpg" group-title="LANCAMENTOS",As Almas Perdidas do Voo 401 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218041.mp4
+#EXTINF:-1 tvg-name="As Almas Que Dancam no Escuro - 2021" tvg-logo="http://5ce.me:80/images/e4lIqS2Nr0L47ZhvOrefy5sICZR_big.jpg" group-title="LANCAMENTOS",As Almas Que Dancam no Escuro - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216725.mp4
+#EXTINF:-1 tvg-name="As Apimentadas Torca ou Morra - 2022" tvg-logo="http://5ce.me:80/images/v3EJ27MY8WMm4RU06oX9zh2P9lF_big.jpg" group-title="LANCAMENTOS",As Apimentadas Torca ou Morra - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216533.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Gulliver - 2021" tvg-logo="http://5ce.co:80/images/hEOsByOxmcY5VexXTwqLs9fygYA_big.jpg" group-title="LANCAMENTOS",As Aventuras de Gulliver - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208301.mp4
+#EXTINF:-1 tvg-name="As aventuras de stinky dog - 2022" tvg-logo="http://5ce.co:80/images/347HcwDT8Z0fT3inCfwmoWjI7Ah_big.jpg" group-title="LANCAMENTOS",As aventuras de stinky dog - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204167.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo e a Tabua de Esmeralda - 2022" tvg-logo="http://5ce.me:80/images/oE3fLvRnjp7qUGzoUN9koXWk7Ha_big.jpg" group-title="LANCAMENTOS",As Aventuras de Tadeo e a Tabua de Esmeralda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215316.mp4
+#EXTINF:-1 tvg-name="As Confissoes De Felix Krull Cavalheiro de Industria - 2021" tvg-logo="http://5ce.me:80/images/inIWJnx0vuJCiXBt4DxnbgSBwQ_big.jpg" group-title="LANCAMENTOS",As Confissoes De Felix Krull Cavalheiro de Industria - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212585.mp4
+#EXTINF:-1 tvg-name="As Duas Mortes de Henry Baker - 2020" tvg-logo="http://5ce.co:80/images/8rFxEx60Ns0pBZtDnrNSOhkpHxz_big.jpg" group-title="LANCAMENTOS",As Duas Mortes de Henry Baker - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206785.mp4
+#EXTINF:-1 tvg-name="As Faces da Verdade - 2022" tvg-logo="http://5ce.me:80/images/bPrySz5s1lqmw6DAnNWUMr5142Q_big.jpg" group-title="LANCAMENTOS",As Faces da Verdade - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216726.mp4
+#EXTINF:-1 tvg-name="As Férias Assustadoras de Nelly Rapp - 2022" tvg-logo="http://5ce.co:80/images/gH1b9vtGinOOt3mOoUTPhkEsrgJ_big.jpg" group-title="LANCAMENTOS",As Férias Assustadoras de Nelly Rapp - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201302.mp4
+#EXTINF:-1 tvg-name="As Fotos Vazadas - 2022" tvg-logo="http://5ce.co:80/images/yuBXTItPyXQC9FIKwiT2ZV4476a_big.jpg" group-title="LANCAMENTOS",As Fotos Vazadas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198074.mp4
+#EXTINF:-1 tvg-name="As Garotas De Cristal - 2022" tvg-logo="http://5ce.co:80/images/ppF495JNP6poCCEAm4xM1nJEZzD_big.jpg" group-title="LANCAMENTOS",As Garotas De Cristal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204288.mp4
+#EXTINF:-1 tvg-name="As Linhas Tortas de Deus - 2022" tvg-logo="http://5ce.me:80/images/i7xCXKYkuFxx6UglVbSFaBmrwcO_big.jpg" group-title="LANCAMENTOS",As Linhas Tortas de Deus - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215988.mp4
+#EXTINF:-1 tvg-name="As Nadadoras - 2022" tvg-logo="http://5ce.me:80/images/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V_big.jpg" group-title="LANCAMENTOS",As Nadadoras - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215105.mp4
+#EXTINF:-1 tvg-name="As Trambiqueiras - 2021" tvg-logo="http://5ce.co:80/images/ldo9MFJ2bmA5qKd4sbjUUzJUUa8_big.jpg" group-title="LANCAMENTOS",As Trambiqueiras - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201020.mp4
+#EXTINF:-1 tvg-name="As Verdades  - 2022" tvg-logo="http://5ce.me:80/images/l5N0BjQGUDTXIQixVBPnNZG618k_big.jpg" group-title="LANCAMENTOS",As Verdades  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211048.mp4
+#EXTINF:-1 tvg-name="Asking For It - 2022" tvg-logo="http://5ce.me:80/images/ro3yvVbzT2zI2KrHWBA81a2x5iR_big.jpg" group-title="LANCAMENTOS",Asking For It - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210623.mp4
+#EXTINF:-1 tvg-name="Assalto na Paulista - 2022" tvg-logo="http://5ce.me:80/images/g4j5D2lCue9gIDvYg89VdSBXq1y_big.jpg" group-title="LANCAMENTOS",Assalto na Paulista - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213499.mp4
+#EXTINF:-1 tvg-name="Assassinato nas Profundezas - 2022" tvg-logo="http://5ce.me:80/images/umkCGD5gEcWgEYLcN2V7eWSiOh2_big.jpg" group-title="LANCAMENTOS",Assassinato nas Profundezas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212843.mp4
+#EXTINF:-1 tvg-name="Assassino Sem Rastro - 2022" tvg-logo="http://5ce.co:80/images/emj0dVlz5zSnvOfMZJA2zrWyW6Z_big.jpg" group-title="LANCAMENTOS",Assassino Sem Rastro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209083.mp4
+#EXTINF:-1 tvg-name="Assassins - 2021" tvg-logo="http://5ce.co:80/images/guEH393qNWWh2wBJoGP7oqmjTK5_big.jpg" group-title="LANCAMENTOS",Assassins - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189584.mp4
+#EXTINF:-1 tvg-name="At Midnight - 2023" tvg-logo="http://5ce.co:80/images/k6E1f3XvTq0sa02nUykPCwFKsBx_big.jpg" group-title="LANCAMENTOS",At Midnight - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217783.mp4
+#EXTINF:-1 tvg-name="Ate a Morte Sobreviver e a Melhor Vinganca - 2021" tvg-logo="http://5ce.me:80/images/blWUQPSyv4vWJ8S8MS9lU9BD9Mf_big.jpg" group-title="LANCAMENTOS",Ate a Morte Sobreviver e a Melhor Vinganca - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210837.mp4
+#EXTINF:-1 tvg-name="Até a Próxima Vez - 2022" tvg-logo="http://5ce.co:80/images/3OEVTXt455NkA4X9slqeEn5Yz0n_big.jpg" group-title="LANCAMENTOS",Até a Próxima Vez - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202701.mp4
+#EXTINF:-1 tvg-name="Ate o Limite - 2022 " tvg-logo="http://5ce.me:80/images/iBynixF4Yhelp6Pe6alO6GgBzWT_big.jpg" group-title="LANCAMENTOS",Ate o Limite - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215862.mp4
+#EXTINF:-1 tvg-name="Ate os Ossos - 2022" tvg-logo="http://5ce.co:80/images/w0dCPc9J2R6wnoO9Joxz6ot703g_big.jpg" group-title="LANCAMENTOS",Ate os Ossos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218040.mp4
+#EXTINF:-1 tvg-name="Ate os Ratos Merecem o Ceu  - 2021" tvg-logo="http://5ce.me:80/images/mHGQgwbunagp0GwvyMJ2QDmkV6d_big.jpg" group-title="LANCAMENTOS",Ate os Ratos Merecem o Ceu  - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209929.mp4
+#EXTINF:-1 tvg-name="Athena - 2022" tvg-logo="http://5ce.me:80/images/schIjwWTbRZtXpWTQWVzHqKH8j1_big.jpg" group-title="LANCAMENTOS",Athena - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212575.mp4
+#EXTINF:-1 tvg-name="Atividade Paranormal: Ente Próximo - 2021" tvg-logo="http://5ce.co:80/images/iFj811q3NMMlvvuuyILegttemJQ_big.jpg" group-title="LANCAMENTOS",Atividade Paranormal: Ente Próximo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198576.mp4
+#EXTINF:-1 tvg-name="Através da Minha Janela - 2022" tvg-logo="http://5ce.co:80/images/lQHfOaggM8xjvgGvZHpFPYXduRE_big.jpg" group-title="LANCAMENTOS",Através da Minha Janela - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200331.mp4
+#EXTINF:-1 tvg-name="Bad Hair - 2021" tvg-logo="http://5ce.co:80/images/979LvAwRGCkVFgJ04uyPcsPaPF2_big.jpg" group-title="LANCAMENTOS",Bad Hair - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209371.mp4
+#EXTINF:-1 tvg-name="Bala Perdida 2 - 2022" tvg-logo="http://5ce.me:80/images/mqSZ36rvitkDJdXIFIBmsbG2d1D_big.jpg" group-title="LANCAMENTOS",Bala Perdida 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214718.mp4
+#EXTINF:-1 tvg-name="Bar Doce Lar - 2021" tvg-logo="http://5ce.co:80/images/m6Ej3F4tYTOHD26fvX1zN9bcEUg_big.jpg" group-title="LANCAMENTOS",Bar Doce Lar - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197312.mp4
+#EXTINF:-1 tvg-name="Barba Cabelo e Bigode - 2022" tvg-logo="http://5ce.me:80/images/jvLZHjiJRj2uefPoBlBaF0ohxsL_big.jpg" group-title="LANCAMENTOS",Barba Cabelo e Bigode - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209930.mp4
+#EXTINF:-1 tvg-name="Bastardoz - 2022" tvg-logo="http://5ce.co:80/images/ac9cLKaSWBRtdOEFzOZkm2YnhUh_big.jpg" group-title="LANCAMENTOS",Bastardoz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209522.mp4
+#EXTINF:-1 tvg-name="Batalhas  Freestyle - 2022" tvg-logo="http://5ce.co:80/images/6D6QumiHEhnpZG12Ibjy2BxA6n4_big.jpg" group-title="LANCAMENTOS",Batalhas  Freestyle - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203650.mp4
+#EXTINF:-1 tvg-name="Beauty - 2022" tvg-logo="http://5ce.co:80/images/yjAXHyMz0JZzYiQP7q1fT5kXLif_big.jpg" group-title="LANCAMENTOS",Beauty - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209370.mp4
+#EXTINF:-1 tvg-name="Beavis e Butt Head Detonam o Universo - 2022" tvg-logo="http://5ce.co:80/images/rVKMA2j8m8hWgsDyXOllXp8DsWI_big.jpg" group-title="LANCAMENTOS",Beavis e Butt Head Detonam o Universo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209577.mp4
+#EXTINF:-1 tvg-name="Beleza - 2022" tvg-logo="http://5ce.me:80/images/iA5GZWM1NmXtESsXxtXxoK8Pjtx_big.jpg" group-title="LANCAMENTOS",Beleza - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214355.mp4
+#EXTINF:-1 tvg-name="Belle - 2021" tvg-logo="http://5ce.co:80/images/e143CxHsD7oVxqrxk29I5SJrjrl_big.jpg" group-title="LANCAMENTOS",Belle - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206457.mp4
+#EXTINF:-1 tvg-name="Bem Vinda a Quixeramobim - 2022" tvg-logo="http://5ce.me:80/images/hglBT5SuIAKv4QhnUJNJeDUMsG6_big.jpg" group-title="LANCAMENTOS",Bem Vinda a Quixeramobim - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215845.mp4
+#EXTINF:-1 tvg-name="Bem Vindo ao Mundo dos Ogglies - 2021" tvg-logo="http://5ce.me:80/images/lQpEQKVtBqIQrYFccdoxGxQkDvJ_big.jpg" group-title="LANCAMENTOS",Bem Vindo ao Mundo dos Ogglies - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216342.mp4
+#EXTINF:-1 tvg-name="Bender  O Inicio - 2021" tvg-logo="http://5ce.me:80/images/AicHPcBaZhv8R3m8olG9EM4Hlox_big.jpg" group-title="LANCAMENTOS",Bender  O Inicio - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213319.mp4
+#EXTINF:-1 tvg-name="Benedetta - 2021" tvg-logo="http://5ce.co:80/images/bQnP9YzjxbJ4kGYYChip4lUIS5U_big.jpg" group-title="LANCAMENTOS",Benedetta - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206454.mp4
+#EXTINF:-1 tvg-name="Beyond Infinity  Buzz and the Journey to Lightyear - 2022" tvg-logo="http://5ce.co:80/images/kvlULW0N25e7jVeGyYMTWrGWNzq_big.jpg" group-title="LANCAMENTOS",Beyond Infinity  Buzz and the Journey to Lightyear - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209529.mp4
+#EXTINF:-1 tvg-name="Big Gold Brick - 2022" tvg-logo="http://5ce.me:80/images/pioc0HaWG2Cf3zoDEGjTgJOSBvv_big.jpg" group-title="LANCAMENTOS",Big Gold Brick - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215104.mp4
+#EXTINF:-1 tvg-name="Bigbug - 2022" tvg-logo="http://5ce.co:80/images/eh6OYVImLCHKMjtBQZRH4hauaND_big.jpg" group-title="LANCAMENTOS",Bigbug - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200864.mp4
+#EXTINF:-1 tvg-name="Bilhete de Fuga - 2022" tvg-logo="http://5ce.me:80/images/ihss7lYlG9xON9RnOIy2pwLbdLX_big.jpg" group-title="LANCAMENTOS",Bilhete de Fuga - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214912.mp4
+#EXTINF:-1 tvg-name="Bios  Vidas que marcaram a sua  Titas - 2022" tvg-logo="http://5ce.me:80/images/2OnlaH8l2jvy1qtplP4wJfGYxWg_big.jpg" group-title="LANCAMENTOS",Bios  Vidas que marcaram a sua  Titas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210294.mp4
+#EXTINF:-1 tvg-name="Bisping - 2022" tvg-logo="http://5ce.me:80/images/tybqRPpxnaoQiCxFmy3Yz3GoOub_big.jpg" group-title="LANCAMENTOS",Bisping - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216727.mp4
+#EXTINF:-1 tvg-name="Black Friday - 2021" tvg-logo="http://5ce.me:80/images/vf9Ex4EwSPlwbva4ZJdljsQQOML_big.jpg" group-title="LANCAMENTOS",Black Friday - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215261.mp4
+#EXTINF:-1 tvg-name="Blackout - 2022" tvg-logo="http://5ce.me:80/images/xDgnmbdWS59NtTPdzujdZGuPUPZ_big.jpg" group-title="LANCAMENTOS",Blackout - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213320.mp4
+#EXTINF:-1 tvg-name="Boa Noite Mamae - 2022" tvg-logo="http://5ce.me:80/images/lwq6ct0AeroUxlXwr49QJiMzf4k_big.jpg" group-title="LANCAMENTOS",Boa Noite Mamae - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212205.mp4
+#EXTINF:-1 tvg-name="Boa Viagem - 2022" tvg-logo="http://5ce.co:80/images/7w94FteEPPW5QiaYDMDy74NJ9vz_big.jpg" group-title="LANCAMENTOS",Boa Viagem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207421.mp4
+#EXTINF:-1 tvg-name="Bob Cuspe: Nós Não Gostamos de Gente - 2021" tvg-logo="http://5ce.co:80/images/tpeg7nTGz7dB71vwZGYTeSfahXm_big.jpg" group-title="LANCAMENTOS",Bob Cuspe: Nós Não Gostamos de Gente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196554.mp4
+#EXTINF:-1 tvg-name="Bobs Burgers O Filme - 2022" tvg-logo="http://5ce.co:80/images/h4NtdQn1Gm6wNLZDcCuasVPv3Oh_big.jpg" group-title="LANCAMENTOS",Bobs Burgers O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209540.mp4
+#EXTINF:-1 tvg-name="Boogey  Um Monstro Adoravel - 2022" tvg-logo="http://5ce.me:80/images/mghRagZrG8ZGVmmc72o09k98COR_big.jpg" group-title="LANCAMENTOS",Boogey  Um Monstro Adoravel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216227.mp4
+#EXTINF:-1 tvg-name="Borrego Saia Do Caminho - 2022" tvg-logo="http://5ce.co:80/images/iNSa1kwVsOsfAHwopMLM7PnrDhU_big.jpg" group-title="LANCAMENTOS",Borrego Saia Do Caminho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209580.mp4
+#EXTINF:-1 tvg-name="Braço de Ouro - 2021" tvg-logo="http://5ce.co:80/images/w4vwJK62cWhVFq6SZKHIcdHrh5T_big.jpg" group-title="LANCAMENTOS",Braço de Ouro - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188103.mp4
+#EXTINF:-1 tvg-name="Brasil Azul - 2022" tvg-logo="http://5ce.co:80/images/jhqCxdztL9fDhETUJdWuBG4d2VL_big.jpg" group-title="LANCAMENTOS",Brasil Azul - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202276.mp4
+#EXTINF:-1 tvg-name="Brazil 2002 Os Bastidores Do Penta - 2022" tvg-logo="http://5ce.me:80/images/uvrRBAkKyVHfWOvqAvgmDasgAGU_big.jpg" group-title="LANCAMENTOS",Brazil 2002 Os Bastidores Do Penta - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212904.mp4
+#EXTINF:-1 tvg-name="Brian e Charles - 2022" tvg-logo="http://5ce.me:80/images/pzP3N9qRo3S91QjfBFWNI0ph0AY_big.jpg" group-title="LANCAMENTOS",Brian e Charles - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215455.mp4
+#EXTINF:-1 tvg-name="Brigada Heroica - 2021" tvg-logo="http://5ce.me:80/images/gTjZErHBML0uYYgj7YsL7YiUKMV_big.jpg" group-title="LANCAMENTOS",Brigada Heroica - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214122.mp4
+#EXTINF:-1 tvg-name="Brilho para a Eternidade - 2022" tvg-logo="http://5ce.co:80/images/wvjlNWpwtAwVksnMirtNKohf1kh_big.jpg" group-title="LANCAMENTOS",Brilho para a Eternidade - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204053.mp4
+#EXTINF:-1 tvg-name="Brincando com o Natal - 2021" tvg-logo="http://5ce.me:80/images/1S7JONfCpdBGg3IWq4wl9vqmfwm_big.jpg" group-title="LANCAMENTOS",Brincando com o Natal - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216343.mp4
+#EXTINF:-1 tvg-name="Broad Peak - 2022" tvg-logo="http://5ce.me:80/images/n7eiUpUb27Vpd3MBfLro9rkUo0F_big.jpg" group-title="LANCAMENTOS",Broad Peak - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212116.mp4
+#EXTINF:-1 tvg-name="Bromates - 2022" tvg-logo="http://5ce.me:80/images/hAaJ1XFp5FELxwJ98IWI598zaMy_big.jpg" group-title="LANCAMENTOS",Bromates - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216199.mp4
+#EXTINF:-1 tvg-name="Brothers by Blood - 2021" tvg-logo="http://5ce.co:80/images/2RKGUCbo2R6IDsufxApL6nRFL4j_big.jpg" group-title="LANCAMENTOS",Brothers by Blood - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188104.mp4
+#EXTINF:-1 tvg-name="Buba - 2022" tvg-logo="http://5ce.me:80/images/uOjh3PtovstcY9T9cvzYSgfcNAl_big.jpg" group-title="LANCAMENTOS",Buba - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210346.mp4
+#EXTINF:-1 tvg-name="Bubble - 2022" tvg-logo="https://i.bj-share.info/ea554d966db3a2b14aed48361831bbee.png" group-title="LANCAMENTOS",Bubble - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205530.mp4
+#EXTINF:-1 tvg-name="Bull Hora da Vinganca - 2021" tvg-logo="http://5ce.co:80/images/mFxHsGp04g1X9oLGIF1MFM0vzOg_big.jpg" group-title="LANCAMENTOS",Bull Hora da Vinganca - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207185.mp4
+#EXTINF:-1 tvg-name="Busca Interminavel - 2022" tvg-logo="http://5ce.me:80/images/CGgdR5dJyGa3g9j95VuESL9q0Y_big.jpg" group-title="LANCAMENTOS",Busca Interminavel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216153.mp4
+#EXTINF:-1 tvg-name="Busco Namorada - 2022" tvg-logo="http://5ce.me:80/images/iXGCldSSeZBZHfow0jSTXGJdVh1_big.jpg" group-title="LANCAMENTOS",Busco Namorada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214984.mp4
+#EXTINF:-1 tvg-name="Cabeça de Nêgo - 2021" tvg-logo="http://5ce.co:80/images/3trYeIDwgJ7hpObdNFi5aeDteH9_big.jpg" group-title="LANCAMENTOS",Cabeça de Nêgo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188939.mp4
+#EXTINF:-1 tvg-name="Caca Implacavel - 2022" tvg-logo="http://5ce.me:80/images/56mBlJ55Z1O9oIOhRTAGIHZHXP7_big.jpg" group-title="LANCAMENTOS",Caca Implacavel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214263.mp4
+#EXTINF:-1 tvg-name="Cacada - 2020" tvg-logo="http://5ce.co:80/images/j52lKBGoHGmUJNUMsDV5kHOkMfC_big.jpg" group-title="LANCAMENTOS",Cacada - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204287.mp4
+#EXTINF:-1 tvg-name="Cacador de Mutantes - 2019" tvg-logo="http://5ce.co:80/images/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j_big.jpg" group-title="LANCAMENTOS",Cacador de Mutantes - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207736.mp4
+#EXTINF:-1 tvg-name="Cacando Ava Bravo - 2022" tvg-logo="http://5ce.me:80/images/i2Hy3c0CZsyltiZVs5UdTNhUYlv_big.jpg" group-title="LANCAMENTOS",Cacando Ava Bravo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211119.mp4
+#EXTINF:-1 tvg-name="Caixa Postal 1142: O Campo Secreto para Nazistas nos EUA - 2021" tvg-logo="http://5ce.co:80/images/eOwaUeFNsQt5ALBfZNPye33vBrS_big.jpg" group-title="LANCAMENTOS",Caixa Postal 1142: O Campo Secreto para Nazistas nos EUA - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189382.mp4
+#EXTINF:-1 tvg-name="Camisa de Ouro - 2022" tvg-logo="http://5ce.co:80/images/ur2D5MXrwBBymQ7DjG0cOFen2yh_big.jpg" group-title="LANCAMENTOS",Camisa de Ouro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207317.mp4
+#EXTINF:-1 tvg-name="Cantando de Galo: O Resgate dos Ovinhos - 2021" tvg-logo="http://5ce.co:80/images/KPVw3cVSyLq5B00Cik5ux3Iczy_big.jpg" group-title="LANCAMENTOS",Cantando de Galo: O Resgate dos Ovinhos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190198.mp4
+#EXTINF:-1 tvg-name="Capita Nova - 2022" tvg-logo="http://5ce.co:80/images/prINReSbCkoktcRbrIgmbY4f0tp_big.jpg" group-title="LANCAMENTOS",Capita Nova - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203653.mp4
+#EXTINF:-1 tvg-name="Caranguejo Negro - 2022" tvg-logo="http://5ce.co:80/images/sw644BbNIxSGRqjwAC50uskDBHg_big.jpg" group-title="LANCAMENTOS",Caranguejo Negro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202702.mp4
+#EXTINF:-1 tvg-name="Carmen - 2023" tvg-logo="http://5ce.co:80/images/oc07MMSumgytiBT1fVTuEMDjUQA_big.jpg" group-title="LANCAMENTOS",Carmen - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219741.mp4
+#EXTINF:-1 tvg-name="Carro Rei - 2021" tvg-logo="http://5ce.co:80/images/51f9b3Om3vlKYEChC8XwI4lDfqB_big.jpg" group-title="LANCAMENTOS",Carro Rei - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207603.mp4
+#EXTINF:-1 tvg-name="Cartas Marcadas - 2022" tvg-logo="http://5ce.me:80/images/12XsTSE7oix7x5dLqMtxoxY39es_big.jpg" group-title="LANCAMENTOS",Cartas Marcadas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215315.mp4
+#EXTINF:-1 tvg-name="Carter - 2022" tvg-logo="http://5ce.me:80/images/cPKmoSTrPjvSjvKHvnMm1qs0Upa_big.jpg" group-title="LANCAMENTOS",Carter - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210566.mp4
+#EXTINF:-1 tvg-name="Carvao - 2022" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7qAoDKCtOQyOgp3FlPiC95Ddb5.jpg" group-title="LANCAMENTOS",Carvao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217388.mp4
+#EXTINF:-1 tvg-name="Casal de Fachada - 2022" tvg-logo="http://5ce.co:80/images/prYUfVvnq9tAMP4LRduyoQtQIjQ_big.jpg" group-title="LANCAMENTOS",Casal de Fachada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207316.mp4
+#EXTINF:-1 tvg-name="Casamento Armado - 2022" tvg-logo="http://5ce.co:80/images/i3OgPuen3vi7UkAQCMZou2NkPUm_big.jpg" group-title="LANCAMENTOS",Casamento Armado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217272.mp4
+#EXTINF:-1 tvg-name="Case Comigo - 2022" tvg-logo="http://5ce.co:80/images/wqplh07aTJFHUvKBx79wuC3Gnxx_big.jpg" group-title="LANCAMENTOS",Case Comigo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206783.mp4
+#EXTINF:-1 tvg-name="Castelo de Inverno 2 Um Amor de Inverno - 2021" tvg-logo="http://5ce.me:80/images/e3xZfgBq8p6wOJK9sAoiO22qsuC_big.jpg" group-title="LANCAMENTOS",Castelo de Inverno 2 Um Amor de Inverno - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216344.mp4
+#EXTINF:-1 tvg-name="Castelo Ra Tim Bum Reencontro - 2023" tvg-logo="http://5ce.co:80/images/eHnGwA8V0QDtjicbGkdLw2Af1Vq_big.jpg" group-title="LANCAMENTOS",Castelo Ra Tim Bum Reencontro - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219740.mp4
+#EXTINF:-1 tvg-name="Castle Falls - 2021" tvg-logo="http://5ce.co:80/images/hcmtEns8LZdkztVz5kX3cirugaa_big.jpg" group-title="LANCAMENTOS",Castle Falls - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209506.mp4
+#EXTINF:-1 tvg-name="Catarina a Menina Chamada Passarinha - 2022" tvg-logo="http://5ce.me:80/images/wMRLFYzhdWIOguLaPTwm2afiPMj_big.jpg" group-title="LANCAMENTOS",Catarina a Menina Chamada Passarinha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213155.mp4
+#EXTINF:-1 tvg-name="Centauro - 2022" tvg-logo="http://5ce.co:80/images/41NRm22nZkWCx9XP09etSxd2HRD_big.jpg" group-title="LANCAMENTOS",Centauro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208618.mp4
+#EXTINF:-1 tvg-name="Certas Pessoas - 2023" tvg-logo="http://5ce.co:80/images/5bqL6FnUHcTubXrABqtogTppj10_big.jpg" group-title="LANCAMENTOS",Certas Pessoas - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217292.mp4
+#EXTINF:-1 tvg-name="Cha Cha Real Smooth O Proximo Passo - 2022" tvg-logo="http://5ce.co:80/images/z8IPItbwRrJ3QWdCePOnWS1jueY_big.jpg" group-title="LANCAMENTOS",Cha Cha Real Smooth O Proximo Passo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208715.mp4
+#EXTINF:-1 tvg-name="Chernobyl: O Filme - Os Segredos do Desastre - 2021" tvg-logo="http://5ce.co:80/images/bnB2EkaY6HEdzwVkkH7dBHy6HmZ_big.jpg" group-title="LANCAMENTOS",Chernobyl: O Filme - Os Segredos do Desastre - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197888.mp4
+#EXTINF:-1 tvg-name="Child of Kamiari Month - 2021" tvg-logo="http://5ce.co:80/images/zVeyEpClF1Oxjg2UBJl62HRgC2m_big.jpg" group-title="LANCAMENTOS",Child of Kamiari Month - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201021.mp4
+#EXTINF:-1 tvg-name="Chitaozinho &amp; Xororo - 50 Anos de Historia - 2022" tvg-logo="http://5ce.co:80/images/uY51PvnyGvfLF2s5jdlbwdlZXdb_big.jpg" group-title="LANCAMENTOS",Chitaozinho &amp; Xororo - 50 Anos de Historia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208013.mp4
+#EXTINF:-1 tvg-name="Cidade Perdida - 2022" tvg-logo="http://5ce.co:80/images/vsX9gj7t56ZlMYKNYccskeW5adT_big.jpg" group-title="LANCAMENTOS",Cidade Perdida - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208221.mp4
+#EXTINF:-1 tvg-name="Circulo Vicioso - 2021" tvg-logo="http://5ce.co:80/images/jCz4Pv0rilnkBgqwbe5Y3JT5899_big.jpg" group-title="LANCAMENTOS",Circulo Vicioso - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204498.mp4
+#EXTINF:-1 tvg-name="Clifford, o Gigante Cão Vermelho - 2021" tvg-logo="http://5ce.co:80/images/g51VeVAIM7q9ZqpZRlPEqqhLThR_big.jpg" group-title="LANCAMENTOS",Clifford, o Gigante Cão Vermelho - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198687.mp4
+#EXTINF:-1 tvg-name="Codigo de Lei - 2021" tvg-logo="http://5ce.me:80/images/mGIaY2PRpw0xdYHZfPNBK2bC41L_big.jpg" group-title="LANCAMENTOS",Codigo de Lei - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211481.mp4
+#EXTINF:-1 tvg-name="Codigo do Armagedom - 2022" tvg-logo="http://5ce.me:80/images/mtE3VJ0MjmfUrBgI4vbEERkwFMi_big.jpg" group-title="LANCAMENTOS",Codigo do Armagedom - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216201.mp4
+#EXTINF:-1 tvg-name="Codigo Imperador - 2022" tvg-logo="http://5ce.me:80/images/74HVV4JR2rT01S9NDZie4YWBLUD_big.jpg" group-title="LANCAMENTOS",Codigo Imperador - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210836.mp4
+#EXTINF:-1 tvg-name="Colisao - 2022" tvg-logo="http://5ce.co:80/images/we29hZxAupvAOkmceHTUkos8RmS_big.jpg" group-title="LANCAMENTOS",Colisao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208714.mp4
+#EXTINF:-1 tvg-name="Colonizacao Espacial  A Ultima Esperanca - 2022" tvg-logo="http://5ce.me:80/images/U3MjTphhzpX7I6UrSCmQrOiMnl_big.jpg" group-title="LANCAMENTOS",Colonizacao Espacial  A Ultima Esperanca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212260.mp4
+#EXTINF:-1 tvg-name="Colonizacao Espacial A Ultima Esperanca - 2022" tvg-logo="http://5ce.co:80/images/mHykNHLWiO1ciqlUF7JWfOLzprq_big.jpg" group-title="LANCAMENTOS",Colonizacao Espacial A Ultima Esperanca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209505.mp4
+#EXTINF:-1 tvg-name="Com Voce Volume 1 - 2021" tvg-logo="http://5ce.co:80/images/v37P7YYU2cXHTtkX9pXfyltTSgK_big.jpg" group-title="LANCAMENTOS",Com Voce Volume 1 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209513.mp4
+#EXTINF:-1 tvg-name="Com Voce Volume 2 - 2022" tvg-logo="http://5ce.me:80/images/yiY4nI6HPAqnpGt5cPmszC6pTR7_big.jpg" group-title="LANCAMENTOS",Com Voce Volume 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210535.mp4
+#EXTINF:-1 tvg-name="Combinacao Perfeita - 2022" tvg-logo="http://5ce.co:80/images/xBdOs8RqlOAhhgVuqvDDCv4xzsU_big.jpg" group-title="LANCAMENTOS",Combinacao Perfeita - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207176.mp4
+#EXTINF:-1 tvg-name="Como Agradar Uma Mulher - 2022" tvg-logo="http://5ce.co:80/images/9PONfgIdAx01DJ0Ld93PVXxoU9r_big.jpg" group-title="LANCAMENTOS",Como Agradar Uma Mulher - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219353.mp4
+#EXTINF:-1 tvg-name="Como Me Apaixonei por um Gângster - 2022" tvg-logo="http://5ce.co:80/images/y0XvEUqkLiaiwlq9XovN3p4dkKi_big.jpg" group-title="LANCAMENTOS",Como Me Apaixonei por um Gângster - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197889.mp4
+#EXTINF:-1 tvg-name="Como Pétalas que Caem - 2022" tvg-logo="http://5ce.co:80/images/24kV2SUWZN1GTsoEIg6Y90CO8v_big.jpg" group-title="LANCAMENTOS",Como Pétalas que Caem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203358.mp4
+#EXTINF:-1 tvg-name="Como Seria se - 2022" tvg-logo="http://5ce.me:80/images/dtniFUyaodUtiyRExqBUp0Cyai8_big.jpg" group-title="LANCAMENTOS",Como Seria se - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211046.mp4
+#EXTINF:-1 tvg-name="Concorrencia Oficial - 2021" tvg-logo="http://5ce.co:80/images/fey5dXqHTc4SUJs96Hv1Li9ezpD_big.jpg" group-title="LANCAMENTOS",Concorrencia Oficial - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209742.mp4
+#EXTINF:-1 tvg-name="Confess Fletch - 2022" tvg-logo="http://5ce.me:80/images/66dDPP1nX7DbrResrMa5VJs4jeZ_big.jpg" group-title="LANCAMENTOS",Confess Fletch - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215954.mp4
+#EXTINF:-1 tvg-name="Confisco - 2021" tvg-logo="http://5ce.co:80/images/6TzJUkKCQSg84WG2ew0WNC4gHBq_big.jpg" group-title="LANCAMENTOS",Confisco - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207503.mp4
+#EXTINF:-1 tvg-name="Confronto no Deserto - 2021" tvg-logo="http://5ce.co:80/images/4rHdr2apDbnlHuzDfSg5L4uEuji_big.jpg" group-title="LANCAMENTOS",Confronto no Deserto - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203055.mp4
+#EXTINF:-1 tvg-name="Conselheira do Amor - 2022" tvg-logo="http://5ce.me:80/images/5UL7NvFUreESbxqvBLAQF7i55Ty_big.jpg" group-title="LANCAMENTOS",Conselheira do Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216152.mp4
+#EXTINF:-1 tvg-name="Conspiracao Explosiva - 2022" tvg-logo="http://5ce.me:80/images/tuqYUmGpJTyu7pJzwz7pBpWfWR0_big.jpg" group-title="LANCAMENTOS",Conspiracao Explosiva - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212720.mp4
+#EXTINF:-1 tvg-name="Conspiracao Fatal - 2022" tvg-logo="http://5ce.me:80/images/zpj3nNoc5xaUZTIdnuhwXwUcRag_big.jpg" group-title="LANCAMENTOS",Conspiracao Fatal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214896.mp4
+#EXTINF:-1 tvg-name="Continencia ao Amor - 2022" tvg-logo="http://5ce.me:80/images/ncBNV5G7EBLPK2X6cO55krYrPRw_big.jpg" group-title="LANCAMENTOS",Continencia ao Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210115.mp4
+#EXTINF:-1 tvg-name="Contrato Perigoso - 2022" tvg-logo="http://5ce.co:80/images/dq9r4v9yWkSmMvffTMiNy3heTZ6_big.jpg" group-title="LANCAMENTOS",Contrato Perigoso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205662.mp4
+#EXTINF:-1 tvg-name="Convite Maldito - 2022" tvg-logo="http://5ce.me:80/images/2JdYO1vmuDcqVgZD3nPEpdX7GvI_big.jpg" group-title="LANCAMENTOS",Convite Maldito - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213154.mp4
+#EXTINF:-1 tvg-name="Corra Querida Corra - 2022" tvg-logo="http://5ce.me:80/images/9xf3aiAxjx2H34EwwVFFlOrr0nt_big.jpg" group-title="LANCAMENTOS",Corra Querida Corra - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214123.mp4
+#EXTINF:-1 tvg-name="Corrective Measures Fuga da Prisao - 2022" tvg-logo="http://5ce.me:80/images/mIus2B83moSdfIkD4wD7tOaG5Y1_big.jpg" group-title="LANCAMENTOS",Corrective Measures Fuga da Prisao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214740.mp4
+#EXTINF:-1 tvg-name="Correr Atirando - 2022" tvg-logo="http://5ce.co:80/images/j252tH00eMyANiqhaLkemlkO16v_big.jpg" group-title="LANCAMENTOS",Correr Atirando - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204429.mp4
+#EXTINF:-1 tvg-name="Cortina de Fumaca - 2021" tvg-logo="http://5ce.me:80/images/xyopAXjzBzB6oPHYMKRri3RmlUf_big.jpg" group-title="LANCAMENTOS",Cortina de Fumaca - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214124.mp4
+#EXTINF:-1 tvg-name="Covil de Lutadores - 2020" tvg-logo="http://5ce.co:80/images/rXCNxTJbvryGAUdR0cuEvGhiphS_big.jpg" group-title="LANCAMENTOS",Covil de Lutadores - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205038.mp4
+#EXTINF:-1 tvg-name="Crescer e Muito Chato - 2022" tvg-logo="http://5ce.me:80/images/bs49EWboZTO12cxu4cXyUSAxxib_big.jpg" group-title="LANCAMENTOS",Crescer e Muito Chato - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210893.mp4
+#EXTINF:-1 tvg-name="Crescer Nao e Brincadeira - 2022" tvg-logo="http://5ce.co:80/images/c8HEdeEEp9KL30t4ws7dz6npakc_big.jpg" group-title="LANCAMENTOS",Crescer Nao e Brincadeira - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209662.mp4
+#EXTINF:-1 tvg-name="Crocodilos  A Morte te Espera - 2022" tvg-logo="http://5ce.me:80/images/9I2ATBaOfwXo23vSBfEAQ3uZhGV_big.jpg" group-title="LANCAMENTOS",Crocodilos  A Morte te Espera - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211624.mp4
+#EXTINF:-1 tvg-name="Cruzando a Linha - 2021" tvg-logo="http://5ce.co:80/images/pm1sZsTjZ5e9buaxlbk4jYOjjUA_big.jpg" group-title="LANCAMENTOS",Cruzando a Linha - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201196.mp4
+#EXTINF:-1 tvg-name="Curral - 2021" tvg-logo="http://5ce.co:80/images/8xMDCOwl6qE4Ypcy0HsMwalnEXU_big.jpg" group-title="LANCAMENTOS",Curral - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207081.mp4
+#EXTINF:-1 tvg-name="Curtas Dos Minions 2 - 2022" tvg-logo="http://5ce.me:80/images/AuN7KfZCnm9WmZNiPeg6HUBsANz_big.jpg" group-title="LANCAMENTOS",Curtas Dos Minions 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214622.mp4
+#EXTINF:-1 tvg-name="Curtas Dos Minions Volume 1 - 2022" tvg-logo="http://5ce.me:80/images/wCQBzTOigP5eCyBAjQGlWYNo5DR_big.jpg" group-title="LANCAMENTOS",Curtas Dos Minions Volume 1 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212709.mp4
+#EXTINF:-1 tvg-name="Cyber Hell  Exposing an Internet Horror - 2022" tvg-logo="http://5ce.co:80/images/eRlW6yvXHyXPuN0Ea6u6Sc48lGm_big.jpg" group-title="LANCAMENTOS",Cyber Hell  Exposing an Internet Horror - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207177.mp4
+#EXTINF:-1 tvg-name="D P A 3 O Filme Uma Aventura no Fim do Mundo - 2022" tvg-logo="http://5ce.me:80/images/orXhDQCtC086ccqUdkwOwZqN0kQ_big.jpg" group-title="LANCAMENTOS",D P A 3 O Filme Uma Aventura no Fim do Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212206.mp4
+#EXTINF:-1 tvg-name="D.P.A. 3  O Filme - Uma Aventura no Fim do Mundo - 2022" tvg-logo="http://5ce.co:80/images/orXhDQCtC086ccqUdkwOwZqN0kQ_big.jpg" group-title="LANCAMENTOS",D.P.A. 3  O Filme - Uma Aventura no Fim do Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208220.mp4
+#EXTINF:-1 tvg-name="Dakota - 2022" tvg-logo="http://5ce.co:80/images/j3eUOPUoDwkupwTPTDk6ESqrzGt_big.jpg" group-title="LANCAMENTOS",Dakota - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209743.mp4
+#EXTINF:-1 tvg-name="Darby A Jovem Sensitiva - 2022" tvg-logo="http://5ce.co:80/images/dfgKwPUMc8WVzm40eJ5ox6DSk1L_big.jpg" group-title="LANCAMENTOS",Darby A Jovem Sensitiva - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217372.mp4
+#EXTINF:-1 tvg-name="Dark Web Cicada 3301 - 2021" tvg-logo="http://5ce.me:80/images/tJlLfuvIBBn5aFoyW1IQWeFHl6v_big.jpg" group-title="LANCAMENTOS",Dark Web Cicada 3301 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213500.mp4
+#EXTINF:-1 tvg-name="Darlings - 2022" tvg-logo="http://5ce.me:80/images/lyA7kXCIAG17hVuvFOxlMmmv31A_big.jpg" group-title="LANCAMENTOS",Darlings - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210776.mp4
+#EXTINF:-1 tvg-name="DC Liga dos Superpets - 2022" tvg-logo="http://5ce.me:80/images/oYIbivi986h4M8ZNQiwKSzIF8KJ_big.jpg" group-title="LANCAMENTOS",DC Liga dos Superpets - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211257.mp4
+#EXTINF:-1 tvg-name="De Ferias da Familia - 2022" tvg-logo="http://5ce.me:80/images/mGPFbEmWdaDVxO5V64xYwv6v8j_big.jpg" group-title="LANCAMENTOS",De Ferias da Familia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211477.mp4
+#EXTINF:-1 tvg-name="De Volta ao Baile - 2022" tvg-logo="http://5ce.co:80/images/xrP0WLCpfUprD0PHobzxK1VBUCL_big.jpg" group-title="LANCAMENTOS",De Volta ao Baile - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206781.mp4
+#EXTINF:-1 tvg-name="Dead for a Dollar - 2022" tvg-logo="http://5ce.me:80/images/1AnXfjxFqMsQmUPSvt9YxUJhfFw_big.jpg" group-title="LANCAMENTOS",Dead for a Dollar - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212844.mp4
+#EXTINF:-1 tvg-name="Dentro da Mente de um Gato - 2022" tvg-logo="http://5ce.co:80/images/gTlxP1yJFPB2jegg4ece5iIWfgr_big.jpg" group-title="LANCAMENTOS",Dentro da Mente de um Gato - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219633.mp4
+#EXTINF:-1 tvg-name="Depois do Universo - 2022" tvg-logo="http://5ce.me:80/images/jv8PbopI3r3p0HrQJbLYcOzFHle_big.jpg" group-title="LANCAMENTOS",Depois do Universo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214044.mp4
+#EXTINF:-1 tvg-name="Desafios do Amor - 2021" tvg-logo="http://5ce.me:80/images/knQyFEmvpdte7zHoYYQb1RH0ypn_big.jpg" group-title="LANCAMENTOS",Desafios do Amor - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210529.mp4
+#EXTINF:-1 tvg-name="Desconectados - 2022" tvg-logo="http://5ce.me:80/images/8Wad2HeJg4Y67dFRGC6oGKqLJWO_big.jpg" group-title="LANCAMENTOS",Desconectados - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216345.mp4
+#EXTINF:-1 tvg-name="Desencantada - 2022" tvg-logo="http://5ce.me:80/images/8tuvxhScKT6qs8Js7ghLCLG5gxD_big.jpg" group-title="LANCAMENTOS",Desencantada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214911.mp4
+#EXTINF:-1 tvg-name="Deserto do Ouro - 2022" tvg-logo="http://5ce.co:80/images/mlnNX9pf3MgibwR89Tb40b17kJ9_big.jpg" group-title="LANCAMENTOS",Deserto do Ouro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206561.mp4
+#EXTINF:-1 tvg-name="Desfile de Coracoes - 2022" tvg-logo="http://5ce.co:80/images/A48bE3SKZKdaEXYXgOM9jYusp4I_big.jpg" group-title="LANCAMENTOS",Desfile de Coracoes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208616.mp4
+#EXTINF:-1 tvg-name="Destemida - 2023" tvg-logo="http://5ce.co:80/images/7JGAiwq6s43aKHlJrM0ka0iOZcu_big.jpg" group-title="LANCAMENTOS",Destemida - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217479.mp4
+#EXTINF:-1 tvg-name="Desterro - 2021" tvg-logo="http://5ce.me:80/images/w3y7C8p2CfenguopR2yCOlIthP0_big.jpg" group-title="LANCAMENTOS",Desterro - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214739.mp4
+#EXTINF:-1 tvg-name="Destinos Aterrorizantes  No Caminho do Medo - 2022" tvg-logo="http://5ce.me:80/images/hSMqCcPoUdezVonGbf7cqkL8nUZ_big.jpg" group-title="LANCAMENTOS",Destinos Aterrorizantes  No Caminho do Medo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212082.mp4
+#EXTINF:-1 tvg-name="Destinos Tracados - 2022" tvg-logo="http://5ce.me:80/images/xfxdIBdNHhPhIVCWWDVfzsKG03Y_big.jpg" group-title="LANCAMENTOS",Destinos Tracados - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216141.mp4
+#EXTINF:-1 tvg-name="Desumano - 2022" tvg-logo="http://5ce.me:80/images/nOmdssTweQTOceD6HbSkqMRP5NX_big.jpg" group-title="LANCAMENTOS",Desumano - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212584.mp4
+#EXTINF:-1 tvg-name="Detetive Knight Independencia - 2023" tvg-logo="http://5ce.co:80/images/jrPKVQGjc3YZXm07OYMriIB47HM_big.jpg" group-title="LANCAMENTOS",Detetive Knight Independencia - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217195.mp4
+#EXTINF:-1 tvg-name="Detox Digital - 2022" tvg-logo="http://5ce.me:80/images/6UUBHMDIHYyZPxW8RwSl47Uzwgq_big.jpg" group-title="LANCAMENTOS",Detox Digital - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216942.mp4
+#EXTINF:-1 tvg-name="Diana A Eterna Princesa - 2022" tvg-logo="http://5ce.me:80/images/kNU8gzCuoYuZr1hl36xAlCAxFwF_big.jpg" group-title="LANCAMENTOS",Diana A Eterna Princesa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216787.mp4
+#EXTINF:-1 tvg-name="Disque Jane - 2022" tvg-logo="http://5ce.me:80/images/qK2sx7wBd3bhkdh6S2fsfS0CuCd_big.jpg" group-title="LANCAMENTOS",Disque Jane - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216728.mp4
+#EXTINF:-1 tvg-name="Distrito 666 - 2022" tvg-logo="http://5ce.me:80/images/iXeSqzojUZ4exuCp5Mpo4o308PM_big.jpg" group-title="LANCAMENTOS",Distrito 666 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216729.mp4
+#EXTINF:-1 tvg-name="Doce Vinganca O Misterio De Hannah Swensen - 2021" tvg-logo="http://5ce.co:80/images/6Wbq2D8VbZ1uVS3WUTYpCr7Iz4I_big.jpg" group-title="LANCAMENTOS",Doce Vinganca O Misterio De Hannah Swensen - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209722.mp4
+#EXTINF:-1 tvg-name="Dog A Aventura de uma Vida - 2022" tvg-logo="http://5ce.co:80/images/gln0b5rezteLuyv9kO1q0h0vqnA_big.jpg" group-title="LANCAMENTOS",Dog A Aventura de uma Vida - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208695.mp4
+#EXTINF:-1 tvg-name="Dois Amigos e Uma Ameaca Alienigena - 2022" tvg-logo="http://5ce.co:80/images/jDCuTGYlZChQ1acAVbXHJnAxiF7_big.jpg" group-title="LANCAMENTOS",Dois Amigos e Uma Ameaca Alienigena - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209257.mp4
+#EXTINF:-1 tvg-name="Doula - 2022" tvg-logo="http://5ce.co:80/images/j6cA486hZEEyqmy12D0YmOlJyqp_big.jpg" group-title="LANCAMENTOS",Doula - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209576.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho no Multiverso da Loucura - 2022" tvg-logo="http://5ce.co:80/images/boIgXXUhw5O3oVkhXsE6SJZkmYo_big.jpg" group-title="LANCAMENTOS",Doutor Estranho no Multiverso da Loucura - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209594.mp4
+#EXTINF:-1 tvg-name="Drifting Home - 2022" tvg-logo="http://5ce.me:80/images/iNf1wC8cK6e8zgNyuMUqWFT7Din_big.jpg" group-title="LANCAMENTOS",Drifting Home - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212208.mp4
+#EXTINF:-1 tvg-name="Dual - 2022" tvg-logo="http://5ce.me:80/images/zMhPd65MVyc33898CGZkJm0rou7_big.jpg" group-title="LANCAMENTOS",Dual - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210379.mp4
+#EXTINF:-1 tvg-name="Dupla Jornada - 2022" tvg-logo="http://5ce.me:80/images/gmY6yEyvLlkqrgqYNXPp1llPZeT_big.jpg" group-title="LANCAMENTOS",Dupla Jornada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210916.mp4
+#EXTINF:-1 tvg-name="Duplamente Gravida 2  - 2022" tvg-logo="http://5ce.me:80/images/mNkAOFyb4TV2gTSc92jx2O9evtj_big.jpg" group-title="LANCAMENTOS",Duplamente Gravida 2  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210785.mp4
+#EXTINF:-1 tvg-name="Duro de Atuar - 2023" tvg-logo="http://5ce.co:80/images/hcuZ68ymJgohTerR8Oo1mb76SJv_big.jpg" group-title="LANCAMENTOS",Duro de Atuar - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219023.mp4
+#EXTINF:-1 tvg-name="Duro na Queda - 2020" tvg-logo="http://5ce.co:80/images/qvzcwPg6ukHugArAp9XeBvaz58_big.jpg" group-title="LANCAMENTOS",Duro na Queda - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207753.mp4
+#EXTINF:-1 tvg-name="E Apenas uma Fase Amor - 2022" tvg-logo="http://5ce.me:80/images/oEB8ksROkhfReVTaeXOXrlpUdTI_big.jpg" group-title="LANCAMENTOS",E Apenas uma Fase Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215851.mp4
+#EXTINF:-1 tvg-name="Eduardo e Mônica - 2022" tvg-logo="http://5ce.co:80/images/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H_big.jpg" group-title="LANCAMENTOS",Eduardo e Mônica - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201794.mp4
+#EXTINF:-1 tvg-name="Eike Tudo ou Nada - 2022" tvg-logo="http://5ce.me:80/images/dmE2NwVAt6AczscW0lapuuCTghg_big.jpg" group-title="LANCAMENTOS",Eike Tudo ou Nada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215161.mp4
+#EXTINF:-1 tvg-name="Ele Acredita em Papai Noel - 2022" tvg-logo="http://5ce.me:80/images/zMZEycAuLPQ2dBweIzDqUsiS8lp_big.jpg" group-title="LANCAMENTOS",Ele Acredita em Papai Noel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216074.mp4
+#EXTINF:-1 tvg-name="Em Busca de Mim - 2022" tvg-logo="http://5ce.co:80/images/liJ4HcdAl8oizjZ8maOJ9ddW9Fv_big.jpg" group-title="LANCAMENTOS",Em Busca de Mim - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217480.mp4
+#EXTINF:-1 tvg-name="Em Busca Do Bilhete Premiado - 2022" tvg-logo="http://5ce.me:80/images/x0FBgHdLW4PTEhybUTDrsWasahS_big.jpg" group-title="LANCAMENTOS",Em Busca Do Bilhete Premiado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214843.mp4
+#EXTINF:-1 tvg-name="Em Busca Do Enfermeiro Da Noite - 2022" tvg-logo="http://5ce.me:80/images/4B3QSIqxOxqWgnGReIJBJNanKl2_big.jpg" group-title="LANCAMENTOS",Em Busca Do Enfermeiro Da Noite - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214738.mp4
+#EXTINF:-1 tvg-name="Em Confinamento - 2022" tvg-logo="http://5ce.me:80/images/qV5vEMXsCKakk2usQ4QLhiJa00h_big.jpg" group-title="LANCAMENTOS",Em Confinamento - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214983.mp4
+#EXTINF:-1 tvg-name="Em Fuga - 2022" tvg-logo="http://5ce.co:80/images/dkZAsGX4xXsy6rhTnvi5EdbB0Qx_big.jpg" group-title="LANCAMENTOS",Em Fuga - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209036.mp4
+#EXTINF:-1 tvg-name="Em Fuga - 2022" tvg-logo="http://5ce.co:80/images/dkZAsGX4xXsy6rhTnvi5EdbB0Qx_big.jpg" group-title="LANCAMENTOS",Em Fuga - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208817.mp4
+#EXTINF:-1 tvg-name="Em Suas Maos - 2022" tvg-logo="http://5ce.me:80/images/vTd3gRGk8a0rtHOWemdvOakVakR_big.jpg" group-title="LANCAMENTOS",Em Suas Maos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214910.mp4
+#EXTINF:-1 tvg-name="Em Todas as Partes - 2023" tvg-logo="http://5ce.co:80/images/pJ0UlaKXi0yuAjPV4hgG5huJvFl_big.jpg" group-title="LANCAMENTOS",Em Todas as Partes - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217782.mp4
+#EXTINF:-1 tvg-name="Em um Passe de Magica - 2022" tvg-logo="http://5ce.me:80/images/lfprZ6p6rliMRgnhE09kVV57Q1o_big.jpg" group-title="LANCAMENTOS",Em um Passe de Magica - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211225.mp4
+#EXTINF:-1 tvg-name="Em Uma Ilha Bem Distante - 2023" tvg-logo="http://5ce.co:80/images/rEZMl8M5EKjPncmaBi6c0UEkAqz_big.jpg" group-title="LANCAMENTOS",Em Uma Ilha Bem Distante - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219738.mp4
+#EXTINF:-1 tvg-name="Emancipacao  Uma Historia de Liberdade - 2022" tvg-logo="http://5ce.me:80/images/izTIOynukDcN9dp7uPlwBjHr8f5_big.jpg" group-title="LANCAMENTOS",Emancipacao  Uma Historia de Liberdade - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215850.mp4
+#EXTINF:-1 tvg-name="Emergencia - 2022" tvg-logo="http://5ce.co:80/images/gkXzcMt1WcAYvjJPnz6CcThRdxy_big.jpg" group-title="LANCAMENTOS",Emergencia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207602.mp4
+#EXTINF:-1 tvg-name="Emily the Criminal - 2022 " tvg-logo="http://5ce.me:80/images/iZvzMpREGiqDQ5eYbx8z70qPgst_big.jpg" group-title="LANCAMENTOS",Emily the Criminal - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215214.mp4
+#EXTINF:-1 tvg-name="Encomenda para o Natal - 2022" tvg-logo="http://5ce.me:80/images/4mV4WRHGMYjMSL7G7r9PbVGQcxs_big.jpg" group-title="LANCAMENTOS",Encomenda para o Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215957.mp4
+#EXTINF:-1 tvg-name="Encurralados em Veneza - 2022" tvg-logo="http://5ce.me:80/images/bjT1tfmW5HblRFsQNZRkx8XwrTp_big.jpg" group-title="LANCAMENTOS",Encurralados em Veneza - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211771.mp4
+#EXTINF:-1 tvg-name="Endgame Roubo de Identidade - 2021" tvg-logo="http://5ce.me:80/images/euoonsQCowBYYqI1ztvonNjxibM_big.jpg" group-title="LANCAMENTOS",Endgame Roubo de Identidade - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209931.mp4
+#EXTINF:-1 tvg-name="Enjaulado - 2021" tvg-logo="http://5ce.me:80/images/4bnCfbckr574xi5TiWkIZ8luWF4_big.jpg" group-title="LANCAMENTOS",Enjaulado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210835.mp4
+#EXTINF:-1 tvg-name="Enola Holmes 2 - 2022" tvg-logo="http://5ce.me:80/images/tegBpjM5ODoYoM1NjaiHVLEA0QM_big.jpg" group-title="LANCAMENTOS",Enola Holmes 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214264.mp4
+#EXTINF:-1 tvg-name="Entergalactic - 2022" tvg-logo="http://5ce.me:80/images/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ_big.jpg" group-title="LANCAMENTOS",Entergalactic - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212845.mp4
+#EXTINF:-1 tvg-name="Era Uma Vez Um Conto de Fadas - 2022" tvg-logo="http://5ce.co:80/images/rBNX6kXx9ojBGLHTTqmC0z4QhSG_big.jpg" group-title="LANCAMENTOS",Era Uma Vez Um Conto de Fadas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208474.mp4
+#EXTINF:-1 tvg-name="Escola Base Um Reporter Enfrenta o Passado - 2022" tvg-logo="http://5ce.me:80/images/vcosQTZ1ajwfS7vXcw6CJu73W6n_big.jpg" group-title="LANCAMENTOS",Escola Base Um Reporter Enfrenta o Passado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214717.mp4
+#EXTINF:-1 tvg-name="Escola de Magia - 2022" tvg-logo="http://5ce.co:80/images/9B10tJ9LrvzcYaMQdx6yyovszzN_big.jpg" group-title="LANCAMENTOS",Escola de Magia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203962.mp4
+#EXTINF:-1 tvg-name="Esposa de Aluguel - 2022" tvg-logo="http://5ce.me:80/images/28E42Ea3Ml3cjvUMHaSqeGYXBfI_big.jpg" group-title="LANCAMENTOS",Esposa de Aluguel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213238.mp4
+#EXTINF:-1 tvg-name="Esquadrao Secreto - 2022" tvg-logo="http://5ce.me:80/images/pCl8JaMDkibswcNuEFLoDVNmO4k_big.jpg" group-title="LANCAMENTOS",Esquadrao Secreto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212630.mp4
+#EXTINF:-1 tvg-name="Esse Ano Vai - 2021" tvg-logo="http://5ce.co:80/images/jbi3g4fQ3yXIkFtKpXXn8eRTdIy_big.jpg" group-title="LANCAMENTOS",Esse Ano Vai - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209812.mp4
+#EXTINF:-1 tvg-name="Esta Noite Voce Dorme Comigo - 2023" tvg-logo="http://5ce.co:80/images/tNHOildeM8pRcHUQE85IHh6DxkR_big.jpg" group-title="LANCAMENTOS",Esta Noite Voce Dorme Comigo - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219634.mp4
+#EXTINF:-1 tvg-name="Eternos Companheiros - 2019" tvg-logo="http://5ce.co:80/images/9GayeewWQCSr3mzgquPRPTGhHBC_big.jpg" group-title="LANCAMENTOS",Eternos Companheiros - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204928.mp4
+#EXTINF:-1 tvg-name="Eu Acredito em Conto de Fadas - 2022" tvg-logo="http://5ce.co:80/images/3lI4fjY5AuOIvkjem5rNXAN6zc3_big.jpg" group-title="LANCAMENTOS",Eu Acredito em Conto de Fadas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206870.mp4
+#EXTINF:-1 tvg-name="Eu Sou Vanessa Guillen - 2022" tvg-logo="http://5ce.me:80/images/idRnGEvyYN44wlp39WYVz4lpLK8_big.jpg" group-title="LANCAMENTOS",Eu Sou Vanessa Guillen - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214909.mp4
+#EXTINF:-1 tvg-name="Eu Traidor - 2022" tvg-logo="http://5ce.me:80/images/u0MbKWieMwVDZl0eJdNt7Z6pbKU_big.jpg" group-title="LANCAMENTOS",Eu Traidor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212846.mp4
+#EXTINF:-1 tvg-name="Ex casados - 2021" tvg-logo="http://5ce.me:80/images/4nxqqtsXsOI7KcFnqqE25eW0Rul_big.jpg" group-title="LANCAMENTOS",Ex casados - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209933.mp4
+#EXTINF:-1 tvg-name="Excluidos - 2023" tvg-logo="http://5ce.co:80/images/w3nvKg5Ntog0VeWsBqCysxfNNFL_big.jpg" group-title="LANCAMENTOS",Excluidos - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218629.mp4
+#EXTINF:-1 tvg-name="Exercito Do Amanha - 2022" tvg-logo="http://5ce.me:80/images/72f0kFmOutPhSaZkXs0oGDmfvRd_big.jpg" group-title="LANCAMENTOS",Exercito Do Amanha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215359.mp4
+#EXTINF:-1 tvg-name="Exit - 2020" tvg-logo="http://5ce.co:80/images/yt3vLjVqvZPRfpx3RUletHJVRVz_big.jpg" group-title="LANCAMENTOS",Exit - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208026.mp4
+#EXTINF:-1 tvg-name="Expedicao ao Artico - 2021" tvg-logo="http://5ce.me:80/images/hEcTpixzVjj5o8VZ35jljM56jam_big.jpg" group-title="LANCAMENTOS",Expedicao ao Artico - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211772.mp4
+#EXTINF:-1 tvg-name="Explorer - 2022" tvg-logo="http://5ce.me:80/images/faxYsLLhZS95cycP5ParjFs79ZS_big.jpg" group-title="LANCAMENTOS",Explorer - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216202.mp4
+#EXTINF:-1 tvg-name="Explorer Labirintos Subterraneos - 2022" tvg-logo="http://5ce.me:80/images/6EaaOY7PXOY8FdMlbcflX4AasH0_big.jpg" group-title="LANCAMENTOS",Explorer Labirintos Subterraneos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212040.mp4
+#EXTINF:-1 tvg-name="Faca Um Desejo - 2020" tvg-logo="http://5ce.me:80/images/801RIZKpUeSrXjgmWGiiurzERls_big.jpg" group-title="LANCAMENTOS",Faca Um Desejo - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212448.mp4
+#EXTINF:-1 tvg-name="Fantasma e Cia - 2023" tvg-logo="http://5ce.co:80/images/8tGZbqePTre2AnpMeC1nqAHhLhZ_big.jpg" group-title="LANCAMENTOS",Fantasma e Cia - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219022.mp4
+#EXTINF:-1 tvg-name="Fantasy Football - 2022" tvg-logo="http://5ce.co:80/images/lC99lme4UplMUICswlA4mfe5GNx_big.jpg" group-title="LANCAMENTOS",Fantasy Football - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217481.mp4
+#EXTINF:-1 tvg-name="Feliz Ano Nosso - 2022" tvg-logo="http://5ce.me:80/images/qw4R9WRAmf4QkzU4XjkyBbZtGZh_big.jpg" group-title="LANCAMENTOS",Feliz Ano Nosso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216532.mp4
+#EXTINF:-1 tvg-name="Fetiches - 2021" tvg-logo="http://5ce.co:80/images/raxokMXK7cy87N2QGBveTLIcR8c_big.jpg" group-title="LANCAMENTOS",Fetiches - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206452.mp4
+#EXTINF:-1 tvg-name="Filho da Mae - 2022" tvg-logo="http://5ce.me:80/images/z8ZbaGCahlXwri66rPHjgw54jo1_big.jpg" group-title="LANCAMENTOS",Filho da Mae - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216098.mp4
+#EXTINF:-1 tvg-name="Fim da Estrada - 2022" tvg-logo="http://5ce.me:80/images/aqUTMmzAmNgmr55U1dezPVTQAHP_big.jpg" group-title="LANCAMENTOS",Fim da Estrada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211964.mp4
+#EXTINF:-1 tvg-name="First Love  Descobrindo o Amor - 2022" tvg-logo="http://5ce.me:80/images/6cJIPLtyWixpm6zt3Nf5wVkWzua_big.jpg" group-title="LANCAMENTOS",First Love  Descobrindo o Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211625.mp4
+#EXTINF:-1 tvg-name="Flag Day Lembrancas Perdidas - 2022" tvg-logo="http://5ce.me:80/images/4zjMh3h2aOZmt4t3hfvreGakcw_big.jpg" group-title="LANCAMENTOS",Flag Day Lembrancas Perdidas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210895.mp4
+#EXTINF:-1 tvg-name="Flee Nenhum Lugar para Chamar de Lar - 2021" tvg-logo="http://5ce.co:80/images/vlMIbqOpYG553J1kOJXA7mwQvE6_big.jpg" group-title="LANCAMENTOS",Flee Nenhum Lugar para Chamar de Lar - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209575.mp4
+#EXTINF:-1 tvg-name="Fortaleza Hotel - 2022" tvg-logo="http://5ce.me:80/images/hFRXXYv63XcFI2jvbLiyrrFJuy2_big.jpg" group-title="LANCAMENTOS",Fortaleza Hotel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211537.mp4
+#EXTINF:-1 tvg-name="Fortaleza O Olhar Do Sniper - 2022" tvg-logo="http://5ce.co:80/images/o9qPBeuLCWT3s8KdfnjKqeQDlzS_big.jpg" group-title="LANCAMENTOS",Fortaleza O Olhar Do Sniper - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207672.mp4
+#EXTINF:-1 tvg-name="France Sob Os Holofotes - 2021" tvg-logo="http://5ce.me:80/images/wpFJGrThPtTjFLyEc3r9MdQH7xr_big.jpg" group-title="LANCAMENTOS",France Sob Os Holofotes - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215849.mp4
+#EXTINF:-1 tvg-name="Frangoelho e o Hamster das Trevas - 2022" tvg-logo="http://5ce.co:80/images/aIzqgCqKh69G95HDB9LWTLnLT8H_big.jpg" group-title="LANCAMENTOS",Frangoelho e o Hamster das Trevas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208327.mp4
+#EXTINF:-1 tvg-name="Frank e Penelope - 2022" tvg-logo="http://5ce.me:80/images/5NpXoAi3nEQkEgLO09nmotPfyNa_big.jpg" group-title="LANCAMENTOS",Frank e Penelope - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214854.mp4
+#EXTINF:-1 tvg-name="Frente  a Frente - 2021" tvg-logo="http://5ce.me:80/images/fqhZOmHlARkWiHZmy6D2DRrrxlZ_big.jpg" group-title="LANCAMENTOS",Frente  a Frente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214737.mp4
+#EXTINF:-1 tvg-name="Frida  Viva a vida - 2019" tvg-logo="http://5ce.co:80/images/r4uVPdU7FlrDbX7SIAyiz4yQxVI_big.jpg" group-title="LANCAMENTOS",Frida  Viva a vida - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207188.mp4
+#EXTINF:-1 tvg-name="Fullmetal Alchemist A Alquimia Final - 2022" tvg-logo="http://5ce.me:80/images/uMzOYHGiHEfknowTlg3o72gSvHy_big.jpg" group-title="LANCAMENTOS",Fullmetal Alchemist A Alquimia Final - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212583.mp4
+#EXTINF:-1 tvg-name="Fullmetal Alchemist A Vinganca de  Scar - 2022" tvg-logo="http://5ce.me:80/images/qsgF3IyWmNOnYqNtweaqySWpYTz_big.jpg" group-title="LANCAMENTOS",Fullmetal Alchemist A Vinganca de  Scar - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211221.mp4
+#EXTINF:-1 tvg-name="Futebol Em Apuros - 2022" tvg-logo="http://5ce.me:80/images/sWoYDNPNZs5MtzPbirXV73tIHrA_big.jpg" group-title="LANCAMENTOS",Futebol Em Apuros - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214620.mp4
+#EXTINF:-1 tvg-name="Garota Do Seculo 20 - 2022" tvg-logo="http://5ce.me:80/images/uy3NhZq5IMw9c7vSoP2Z1GsQOJo_big.jpg" group-title="LANCAMENTOS",Garota Do Seculo 20 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213792.mp4
+#EXTINF:-1 tvg-name="Garotos de Bem - 2021" tvg-logo="http://5ce.me:80/images/h9keoAAS1RSxgKSUDO97MWl1DHq_big.jpg" group-title="LANCAMENTOS",Garotos de Bem - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212117.mp4
+#EXTINF:-1 tvg-name="Gemeo Maligno - 2022 " tvg-logo="http://5ce.me:80/images/pNbExNsfqTs8pXJs05yBRW0nNHg_big.jpg" group-title="LANCAMENTOS",Gemeo Maligno - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214185.mp4
+#EXTINF:-1 tvg-name="Ghislaine Maxwell Filthy Rich - 2022" tvg-logo="http://5ce.me:80/images/i9vl0FxtPQaiTOMRoKYhEuu9xw3_big.jpg" group-title="LANCAMENTOS",Ghislaine Maxwell Filthy Rich - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215307.mp4
+#EXTINF:-1 tvg-name="Ghost in the Shell - SAC_2045 – Guerra Sustentavel - 2021" tvg-logo="http://5ce.co:80/images/mZgikgvgQfzSIop2oQvwuLlHRP2_big.jpg" group-title="LANCAMENTOS",Ghost in the Shell - SAC_2045 – Guerra Sustentavel - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206535.mp4
+#EXTINF:-1 tvg-name="Glamour Girls - 2022" tvg-logo="http://5ce.co:80/images/k1oQxnYUcnKlhg7uM3P3QAY4Y84_big.jpg" group-title="LANCAMENTOS",Glamour Girls - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209245.mp4
+#EXTINF:-1 tvg-name="Gone in the Night - 2022 " tvg-logo="http://5ce.me:80/images/A1F9RpyLNbYyE9nE4INrVQh0b7T_big.jpg" group-title="LANCAMENTOS",Gone in the Night - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216073.mp4
+#EXTINF:-1 tvg-name="Groomed Uma Historia de Abusos - 2021" tvg-logo="http://5ce.co:80/images/vxH0HC6hqCh6w0JV8abaNHISn7m_big.jpg" group-title="LANCAMENTOS",Groomed Uma Historia de Abusos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206958.mp4
+#EXTINF:-1 tvg-name="Guardioes da Galaxia Especial de Festas - 2022" tvg-logo="http://5ce.me:80/images/c5v6VCc7bdxWDkKc5ilYsxhOeUp_big.jpg" group-title="LANCAMENTOS",Guardioes da Galaxia Especial de Festas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215234.mp4
+#EXTINF:-1 tvg-name="Guerra Oculta - 2022" tvg-logo="http://5ce.co:80/images/AaI4egyV9dCMzOYoumyLMZrmRPg_big.jpg" group-title="LANCAMENTOS",Guerra Oculta - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219737.mp4
+#EXTINF:-1 tvg-name="Guia Romantico para Lugares Perdidos - 2020" tvg-logo="http://5ce.co:80/images/7oAHtG27uccZVexLRoto4nGNNq5_big.jpg" group-title="LANCAMENTOS",Guia Romantico para Lugares Perdidos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208014.mp4
+#EXTINF:-1 tvg-name="Gundala  A Ascensao de um Heroi - 2019" tvg-logo="http://5ce.me:80/images/6P8SA9p3AXw1C5byhJ85SBfTIgE_big.jpg" group-title="LANCAMENTOS",Gundala  A Ascensao de um Heroi - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214809.mp4
+#EXTINF:-1 tvg-name="Hackers No Controle - 2022" tvg-logo="http://5ce.me:80/images/rSwPRAMIvF58fu3FkY9ErB2W1eB_big.jpg" group-title="LANCAMENTOS",Hackers No Controle - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214156.mp4
+#EXTINF:-1 tvg-name="Halloween o Final - 2022" tvg-logo="http://5ce.me:80/images/yoAKHpveZ4Z1wwwXoD31dXj3H8s_big.jpg" group-title="LANCAMENTOS",Halloween o Final - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215107.mp4
+#EXTINF:-1 tvg-name="Hawa - 2022" tvg-logo="http://5ce.me:80/images/p6DhbsX1EuSJMtuOGsENkIOx1tt_big.jpg" group-title="LANCAMENTOS",Hawa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215848.mp4
+#EXTINF:-1 tvg-name="HELL DOGS - 2022" tvg-logo="http://5ce.me:80/images/rDpZ2PUgIVkURrgKR4aFUBXlu8m_big.jpg" group-title="LANCAMENTOS",HELL DOGS - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216159.mp4
+#EXTINF:-1 tvg-name="Hellraiser - 2022 " tvg-logo="http://5ce.me:80/images/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E_big.jpg" group-title="LANCAMENTOS",Hellraiser - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215844.mp4
+#EXTINF:-1 tvg-name="Heranca Maldita - 2022" tvg-logo="http://5ce.me:80/images/uUwIfpIxPUQnETRRqb17lzBWj84_big.jpg" group-title="LANCAMENTOS",Heranca Maldita - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214135.mp4
+#EXTINF:-1 tvg-name="Heroi da Liberdade - 2020" tvg-logo="http://5ce.co:80/images/nD3eegYICfOZmQTENopz8NXu4Ci_big.jpg" group-title="LANCAMENTOS",Heroi da Liberdade - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209723.mp4
+#EXTINF:-1 tvg-name="HollyBlood - 2022" tvg-logo="http://5ce.me:80/images/lcFw1XS35ULWwZde6iDI5m4BwuX_big.jpg" group-title="LANCAMENTOS",HollyBlood - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211773.mp4
+#EXTINF:-1 tvg-name="Homens a beira de um ataque de nervos - 2022" tvg-logo="http://5ce.me:80/images/9IiTNWohanK62otUDGoCvgx2mI7_big.jpg" group-title="LANCAMENTOS",Homens a beira de um ataque de nervos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215953.mp4
+#EXTINF:-1 tvg-name="Honor Society - 2022" tvg-logo="http://5ce.me:80/images/61CZ4JxyaI462sFfLPhtyzRg4vv_big.jpg" group-title="LANCAMENTOS",Honor Society - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212210.mp4
+#EXTINF:-1 tvg-name="Hora de Brilhar - 2022" tvg-logo="http://5ce.me:80/images/r2pBQidMHRu4xP6Jafd8PBDqy05_big.jpg" group-title="LANCAMENTOS",Hora de Brilhar - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210293.mp4
+#EXTINF:-1 tvg-name="Hot Seat - 2022" tvg-logo="http://5ce.me:80/images/ggtT84i2E1URJCyAkaoPxl6Ttke_big.jpg" group-title="LANCAMENTOS",Hot Seat - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209504.mp4
+#EXTINF:-1 tvg-name="Humor Negro - 2022" tvg-logo="http://5ce.me:80/images/3I1VYP9UBFXxiK0Q0zo98ltdUCd_big.jpg" group-title="LANCAMENTOS",Humor Negro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216347.mp4
+#EXTINF:-1 tvg-name="Hurricane Livre Como o Vento - 2021" tvg-logo="http://5ce.me:80/images/r3ch0DYa5cKdavne8bMZiR0Wq1S_big.jpg" group-title="LANCAMENTOS",Hurricane Livre Como o Vento - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216151.mp4
+#EXTINF:-1 tvg-name="Ilusoes Perdidas - 2021" tvg-logo="http://5ce.me:80/images/mjrVEuDdhaKouYz2ykwKGeryEyd_big.jpg" group-title="LANCAMENTOS",Ilusoes Perdidas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211627.mp4
+#EXTINF:-1 tvg-name="Infiesto - 2023" tvg-logo="http://5ce.co:80/images/dmO2U0ckWkE6T5hyYY3rUtSH9X4_big.jpg" group-title="LANCAMENTOS",Infiesto - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217482.mp4
+#EXTINF:-1 tvg-name="Influencer de Mentira - 2022" tvg-logo="http://5ce.me:80/images/dJKVZFS61uqFrTdyu0bo57ExX3Y_big.jpg" group-title="LANCAMENTOS",Influencer de Mentira - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210300.mp4
+#EXTINF:-1 tvg-name="Ingresso Para o Paraiso - 2022" tvg-logo="http://5ce.me:80/images/kN3WwFUTvhYsLudncZlEgeh1fCu_big.jpg" group-title="LANCAMENTOS",Ingresso Para o Paraiso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214048.mp4
+#EXTINF:-1 tvg-name="Inspetor Aramha - 2022" tvg-logo="http://5ce.me:80/images/2mRCD2Hn9eaeZszKc6AsFo0VAkM_big.jpg" group-title="LANCAMENTOS",Inspetor Aramha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216731.mp4
+#EXTINF:-1 tvg-name="Instinto Assassino - 2021" tvg-logo="http://5ce.co:80/images/4Mynv1TcKx5AwCsv1wr5Y2hnm6S_big.jpg" group-title="LANCAMENTOS",Instinto Assassino - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207083.mp4
+#EXTINF:-1 tvg-name="Interceptor - 2022" tvg-logo="http://5ce.co:80/images/7FUbSUzn07dudjbwW1Skicj17nS_big.jpg" group-title="LANCAMENTOS",Interceptor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208016.mp4
+#EXTINF:-1 tvg-name="Irmao do Jorel Especial de Natal Irmao do Noel - 2022" tvg-logo="http://5ce.me:80/images/hI8eTanaoXfD4BHflDEFywCTbGd_big.jpg" group-title="LANCAMENTOS",Irmao do Jorel Especial de Natal Irmao do Noel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215952.mp4
+#EXTINF:-1 tvg-name="Irmaos de Honra - 2022" tvg-logo="http://5ce.co:80/images/wvCvlxAxnlTV13yNIf4j7h7FqvQ_big.jpg" group-title="LANCAMENTOS",Irmaos de Honra - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217271.mp4
+#EXTINF:-1 tvg-name="Ivy E Bean - 2022" tvg-logo="http://5ce.me:80/images/gBN1mOd1tqmWGbj1O0QiS2e3CGt_big.jpg" group-title="LANCAMENTOS",Ivy E Bean - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212041.mp4
+#EXTINF:-1 tvg-name="Ivy E Bean Entram Na Danca - 2022" tvg-logo="http://5ce.me:80/images/33rar2W6gp0ErhHxFMYzQkbqFpD_big.jpg" group-title="LANCAMENTOS",Ivy E Bean Entram Na Danca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212118.mp4
+#EXTINF:-1 tvg-name="Ivy E Bean O Fantasma Do Banheiro - 2022" tvg-logo="http://5ce.me:80/images/3E6qOU3ClxrkWM5Cz5NHHTqGtos_big.jpg" group-title="LANCAMENTOS",Ivy E Bean O Fantasma Do Banheiro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212119.mp4
+#EXTINF:-1 tvg-name="Ja Fui Famoso - 2022" tvg-logo="http://5ce.me:80/images/hvqHMh0DBVRMmfeRxTPlk5Fcu8f_big.jpg" group-title="LANCAMENTOS",Ja Fui Famoso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212211.mp4
+#EXTINF:-1 tvg-name="Jack e Jill Nos Passos do Amor - 2022" tvg-logo="http://5ce.co:80/images/7quAseCUjPhksKWnvEFyyJWZMdc_big.jpg" group-title="LANCAMENTOS",Jack e Jill Nos Passos do Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217408.mp4
+#EXTINF:-1 tvg-name="Jack Osbourne Em Busca dos Ovnis - 2022" tvg-logo="http://5ce.me:80/images/6DESAF0DIpMxAjQpqkSeOmi70tu_big.jpg" group-title="LANCAMENTOS",Jack Osbourne Em Busca dos Ovnis - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216531.mp4
+#EXTINF:-1 tvg-name="Jaula - 2022" tvg-logo="http://5ce.me:80/images/zGeGuVMUT4uqgvCS6cSJCbTKnaa_big.jpg" group-title="LANCAMENTOS",Jaula - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213804.mp4
+#EXTINF:-1 tvg-name="Jennifer Lopez Halftime - 2022" tvg-logo="http://5ce.co:80/images/mPdZnmpdNYdMcMEAqUaJd4OdXHL_big.jpg" group-title="LANCAMENTOS",Jennifer Lopez Halftime - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208472.mp4
+#EXTINF:-1 tvg-name="Jerry e Marge Tiram a sorte grande  - 2022" tvg-logo="http://5ce.co:80/images/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ_big.jpg" group-title="LANCAMENTOS",Jerry e Marge Tiram a sorte grande  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208670.mp4
+#EXTINF:-1 tvg-name="Jogada de Amor - 2022" tvg-logo="http://5ce.me:80/images/vWgcIHKARoGFtbEPP9Ut7y2fmoP_big.jpg" group-title="LANCAMENTOS",Jogada de Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214356.mp4
+#EXTINF:-1 tvg-name="John e o Potrinho Magico - 2021" tvg-logo="http://5ce.me:80/images/eF66ncsrVgVX0Js5xGezRCapTjD_big.jpg" group-title="LANCAMENTOS",John e o Potrinho Magico - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214159.mp4
+#EXTINF:-1 tvg-name="John McAfee Genio  Polemico e Fugitivo - 2022" tvg-logo="http://5ce.co:80/images/uTqjzvCJSPjpuRRsTy5GNqkI6zN_big.jpg" group-title="LANCAMENTOS",John McAfee Genio  Polemico e Fugitivo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211388.mp4
+#EXTINF:-1 tvg-name="Jovens Titas em Acao DC Super Hero Girls Desordem no Multiverso - 2022" tvg-logo="http://5ce.co:80/images/3Hnhf1FqVGnh20hKlHbiRvHhB5b_big.jpg" group-title="LANCAMENTOS",Jovens Titas em Acao DC Super Hero Girls Desordem no Multiverso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207424.mp4
+#EXTINF:-1 tvg-name="Jujutsu Kaisen 0 - 2021" tvg-logo="http://5ce.me:80/images/3pTwMUEavTzVOh6yLN0aEwR7uSy_big.jpg" group-title="LANCAMENTOS",Jujutsu Kaisen 0 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212492.mp4
+#EXTINF:-1 tvg-name="JUNG E - 2023" tvg-logo="http://5ce.co:80/images/z2nfRxZCGFgAnVhb9pZO87TyTX5_big.jpg" group-title="LANCAMENTOS",JUNG E - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217152.mp4
+#EXTINF:-1 tvg-name="Juntos e Enrolados - 2021" tvg-logo="http://5ce.co:80/images/ciOCqvJiMQ3PkTEYLBv8q72QT9J_big.jpg" group-title="LANCAMENTOS",Juntos e Enrolados - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205594.mp4
+#EXTINF:-1 tvg-name="Jurassic World Dominio - 2022" tvg-logo="http://5ce.co:80/images/w6Jz1AgjscqBuS8qXBd0wUHz5zC_big.jpg" group-title="LANCAMENTOS",Jurassic World Dominio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209563.mp4
+#EXTINF:-1 tvg-name="Justiceiras - 2022" tvg-logo="http://5ce.me:80/images/rF0ItNyvhMIavqcuVtHFPhbW6Yf_big.jpg" group-title="LANCAMENTOS",Justiceiras - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212212.mp4
+#EXTINF:-1 tvg-name="Kaamelott  Premier volet - 2021" tvg-logo="http://5ce.me:80/images/4mcovnajaLoy7dbv5arykJjDFFC_big.jpg" group-title="LANCAMENTOS",Kaamelott  Premier volet - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211475.mp4
+#EXTINF:-1 tvg-name="Kangaroo Valley - 2022" tvg-logo="http://5ce.me:80/images/q8T4Zp0b9hSSJkuavEYGF2h7omf_big.jpg" group-title="LANCAMENTOS",Kangaroo Valley - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216150.mp4
+#EXTINF:-1 tvg-name="King Meu Melhor Amigo - 2022" tvg-logo="http://5ce.co:80/images/jfypKseXKHEqRVXoXHBWeppA1hn_big.jpg" group-title="LANCAMENTOS",King Meu Melhor Amigo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207752.mp4
+#EXTINF:-1 tvg-name="Kompromat O Dossie Russo - 2022" tvg-logo="http://5ce.co:80/images/yakB8fDVhqmqiocjILPVh1aBze2_big.jpg" group-title="LANCAMENTOS",Kompromat O Dossie Russo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217151.mp4
+#EXTINF:-1 tvg-name="La Llorona - 2020" tvg-logo="http://5ce.co:80/images/n2O3cSuxSKlnCiEXI2CB5auXA2G_big.jpg" group-title="LANCAMENTOS",La Llorona - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208027.mp4
+#EXTINF:-1 tvg-name="Labirinto do Terror - 2021" tvg-logo="http://5ce.me:80/images/pV3eGRiaCtoID31Jbpb730thQmF_big.jpg" group-title="LANCAMENTOS",Labirinto do Terror - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213789.mp4
+#EXTINF:-1 tvg-name="Lanterna Verde Cuidado Com Meu Poder - 2022" tvg-logo="http://5ce.me:80/images/kjfcOlpNZocBB3lbw8KHMPT9Ov4_big.jpg" group-title="LANCAMENTOS",Lanterna Verde Cuidado Com Meu Poder - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213830.mp4
+#EXTINF:-1 tvg-name="Lar Dos Esquecidos - 2022" tvg-logo="http://5ce.me:80/images/fApMyuO562IDcpxhilpeehrEJXW_big.jpg" group-title="LANCAMENTOS",Lar Dos Esquecidos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213153.mp4
+#EXTINF:-1 tvg-name="Legend - A Dragon Ball Tale - 2022" tvg-logo="http://5ce.me:80/images/58T9B4jiOTyJa6fhsdNoUWKCfpz_big.jpg" group-title="LANCAMENTOS",Legend - A Dragon Ball Tale - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212084.mp4
+#EXTINF:-1 tvg-name="Legiao dos Super Herois - 2022" tvg-logo="http://5ce.co:80/images/fRHNCety8AHB38OUTBKSfg5fKcY_big.jpg" group-title="LANCAMENTOS",Legiao dos Super Herois - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218683.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars Ferias De Verao - 2022" tvg-logo="http://5ce.me:80/images/i56VuUUxgDUQB6SzJ9xfW60Rsy1_big.jpg" group-title="LANCAMENTOS",LEGO Star Wars Ferias De Verao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210560.mp4
+#EXTINF:-1 tvg-name="Licoes para canalhas - 2022" tvg-logo="http://5ce.me:80/images/3D9aIkNM9oZoyXUicaDl3VWM17j_big.jpg" group-title="LANCAMENTOS",Licoes para canalhas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216732.mp4
+#EXTINF:-1 tvg-name="Ligacoes Perigosas - 2022" tvg-logo="http://5ce.co:80/images/aXgXTdylM27Fq2N0IYhHXA4wI8b_big.jpg" group-title="LANCAMENTOS",Ligacoes Perigosas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209503.mp4
+#EXTINF:-1 tvg-name="Lightyear - 2022" tvg-logo="http://5ce.me:80/images/ox4goZd956BxqJH6iLwhWPL9ct4_big.jpg" group-title="LANCAMENTOS",Lightyear - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210344.mp4
+#EXTINF:-1 tvg-name="Lilo Lilo Crocodilo - 2022" tvg-logo="http://5ce.me:80/images/irIS5Tn3TXjNi1R9BpWvGAN4CZ1_big.jpg" group-title="LANCAMENTOS",Lilo Lilo Crocodilo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215159.mp4
+#EXTINF:-1 tvg-name="Linhas Opostas - 2021" tvg-logo="http://5ce.me:80/images/g6rY0f50JNdPaMVhayzSbVfBTTF_big.jpg" group-title="LANCAMENTOS",Linhas Opostas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210834.mp4
+#EXTINF:-1 tvg-name="Live Is Life - 2022" tvg-logo="http://5ce.co:80/images/8mxHAHepyXaV9rAhYIbimv11Pqy_big.jpg" group-title="LANCAMENTOS",Live Is Life - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209664.mp4
+#EXTINF:-1 tvg-name="Lobisomem Na Noite - 2022" tvg-logo="http://5ce.me:80/images/N9jyoeH3wKhiHYNYLE9Pnnls9D_big.jpg" group-title="LANCAMENTOS",Lobisomem Na Noite - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213160.mp4
+#EXTINF:-1 tvg-name="Lou - 2022" tvg-logo="http://5ce.me:80/images/djM2s4wSaATn4jVB33cV05PEbV7_big.jpg" group-title="LANCAMENTOS",Lou - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212574.mp4
+#EXTINF:-1 tvg-name="Loucos por Justica - 2020" tvg-logo="http://5ce.me:80/images/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS_big.jpg" group-title="LANCAMENTOS",Loucos por Justica - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213788.mp4
+#EXTINF:-1 tvg-name="Lua De Mel Com a Minha Mae - 2022" tvg-logo="http://5ce.co:80/images/j2uwa64qm3hSOBAd5XAgIWodhHD_big.jpg" group-title="LANCAMENTOS",Lua De Mel Com a Minha Mae - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205592.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em Acampamento de Ferias 4 O Desafio Final - 2023" tvg-logo="http://5ce.co:80/images/ctftbe5zdoNzahZkoEh4YHJNwxN_big.jpg" group-title="LANCAMENTOS",Luccas Neto em Acampamento de Ferias 4 O Desafio Final - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217270.mp4
+#EXTINF:-1 tvg-name="LUPIN III vs CATS EYE - 2023" tvg-logo="http://5ce.co/images/foN0X9SZs5DNSg3So1A4H1YuRzm_big.jpg" group-title="LANCAMENTOS",LUPIN III vs CATS EYE - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217391.mp4
+#EXTINF:-1 tvg-name="Luta pela Fe A Historia do Padre Stu - 2022" tvg-logo="http://5ce.co:80/images/cz8zbePAot9kRAlABXdlNfVv6CL_big.jpg" group-title="LANCAMENTOS",Luta pela Fe A Historia do Padre Stu - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208126.mp4
+#EXTINF:-1 tvg-name="Luta Pela Liberdade - 2021" tvg-logo="http://5ce.me:80/images/4y5DCnVYjmT43jy56qYTERlcYih_big.jpg" group-title="LANCAMENTOS",Luta Pela Liberdade - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213152.mp4
+#EXTINF:-1 tvg-name="Luther O Cair da Noite - 2023" tvg-logo="http://5ce.co:80/images/dX7vIS0HfCIJ4l1VEBoSLs9DnLe_big.jpg" group-title="LANCAMENTOS",Luther O Cair da Noite - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219850.mp4
+#EXTINF:-1 tvg-name="M3GAN - 2022" tvg-logo="http://5ce.co:80/images/d9nBoowhjiiYc4FBNtQkPY7c11H_big.jpg" group-title="LANCAMENTOS",M3GAN - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219352.mp4
+#EXTINF:-1 tvg-name="Mad God  - 2022" tvg-logo="http://5ce.co:80/images/X32TnGBup6HRSoY4RXbQEDhRh4_big.jpg" group-title="LANCAMENTOS",Mad God  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208326.mp4
+#EXTINF:-1 tvg-name="Mae e Filha - 2021" tvg-logo="http://5ce.co:80/images/tUcRAy9rgRRX4PxYVVdRMxH1er7_big.jpg" group-title="LANCAMENTOS",Mae e Filha - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207190.mp4
+#EXTINF:-1 tvg-name="Magic Mike A Ultima Danca - 2023" tvg-logo="http://5ce.co:80/images/raPPX7aRjqc33360tdadlzWDzo2_big.jpg" group-title="LANCAMENTOS",Magic Mike A Ultima Danca - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219635.mp4
+#EXTINF:-1 tvg-name="Mais Cedo Morto do que Casado - 2023" tvg-logo="http://5ce.co:80/images/ewS8BeUqoNmzF7JQm07CiukwONb_big.jpg" group-title="LANCAMENTOS",Mais Cedo Morto do que Casado - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217780.mp4
+#EXTINF:-1 tvg-name="Maldicao da Escola Edelvine - 2021" tvg-logo="http://5ce.me:80/images/7gnWZMWPBFBLraWj8L5WcG1eI1u_big.jpg" group-title="LANCAMENTOS",Maldicao da Escola Edelvine - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213321.mp4
+#EXTINF:-1 tvg-name="Mar em Chamas - 2021" tvg-logo="http://5ce.me:80/images/znrMRCeim6z8BVdCh9NdBuLFxi2_big.jpg" group-title="LANCAMENTOS",Mar em Chamas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211774.mp4
+#EXTINF:-1 tvg-name="Marcas da Maldicao - 2022" tvg-logo="http://5ce.me:80/images/a2EBrVUZTPp3Y9YMnCy5JfMaxQu_big.jpg" group-title="LANCAMENTOS",Marcas da Maldicao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211386.mp4
+#EXTINF:-1 tvg-name="Mark Mary and Some Other People - 2021" tvg-logo="http://5ce.co:80/images/3kbBVx5MRaPq7sN01CR4dF6quqj_big.jpg" group-title="LANCAMENTOS",Mark Mary and Some Other People - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209665.mp4
+#EXTINF:-1 tvg-name="Marmaduke - 2022" tvg-logo="http://5ce.co:80/images/cyNivzjzniErFkzq45ZEWOKQMgY_big.jpg" group-title="LANCAMENTOS",Marmaduke - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206130.mp4
+#EXTINF:-1 tvg-name="Marte Um - 2022" tvg-logo="http://5ce.me:80/images/oOEGYQsz7Qjz9sskn6Y2EmFQUrZ_big.jpg" group-title="LANCAMENTOS",Marte Um - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216348.mp4
+#EXTINF:-1 tvg-name="Mary Kay Letourneau Faces de Um Escandalo - 2022" tvg-logo="http://5ce.me:80/images/sANGKAf4FTz5FxRgTqNt9HzAw7N_big.jpg" group-title="LANCAMENTOS",Mary Kay Letourneau Faces de Um Escandalo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213560.mp4
+#EXTINF:-1 tvg-name="Matilda O Musical - 2022" tvg-logo="http://5ce.me:80/images/x5GR75CM0FbATtHjnAaE7WwUXkX_big.jpg" group-title="LANCAMENTOS",Matilda O Musical - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216349.mp4
+#EXTINF:-1 tvg-name="Matrimilhas - 2022" tvg-logo="http://5ce.me:80/images/Akrpgc25QorDhlSAfntjL65Mp6M_big.jpg" group-title="LANCAMENTOS",Matrimilhas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215832.mp4
+#EXTINF:-1 tvg-name="Me Tira da Mira - 2022" tvg-logo="http://5ce.co:80/images/gxr04nWw0BuGVqdFNK8W4na4FYD_big.jpg" group-title="LANCAMENTOS",Me Tira da Mira - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207191.mp4
+#EXTINF:-1 tvg-name="Medida Provisoria - 2022" tvg-logo="http://5ce.co:80/images/oLfjccUqxsAG7pbCgs5rC6SEUWr_big.jpg" group-title="LANCAMENTOS",Medida Provisoria - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208708.mp4
+#EXTINF:-1 tvg-name="Medieval - 2022 " tvg-logo="http://5ce.me:80/images/4njdAkiBdC5LnFApeXSkFQ78GdT_big.jpg" group-title="LANCAMENTOS",Medieval - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214374.mp4
+#EXTINF:-1 tvg-name="Medusa - 2022" tvg-logo="http://5ce.me:80/images/94FDrZd25vf3A6QaZ6Sbz7GbyXX_big.jpg" group-title="LANCAMENTOS",Medusa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216831.mp4
+#EXTINF:-1 tvg-name="Memory Box - 2022" tvg-logo="http://5ce.me:80/images/1q7SNPmr3EsX4wODFQDfRYR0NUf_big.jpg" group-title="LANCAMENTOS",Memory Box - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215164.mp4
+#EXTINF:-1 tvg-name="Men Faces do Medo - 2022" tvg-logo="http://5ce.me:80/images/1dGu0Ob8FwT3J0JXqEGxVAqRvMG_big.jpg" group-title="LANCAMENTOS",Men Faces do Medo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214157.mp4
+#EXTINF:-1 tvg-name="Mergulho - 2022" tvg-logo="http://5ce.me:80/images/9ZBxUB88P1qQKywVCYxqGKbe75t_big.jpg" group-title="LANCAMENTOS",Mergulho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216350.mp4
+#EXTINF:-1 tvg-name="Metaleiros de Jesus - 2020" tvg-logo="http://5ce.co:80/images/75IRgXhjxXc1CZl3mYyV8IunOuU_big.jpg" group-title="LANCAMENTOS",Metaleiros de Jesus - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205601.mp4
+#EXTINF:-1 tvg-name="Meteoros - 2022" tvg-logo="http://5ce.co:80/images/kHYKLxuUUssXA0zrTYeX9Nh0cii_big.jpg" group-title="LANCAMENTOS",Meteoros - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206449.mp4
+#EXTINF:-1 tvg-name="Meu Amigaozao O Filme - 2022" tvg-logo="http://5ce.me:80/images/arTxhqrL5gbIdZh4My7PZceTdpq_big.jpg" group-title="LANCAMENTOS",Meu Amigaozao O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211549.mp4
+#EXTINF:-1 tvg-name="Meu Namorado Fake - 2022" tvg-logo="http://5ce.co:80/images/zGDMNqWTtkWL6So4yM3ewNCtYY1_big.jpg" group-title="LANCAMENTOS",Meu Namorado Fake - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208325.mp4
+#EXTINF:-1 tvg-name="Meu Nome e Chihiro - 2023" tvg-logo="http://5ce.co:80/images/hkvq6vqz6j1gSojBYkpTjSauFZD_big.jpg" group-title="LANCAMENTOS",Meu Nome e Chihiro - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218684.mp4
+#EXTINF:-1 tvg-name="Meu Nome e Vinganca - 2022" tvg-logo="http://5ce.me:80/images/tlZGDi8anF7Fcs5HGVaTEMnv1hp_big.jpg" group-title="LANCAMENTOS",Meu Nome e Vinganca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215306.mp4
+#EXTINF:-1 tvg-name="Meu Policial - 2022" tvg-logo="http://5ce.me:80/images/wdbiMjXd4CxPfCx4r4Jfy8cGec0_big.jpg" group-title="LANCAMENTOS",Meu Policial - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214265.mp4
+#EXTINF:-1 tvg-name="Meu Psicologo Imaginario - 2021" tvg-logo="http://5ce.co:80/images/kns2SXQ8ImqDBmakJzPpuJYII67_big.jpg" group-title="LANCAMENTOS",Meu Psicologo Imaginario - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208100.mp4
+#EXTINF:-1 tvg-name="Mickey A Historia de um Camundongo - 2022" tvg-logo="http://5ce.me:80/images/ryZX7DPAl2Wv5LMR4JsBJUy5RPr_big.jpg" group-title="LANCAMENTOS",Mickey A Historia de um Camundongo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214908.mp4
+#EXTINF:-1 tvg-name="Mickey Salva o Natal - 2022" tvg-logo="http://5ce.me:80/images/mA9L8p26slLfDaZ3AUBXGf9JpLy_big.jpg" group-title="LANCAMENTOS",Mickey Salva o Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216147.mp4
+#EXTINF:-1 tvg-name="Mindcage - 2022" tvg-logo="http://5ce.me:80/images/JvqaHXdKBtEAmm4EDVTGkoAGIj_big.jpg" group-title="LANCAMENTOS",Mindcage - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216891.mp4
+#EXTINF:-1 tvg-name="Minha Noiva e de Matar - 2020" tvg-logo="http://5ce.co:80/images/lkb9SMXSRzXHlK02tKpZ0K3jdQw_big.jpg" group-title="LANCAMENTOS",Minha Noiva e de Matar - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207178.mp4
+#EXTINF:-1 tvg-name="Minhas Ferias com Patrick - 2020" tvg-logo="http://5ce.co:80/images/onoPni9IYWuMKwuN5e9YppOX249_big.jpg" group-title="LANCAMENTOS",Minhas Ferias com Patrick - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209560.mp4
+#EXTINF:-1 tvg-name="Minta Para Mim - 2022" tvg-logo="http://5ce.me:80/images/s3NoPF6LAKDl3KUGkZsYPX9ionc_big.jpg" group-title="LANCAMENTOS",Minta Para Mim - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212602.mp4
+#EXTINF:-1 tvg-name="Mirador - 2022" tvg-logo="http://5ce.co:80/images/3SsoNImMKkQxMh4etZGIScFobky_big.jpg" group-title="LANCAMENTOS",Mirador - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217370.mp4
+#EXTINF:-1 tvg-name="Mirador - 2022" tvg-logo="http://5ce.co:80/images/3SsoNImMKkQxMh4etZGIScFobky_big.jpg" group-title="LANCAMENTOS",Mirador - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207670.mp4
+#EXTINF:-1 tvg-name="Missao Russia - 2020" tvg-logo="http://5ce.co:80/images/dXmeAzaceJk6cg4cxauUKhhXoxt_big.jpg" group-title="LANCAMENTOS",Missao Russia - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209604.mp4
+#EXTINF:-1 tvg-name="Misterio da Terra dos Doces - 2022" tvg-logo="http://5ce.me:80/images/xyPRWZk6tWyrCVnSGMR2Sl0H5rY_big.jpg" group-title="LANCAMENTOS",Misterio da Terra dos Doces - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215987.mp4
+#EXTINF:-1 tvg-name="Modo Heroi - 2021" tvg-logo="http://5ce.me:80/images/z8BgAXmIwPlK54wtqdeWrBXYXNt_big.jpg" group-title="LANCAMENTOS",Modo Heroi - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210624.mp4
+#EXTINF:-1 tvg-name="Moment of Contact - 2022" tvg-logo="http://5ce.me:80/images/aZDura0Fm3OZtPlBqMkWDs04C7a_big.jpg" group-title="LANCAMENTOS",Moment of Contact - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214810.mp4
+#EXTINF:-1 tvg-name="Monica O My Darling - 2022" tvg-logo="http://5ce.me:80/images/xEksr0T34utTkeg0DB1Au4M0jto_big.jpg" group-title="LANCAMENTOS",Monica O My Darling - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214716.mp4
+#EXTINF:-1 tvg-name="Monster High O Filme - 2022" tvg-logo="http://5ce.me:80/images/768OBP28OA4mjavOUAIRlVo14Xu_big.jpg" group-title="LANCAMENTOS",Monster High O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213151.mp4
+#EXTINF:-1 tvg-name="Morbius - 2022" tvg-logo="http://5ce.co:80/images/6JjfSchsU6daXk2AKX8EEBjO3Fm_big.jpg" group-title="LANCAMENTOS",Morbius - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208147.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat Legends Cegueira Glacial - 2022" tvg-logo="http://5ce.me:80/images/psNu9P3I72GhuLrb5hFed1cvtsp_big.jpg" group-title="LANCAMENTOS",Mortal Kombat Legends Cegueira Glacial - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213322.mp4
+#EXTINF:-1 tvg-name="Morte ao Verao - 2021" tvg-logo="http://5ce.co:80/images/w9QODeryktRQktmfZuxGNinna7M_big.jpg" group-title="LANCAMENTOS",Morte ao Verao - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207751.mp4
+#EXTINF:-1 tvg-name="Morte Morte Morte - 2022 " tvg-logo="http://5ce.me:80/images/veTVl90P4lStxOLYNFn8bXozNcZ_big.jpg" group-title="LANCAMENTOS",Morte Morte Morte - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214129.mp4
+#EXTINF:-1 tvg-name="Mr Malcolms List - 2022" tvg-logo="http://5ce.me:80/images/76SeGCukVxqZFAJkke4fkk4uVN9_big.jpg" group-title="LANCAMENTOS",Mr Malcolms List - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215101.mp4
+#EXTINF:-1 tvg-name="Mucho Locos no Natal - 2022" tvg-logo="http://5ce.me:80/images/xJEJP8efhKgqu6z4dpe8P845VE7_big.jpg" group-title="LANCAMENTOS",Mucho Locos no Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215986.mp4
+#EXTINF:-1 tvg-name="Mundo Estranho - 2022" tvg-logo="http://5ce.me:80/images/4KXsKY8j87jr1oX2uwO1tMbl4Px_big.jpg" group-title="LANCAMENTOS",Mundo Estranho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216471.mp4
+#EXTINF:-1 tvg-name="Na Palma da Mao - 2023" tvg-logo="http://5ce.co:80/images/w6mwigYytOx5ksy1NLnEuq0mUAM_big.jpg" group-title="LANCAMENTOS",Na Palma da Mao - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218047.mp4
+#EXTINF:-1 tvg-name="Na Sua Casa ou na Minha - 2023" tvg-logo="http://5ce.co:80/images/m7OCBWL0CngPMwe4b0iEsGxrlYg_big.jpg" group-title="LANCAMENTOS",Na Sua Casa ou na Minha - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217778.mp4
+#EXTINF:-1 tvg-name="Naked Singularity - 2021" tvg-logo="http://5ce.co:80/images/grPHjXCX6n4AnZamHq43Oxl6z46_big.jpg" group-title="LANCAMENTOS",Naked Singularity - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205591.mp4
+#EXTINF:-1 tvg-name="Nao Me Diga Adeus - 2022" tvg-logo="http://5ce.co:80/images/lUPrLn7g5x0jrPP5pZWMVGlQy2s_big.jpg" group-title="LANCAMENTOS",Nao Me Diga Adeus - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209592.mp4
+#EXTINF:-1 tvg-name="Nao Nao Olhe - 2022 " tvg-logo="http://5ce.me:80/images/jDNkXOzqdffE5LIO4Nv4a2VxFCq_big.jpg" group-title="LANCAMENTOS",Nao Nao Olhe - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213488.mp4
+#EXTINF:-1 tvg-name="Nao Posso Sem Voce - 2022" tvg-logo="http://5ce.co:80/images/6aqirmuzcJVCNI0VZGpCzfIIn4J_big.jpg" group-title="LANCAMENTOS",Nao Posso Sem Voce - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208101.mp4
+#EXTINF:-1 tvg-name="Nao Se Preocupe Querida - 2022" tvg-logo="http://5ce.me:80/images/wkEuGtrwmQwk7U3FYzIYhmAwDhG_big.jpg" group-title="LANCAMENTOS",Nao Se Preocupe Querida - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214057.mp4
+#EXTINF:-1 tvg-name="Nao Va - 2022" tvg-logo="http://5ce.me:80/images/zVbVX28f6MvtlbwDknAUXfJjXZK_big.jpg" group-title="LANCAMENTOS",Nao Va - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214715.mp4
+#EXTINF:-1 tvg-name="Narvik - 2023" tvg-logo="http://5ce.co:80/images/lutKUOeedR5TZdfuMbD4fcAy64b_big.jpg" group-title="LANCAMENTOS",Narvik - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217239.mp4
+#EXTINF:-1 tvg-name="Nas Garras do Terror - 2021" tvg-logo="http://5ce.co:80/images/hwkD4byCLCWIyi6uA6Zm5XTr9WK_big.jpg" group-title="LANCAMENTOS",Nas Garras do Terror - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206448.mp4
+#EXTINF:-1 tvg-name="Nas Profundezas - 2022" tvg-logo="http://5ce.me:80/images/u4bDUBd6PJqP31u3KDiQBBtnaQs_big.jpg" group-title="LANCAMENTOS",Nas Profundezas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211535.mp4
+#EXTINF:-1 tvg-name="Natal Ao Vivo - 2022" tvg-logo="http://5ce.me:80/images/vI3ICLMa4hZGBmKpXpXflyIjIgm_big.jpg" group-title="LANCAMENTOS",Natal Ao Vivo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215951.mp4
+#EXTINF:-1 tvg-name="Natal Com Voce - 2022" tvg-logo="http://5ce.me:80/images/rU2sCry1YzuBoeMj06eWqTfponC_big.jpg" group-title="LANCAMENTOS",Natal Com Voce - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214857.mp4
+#EXTINF:-1 tvg-name="Natal em harmonia - 2022" tvg-logo="http://5ce.me:80/images/nCUN0VPubY818v0F3mPtNrFj4MQ_big.jpg" group-title="LANCAMENTOS",Natal em harmonia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215165.mp4
+#EXTINF:-1 tvg-name="Natal em Hollywood - 2022" tvg-logo="http://5ce.me:80/images/4BSOsZLMDO6sCNAqwFKwvTXo1BM_big.jpg" group-title="LANCAMENTOS",Natal em Hollywood - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215356.mp4
+#EXTINF:-1 tvg-name="Natal em Nova York - 2021" tvg-logo="http://5ce.me:80/images/5RUeCkjAOuoEGAchToUIQhJRFpp_big.jpg" group-title="LANCAMENTOS",Natal em Nova York - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216228.mp4
+#EXTINF:-1 tvg-name="Natal no Paraiso - 2022" tvg-logo="http://5ce.me:80/images/oGmEWfSuzuqWjqJa2KMuQnK9BqG_big.jpg" group-title="LANCAMENTOS",Natal no Paraiso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215846.mp4
+#EXTINF:-1 tvg-name="Natal Outra Vez - 2022" tvg-logo="http://5ce.me:80/images/u8cbfqsFcXBgoJhnsajx9tMTpTp_big.jpg" group-title="LANCAMENTOS",Natal Outra Vez - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216352.mp4
+#EXTINF:-1 tvg-name="Natal sem Filtro - 2022" tvg-logo="http://5ce.me:80/images/ovsE4gTvEetIRaZQnCa52otOVU9_big.jpg" group-title="LANCAMENTOS",Natal sem Filtro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215355.mp4
+#EXTINF:-1 tvg-name="No Lugar Errado - 2022" tvg-logo="http://5ce.me:80/images/9mxNku6g2JmGmKTGGEOpU4lvVWM_big.jpg" group-title="LANCAMENTOS",No Lugar Errado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214158.mp4
+#EXTINF:-1 tvg-name="Noite de Paris - 2022" tvg-logo="http://5ce.me:80/images/t5UGtAsH24q3t9GQpj0A7t9HXY9_big.jpg" group-title="LANCAMENTOS",Noite de Paris - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214968.mp4
+#EXTINF:-1 tvg-name="Noite Infeliz - 2022" tvg-logo="http://5ce.co:80/images/ooWaKY6CgJVamHg1hnnNf4pl2xR_big.jpg" group-title="LANCAMENTOS",Noite Infeliz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219636.mp4
+#EXTINF:-1 tvg-name="Noites Brutais - 2022" tvg-logo="http://5ce.me:80/images/tA5OE1P8GAEuASNtus5zhJrooI4_big.jpg" group-title="LANCAMENTOS",Noites Brutais - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213957.mp4
+#EXTINF:-1 tvg-name="North Hollywood - 2021" tvg-logo="http://5ce.co:80/images/zEhDElA9ZN4e1Cwod3ayrinWysk_big.jpg" group-title="LANCAMENTOS",North Hollywood - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209088.mp4
+#EXTINF:-1 tvg-name="Nos Limites da Amizade - 2022" tvg-logo="http://5ce.me:80/images/qsaTulk2SsZQmIIDd1R6CtsQQPg_big.jpg" group-title="LANCAMENTOS",Nos Limites da Amizade - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214811.mp4
+#EXTINF:-1 tvg-name="Nos Passarinhos - 2021" tvg-logo="http://5ce.co:80/images/kfnOnPWDokFoH4caabJi2oo7iB9_big.jpg" group-title="LANCAMENTOS",Nos Passarinhos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207669.mp4
+#EXTINF:-1 tvg-name="Nossa Mae e Para Sempre - 2022" tvg-logo="http://5ce.me:80/images/coPl2pKqOtwiq7HttcUlrkYe1y3_big.jpg" group-title="LANCAMENTOS",Nossa Mae e Para Sempre - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214266.mp4
+#EXTINF:-1 tvg-name="Nosso Natal Na Fazenda - 2022" tvg-logo="http://5ce.me:80/images/kW8HI9wOfUvcBemr5NHW2N5V7W8_big.jpg" group-title="LANCAMENTOS",Nosso Natal Na Fazenda - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215100.mp4
+#EXTINF:-1 tvg-name="Notre Dame  Desastre em Paris - 2022" tvg-logo="http://5ce.co:80/images/4Qe6fhD4seSPhprEx6VPTjfIXWo_big.jpg" group-title="LANCAMENTOS",Notre Dame  Desastre em Paris - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217860.mp4
+#EXTINF:-1 tvg-name="Nove Dias - 2021" tvg-logo="http://5ce.me:80/images/oMlyNKkdBCJX2t1zKy8dl8t2BXS_big.jpg" group-title="LANCAMENTOS",Nove Dias - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216158.mp4
+#EXTINF:-1 tvg-name="Nunca e Tarde para Recomecar - 2020" tvg-logo="http://5ce.co:80/images/9L68dKZrA6q7jPCmEa1sjBLcOdO_big.jpg" group-title="LANCAMENTOS",Nunca e Tarde para Recomecar - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208468.mp4
+#EXTINF:-1 tvg-name="O Acontecimento - 2021" tvg-logo="http://5ce.me:80/images/p4SEXbaIbQl9adB0qGlnEzLMahq_big.jpg" group-title="LANCAMENTOS",O Acontecimento - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210625.mp4
+#EXTINF:-1 tvg-name="O Alfaiate - 2022" tvg-logo="http://5ce.me:80/images/hKu1P98TtARG8wz5VSXIe28vfrG_big.jpg" group-title="LANCAMENTOS",O Alfaiate - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212214.mp4
+#EXTINF:-1 tvg-name="O Amanha e Hoje - 2022" tvg-logo="http://5ce.me:80/images/1rgf4MomMFjOdkskY6NYoHSy6uz_big.jpg" group-title="LANCAMENTOS",O Amanha e Hoje - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215842.mp4
+#EXTINF:-1 tvg-name="O Amante De Lady Chatterley - 2022" tvg-logo="http://5ce.me:80/images/aSgl2DxPG3DuQXoaHr500KeULmT_big.jpg" group-title="LANCAMENTOS",O Amante De Lady Chatterley - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215348.mp4
+#EXTINF:-1 tvg-name="O Apocalipse do Amor - 2022" tvg-logo="http://5ce.co:80/images/7wRwEhHgwlBlO8itVVA0yaPASBs_big.jpg" group-title="LANCAMENTOS",O Apocalipse do Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208751.mp4
+#EXTINF:-1 tvg-name="O Assassino em Serie de Long Island - 2021" tvg-logo="http://5ce.co:80/images/jGTKUpvuer4uEyHMKvAFuvZcGES_big.jpg" group-title="LANCAMENTOS",O Assassino em Serie de Long Island - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208257.mp4
+#EXTINF:-1 tvg-name="O Assasssino Happy Face A Mente de um Monstro - 2021" tvg-logo="http://5ce.co:80/images/rOZnx9hItg7RrsaSbdO8pMT6Q56_big.jpg" group-title="LANCAMENTOS",O Assasssino Happy Face A Mente de um Monstro - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208463.mp4
+#EXTINF:-1 tvg-name="O Balconista 3 - 2022" tvg-logo="http://5ce.me:80/images/apzIqZIQLc8fNx5nbbcSSfPFtax_big.jpg" group-title="LANCAMENTOS",O Balconista 3 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213490.mp4
+#EXTINF:-1 tvg-name="O Bom Garoto - 2022" tvg-logo="http://5ce.me:80/images/gMhd8XnmOjf8BSDhJ0QPjny72h4_big.jpg" group-title="LANCAMENTOS",O Bom Garoto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215099.mp4
+#EXTINF:-1 tvg-name="O Bom Vizinho - 2022" tvg-logo="http://5ce.me:80/images/mXJ2xI7B0Z9WxDjyv18anPsOxeE_big.jpg" group-title="LANCAMENTOS",O Bom Vizinho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210343.mp4
+#EXTINF:-1 tvg-name="O Caminho do Verao - 2022" tvg-logo="http://5ce.co:80/images/tqcSehEOf0mgaYRvyF9VHUPSZR0_big.jpg" group-title="LANCAMENTOS",O Caminho do Verao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206128.mp4
+#EXTINF:-1 tvg-name="O Caso Figo A Transferencia Que Mudou O Futebol - 2022" tvg-logo="http://5ce.me:80/images/2GQrzwE7HHBNAGnADKKKeXy7ke4_big.jpg" group-title="LANCAMENTOS",O Caso Figo A Transferencia Que Mudou O Futebol - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211404.mp4
+#EXTINF:-1 tvg-name="O Castelo do Lobisomen - 2022" tvg-logo="http://5ce.co:80/images/PsjLfJ0tdePq1whoSne7bddobp_big.jpg" group-title="LANCAMENTOS",O Castelo do Lobisomen - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208018.mp4
+#EXTINF:-1 tvg-name="O Cavaleiro Do Rei - 2022" tvg-logo="http://5ce.me:80/images/9AjIDqNC37ML6fPidheFBYG2xVF_big.jpg" group-title="LANCAMENTOS",O Cavaleiro Do Rei - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214267.mp4
+#EXTINF:-1 tvg-name="O Chefinho Bonus De Natal - 2022" tvg-logo="http://5ce.me:80/images/i6HDYVK2qubLKtcjS1WtN8bch6c_big.jpg" group-title="LANCAMENTOS",O Chefinho Bonus De Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215730.mp4
+#EXTINF:-1 tvg-name="O Clube dos Anjos - 2020" tvg-logo="http://5ce.co:80/images/7u9mXB449pNrjp592Twpzs10cCW_big.jpg" group-title="LANCAMENTOS",O Clube dos Anjos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219351.mp4
+#EXTINF:-1 tvg-name="O Contador de Cartas - 2021" tvg-logo="http://5ce.co:80/images/lZzWINLDNkhYn6B3IW8jZuqNllG_big.jpg" group-title="LANCAMENTOS",O Contador de Cartas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207137.mp4
+#EXTINF:-1 tvg-name="O Desconhecido - 2022" tvg-logo="http://5ce.me:80/images/pt4Ukp5FzN3PFFiG14E6phEV2rZ_big.jpg" group-title="LANCAMENTOS",O Desconhecido - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213599.mp4
+#EXTINF:-1 tvg-name="O Despertar das Tartarugas Ninja O Filme - 2022" tvg-logo="http://5ce.me:80/images/1lJgQ0cTKsU4gVEVkNOc6jEJU0o_big.jpg" group-title="LANCAMENTOS",O Despertar das Tartarugas Ninja O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210561.mp4
+#EXTINF:-1 tvg-name="O Despertar de um Assassino - 2019" tvg-logo="http://5ce.co:80/images/t2dYdtArwjZJRXbKNFlqr20g8Er_big.jpg" group-title="LANCAMENTOS",O Despertar de um Assassino - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204930.mp4
+#EXTINF:-1 tvg-name="O Despertar do tigre - 2022" tvg-logo="http://5ce.co:80/images/x2GFHvPMhSiCTmCVrdYGPU5SfH3_big.jpg" group-title="LANCAMENTOS",O Despertar do tigre - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208669.mp4
+#EXTINF:-1 tvg-name="O Destino de Haffmann - 2022" tvg-logo="http://5ce.me:80/images/yQ2s9RoFDJO6qFnv736aG6VbY7c_big.jpg" group-title="LANCAMENTOS",O Destino de Haffmann - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212719.mp4
+#EXTINF:-1 tvg-name="O Diario de Noel - 2022" tvg-logo="http://5ce.me:80/images/8v7nSSNmd5sfLj2MPshfBjJVtwn_big.jpg" group-title="LANCAMENTOS",O Diario de Noel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215166.mp4
+#EXTINF:-1 tvg-name="O Diario de um Banana As Regras do Rodrick - 2022" tvg-logo="http://5ce.me:80/images/4Mwa7LdBSena8MSYWzazpEMnRWq_big.jpg" group-title="LANCAMENTOS",O Diario de um Banana As Regras do Rodrick - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215454.mp4
+#EXTINF:-1 tvg-name="O Domingo das Maes - 2021" tvg-logo="http://5ce.me:80/images/v7IQSERVlm3zfGGDRltP91DgOgk_big.jpg" group-title="LANCAMENTOS",O Domingo das Maes - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213786.mp4
+#EXTINF:-1 tvg-name="O Dragao Do Meu Pai - 2022" tvg-logo="http://5ce.me:80/images/bfhokk0aVLI6BRIomo2OsXwtmJl_big.jpg" group-title="LANCAMENTOS",O Dragao Do Meu Pai - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214714.mp4
+#EXTINF:-1 tvg-name="O Duque - 2021" tvg-logo="http://5ce.me:80/images/dZVzuH1Qau3WMndO2ISRbFTOhY1_big.jpg" group-title="LANCAMENTOS",O Duque - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211671.mp4
+#EXTINF:-1 tvg-name="O Efeito Martha mitchell - 2022" tvg-logo="http://5ce.co:80/images/oqH8px0GU4OFZkKLV1AyNgIvV49_big.jpg" group-title="LANCAMENTOS",O Efeito Martha mitchell - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208704.mp4
+#EXTINF:-1 tvg-name="O Enfermeiro Da Noite - 2022" tvg-logo="http://5ce.me:80/images/cTp35hVdiVFEVOTSO7HLhmiXx8f_big.jpg" group-title="LANCAMENTOS",O Enfermeiro Da Noite - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213956.mp4
+#EXTINF:-1 tvg-name="O Espaco Entre Nos - 2021" tvg-logo="http://5ce.co:80/images/rzqf3ysrUjEbCVyITHUIBiMUp8q_big.jpg" group-title="LANCAMENTOS",O Espaco Entre Nos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208256.mp4
+#EXTINF:-1 tvg-name="O Espirito do Natal - 2022" tvg-logo="http://5ce.me:80/images/jdPcQsTEeOR7yfDawowwtS4gltp_big.jpg" group-title="LANCAMENTOS",O Espirito do Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216357.mp4
+#EXTINF:-1 tvg-name="O Exorcismo da Minha Melhor Amiga - 2022" tvg-logo="http://5ce.me:80/images/uDNsaFksrA78eMEfVoaGRCAbIHk_big.jpg" group-title="LANCAMENTOS",O Exorcismo da Minha Melhor Amiga - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212718.mp4
+#EXTINF:-1 tvg-name="O Fantasma Vermelho - 2020" tvg-logo="http://5ce.me:80/images/7OpcrpuTSYOXd5IGfcPPPjbzNhm_big.jpg" group-title="LANCAMENTOS",O Fantasma Vermelho - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210423.mp4
+#EXTINF:-1 tvg-name="O Festival dos Trovadores - 2022" tvg-logo="http://5ce.me:80/images/70JB1IwPg5Ivf2D1Txk2VTAbbVI_big.jpg" group-title="LANCAMENTOS",O Festival dos Trovadores - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211701.mp4
+#EXTINF:-1 tvg-name="O Garoto que Hackeou o Twitter - 2021" tvg-logo="https://i.bj-share.info/cf8207a920035e28a17a1b076f4b69b1.jpg" group-title="LANCAMENTOS",O Garoto que Hackeou o Twitter - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216735.mp4
+#EXTINF:-1 tvg-name="O Golpe - 2019" tvg-logo="http://5ce.co:80/images/rOIWNpTDUfIqBJI87vCDqGkCY0h_big.jpg" group-title="LANCAMENTOS",O Golpe - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205589.mp4
+#EXTINF:-1 tvg-name="O Homen de Toronto - 2022" tvg-logo="http://5ce.co:80/images/A7WtrzlvLAhdmXObY9aZCRhtAMs_big.jpg" group-title="LANCAMENTOS",O Homen de Toronto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209089.mp4
+#EXTINF:-1 tvg-name="O Homen do Jazz - 2022" tvg-logo="http://5ce.me:80/images/juvKmySdoCFmjuPeokOtEK3jGHx_big.jpg" group-title="LANCAMENTOS",O Homen do Jazz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212572.mp4
+#EXTINF:-1 tvg-name="O Homen Ideal - 2021" tvg-logo="http://5ce.co:80/images/v13p6KlgD7Y1Tas6X8GLJzv5zRe_big.jpg" group-title="LANCAMENTOS",O Homen Ideal - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209510.mp4
+#EXTINF:-1 tvg-name="O Imperador das Drogas - 2022" tvg-logo="http://5ce.co:80/images/weuTtmbp9tqzb87Qq3ad5K35Asm_big.jpg" group-title="LANCAMENTOS",O Imperador das Drogas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205843.mp4
+#EXTINF:-1 tvg-name="O Impostor Mascarado - 2022" tvg-logo="http://5ce.me:80/images/7TQLEXSrGPMn0EVCjyBJkSHGpqj_big.jpg" group-title="LANCAMENTOS",O Impostor Mascarado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215354.mp4
+#EXTINF:-1 tvg-name="O Jardim Secreto de Mariana - 2021" tvg-logo="http://5ce.co:80/images/62hZk5rAc1BB4LBDpajmr0URA7c_big.jpg" group-title="LANCAMENTOS",O Jardim Secreto de Mariana - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208467.mp4
+#EXTINF:-1 tvg-name="O Jogo de Amor Odio - 2021" tvg-logo="http://5ce.co:80/images/nWTeXUGWsSDoDLC4UucMeM07gA5_big.jpg" group-title="LANCAMENTOS",O Jogo de Amor Odio - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206447.mp4
+#EXTINF:-1 tvg-name="O Jogo de Amor Odio - 2021" tvg-logo="http://5ce.me:80/images/nWTeXUGWsSDoDLC4UucMeM07gA5_big.jpg" group-title="LANCAMENTOS",O Jogo de Amor Odio - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214782.mp4
+#EXTINF:-1 tvg-name="O Lendario Cao Guerreiro - 2022" tvg-logo="http://5ce.me:80/images/4Ylu4HPjgXvNjWVOSVBrpaoYeof_big.jpg" group-title="LANCAMENTOS",O Lendario Cao Guerreiro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213150.mp4
+#EXTINF:-1 tvg-name="O Lobo E O Leao - 2022" tvg-logo="http://5ce.me:80/images/aSRvK4kLJORBrVdlFn2wrGx8XPv_big.jpg" group-title="LANCAMENTOS",O Lobo E O Leao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215190.mp4
+#EXTINF:-1 tvg-name="O Lobo Viking - 2022" tvg-logo="http://5ce.co:80/images/gWfa1uahpIXlNkv7AMEvQt4VMde_big.jpg" group-title="LANCAMENTOS",O Lobo Viking - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217485.mp4
+#EXTINF:-1 tvg-name="O Maravilhoso Outono do Mickey Mouse - 2022" tvg-logo="http://5ce.me:80/images/aLVcwkgQ0nPLlE8lg0XbFxPdX5t_big.jpg" group-title="LANCAMENTOS",O Maravilhoso Outono do Mickey Mouse - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214980.mp4
+#EXTINF:-1 tvg-name="O Matador Missao Resgate - 2022" tvg-logo="http://5ce.me:80/images/9aVY0w3q2bxZX9rcGOGSWiM7mH8_big.jpg" group-title="LANCAMENTOS",O Matador Missao Resgate - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216354.mp4
+#EXTINF:-1 tvg-name="O Meme do Mal - 2022" tvg-logo="http://5ce.me:80/images/wAjwcIUMOM5ADGvzrqwTtrZhKYy_big.jpg" group-title="LANCAMENTOS",O Meme do Mal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213237.mp4
+#EXTINF:-1 tvg-name="O Menino e o Tigre - 2022" tvg-logo="http://5ce.co:80/images/1MUFa3ZgAgjKvGtwO3qcMjKEGPF_big.jpg" group-title="LANCAMENTOS",O Menino e o Tigre - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219746.mp4
+#EXTINF:-1 tvg-name="O Menu - 2022" tvg-logo="http://5ce.me:80/images/qE4FZQiaQcKo9mYuqu2SwLIgbwG_big.jpg" group-title="LANCAMENTOS",O Menu - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216670.mp4
+#EXTINF:-1 tvg-name="O Milagre - 2022" tvg-logo="http://5ce.me:80/images/qD9E23xFvZ5KjTmEiYf3DuMTNlC_big.jpg" group-title="LANCAMENTOS",O Milagre - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214858.mp4
+#EXTINF:-1 tvg-name="O Milagre de Natal - 2021" tvg-logo="http://5ce.me:80/images/dVnLRTr1nk5bGYaBeVRbpJ6splH_big.jpg" group-title="LANCAMENTOS",O Milagre de Natal - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216229.mp4
+#EXTINF:-1 tvg-name="O Misterio de Marilyn Monroe - Gravacoes Ineditas - 2022" tvg-logo="http://5ce.co:80/images/vXuUH4IGkB3B2gJWkLStSLGRewa_big.jpg" group-title="LANCAMENTOS",O Misterio de Marilyn Monroe - Gravacoes Ineditas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205412.mp4
+#EXTINF:-1 tvg-name="O Monasterio - 2022" tvg-logo="http://5ce.me:80/images/y47wBamj9vdqBeGaLEFTrYEPTeC_big.jpg" group-title="LANCAMENTOS",O Monasterio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213955.mp4
+#EXTINF:-1 tvg-name="O Mundo de Mia  A Esperança de Centopia - 2022" tvg-logo="http://5ce.me:80/images/czkzXAtaJ09DNvmSGjsIndrXZqa_big.jpg" group-title="LANCAMENTOS",O Mundo de Mia  A Esperança de Centopia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214050.mp4
+#EXTINF:-1 tvg-name="O Paciente Perdido - 2022" tvg-logo="http://5ce.me:80/images/3ZSZ2wtbABFnFlFgroY3RSlNmP8_big.jpg" group-title="LANCAMENTOS",O Paciente Perdido - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215233.mp4
+#EXTINF:-1 tvg-name="O Pacto - 2021" tvg-logo="http://5ce.co:80/images/ipZ1EoENjq2yOCdNWSwZZHcPOBY_big.jpg" group-title="LANCAMENTOS",O Pacto - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209888.mp4
+#EXTINF:-1 tvg-name="O Pai da Noiva - 2022" tvg-logo="http://5ce.co:80/images/6605qfGpSGqNcUNY0nUgeE5z01v_big.jpg" group-title="LANCAMENTOS",O Pai da Noiva - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208702.mp4
+#EXTINF:-1 tvg-name="O Pai da Rita - 2022" tvg-logo="http://5ce.co:80/images/vSWzlq9jQJTLwG7xD8tLaT8cdE1_big.jpg" group-title="LANCAMENTOS",O Pai da Rita - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208750.mp4
+#EXTINF:-1 tvg-name="O Palestrante - 2022" tvg-logo="http://5ce.me:80/images/pMuCfqBlaHaxTD2eIK1IyhQlXUx_big.jpg" group-title="LANCAMENTOS",O Palestrante - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213598.mp4
+#EXTINF:-1 tvg-name="O Palido Olho Azul - 2022" tvg-logo="http://5ce.me:80/images/x98eB1JokifNYRcgyxyMf4TQbsO_big.jpg" group-title="LANCAMENTOS",O Palido Olho Azul - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216736.mp4
+#EXTINF:-1 tvg-name="O Perdoado - 2022" tvg-logo="http://5ce.me:80/images/6qDIG0G0ARjgej8pOoazZqzi3Uz_big.jpg" group-title="LANCAMENTOS",O Perdoado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216095.mp4
+#EXTINF:-1 tvg-name="O Perfumista - 2022" tvg-logo="http://5ce.me:80/images/9scjnoZYrkNaOmIlpI1hm9LOMJL_big.jpg" group-title="LANCAMENTOS",O Perfumista - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212449.mp4
+#EXTINF:-1 tvg-name="O Peso do Talento - 2022" tvg-logo="http://5ce.co:80/images/4KahLgGArTECtUJWN9ACGR6l1S_big.jpg" group-title="LANCAMENTOS",O Peso do Talento - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208466.mp4
+#EXTINF:-1 tvg-name="O Pior Vizinho do Mundo - 2022" tvg-logo="http://5ce.co:80/images/oXHNdN1hjg6RFQ5NP618KSAIrdE_big.jpg" group-title="LANCAMENTOS",O Pior Vizinho do Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219350.mp4
+#EXTINF:-1 tvg-name="O Preco da Familia - 2022" tvg-logo="http://5ce.co:80/images/LajfxwKDkZlbKacfLvrzLMIocQ_big.jpg" group-title="LANCAMENTOS",O Preco da Familia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217249.mp4
+#EXTINF:-1 tvg-name="O Predador A Cacada - 2022" tvg-logo="http://5ce.me:80/images/g7Ii9sYAFG96W7cvMQ4zXq39RJ5_big.jpg" group-title="LANCAMENTOS",O Predador A Cacada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210556.mp4
+#EXTINF:-1 tvg-name="O Presidente Improvável - 2022" tvg-logo="http://5ce.co:80/images/k1wCIvdTo3WHXa4XFaJNyf3psxP_big.jpg" group-title="LANCAMENTOS",O Presidente Improvável - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205587.mp4
+#EXTINF:-1 tvg-name="O Rei da Festa - 2021" tvg-logo="http://5ce.co:80/images/58wdFd013l6bRjpViTv5PYy2EQ4_big.jpg" group-title="LANCAMENTOS",O Rei da Festa - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209081.mp4
+#EXTINF:-1 tvg-name="O Rei das Fugas - 2022" tvg-logo="http://5ce.co:80/images/7QpoARuHNYZdpUUd0YUIHCaOi9P_big.jpg" group-title="LANCAMENTOS",O Rei das Fugas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206558.mp4
+#EXTINF:-1 tvg-name="O Ritual Presenca Maligna - 2020" tvg-logo="http://5ce.co:80/images/lRB9wWqOGk6LexsDb6VXMsQBdE2_big.jpg" group-title="LANCAMENTOS",O Ritual Presenca Maligna - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207747.mp4
+#EXTINF:-1 tvg-name="O Segredo de Jekyll  Hyde - 2021" tvg-logo="http://5ce.co:80/images/ftHF12rFYlniimU0BqAbDzLxFbJ_big.jpg" group-title="LANCAMENTOS",O Segredo de Jekyll  Hyde - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206405.mp4
+#EXTINF:-1 tvg-name="O segredo nas Montanhas - 2020" tvg-logo="http://5ce.co:80/images/bRH3YYwsnZ6phSvIFrGFtgGxycv_big.jpg" group-title="LANCAMENTOS",O segredo nas Montanhas - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208465.mp4
+#EXTINF:-1 tvg-name="O Sentido da Vida - 2022" tvg-logo="http://5ce.co:80/images/wHX3FRG85FBtaWxxFkDeYqsv5Sf_big.jpg" group-title="LANCAMENTOS",O Sentido da Vida - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205410.mp4
+#EXTINF:-1 tvg-name="O Sequestrador de Cleveland - 2022" tvg-logo="http://5ce.me:80/images/yfZnKJ7XEscF7EipYt8zyHAEaVW_big.jpg" group-title="LANCAMENTOS",O Sequestrador de Cleveland - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210348.mp4
+#EXTINF:-1 tvg-name="O Sistema - 2022" tvg-logo="http://5ce.co:80/images/5v3grtPk3QSdjDP8ggpylA3hgIy_big.jpg" group-title="LANCAMENTOS",O Sistema - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218686.mp4
+#EXTINF:-1 tvg-name="O Skate Me Levou - 2022" tvg-logo="http://5ce.me:80/images/9Rckj6QGD9eadX8VSsOM2lD4gT3_big.jpg" group-title="LANCAMENTOS",O Skate Me Levou - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215305.mp4
+#EXTINF:-1 tvg-name="O Sobrevivente - 2021" tvg-logo="http://5ce.co:80/images/eGasiClJNhuQa80IZwwlV1Mb0Qm_big.jpg" group-title="LANCAMENTOS",O Sobrevivente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205409.mp4
+#EXTINF:-1 tvg-name="O Sol de Amalfi - 2022" tvg-logo="http://5ce.co:80/images/6XmVuAanq5ZxYSz1WlWT9nnRLQI_big.jpg" group-title="LANCAMENTOS",O Sol de Amalfi - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209573.mp4
+#EXTINF:-1 tvg-name="O Soldado que Nao Existiu - 2022" tvg-logo="http://5ce.co:80/images/twAoW3HSu0RpBLSwCsx2eY1fnMf_big.jpg" group-title="LANCAMENTOS",O Soldado que Nao Existiu - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206557.mp4
+#EXTINF:-1 tvg-name="O Sonho de Ontem - 2022" tvg-logo="http://5ce.me:80/images/wnxUfNb1PHrFaUgyGnLQ1WGSmdA_big.jpg" group-title="LANCAMENTOS",O Sonho de Ontem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216071.mp4
+#EXTINF:-1 tvg-name="O Telefone Do Sr Harrigan - 2022" tvg-logo="http://5ce.me:80/images/7JptBMGTikUK4CxJpG9cNTYAGjV_big.jpg" group-title="LANCAMENTOS",O Telefone Do Sr Harrigan - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213149.mp4
+#EXTINF:-1 tvg-name="O Telefone Preto - 2022" tvg-logo="http://5ce.me:80/images/vqaq3mYQ7oxZM4CCHuevUoQLs4C_big.jpg" group-title="LANCAMENTOS",O Telefone Preto - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211531.mp4
+#EXTINF:-1 tvg-name="O Territorio - 2022" tvg-logo="http://5ce.me:80/images/88lHYgTEPiXiMRZRgudfPMHzML3_big.jpg" group-title="LANCAMENTOS",O Territorio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214859.mp4
+#EXTINF:-1 tvg-name="O Tesouro Perdido - 2020" tvg-logo="http://5ce.co:80/images/jBHbH1qPhksi4SWfXIS02bbRyEL_big.jpg" group-title="LANCAMENTOS",O Tesouro Perdido - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208464.mp4
+#EXTINF:-1 tvg-name="O Time da Redencao - 2022" tvg-logo="http://5ce.me:80/images/8G9XOb9bO9LusWEI2dOAyaCf8Bb_big.jpg" group-title="LANCAMENTOS",O Time da Redencao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213229.mp4
+#EXTINF:-1 tvg-name="O Ultimo Dragao - 2022" tvg-logo="http://5ce.co:80/images/7xgLuY6cLcJZDw629gCOKzN7Xxv_big.jpg" group-title="LANCAMENTOS",O Ultimo Dragao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209708.mp4
+#EXTINF:-1 tvg-name="O Último Jogo - 2022" tvg-logo="http://5ce.co:80/images/xGI67Qu22wAKJQU6CqhZVB3KSmP_big.jpg" group-title="LANCAMENTOS",O Último Jogo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205034.mp4
+#EXTINF:-1 tvg-name="O Ultimo Ritual - 2021" tvg-logo="http://5ce.co:80/images/9WpuwUQdH9f0Iow2H6GR6bNqAof_big.jpg" group-title="LANCAMENTOS",O Ultimo Ritual - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206913.mp4
+#EXTINF:-1 tvg-name="O Velho - 2021" tvg-logo="http://5ce.co:80/images/eNYpkVgr4qCCiPYU07zaJkZiw2a_big.jpg" group-title="LANCAMENTOS",O Velho - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207138.mp4
+#EXTINF:-1 tvg-name="O Voo do Falcao - 2020" tvg-logo="http://5ce.me:80/images/rewaDG5F3oGdAY2AEV6IgXKWfL6_big.jpg" group-title="LANCAMENTOS",O Voo do Falcao - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210531.mp4
+#EXTINF:-1 tvg-name="Obi Wan Kenobi  O Retorno do Jedi - 2022" tvg-logo="http://5ce.me:80/images/gIFwT8iabcTrcufg8LwuX6aMf5m_big.jpg" group-title="LANCAMENTOS",Obi Wan Kenobi  O Retorno do Jedi - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211775.mp4
+#EXTINF:-1 tvg-name="Oficina do Diabo - 2022" tvg-logo="http://5ce.me:80/images/rowUyokuj4xb17eWvghIry6nLgN_big.jpg" group-title="LANCAMENTOS",Oficina do Diabo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214186.mp4
+#EXTINF:-1 tvg-name="Ola Adeus e Tudo Mais - 2022" tvg-logo="http://5ce.co:80/images/5ylwAm72InwqOcr32nwk9hlNz05_big.jpg" group-title="LANCAMENTOS",Ola Adeus e Tudo Mais - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209501.mp4
+#EXTINF:-1 tvg-name="Operacao Cerveja - 2022" tvg-logo="http://5ce.me:80/images/purjgeOOOZKJ9MIHTyGdAJ0LsJE_big.jpg" group-title="LANCAMENTOS",Operacao Cerveja - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212717.mp4
+#EXTINF:-1 tvg-name="Orfa 2 A Origem - 2022" tvg-logo="http://5ce.me:80/images/uRdpVgEufzYNVnDPTXEjt0mpD99_big.jpg" group-title="LANCAMENTOS",Orfa 2 A Origem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213984.mp4
+#EXTINF:-1 tvg-name="Original Gangster - 2020" tvg-logo="http://5ce.co:80/images/6rYaAtAfKkXhgx4FAepplAidZIV_big.jpg" group-title="LANCAMENTOS",Original Gangster - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206914.mp4
+#EXTINF:-1 tvg-name="Os 13 Sobreviventes da Caverna - 2022" tvg-logo="http://5ce.me:80/images/xF55KYpT70qho6PkJf4NQpgjNdL_big.jpg" group-title="LANCAMENTOS",Os 13 Sobreviventes da Caverna - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213148.mp4
+#EXTINF:-1 tvg-name="Os 4 Malfeitores - 2022" tvg-logo="http://5ce.me:80/images/u8585nsrmZAW41JkhlhNTQZpfM0_big.jpg" group-title="LANCAMENTOS",Os 4 Malfeitores - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216139.mp4
+#EXTINF:-1 tvg-name="Os Caras Malvados - 2022" tvg-logo="http://5ce.co:80/images/syKg3OmdtSYmkA7nNdtPUYdSFGL_big.jpg" group-title="LANCAMENTOS",Os Caras Malvados - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205950.mp4
+#EXTINF:-1 tvg-name="Os Ceus do Norte sobre o Vazio - 2022" tvg-logo="http://5ce.me:80/images/5Y9h7BNjm3PgR0mk6XjGszaRoWa_big.jpg" group-title="LANCAMENTOS",Os Ceus do Norte sobre o Vazio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214052.mp4
+#EXTINF:-1 tvg-name="Os Odiados do Casamento - 2022" tvg-logo="http://5ce.me:80/images/kQZKw9jetOInPPdSZgbKFxJALHc_big.jpg" group-title="LANCAMENTOS",Os Odiados do Casamento - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214898.mp4
+#EXTINF:-1 tvg-name="Os Opostos Sempre Se Atraem - 2022" tvg-logo="http://5ce.co:80/images/o1KfmIKXZb3zXYWFKWt31G3w8DI_big.jpg" group-title="LANCAMENTOS",Os Opostos Sempre Se Atraem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206145.mp4
+#EXTINF:-1 tvg-name="Os Patrulheiros em Acao Salvam o Natal - 2022" tvg-logo="http://5ce.me:80/images/a6MUJa8xIBQnx0a5Us5pEe38l9P_big.jpg" group-title="LANCAMENTOS",Os Patrulheiros em Acao Salvam o Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215256.mp4
+#EXTINF:-1 tvg-name="Os Primeiros Soldados - 2022" tvg-logo="http://5ce.me:80/images/l1lnt0MtehsWbQPf5Ni5qUAsII2_big.jpg" group-title="LANCAMENTOS",Os Primeiros Soldados - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212905.mp4
+#EXTINF:-1 tvg-name="Os Refens de Gladbeck - 2022" tvg-logo="http://5ce.co:80/images/3PZjv1WoTeZKK1Xl5nTVDbKZOWl_big.jpg" group-title="LANCAMENTOS",Os Refens de Gladbeck - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208255.mp4
+#EXTINF:-1 tvg-name="Os Reis do Mundo - 2022" tvg-logo="http://5ce.me:80/images/s4QmLssxhPS9BlUvUQFvyZnv91a_big.jpg" group-title="LANCAMENTOS",Os Reis do Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216669.mp4
+#EXTINF:-1 tvg-name="Os Suburbanos O Filme - 2022" tvg-logo="http://5ce.me:80/images/wosEdGvBzt8nVLHAJ9cljfo0AEG_big.jpg" group-title="LANCAMENTOS",Os Suburbanos O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216097.mp4
+#EXTINF:-1 tvg-name="Os Tenis Encantados - 2022" tvg-logo="http://5ce.co:80/images/ju8duC4TXVqRTePcEww9VVtXbxU_big.jpg" group-title="LANCAMENTOS",Os Tenis Encantados - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206777.mp4
+#EXTINF:-1 tvg-name="Os Ultimos Dias de Copacabana Jack -2018" tvg-logo="http://5ce.co:80/images/9aIjj3Ql5wwhMIBsmsxBH4fVAic_big.jpg" group-title="LANCAMENTOS",Os Ultimos Dias de Copacabana Jack -2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205586.mp4
+#EXTINF:-1 tvg-name="Overdose - 2022" tvg-logo="http://5ce.me:80/images/lucCmx1bOshDHKP8cBnuSaSc3Lg_big.jpg" group-title="LANCAMENTOS",Overdose - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214268.mp4
+#EXTINF:-1 tvg-name="Pai A Gente So Tem Um  3 - 2022" tvg-logo="http://5ce.me:80/images/j67LwN2ZwgEmqHaUZaWgTBE8XC7_big.jpg" group-title="LANCAMENTOS",Pai A Gente So Tem Um  3 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215889.mp4
+#EXTINF:-1 tvg-name="Pai Nosso - 2021" tvg-logo="http://5ce.co:80/images/VK9pTUt29zQf0DwmLO93T2XHt7_big.jpg" group-title="LANCAMENTOS",Pai Nosso - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206556.mp4
+#EXTINF:-1 tvg-name="Paixao Sufocante - 2022" tvg-logo="http://5ce.me:80/images/kYIPV5vcZOKWiKleJCmZvHAjnBk_big.jpg" group-title="LANCAMENTOS",Paixao Sufocante - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211965.mp4
+#EXTINF:-1 tvg-name="Paloma - 2022" tvg-logo="http://5ce.me:80/images/xHM0aC7ZfluT9FxVqa3PnKgncTK_big.jpg" group-title="LANCAMENTOS",Paloma - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215346.mp4
+#EXTINF:-1 tvg-name="Pamela Anderson  Uma Historia de Amor - 2023" tvg-logo="http://5ce.co:80/images/wyBM5BKBt8D7rdjzd65UXIMf9BO_big.jpg" group-title="LANCAMENTOS",Pamela Anderson  Uma Historia de Amor - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217405.mp4
+#EXTINF:-1 tvg-name="Panama - 2022" tvg-logo="http://5ce.me:80/images/u9DzgsmssidygWuORgYzhi317vj_big.jpg" group-title="LANCAMENTOS",Panama - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213597.mp4
+#EXTINF:-1 tvg-name="Pandemia: A Guerra Final - 2022" tvg-logo="http://5ce.co:80/images/zBQFWjOIE3hoYCG67Y3VVaSnLyc_big.jpg" group-title="LANCAMENTOS",Pandemia: A Guerra Final - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198689.mp4
+#EXTINF:-1 tvg-name="Panico  A Historia por Tras do Filme - 2022" tvg-logo="http://5ce.me:80/images/l2vm6wdXjkxxTQSWOoquVUEz4Qo_big.jpg" group-title="LANCAMENTOS",Panico  A Historia por Tras do Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213057.mp4
+#EXTINF:-1 tvg-name="Para Sempre Amor - 2022" tvg-logo="http://5ce.me:80/images/yuIsVUUQHvOc5UH5R0pVcXVUTX0_big.jpg" group-title="LANCAMENTOS",Para Sempre Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216069.mp4
+#EXTINF:-1 tvg-name="PartiuFama  Cancelado no Amor - 2022" tvg-logo="http://5ce.me:80/images/24eEIEi7bgGmNDnsfkC6FAQTF8_big.jpg" group-title="LANCAMENTOS",PartiuFama  Cancelado no Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212263.mp4
+#EXTINF:-1 tvg-name="Passado Violento - 2021" tvg-logo="http://5ce.co:80/images/4cxFO7AlQOotgA45nuuej2DMyiw_big.jpg" group-title="LANCAMENTOS",Passado Violento - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207668.mp4
+#EXTINF:-1 tvg-name="Passageiro 666 - 2021" tvg-logo="http://5ce.co:80/images/lUwStG9I5MXpLkV0yV1HYRCwxB9_big.jpg" group-title="LANCAMENTOS",Passageiro 666 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205951.mp4
+#EXTINF:-1 tvg-name="Passagem Secreta - 2021" tvg-logo="http://5ce.co:80/images/1NB89sWY4coysIN9xyKMmJ3H7s0_big.jpg" group-title="LANCAMENTOS",Passagem Secreta - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209603.mp4
+#EXTINF:-1 tvg-name="Passei por Aqui - 2022" tvg-logo="http://5ce.me:80/images/txyWmAMhoy6liIueQhBnjqcbrSr_big.jpg" group-title="LANCAMENTOS",Passei por Aqui - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211534.mp4
+#EXTINF:-1 tvg-name="People Just Do Nothing Big in Japan - 2021" tvg-logo="http://5ce.me:80/images/d2wft3qQX1fCqPTUdujwxhj9S23_big.jpg" group-title="LANCAMENTOS",People Just Do Nothing Big in Japan - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210421.mp4
+#EXTINF:-1 tvg-name="Perigo no Grupo de Maes - 2022" tvg-logo="http://5ce.me:80/images/fzd6YA9sWePtMElRDEcAQzUSv3I_big.jpg" group-title="LANCAMENTOS",Perigo no Grupo de Maes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213784.mp4
+#EXTINF:-1 tvg-name="Perseguicao as Bruxas - 2022" tvg-logo="http://5ce.me:80/images/8L7u2Bh0y9QCf0bO0K0y7gzytaK_big.jpg" group-title="LANCAMENTOS",Perseguicao as Bruxas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213323.mp4
+#EXTINF:-1 tvg-name="Perseguicao nas Alturas - 2022" tvg-logo="http://5ce.co:80/images/yFjL4xFc6uxrfxBuZLei6L268SM_big.jpg" group-title="LANCAMENTOS",Perseguicao nas Alturas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219349.mp4
+#EXTINF:-1 tvg-name="Persuasao - 2022" tvg-logo="http://5ce.co:80/images/2G6FSKMLlu2sZ9QfzsUWoLjBxgq_big.jpg" group-title="LANCAMENTOS",Persuasao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209591.mp4
+#EXTINF:-1 tvg-name="Phobias - 2021" tvg-logo="http://5ce.me:80/images/zpecci4IooFiwMVGknhm8Jz2FHo_big.jpg" group-title="LANCAMENTOS",Phobias - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213805.mp4
+#EXTINF:-1 tvg-name="Pilotos de Guerra - 2021" tvg-logo="http://5ce.me:80/images/c3EnvbwhnT6u7HAiEVunDpNSYv0_big.jpg" group-title="LANCAMENTOS",Pilotos de Guerra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215888.mp4
+#EXTINF:-1 tvg-name="Pinoquio - 2022" tvg-logo="http://5ce.me:80/images/h32gl4a3QxQWNiNaR4Fc1uvLBkV_big.jpg" group-title="LANCAMENTOS",Pinoquio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211776.mp4
+#EXTINF:-1 tvg-name="Plano A Plano B - 2022" tvg-logo="http://5ce.me:80/images/nkkCrLwejvUBP1fEUMiOJoREuZl_big.jpg" group-title="LANCAMENTOS",Plano A Plano B - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212848.mp4
+#EXTINF:-1 tvg-name="Plano de Aula - 2022" tvg-logo="http://5ce.me:80/images/2QE0YczuK6RMTvRY6uBa2t65kY7_big.jpg" group-title="LANCAMENTOS",Plano de Aula - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215098.mp4
+#EXTINF:-1 tvg-name="Pluft  O Fantasminha - 2022" tvg-logo="http://5ce.me:80/images/45Yk7nu8aMsIVNVxXGJD5iDGc8s_big.jpg" group-title="LANCAMENTOS",Pluft  O Fantasminha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216945.mp4
+#EXTINF:-1 tvg-name="Pokemon As Cronicas De Arceus - 2022" tvg-logo="http://5ce.me:80/images/hQrtZVUcPx3R0PWgYIFuJHvy6RK_big.jpg" group-title="LANCAMENTOS",Pokemon As Cronicas De Arceus - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212547.mp4
+#EXTINF:-1 tvg-name="Ponto de Inflexao - 2021" tvg-logo="http://5ce.co:80/images/2xN6wZ5bktZMig5IfSJftUomvFa_big.jpg" group-title="LANCAMENTOS",Ponto de Inflexao - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204849.mp4
+#EXTINF:-1 tvg-name="Post Mortem  Fotos do Alem - 2021" tvg-logo="http://5ce.co:80/images/yslSqpWq1bOHkwELIrirfOZXNWT_big.jpg" group-title="LANCAMENTOS",Post Mortem  Fotos do Alem - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209090.mp4
+#EXTINF:-1 tvg-name="Predestinado  Arigo e o Espírito do Dr  Fritz - 2022" tvg-logo="http://5ce.me:80/images/qx8v1E6t0GvUAUFdXjyE1L5D6qW_big.jpg" group-title="LANCAMENTOS",Predestinado  Arigo e o Espírito do Dr  Fritz - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213918.mp4
+#EXTINF:-1 tvg-name="Presente Amaldicoado - 2021" tvg-logo="http://5ce.me:80/images/psaYUHDotafhVNAE1pZN2GkRXJY_big.jpg" group-title="LANCAMENTOS",Presente Amaldicoado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210420.mp4
+#EXTINF:-1 tvg-name="Presidentes  - 2021" tvg-logo="http://5ce.me:80/images/rlHMQK4cyvzqsOUZCSJEAQkd8qm_big.jpg" group-title="LANCAMENTOS",Presidentes  - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210065.mp4
+#EXTINF:-1 tvg-name="Princesa por Acidente - 2021" tvg-logo="http://5ce.me:80/images/bzl8Z3PdFQscUI568ZvGb0y5d9U_big.jpg" group-title="LANCAMENTOS",Princesa por Acidente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210629.mp4
+#EXTINF:-1 tvg-name="Procura se - 2022" tvg-logo="http://5ce.me:80/images/4crb85CKFPAFsQqfBlkBl86vfVE_big.jpg" group-title="LANCAMENTOS",Procura se - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215213.mp4
+#EXTINF:-1 tvg-name="Procura se Gonker - 2023" tvg-logo="http://5ce.me:80/images/ziAL5224J9QHA0S0exarpkz4eUN_big.jpg" group-title="LANCAMENTOS",Procura se Gonker - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216927.mp4
+#EXTINF:-1 tvg-name="Profile - 2022" tvg-logo="http://5ce.co:80/images/mQUVU5fX7QBRUeCjzeiZLGn5D5s_big.jpg" group-title="LANCAMENTOS",Profile - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206872.mp4
+#EXTINF:-1 tvg-name="Programa DNA - 2021" tvg-logo="http://5ce.me:80/images/fS4iDFNLxRJngyzS7n2JoPvfhDp_big.jpg" group-title="LANCAMENTOS",Programa DNA - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216094.mp4
+#EXTINF:-1 tvg-name="Promocao do Seculo - 2022" tvg-logo="http://5ce.me:80/images/kvCXkSo9yHPeN1N3CntYONjE1ez_big.jpg" group-title="LANCAMENTOS",Promocao do Seculo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214813.mp4
+#EXTINF:-1 tvg-name="Pronto Falei - 2022" tvg-logo="http://5ce.co:80/images/a1bu48BHurEJxy865CdgWPhO5IL_big.jpg" group-title="LANCAMENTOS",Pronto Falei - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217387.mp4
+#EXTINF:-1 tvg-name="Psych 3  Este e o Gus - 2021" tvg-logo="http://5ce.co:80/images/zWhKl8QmctB86pKwDUvhsySITBg_big.jpg" group-title="LANCAMENTOS",Psych 3  Este e o Gus - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206776.mp4
+#EXTINF:-1 tvg-name="Pureza - 2022" tvg-logo="http://5ce.me:80/images/lJkzHr7j1snbHmUjsBtwX6akFA0_big.jpg" group-title="LANCAMENTOS",Pureza - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211264.mp4
+#EXTINF:-1 tvg-name="Pureza - 2022" tvg-logo="http://5ce.me:80/images/wr7nV5OKTlV0DIBNaas5QWFCQan_big.jpg" group-title="LANCAMENTOS",Pureza - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215887.mp4
+#EXTINF:-1 tvg-name="Quando Chega a Calmaria - 2020" tvg-logo="http://5ce.co:80/images/bGVQK3vuidHYey8MMyIvVnoh2zp_big.jpg" group-title="LANCAMENTOS",Quando Chega a Calmaria - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209572.mp4
+#EXTINF:-1 tvg-name="Quarentao - 2022" tvg-logo="http://5ce.co:80/images/rndkeNvpvz6D8nmcFEYJxxW8lRr_big.jpg" group-title="LANCAMENTOS",Quarentao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205858.mp4
+#EXTINF:-1 tvg-name="Quarta Serie - 2021" tvg-logo="http://5ce.co:80/images/mpSUNJvl800x6MQb5UnIYXA1vos_big.jpg" group-title="LANCAMENTOS",Quarta Serie - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204931.mp4
+#EXTINF:-1 tvg-name="Quatro Geracoes - 2022" tvg-logo="http://5ce.me:80/images/tmbpeBp9qeCFj94f6NtMd7Sssge_big.jpg" group-title="LANCAMENTOS",Quatro Geracoes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214053.mp4
+#EXTINF:-1 tvg-name="Que Culpa Tem o Carma - 2022" tvg-logo="http://5ce.me:80/images/75c31o9z1w51yEMdH9NfWkBvz3N_big.jpg" group-title="LANCAMENTOS",Que Culpa Tem o Carma - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210347.mp4
+#EXTINF:-1 tvg-name="Que Mal Eu Fiz a Deus 2 -  2019" tvg-logo="http://5ce.co:80/images/pgz1Yq4sn0ClNKhy3pKvLl0kAeY_big.jpg" group-title="LANCAMENTOS",Que Mal Eu Fiz a Deus 2 -  2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205407.mp4
+#EXTINF:-1 tvg-name="Que Se Dane o Amor De Novo - 2022" tvg-logo="http://5ce.me:80/images/f4qYU8OF2dgpM6Fe7Xj8dJDnvdN_big.jpg" group-title="LANCAMENTOS",Que Se Dane o Amor De Novo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216552.mp4
+#EXTINF:-1 tvg-name="Quebrando as Regras 4 - 2021" tvg-logo="http://5ce.co:80/images/saL9WwmfVoaoeg1tVjyetnF1FEk_big.jpg" group-title="LANCAMENTOS",Quebrando as Regras 4 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207085.mp4
+#EXTINF:-1 tvg-name="Quebrando o Gelo - 2022" tvg-logo="http://5ce.co:80/images/dnwf2DyI41EkWvJnOLfWV6DFRNW_big.jpg" group-title="LANCAMENTOS",Quebrando o Gelo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219637.mp4
+#EXTINF:-1 tvg-name="Quem Mandou Matar Jair Bolsonaro - 2022" tvg-logo="http://5ce.me:80/images/2OmGEfrqIoXzFw2GY4HPBZSdn5b_big.jpg" group-title="LANCAMENTOS",Quem Mandou Matar Jair Bolsonaro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214863.mp4
+#EXTINF:-1 tvg-name="Querido David - 2023" tvg-logo="http://5ce.co:80/images/f3HkD0GxSuOZehm370aSAdgpGet_big.jpg" group-title="LANCAMENTOS",Querido David - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217858.mp4
+#EXTINF:-1 tvg-name="Racionais Das Ruas de Sao Paulo Pro Mundo - 2022" tvg-logo="http://5ce.me:80/images/mRsRonH875t4CU7wFpDCqCPQ9Qz_big.jpg" group-title="LANCAMENTOS",Racionais Das Ruas de Sao Paulo Pro Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214860.mp4
+#EXTINF:-1 tvg-name="Rainbow - 2022" tvg-logo="http://5ce.me:80/images/pFg29SbNbXkcuSgbnwnTz4wie4x_big.jpg" group-title="LANCAMENTOS",Rainbow - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212839.mp4
+#EXTINF:-1 tvg-name="Raymond and Ray - 2022" tvg-logo="http://5ce.me:80/images/fdKZmSQHD17JjGUYkluhpttgJRi_big.jpg" group-title="LANCAMENTOS",Raymond and Ray - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213783.mp4
+#EXTINF:-1 tvg-name="Re Member - 2022" tvg-logo="http://5ce.co:80/images/cCTmZ93aBZ1FwHntiDpa2Lj92zs_big.jpg" group-title="LANCAMENTOS",Re Member - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217857.mp4
+#EXTINF:-1 tvg-name="Reflexoes No Espelho - 2022" tvg-logo="http://5ce.me:80/images/98z7FKvuqT4YmqEUQo5JTEbUTzY_big.jpg" group-title="LANCAMENTOS",Reflexoes No Espelho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212216.mp4
+#EXTINF:-1 tvg-name="Reis Magos vs Papai Noel - 2022" tvg-logo="http://5ce.me:80/images/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq_big.jpg" group-title="LANCAMENTOS",Reis Magos vs Papai Noel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215886.mp4
+#EXTINF:-1 tvg-name="Reparos de Pequenos Motores - 2021" tvg-logo="http://5ce.co:80/images/8xYm5fZXT0DNuGRUHdkQJ1puNYH_big.jpg" group-title="LANCAMENTOS",Reparos de Pequenos Motores - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207605.mp4
+#EXTINF:-1 tvg-name="Respire Fundo - 2021" tvg-logo="http://5ce.co:80/images/1oW3bRlOIOScpXfqZpWPjVG6OhL_big.jpg" group-title="LANCAMENTOS",Respire Fundo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206146.mp4
+#EXTINF:-1 tvg-name="Resurrection - 2022 " tvg-logo="http://5ce.me:80/images/kfRr8Jm1gaEnLTXCIfHkSw8QW6t_big.jpg" group-title="LANCAMENTOS",Resurrection - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215189.mp4
+#EXTINF:-1 tvg-name="Retorno - 2022" tvg-logo="http://5ce.me:80/images/8Eh0SF6tEBNiaAP2pNTj9kMLDH8_big.jpg" group-title="LANCAMENTOS",Retorno - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210066.mp4
+#EXTINF:-1 tvg-name="Retorno da Lenda - 2021" tvg-logo="http://5ce.me:80/images/a5TMox6zYw686BbVS8D1UTPUYGI_big.jpg" group-title="LANCAMENTOS",Retorno da Lenda - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214054.mp4
+#EXTINF:-1 tvg-name="Riki O Rinoceronte Corajoso - 2020" tvg-logo="http://5ce.me:80/images/gUcmK9VcMLRMPvpbaKW0Rqekrcx_big.jpg" group-title="LANCAMENTOS",Riki O Rinoceronte Corajoso - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210562.mp4
+#EXTINF:-1 tvg-name="Rise - 2022" tvg-logo="http://5ce.co:80/images/czXyMcmiulyZjhYAnnMwVhFCvN_big.jpg" group-title="LANCAMENTOS",Rise - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209092.mp4
+#EXTINF:-1 tvg-name="Rodrigo Marques O Inimigo do Nivel - 2022" tvg-logo="http://5ce.me:80/images/5lG6djQW7TEYgayY6LeQwG6YJKI_big.jpg" group-title="LANCAMENTOS",Rodrigo Marques O Inimigo do Nivel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211753.mp4
+#EXTINF:-1 tvg-name="Rodrigo Sant Anna Cheguei - 2022" tvg-logo="http://5ce.co:80/images/t7ZkVFVoxDzbnAq3e3W9DWpy67Q_big.jpg" group-title="LANCAMENTOS",Rodrigo Sant Anna Cheguei - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208021.mp4
+#EXTINF:-1 tvg-name="Ronaldo  O Fenomeno - 2022" tvg-logo="http://5ce.me:80/images/vNlwArDpdG60HCtmjxMEpVu0WLO_big.jpg" group-title="LANCAMENTOS",Ronaldo  O Fenomeno - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214096.mp4
+#EXTINF:-1 tvg-name="Rosalina - 2022" tvg-logo="http://5ce.me:80/images/Ad51mrs3azZMzHE6cLrCv9uSztP_big.jpg" group-title="LANCAMENTOS",Rosalina - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213491.mp4
+#EXTINF:-1 tvg-name="Roubando Mussolini - 2022" tvg-logo="http://5ce.me:80/images/mo4JxW3rWsOF87XNeAoeewESrMY_big.jpg" group-title="LANCAMENTOS",Roubando Mussolini - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213954.mp4
+#EXTINF:-1 tvg-name="Roubo Entre Ladroes - 2022" tvg-logo="http://5ce.me:80/images/4BjZazpKwzrdTVrCRjZSUWJMHJo_big.jpg" group-title="LANCAMENTOS",Roubo Entre Ladroes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214887.mp4
+#EXTINF:-1 tvg-name="Royalteen - 2022" tvg-logo="http://5ce.me:80/images/oK6I9Wa5RIqxpNbJ4NWemsotcYJ_big.jpg" group-title="LANCAMENTOS",Royalteen - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211052.mp4
+#EXTINF:-1 tvg-name="Rubikon Ponto Sem Retorno - 2022" tvg-logo="http://5ce.me:80/images/8i2uZmhVk6lkqierZLFnBHnL24q_big.jpg" group-title="LANCAMENTOS",Rubikon Ponto Sem Retorno - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213662.mp4
+#EXTINF:-1 tvg-name="Ruido - 2022" tvg-logo="http://5ce.me:80/images/pMyNl3NlZx1CXgbrCuSiWkWdp9D_big.jpg" group-title="LANCAMENTOS",Ruido - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216904.mp4
+#EXTINF:-1 tvg-name="Ruido Branco - 2022" tvg-logo="http://5ce.me:80/images/nNPuuybpp52aABBy59V5Q78xkLh_big.jpg" group-title="LANCAMENTOS",Ruido Branco - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216530.mp4
+#EXTINF:-1 tvg-name="Rumspringa - Ein Amish in Berlin - 2022" tvg-logo="http://5ce.co:80/images/tPmr7R2Zq66SXhFcXZiFSJ0Afx8_big.jpg" group-title="LANCAMENTOS",Rumspringa - Ein Amish in Berlin - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205583.mp4
+#EXTINF:-1 tvg-name="Sala De Espionagem - 2022" tvg-logo="http://5ce.me:80/images/bIIlLOfJiqR9O1N5RJcHI1MmIFK_big.jpg" group-title="LANCAMENTOS",Sala De Espionagem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214055.mp4
+#EXTINF:-1 tvg-name="Samaritano - 2022" tvg-logo="http://5ce.me:80/images/zgH8Ej50n2cvJCMJrxd4twEwSqz_big.jpg" group-title="LANCAMENTOS",Samaritano - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211406.mp4
+#EXTINF:-1 tvg-name="Save the Cinema - 2022" tvg-logo="http://5ce.me:80/images/4sD0rI1qhVR6mcdz1agjWyCBZjr_big.jpg" group-title="LANCAMENTOS",Save the Cinema - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214861.mp4
+#EXTINF:-1 tvg-name="Sayen - 2023" tvg-logo="http://5ce.co:80/images/aCy61aU7BMG7SfhkaAaasS0KzUO_big.jpg" group-title="LANCAMENTOS",Sayen - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219638.mp4
+#EXTINF:-1 tvg-name="Scooby Doo Gostosuras ou Travessuras - 2022" tvg-logo="http://5ce.me:80/images/tkd1zT65LEFieZlIltNxcUnzGNr_big.jpg" group-title="LANCAMENTOS",Scooby Doo Gostosuras ou Travessuras - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214888.mp4
+#EXTINF:-1 tvg-name="Scrooge Um Conto De Natal - 2022" tvg-logo="http://5ce.me:80/images/2jR1JmDCOKbOIfTc3a9pQV36EpZ_big.jpg" group-title="LANCAMENTOS",Scrooge Um Conto De Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215353.mp4
+#EXTINF:-1 tvg-name="Sebastiana - 2021" tvg-logo="https://www.fortefilmes.com.br/produtora/wp-content/uploads/2021/08/sebastiana-1.jpg" group-title="LANCAMENTOS",Sebastiana - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207181.mp4
+#EXTINF:-1 tvg-name="Sedenta de Sangue - 2021" tvg-logo="http://5ce.co:80/images/pXoijqun4n8QtcVT4KW9BIOUOpG_big.jpg" group-title="LANCAMENTOS",Sedenta de Sangue - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209601.mp4
+#EXTINF:-1 tvg-name="Selma Blair A Batalha Contra a Esclerose Multipla  - 2021" tvg-logo="http://5ce.co:80/images/z0KyzV1hf6xArdeh6TVKt8rh4KK_big.jpg" group-title="LANCAMENTOS",Selma Blair A Batalha Contra a Esclerose Multipla  - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209093.mp4
+#EXTINF:-1 tvg-name="Sem Culpa - 2022" tvg-logo="http://5ce.co:80/images/tVbO8EAbegVtVkrl8wNhzoxS84N_big.jpg" group-title="LANCAMENTOS",Sem Culpa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209571.mp4
+#EXTINF:-1 tvg-name="Sem Respirar - Um Mergulho sob o Gelo - 2022" tvg-logo="http://5ce.co:80/images/tW3AKU0EjJJudpXhptn8FR6cypn_big.jpg" group-title="LANCAMENTOS",Sem Respirar - Um Mergulho sob o Gelo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205949.mp4
+#EXTINF:-1 tvg-name="Sempre em Frente - 2021" tvg-logo="http://5ce.co:80/images/aXktvjotXObNdQdnYkyNNMJqNX0_big.jpg" group-title="LANCAMENTOS",Sempre em Frente - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207601.mp4
+#EXTINF:-1 tvg-name="Sequestro  Inocencia Roubada - 2021" tvg-logo="http://5ce.me:80/images/tzVpukXgB0BwLu1Rr14o9q1495p_big.jpg" group-title="LANCAMENTOS",Sequestro  Inocencia Roubada - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210918.mp4
+#EXTINF:-1 tvg-name="Seul em Alta Velocidade - 2022" tvg-logo="http://5ce.me:80/images/gJlannhekQTz6jzBojWHMNdDbEu_big.jpg" group-title="LANCAMENTOS",Seul em Alta Velocidade - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211471.mp4
+#EXTINF:-1 tvg-name="Sharper Uma Vida de Trapacas - 2023" tvg-logo="http://5ce.co:80/images/nkvg5RbmDcLMfu5gfJHhMqdWBpK_big.jpg" group-title="LANCAMENTOS",Sharper Uma Vida de Trapacas - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218045.mp4
+#EXTINF:-1 tvg-name="Silverton Cerco Fechado - 2022" tvg-logo="http://5ce.co:80/images/mp2GAIoW9czkSlyZHlqii9Bc6i6_big.jpg" group-title="LANCAMENTOS",Silverton Cerco Fechado - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205404.mp4
+#EXTINF:-1 tvg-name="Snoopy Apresenta  A Escola da Lucy - 2022" tvg-logo="http://5ce.me:80/images/lJgiZrEIH3LKEwiZjWmpWDPETrT_big.jpg" group-title="LANCAMENTOS",Snoopy Apresenta  A Escola da Lucy - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211079.mp4
+#EXTINF:-1 tvg-name="Snoopy Apresenta Para Mamae  e Papai  Com Amor - 2022" tvg-logo="http://5ce.co:80/images/spX9v8aH93IphwatXdCECargED8_big.jpg" group-title="LANCAMENTOS",Snoopy Apresenta Para Mamae  e Papai  Com Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206258.mp4
+#EXTINF:-1 tvg-name="Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown - 2022" tvg-logo="http://5ce.co:80/images/iEJGBnZa9PnCXSTrcQGEqK9Y9yr_big.jpg" group-title="LANCAMENTOS",Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204783.mp4
+#EXTINF:-1 tvg-name="Sociedade do Medo - 2022" tvg-logo="http://5ce.co:80/images/ourgPvl6rZowRFBkA8ZqTHWDcHb_big.jpg" group-title="LANCAMENTOS",Sociedade do Medo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217368.mp4
+#EXTINF:-1 tvg-name="Sombra - 2021" tvg-logo="http://5ce.co:80/images/mD3dU2f0InjpfIgmlXvtNRPtYrV_big.jpg" group-title="LANCAMENTOS",Sombra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209520.mp4
+#EXTINF:-1 tvg-name="Somente Voce - 2021" tvg-logo="http://5ce.co:80/images/rMVITUa2UmPtBWtLAnxtYqSsAuv_big.jpg" group-title="LANCAMENTOS",Somente Voce - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208460.mp4
+#EXTINF:-1 tvg-name="Sonic 2 - O Filme - 2022" tvg-logo="http://5ce.co:80/images/6DrHO1jr3qVrViUO6s6kFiAGM7_big.jpg" group-title="LANCAMENTOS",Sonic 2 - O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207199.mp4
+#EXTINF:-1 tvg-name="Sorria - 2022" tvg-logo="http://5ce.me:80/images/aDTXsc8uzJuvPLvfFBXTf9rYyTf_big.jpg" group-title="LANCAMENTOS",Sorria - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214270.mp4
+#EXTINF:-1 tvg-name="Sorte - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HOYvwGFioUFL58UVvDRG6beEDm.jpg" group-title="LANCAMENTOS",Sorte - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210567.mp4
+#EXTINF:-1 tvg-name="South Park  The Streaming Wars - 2022" tvg-logo="http://5ce.co:80/images/dfgZJlKYg5xm6dBl05bOKhfunXb_big.jpg" group-title="LANCAMENTOS",South Park  The Streaming Wars - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208022.mp4
+#EXTINF:-1 tvg-name="South Park Guerras do Streaming  Parte 2 - 2022" tvg-logo="http://5ce.co:80/images/cqWXH5rYHTD32I5RY6pHR828BrO_big.jpg" group-title="LANCAMENTOS",South Park Guerras do Streaming  Parte 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209570.mp4
+#EXTINF:-1 tvg-name="Spiderhead  - 2022" tvg-logo="http://5ce.co:80/images/7COPO5B9AOKIB4sEkvNu0wfve3c_big.jpg" group-title="LANCAMENTOS",Spiderhead  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208668.mp4
+#EXTINF:-1 tvg-name="Spirited Um Conto Natalino - 2022" tvg-logo="http://5ce.me:80/images/z4oo31ZE4hK3uON2ojkV39BAX8C_big.jpg" group-title="LANCAMENTOS",Spirited Um Conto Natalino - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214889.mp4
+#EXTINF:-1 tvg-name="Spree - 2020" tvg-logo="http://5ce.co:80/images/hJUA4wfvw0A6l3niOfxourqpERA_big.jpg" group-title="LANCAMENTOS",Spree - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206147.mp4
+#EXTINF:-1 tvg-name="Tangos Tequilas e alguma mentiras - 2023" tvg-logo="http://5ce.co:80/images/sFaDyM9qe2eZ4TMEpB9ozWWVhUm_big.jpg" group-title="LANCAMENTOS",Tangos Tequilas e alguma mentiras - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219851.mp4
+#EXTINF:-1 tvg-name="Tarsilinha - 2022" tvg-logo="http://5ce.co:80/images/szoK1qZ0YThXajLnkE8l7wygXpG_big.jpg" group-title="LANCAMENTOS",Tarsilinha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205952.mp4
+#EXTINF:-1 tvg-name="Ted Bundy - A Confissao Final - 2021" tvg-logo="http://5ce.co:80/images/c1diSEnYzofbGFnWmYt2qTh5YuI_big.jpg" group-title="LANCAMENTOS",Ted Bundy - A Confissao Final - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208254.mp4
+#EXTINF:-1 tvg-name="Teen Wolf O Filme -  2023" tvg-logo="http://5ce.co:80/images/wAkpPm3wcHRqZl8XjUI3Y2chYq2_big.jpg" group-title="LANCAMENTOS",Teen Wolf O Filme -  2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217290.mp4
+#EXTINF:-1 tvg-name="Tempestade Infinita - 2022" tvg-logo="http://5ce.me:80/images/jYN6Ezx8jm8BI6g2PANVvmUST3p_big.jpg" group-title="LANCAMENTOS",Tempestade Infinita - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215452.mp4
+#EXTINF:-1 tvg-name="Templo do Perigo - 2021" tvg-logo="http://5ce.me:80/images/uoaYhQA7iyu4Zo4WxbWvGnW3B3X_big.jpg" group-title="LANCAMENTOS",Templo do Perigo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213146.mp4
+#EXTINF:-1 tvg-name="Temporada de Casamentos - 2022" tvg-logo="http://5ce.me:80/images/wW2hCkNTRbZ8GrP4P7CMStmhOdd_big.jpg" group-title="LANCAMENTOS",Temporada de Casamentos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210532.mp4
+#EXTINF:-1 tvg-name="Terra Dos Sonhos - 2022" tvg-logo="http://5ce.me:80/images/pKul2I03FI6QYxHnhMOkQ72EDPE_big.jpg" group-title="LANCAMENTOS",Terra Dos Sonhos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214907.mp4
+#EXTINF:-1 tvg-name="Terra Sem Lei - 2019" tvg-logo="http://5ce.co:80/images/3WGh8RtXOCG6Onrju1SBO67fCGb_big.jpg" group-title="LANCAMENTOS",Terra Sem Lei - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204784.mp4
+#EXTINF:-1 tvg-name="Territorio Hostil - 2022" tvg-logo="http://5ce.me:80/images/nJTzX2LmbRlsH2rnWYZCyigTdUd_big.jpg" group-title="LANCAMENTOS",Territorio Hostil - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214271.mp4
+#EXTINF:-1 tvg-name="Terror no Estudio 666 - 2022" tvg-logo="http://5ce.me:80/images/tcsnV2L6SZY9hvuGLEbZddTylPa_big.jpg" group-title="LANCAMENTOS",Terror no Estudio 666 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210533.mp4
+#EXTINF:-1 tvg-name="Thats Amor - 2022" tvg-logo="http://5ce.me:80/images/eSLSLO5GXYZVT6v2udNyPVYef9z_big.jpg" group-title="LANCAMENTOS",Thats Amor - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211383.mp4
+#EXTINF:-1 tvg-name="The Colour Room - 2021" tvg-logo="http://5ce.co:80/images/i87PyzMOpYYLVtrcFWzErcOOPZT_big.jpg" group-title="LANCAMENTOS",The Colour Room - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209499.mp4
+#EXTINF:-1 tvg-name="The Devil You Know - 2022" tvg-logo="http://5ce.co:80/images/hUmspDO0ihRtP2P38D4TS4WR6nE_big.jpg" group-title="LANCAMENTOS",The Devil You Know - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205151.mp4
+#EXTINF:-1 tvg-name="The Eternal Daughter - 2022" tvg-logo="http://5ce.me:80/images/kyv8tPXx3mKchYzVmA3VckKoJDi_big.jpg" group-title="LANCAMENTOS",The Eternal Daughter - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215950.mp4
+#EXTINF:-1 tvg-name="The Munsters - 2022" tvg-logo="http://5ce.me:80/images/kJaEVFhDouD72GKANMkYqzQky9n_big.jpg" group-title="LANCAMENTOS",The Munsters - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216527.mp4
+#EXTINF:-1 tvg-name="The New Air Force One Flying Fortress - 2021" tvg-logo="http://5ce.co:80/images/xkhyqMniaBdqk13HvJjeERHQDv3_big.jpg" group-title="LANCAMENTOS",The New Air Force One Flying Fortress - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206260.mp4
+#EXTINF:-1 tvg-name="The Outwaters - 2023" tvg-logo="http://5ce.co:80/images/bkqvGn7BBLvJmnatOmhlTAFH6m0_big.jpg" group-title="LANCAMENTOS",The Outwaters - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219734.mp4
+#EXTINF:-1 tvg-name="The Phantom of the Open - 2022" tvg-logo="http://5ce.me:80/images/6bcrhJQLoLNsYX4UGTOMQkCiACA_big.jpg" group-title="LANCAMENTOS",The Phantom of the Open - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214893.mp4
+#EXTINF:-1 tvg-name="The Power - 2021" tvg-logo="http://5ce.me:80/images/s0aVEjT1DWopUrJehACWZyqpO99_big.jpg" group-title="LANCAMENTOS",The Power - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214132.mp4
+#EXTINF:-1 tvg-name="The Real Charlie Chaplin - 2021" tvg-logo="http://5ce.me:80/images/fFTdUcQWp9xYtpuuddWts02bp3M_big.jpg" group-title="LANCAMENTOS",The Real Charlie Chaplin - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216905.mp4
+#EXTINF:-1 tvg-name="The Requin - 2022" tvg-logo="http://5ce.me:80/images/i0z8g2VRZP3dhVvvSMilbOZMKqR_big.jpg" group-title="LANCAMENTOS",The Requin - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213985.mp4
+#EXTINF:-1 tvg-name="They Them O Acamapamento - 2022" tvg-logo="http://5ce.me:80/images/85TJ4udfUOwFIlvQL6EMFvvbvN5_big.jpg" group-title="LANCAMENTOS",They Them O Acamapamento - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213235.mp4
+#EXTINF:-1 tvg-name="This Is the Night - 2021" tvg-logo="http://5ce.co:80/images/mZPyZ22kzcmfyt1dQapaSiQenvI_big.jpg" group-title="LANCAMENTOS",This Is the Night - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208024.mp4
+#EXTINF:-1 tvg-name="Thor  Amor e Trovao - 2022" tvg-logo="http://5ce.me:80/images/pIkRyD18kl4FhoCNQuWxWu5cBLM_big.jpg" group-title="LANCAMENTOS",Thor  Amor e Trovao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211765.mp4
+#EXTINF:-1 tvg-name="Tico e Teco Defensores da Lei - 2022" tvg-logo="http://5ce.co:80/images/bOYRRVe9jhlwU8hAZ53Kg0vhIH4_big.jpg" group-title="LANCAMENTOS",Tico e Teco Defensores da Lei - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207315.mp4
+#EXTINF:-1 tvg-name="To Ryca 2 - 2022" tvg-logo="http://5ce.co:80/images/84GIm1NIcIxCrPuoLlsaQzZFVH3_big.jpg" group-title="LANCAMENTOS",To Ryca 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205657.mp4
+#EXTINF:-1 tvg-name="Together - 2021" tvg-logo="http://5ce.co:80/images/oeocQg0Bhmy0pqqRy50wEo0iwFB_big.jpg" group-title="LANCAMENTOS",Together - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204934.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry  Terra do Boneco de Neve - 2022" tvg-logo="http://5ce.me:80/images/yDR6w0O7QcUeEjp4DxO6NweI3Ls_big.jpg" group-title="LANCAMENTOS",Tom e Jerry  Terra do Boneco de Neve - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214894.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry no Velho Oeste - 2022" tvg-logo="http://5ce.co:80/images/khy44zoKUqInUSWhdzzcQZKDU0P_big.jpg" group-title="LANCAMENTOS",Tom e Jerry no Velho Oeste - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208697.mp4
+#EXTINF:-1 tvg-name="Torn Hearts - 2022" tvg-logo="http://5ce.co:80/images/w8dSAuMHUgx0lYSB6wAAURStcGM_big.jpg" group-title="LANCAMENTOS",Torn Hearts - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209590.mp4
+#EXTINF:-1 tvg-name="Toscana - 2022" tvg-logo="http://5ce.co:80/images/orOHMxqgZjnb1dOZGGrXO7xOn6z_big.jpg" group-title="LANCAMENTOS",Toscana - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207088.mp4
+#EXTINF:-1 tvg-name="Trancada - 2022" tvg-logo="http://5ce.me:80/images/cWBCMiORHEfXWf6AreeDzkczyTy_big.jpg" group-title="LANCAMENTOS",Trancada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212710.mp4
+#EXTINF:-1 tvg-name="Trancafiadas - 2021" tvg-logo="http://5ce.me:80/images/jyw7lSu0bm71jAykAbVwchyVTkR_big.jpg" group-title="LANCAMENTOS",Trancafiadas - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214885.mp4
+#EXTINF:-1 tvg-name="Transfusao - 2023" tvg-logo="http://5ce.co:80/images/g5I7vkAAhW7OBJH0VbSONZSpVDy_big.jpg" group-title="LANCAMENTOS",Transfusao - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217227.mp4
+#EXTINF:-1 tvg-name="Trem Bala - 2022" tvg-logo="http://5ce.me:80/images/77zENVKgbc4bhmlLfHRUbVZ99N5_big.jpg" group-title="LANCAMENTOS",Trem Bala - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212601.mp4
+#EXTINF:-1 tvg-name="Treze Vidas- O Resgate - 2022" tvg-logo="http://5ce.me:80/images/8sO4gjzLhxndxLtMrohGV2DD2Rw_big.jpg" group-title="LANCAMENTOS",Treze Vidas- O Resgate - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210564.mp4
+#EXTINF:-1 tvg-name="Trocados Antes do Nascimento - 2021" tvg-logo="http://5ce.co:80/images/219z4DMY7oPFoC3mGVgP2lpQtmj_big.jpg" group-title="LANCAMENTOS",Trocados Antes do Nascimento - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208251.mp4
+#EXTINF:-1 tvg-name="Trocando De Pele - 2021" tvg-logo="http://5ce.me:80/images/aOcQm2XYDJtU0FQbi5uF9gpBtAR_big.jpg" group-title="LANCAMENTOS",Trocando De Pele - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214901.mp4
+#EXTINF:-1 tvg-name="Troll da Montanha - 2022" tvg-logo="http://5ce.me:80/images/ulgKdif3ubMACDltr8VZy6fyVjW_big.jpg" group-title="LANCAMENTOS",Troll da Montanha - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215326.mp4
+#EXTINF:-1 tvg-name="Tromba Trem O Filme - 2022" tvg-logo="http://5ce.me:80/images/nW6K0GdzEv3faofvAaaZtReS0wi_big.jpg" group-title="LANCAMENTOS",Tromba Trem O Filme - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216622.mp4
+#EXTINF:-1 tvg-name="Tubarao Mar de Sangue - 2022" tvg-logo="http://5ce.co:80/images/qUBOPVsMT9OgsUVqZWUBLkgYrb6_big.jpg" group-title="LANCAMENTOS",Tubarao Mar de Sangue - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217190.mp4
+#EXTINF:-1 tvg-name="Tudo e Possivel - 2022" tvg-logo="http://5ce.co:80/images/fi3CpngKPgTXLfW6XgvXLuTNslk_big.jpg" group-title="LANCAMENTOS",Tudo e Possivel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209747.mp4
+#EXTINF:-1 tvg-name="Tudo por Jojo - 2022" tvg-logo="http://5ce.co:80/images/bwNP1sdvzpnoslaXqzSzxbCrL8d_big.jpg" group-title="LANCAMENTOS",Tudo por Jojo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209521.mp4
+#EXTINF:-1 tvg-name="Tudo Por um Bar - 2022" tvg-logo="http://5ce.me:80/images/zFMJO70knwhhkyl7becLX5BbiFf_big.jpg" group-title="LANCAMENTOS",Tudo Por um Bar - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215345.mp4
+#EXTINF:-1 tvg-name="Um Amor para Duas - 2023" tvg-logo="http://5ce.co:80/images/wVAIWPnW0K99abLLbkCBZ00jwX8_big.jpg" group-title="LANCAMENTOS",Um Amor para Duas - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217856.mp4
+#EXTINF:-1 tvg-name="Um Conto Sangrento - 2021" tvg-logo="http://5ce.me:80/images/od8nP58YAXbqV3NEf6nlOZddF59_big.jpg" group-title="LANCAMENTOS",Um Conto Sangrento - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211874.mp4
+#EXTINF:-1 tvg-name="Um Crime  Argentino - 2022" tvg-logo="http://5ce.me:80/images/6wbDGd8VkQQGb3m9sMxEpZ0w4sw_big.jpg" group-title="LANCAMENTOS",Um Crime  Argentino - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213564.mp4
+#EXTINF:-1 tvg-name="Um Crime Argentino - 2022" tvg-logo="http://5ce.me:80/images/6wbDGd8VkQQGb3m9sMxEpZ0w4sw_big.jpg" group-title="LANCAMENTOS",Um Crime Argentino - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214713.mp4
+#EXTINF:-1 tvg-name="Um Dia para morrer - 2022" tvg-logo="http://5ce.co:80/images/dzDEob3PyiGY25TxmeDx1yfifEP_big.jpg" group-title="LANCAMENTOS",Um Dia para morrer - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208693.mp4
+#EXTINF:-1 tvg-name="Um Dia Para Sempre - 2020" tvg-logo="http://5ce.co:80/images/77fwdB0FqWWOvNjEaOwIqMW58DM_big.jpg" group-title="LANCAMENTOS",Um Dia Para Sempre - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209567.mp4
+#EXTINF:-1 tvg-name="Um Estranho em Nossa Cama - 2022" tvg-logo="http://5ce.me:80/images/vTw9NlecsL5LYM6JQLogjC1sypD_big.jpg" group-title="LANCAMENTOS",Um Estranho em Nossa Cama - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215108.mp4
+#EXTINF:-1 tvg-name="Um Homem De Acao - 2022" tvg-logo="http://5ce.me:80/images/lMNgLp0LdUO6tLIUy43aSoIayxV_big.jpg" group-title="LANCAMENTOS",Um Homem De Acao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215304.mp4
+#EXTINF:-1 tvg-name="Um Intruso no Porao - 2021" tvg-logo="http://5ce.co:80/images/yg8v0oDIoiaKuPEYp7YEAPndPig_big.jpg" group-title="LANCAMENTOS",Um Intruso no Porao - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206915.mp4
+#EXTINF:-1 tvg-name="Um Jantar Perfeito - 2022" tvg-logo="http://5ce.me:80/images/8QxcXQpWR7ROPNe7vZmsVkFWTzA_big.jpg" group-title="LANCAMENTOS",Um Jantar Perfeito - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215729.mp4
+#EXTINF:-1 tvg-name="Um Jogo entre Amigos - 2022" tvg-logo="http://5ce.co:80/images/fnu6j6uHctVJuGKIt3z3Dk7cWhI_big.jpg" group-title="LANCAMENTOS",Um Jogo entre Amigos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209366.mp4
+#EXTINF:-1 tvg-name="Um Lugar Bem Longe Daqui - 2022" tvg-logo="http://5ce.me:80/images/sXvn2D7a9nBwTdUSNj97rUwqMmx_big.jpg" group-title="LANCAMENTOS",Um Lugar Bem Longe Daqui - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214711.mp4
+#EXTINF:-1 tvg-name="Um Marido Fiel - 2022" tvg-logo="http://5ce.me:80/images/gzU5keUQEyXbQ8XVG1XKZkul4qe_big.jpg" group-title="LANCAMENTOS",Um Marido Fiel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211470.mp4
+#EXTINF:-1 tvg-name="Um Misterio de Natal - 2022" tvg-logo="http://5ce.me:80/images/2NXBuV3xsweIIZeE89O8qFkoZDZ_big.jpg" group-title="LANCAMENTOS",Um Misterio de Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215225.mp4
+#EXTINF:-1 tvg-name="Um Natal Cheio De Graca - 2022" tvg-logo="http://5ce.me:80/images/8TDwAtynfhER7CXb7J61l4SyTCV_big.jpg" group-title="LANCAMENTOS",Um Natal Cheio De Graca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215344.mp4
+#EXTINF:-1 tvg-name="Um Natal com Amor e Vinho - 2021" tvg-logo="http://5ce.me:80/images/zdxRxeGGBXxOErI3C9QrAYcxSa9_big.jpg" group-title="LANCAMENTOS",Um Natal com Amor e Vinho - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216231.mp4
+#EXTINF:-1 tvg-name="Um Pedido Descolado - 2021" tvg-logo="http://5ce.me:80/images/2dyZfjuq1lhBsqGtBTC20y9XhJf_big.jpg" group-title="LANCAMENTOS",Um Pedido Descolado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212629.mp4
+#EXTINF:-1 tvg-name="Um Presente da Tiffany - 2022" tvg-logo="http://5ce.me:80/images/aIKbRDYydwXCvSWFDGu9ZooH27m_big.jpg" group-title="LANCAMENTOS",Um Presente da Tiffany - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215854.mp4
+#EXTINF:-1 tvg-name="Um Reencontro Inesperado - 2021" tvg-logo="http://5ce.co:80/images/elrXo5uMCI8cI8idpblQPT3QwDS_big.jpg" group-title="LANCAMENTOS",Um Reencontro Inesperado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209518.mp4
+#EXTINF:-1 tvg-name="Um Rio Muito Frio - 2022 " tvg-logo="http://5ce.me:80/images/8jSGDVXQmEhLL4A1vrUCFG2Xmtd_big.jpg" group-title="LANCAMENTOS",Um Rio Muito Frio - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214134.mp4
+#EXTINF:-1 tvg-name="Uma Amizade Toxica - 2022" tvg-logo="http://5ce.me:80/images/ovCYE2g54BNQDmRsHDWguFkgjmW_big.jpg" group-title="LANCAMENTOS",Uma Amizade Toxica - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210774.mp4
+#EXTINF:-1 tvg-name="Uma Aventura Lunatica  - 2022" tvg-logo="http://5ce.me:80/images/tB7lTA1JyMj1KoUBkTbwNbfzBgt_big.jpg" group-title="LANCAMENTOS",Uma Aventura Lunatica  - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209939.mp4
+#EXTINF:-1 tvg-name="Uma Festa de Arromba - 2023" tvg-logo="http://5ce.co:80/images/jJJuiyH3ibOA3VdUjrXA88HRxfS_big.jpg" group-title="LANCAMENTOS",Uma Festa de Arromba - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219641.mp4
+#EXTINF:-1 tvg-name="Uma Garota De Muita Sorte - 2022" tvg-logo="http://5ce.me:80/images/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs_big.jpg" group-title="LANCAMENTOS",Uma Garota De Muita Sorte - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213145.mp4
+#EXTINF:-1 tvg-name="Uma Historia de Natal Natalina - 2022" tvg-logo="http://5ce.me:80/images/kEqOAXbPKNSOx9QbxmSjtlyYdQM_big.jpg" group-title="LANCAMENTOS",Uma Historia de Natal Natalina - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214886.mp4
+#EXTINF:-1 tvg-name="Uma Licao de Esperanca - 2020" tvg-logo="http://5ce.co:80/images/7EzVSW5F9Kbt8VIJJJ2G4x1hz5q_big.jpg" group-title="LANCAMENTOS",Uma Licao de Esperanca - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206916.mp4
+#EXTINF:-1 tvg-name="Uma Mulher de Negocios - 2021" tvg-logo="http://5ce.co:80/images/kDpkHNshTyjjeIhhTgSQP1STpZx_big.jpg" group-title="LANCAMENTOS",Uma Mulher de Negocios - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205860.mp4
+#EXTINF:-1 tvg-name="Uma Noite no Jardim de Infancia - 2022" tvg-logo="http://5ce.me:80/images/rgxCnkiXx81uobrGouq09cOdxX9_big.jpg" group-title="LANCAMENTOS",Uma Noite no Jardim de Infancia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216526.mp4
+#EXTINF:-1 tvg-name="Uma Noite no Museu O Retorno de Kahmunrah - 2022" tvg-logo="http://5ce.me:80/images/7M19SPS4iv5rP73fuUB1VF1eano_big.jpg" group-title="LANCAMENTOS",Uma Noite no Museu O Retorno de Kahmunrah - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215847.mp4
+#EXTINF:-1 tvg-name="Uma Noite Sombria - 2022" tvg-logo="http://5ce.me:80/images/nzePP5O9smcQ7QKdKa6jZauby5D_big.jpg" group-title="LANCAMENTOS",Uma Noite Sombria - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216359.mp4
+#EXTINF:-1 tvg-name="Uma Pitada de Sorte - 2022" tvg-logo="http://5ce.me:80/images/4SKHuc6D9ru9qJiAPr9xS04w2Um_big.jpg" group-title="LANCAMENTOS",Uma Pitada de Sorte - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214734.mp4
+#EXTINF:-1 tvg-name="Uma Quedinha De Natal - 2022" tvg-logo="http://5ce.me:80/images/p9wwj23RF3Nqjj0EzxsDx0s2aV7_big.jpg" group-title="LANCAMENTOS",Uma Quedinha De Natal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214710.mp4
+#EXTINF:-1 tvg-name="Uma Viagem ao Infinito - 2022" tvg-logo="http://5ce.me:80/images/38KllKVpeTLvirHvuLWWy5I71rX_big.jpg" group-title="LANCAMENTOS",Uma Viagem ao Infinito - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212600.mp4
+#EXTINF:-1 tvg-name="Umma - 2022" tvg-logo="http://5ce.co:80/images/n4fdAOwVrlLgeDdEzSWCy7KVz1v_big.jpg" group-title="LANCAMENTOS",Umma - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205150.mp4
+#EXTINF:-1 tvg-name="Unabomber Terrorista - 2021" tvg-logo="http://5ce.co:80/images/vuQorCeoBtR2hShbe8ECz0Oc3ad_big.jpg" group-title="LANCAMENTOS",Unabomber Terrorista - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209365.mp4
+#EXTINF:-1 tvg-name="Uncharted - Fora do Mapa - 2022" tvg-logo="http://5ce.co:80/images/qNAPgepJ4NHNA74ThVsxQEOUceJ_big.jpg" group-title="LANCAMENTOS",Uncharted - Fora do Mapa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208409.mp4
+#EXTINF:-1 tvg-name="Under Wraps Uma Mumia no Halloween 2 - 2022" tvg-logo="http://5ce.me:80/images/y37QvulwOJ1uv0onnDB4ocWEQZn_big.jpg" group-title="LANCAMENTOS",Under Wraps Uma Mumia no Halloween 2 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216093.mp4
+#EXTINF:-1 tvg-name="UNTOLD A Regata do Seculo - 2022" tvg-logo="http://5ce.me:80/images/uiGi7OAaukIUlZbgracBi9FiIFE_big.jpg" group-title="LANCAMENTOS",UNTOLD A Regata do Seculo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211754.mp4
+#EXTINF:-1 tvg-name="Untold Corrupcao No Basquete - 2022" tvg-logo="http://5ce.me:80/images/euyNtF9Yau4bieJ65BuHdHZOoAd_big.jpg" group-title="LANCAMENTOS",Untold Corrupcao No Basquete - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211631.mp4
+#EXTINF:-1 tvg-name="Vai Dar Nada - 2022" tvg-logo="http://5ce.co:80/images/jaXIoGMGsA1fCciQqkqIw6GmRgR_big.jpg" group-title="LANCAMENTOS",Vai Dar Nada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207090.mp4
+#EXTINF:-1 tvg-name="Vale do Medo - 2022" tvg-logo="http://5ce.me:80/images/2MWZy92O30GX0HwKyVvQ8rddqGU_big.jpg" group-title="LANCAMENTOS",Vale do Medo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216928.mp4
+#EXTINF:-1 tvg-name="Valentes - 2022" tvg-logo="http://5ce.co:80/images/v6aAs9edaRQMwZIprxeDDdTdB9K_big.jpg" group-title="LANCAMENTOS",Valentes - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219347.mp4
+#EXTINF:-1 tvg-name="Valentino O pode ser seu proprio heroi ou vilao - 2022" tvg-logo="http://5ce.me:80/images/3YViYlgufUsJT61HE0qsKsdXmn6_big.jpg" group-title="LANCAMENTOS",Valentino O pode ser seu proprio heroi ou vilao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212147.mp4
+#EXTINF:-1 tvg-name="Vamos Consertar o Mundo - 2022" tvg-logo="http://5ce.me:80/images/u1RbxBDWKrk9iMaSyHNX5EVqiRs_big.jpg" group-title="LANCAMENTOS",Vamos Consertar o Mundo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209924.mp4
+#EXTINF:-1 tvg-name="Varig  A Caixa Preta do Brasil - 2022" tvg-logo="http://5ce.me:80/images/3HEADpGkr12fXev9TPsUDOQfttS_big.jpg" group-title="LANCAMENTOS",Varig  A Caixa Preta do Brasil - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216204.mp4
+#EXTINF:-1 tvg-name="Veja Como Eles Correm - 2022" tvg-logo="http://5ce.me:80/images/az5RKJb8qsILSUztRx0icVlnJWc_big.jpg" group-title="LANCAMENTOS",Veja Como Eles Correm - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214187.mp4
+#EXTINF:-1 tvg-name="Veja por Mim - 2022" tvg-logo="http://5ce.me:80/images/kEsjUCSVFhOHqit7FVpkT5l0lSC_big.jpg" group-title="LANCAMENTOS",Veja por Mim - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211876.mp4
+#EXTINF:-1 tvg-name="Vento Selvagem - 2022" tvg-logo="http://5ce.me:80/images/suTCgEyS9KWexoaO1XJuzdgC7IQ_big.jpg" group-title="LANCAMENTOS",Vento Selvagem - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214097.mp4
+#EXTINF:-1 tvg-name="Viagem entre Estranhos - 2021" tvg-logo="http://5ce.me:80/images/ooTkGnu4P6fc4mlxtA8JXP4U2OV_big.jpg" group-title="LANCAMENTOS",Viagem entre Estranhos - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216137.mp4
+#EXTINF:-1 tvg-name="Viajantes Perdidos no Tempo - 2022" tvg-logo="http://5ce.me:80/images/aCfAUuOefpxuE79rY8aDQvNOnZz_big.jpg" group-title="LANCAMENTOS",Viajantes Perdidos no Tempo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210558.mp4
+#EXTINF:-1 tvg-name="Vinganca - 2022" tvg-logo="http://5ce.co:80/images/ozceAmPJHgK9AqTkHYyksmMofdR_big.jpg" group-title="LANCAMENTOS",Vinganca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217414.mp4
+#EXTINF:-1 tvg-name="Vinganca e Redencao - 2022" tvg-logo="http://5ce.me:80/images/6hLaPB3OFcRZMFQT6skxLnnErpF_big.jpg" group-title="LANCAMENTOS",Vinganca e Redencao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212218.mp4
+#EXTINF:-1 tvg-name="Vinganca Fatal - 2022" tvg-logo="http://5ce.co:80/images/7InGE2Sux0o9WGbbn0bl7nZzqEc_big.jpg" group-title="LANCAMENTOS",Vinganca Fatal - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209498.mp4
+#EXTINF:-1 tvg-name="Visitas Extraterrestres - 2022" tvg-logo="http://5ce.me:80/images/mC0GjHcnrkQRVBmHEVd54dGV1m0_big.jpg" group-title="LANCAMENTOS",Visitas Extraterrestres - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215948.mp4
+#EXTINF:-1 tvg-name="Visoes do Imperio - 2022" tvg-logo="http://5ce.me:80/images/pf7o1p0kCMBZ0gLNySOiQvBU6gY_big.jpg" group-title="LANCAMENTOS",Visoes do Imperio - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211468.mp4
+#EXTINF:-1 tvg-name="Vizinhos - 2022" tvg-logo="http://5ce.me:80/images/oT7388wlquvpGN3LPxVeD849QAI_big.jpg" group-title="LANCAMENTOS",Vizinhos - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211632.mp4
+#EXTINF:-1 tvg-name="Voce  Nao e Um Soldado - 2021" tvg-logo="http://5ce.me:80/images/lVndyIFjeEf2kZVYuZ25DTtaWYX_big.jpg" group-title="LANCAMENTOS",Voce  Nao e Um Soldado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212907.mp4
+#EXTINF:-1 tvg-name="Voce Nao Estara So - 2022" tvg-logo="http://5ce.me:80/images/Aqj4qpubd5GKfZho6KUBFEBzMtU_big.jpg" group-title="LANCAMENTOS",Voce Nao Estara So - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214709.mp4
+#EXTINF:-1 tvg-name="Voce Radical com Ranveer Singh e Bear Grylls - 2022" tvg-logo="http://5ce.co:80/images/pZ7cLgKNF9g3B7z1TXlGYQwClPH_big.jpg" group-title="LANCAMENTOS",Voce Radical com Ranveer Singh e Bear Grylls - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209727.mp4
+#EXTINF:-1 tvg-name="Volte Sempre - 2023" tvg-logo="http://5ce.co:80/images/dKM5MnEgPSwDXaAyZhN4NtpJy9B_big.jpg" group-title="LANCAMENTOS",Volte Sempre - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219852.mp4
+#EXTINF:-1 tvg-name="Vulcao Whakaari Resgate na Nova Zelandia - 2022" tvg-logo="http://5ce.me:80/images/7LQUp64Ub9JfnLVuzyhEHdc7DBg_big.jpg" group-title="LANCAMENTOS",Vulcao Whakaari Resgate na Nova Zelandia - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216145.mp4
+#EXTINF:-1 tvg-name="Wendell e Wild - 2022" tvg-logo="http://5ce.me:80/images/5dsX6UAHqkQz1kiV8bs8SvjyVNa_big.jpg" group-title="LANCAMENTOS",Wendell e Wild - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214056.mp4
+#EXTINF:-1 tvg-name="Whindersson Nunes  Isso Nao e Um Culto - 2023" tvg-logo="http://5ce.co:80/images/om3ojwYvXOkEifztuSIFKqUruly_big.jpg" group-title="LANCAMENTOS",Whindersson Nunes  Isso Nao e Um Culto - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218044.mp4
+#EXTINF:-1 tvg-name="Wolf - 2021" tvg-logo="http://5ce.co:80/images/39SHAfnH7xoP2SH7BQoUXMeXjUQ_big.jpg" group-title="LANCAMENTOS",Wolf - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209569.mp4
+#EXTINF:-1 tvg-name="Yuri Marcal Ledo Engano - 2022" tvg-logo="http://5ce.co:80/images/ss5LuWcxnHFBJ3hPXJgNY5lcf8o_big.jpg" group-title="LANCAMENTOS",Yuri Marcal Ledo Engano - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208745.mp4
+#EXTINF:-1 tvg-name="Ziraldo Uma Obra que Pede Socorro - 2021" tvg-logo="http://5ce.me:80/images/9ymDJBXRyxlIHul1vbiOvBXwNes_big.jpg" group-title="LANCAMENTOS",Ziraldo Uma Obra que Pede Socorro - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211467.mp4
+#EXTINF:-1 tvg-name="Zombies 3 - 2022" tvg-logo="http://5ce.co:80/images/vqzdv4nArhuZxd7il0boKaVxQMF_big.jpg" group-title="LANCAMENTOS",Zombies 3 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209588.mp4
+#EXTINF:-1 tvg-name="Zoya - 2021" tvg-logo="http://5ce.me:80/images/cqGbwxDHCkRpciXxHzazN7VkMuf_big.jpg" group-title="LANCAMENTOS",Zoya - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214895.mp4
+#EXTINF:-1 tvg-name="A Historia de Whitney Houston - 2022" tvg-logo="http://5ce.co:80/images/vkOVROMEixrM87hMtopn3JD92Uv_big.jpg" group-title="LANCAMENTOS",A Historia de Whitney Houston - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221517.mp4
+#EXTINF:-1 tvg-name="Amor Em Tempos De Polarizacao - 2022" tvg-logo="http://5ce.co:80/images/5KL3ewJAgjoXrThUBJfQadGq6B_big.jpg" group-title="LANCAMENTOS",Amor Em Tempos De Polarizacao - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221516.mp4
+#EXTINF:-1 tvg-name="Code Name Banshee - 2022" tvg-logo="http://5ce.co:80/images/YLv9S84WyPZ5uxty989Duhzi5u_big.jpg" group-title="LANCAMENTOS",Code Name Banshee - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221514.mp4
+#EXTINF:-1 tvg-name="Crime Imperfeito - 2022" tvg-logo="http://5ce.co:80/images/fdaGFN94V9VSfmP0AzFcRN1Sqly_big.jpg" group-title="LANCAMENTOS",Crime Imperfeito - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221513.mp4
+#EXTINF:-1 tvg-name="Minha Familia Perfeita - 2022" tvg-logo="http://5ce.co:80/images/sxZg6CWOmMXXGOhlkEHj10kAdPO_big.jpg" group-title="LANCAMENTOS",Minha Familia Perfeita - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221512.mp4
+#EXTINF:-1 tvg-name="Um Filho - 2022" tvg-logo="http://5ce.co:80/images/diSCVAovDgGGk5QJzmU0rPXoPRB_big.jpg" group-title="LANCAMENTOS",Um Filho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221510.mp4
+#EXTINF:-1 tvg-name="Breaking - 2022 " tvg-logo="http://5ce.co:80/images/rKbgbzJbVM7MLjN7EwdO1QcIXCz_big.jpg" group-title="LANCAMENTOS",Breaking - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221412.mp4
+#EXTINF:-1 tvg-name="Esquema de Risco Operacao Fortune - 2023 " tvg-logo="http://5ce.co:80/images/fLxXvMcpsK8fGKguP3wZ7Urb2ao_big.jpg" group-title="LANCAMENTOS",Esquema de Risco Operacao Fortune - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221411.mp4
+#EXTINF:-1 tvg-name="Fome de Sucesso - 2023" tvg-logo="http://5ce.co:80/images/gu9Wd1kW13QpD7dehhfbyYRKZRK_big.jpg" group-title="LANCAMENTOS",Fome de Sucesso - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221410.mp4
+#EXTINF:-1 tvg-name="Inside - 2023" tvg-logo="http://5ce.co:80/images/rpeFbH71EQVJmNuA9KSboR3YaZS_big.jpg" group-title="LANCAMENTOS",Inside - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221409.mp4
+#EXTINF:-1 tvg-name="Till  A Busca por Justica - 2022 " tvg-logo="http://5ce.co:80/images/ogb70EGzxqdbH5p8mmWJ5CEYSp3_big.jpg" group-title="LANCAMENTOS",Till  A Busca por Justica - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221403.mp4
+#EXTINF:-1 tvg-name="A Baleia - 2022  " tvg-logo="http://5ce.co:80/images/16CaH2Dz9XPMfjIBidaBk8tvIwH_big.jpg" group-title="LANCAMENTOS",A Baleia - 2022  
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221348.mp4
+#EXTINF:-1 tvg-name="Oh Belinda - 2023" tvg-logo="http://5ce.co:80/images/6MI2WO2ThKMz8LSdpxBvaIAt8FE_big.jpg" group-title="LANCAMENTOS",Oh Belinda - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221345.mp4
+#EXTINF:-1 tvg-name="O Visitante - 2022" tvg-logo="http://5ce.co:80/images/vvHbrZ386vZDqFQVMMxWtOJ1ZQC_big.jpg" group-title="LANCAMENTOS",O Visitante - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221292.mp4
+#EXTINF:-1 tvg-name="Os Reis da Rua Mulberry Que Reine o Amor - 2023" tvg-logo="http://5ce.co:80/images/3Tr5ziHzI6nEJyXwcyr0z29mA77_big.jpg" group-title="LANCAMENTOS",Os Reis da Rua Mulberry Que Reine o Amor - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221290.mp4
+#EXTINF:-1 tvg-name="Na Redea Curta - 2022" tvg-logo="http://5ce.co:80/images/x63Tft54YGgOb6jWKMRQFsm3zU2_big.jpg" group-title="LANCAMENTOS",Na Redea Curta - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221289.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Lutcha - 2023" tvg-logo="http://5ce.co:80/images/9CbBbgftaC2fQYwHYMfrSXkKML0_big.jpg" group-title="LANCAMENTOS",Meu Amigo Lutcha - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221288.mp4
+#EXTINF:-1 tvg-name="Tinnitus - 2023" tvg-logo="http://5ce.co:80/images/sWVCBeQDiQTxmwjuKSuui2Vzjdc_big.jpg" group-title="LANCAMENTOS",Tinnitus - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220817.mp4
+#EXTINF:-1 tvg-name="Gemini O Planeta Sombrio - 2023" tvg-logo="http://5ce.co:80/images/eX6tDFp4RhhjZaa1HUDUzFGPWYk_big.jpg" group-title="LANCAMENTOS",Gemini O Planeta Sombrio - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220810.mp4
+#EXTINF:-1 tvg-name="Kill Boksoon - 2023" tvg-logo="http://5ce.co:80/images/7QKkvGgwMCvYrdkyNFgxfLESBtx_big.jpg" group-title="LANCAMENTOS",Kill Boksoon - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220809.mp4
+#EXTINF:-1 tvg-name="Misterio em Paris - 2023" tvg-logo="http://5ce.co:80/images/pf1dQDb55mJ13KQMEYa4O0fni64_big.jpg" group-title="LANCAMENTOS",Misterio em Paris - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220808.mp4
+#EXTINF:-1 tvg-name="Rye Lane  Um Amor Inesperado - 2023" tvg-logo="http://5ce.co:80/images/ljqrimXtkF47gSKcDyVLZ03ctYG_big.jpg" group-title="LANCAMENTOS",Rye Lane  Um Amor Inesperado - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220805.mp4
+#EXTINF:-1 tvg-name="Tetris - 2023" tvg-logo="http://5ce.co:80/images/4F2QwCOYHJJjecSvdOjStuVLkpu_big.jpg" group-title="LANCAMENTOS",Tetris - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220804.mp4
+#EXTINF:-1 tvg-name="Um Pacto de Amizade - 2023" tvg-logo="http://5ce.co:80/images/f1NEx4lohw47WSuNqQife0GxWLv_big.jpg" group-title="LANCAMENTOS",Um Pacto de Amizade - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220803.mp4
+#EXTINF:-1 tvg-name="Decisao de Partir - 2022" tvg-logo="http://5ce.co:80/images/6EhQAZKtiOOVcMgIsrix87ZUl4M_big.jpg" group-title="LANCAMENTOS",Decisao de Partir - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220764.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos 4 Renascimento - 2022" tvg-logo="http://5ce.co:80/images/37xwMszfSsl1PVjaFXvKeB0nETa_big.jpg" group-title="LANCAMENTOS",Olhos Famintos 4 Renascimento - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220759.mp4
+#EXTINF:-1 tvg-name="Criminoso ou Inocente O Caso Big Mack - 2023" tvg-logo="http://5ce.co:80/images/k5qs9mKMMA0gBIdJnYOxSwgWc6u_big.jpg" group-title="LANCAMENTOS",Criminoso ou Inocente O Caso Big Mack - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220756.mp4
+#EXTINF:-1 tvg-name="As Mumias e o Anel Perdido - 2023" tvg-logo="http://5ce.co:80/images/AmfGIGm5SzcBynum9roCNSAzoyD_big.jpg" group-title="LANCAMENTOS",As Mumias e o Anel Perdido - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220685.mp4
+#EXTINF:-1 tvg-name="De Repente 70 - 2022" tvg-logo="http://5ce.co:80/images/fvPQQKCTbMRK4Mo6C91nPVcjFeA_big.jpg" group-title="LANCAMENTOS",De Repente 70 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220684.mp4
+#EXTINF:-1 tvg-name="Shazam Furia dos Deuses - 2023" tvg-logo="http://5ce.co:80/images/5WCM2gGB0mGunbssHX7okAoEeUv_big.jpg" group-title="LANCAMENTOS",Shazam Furia dos Deuses - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220681.mp4
+#EXTINF:-1 tvg-name="Os Ninjas da Rua de Baixo - 2022" tvg-logo="http://5ce.co:80/images/ot1VMbD7ACFh47LP8G2f67GejV5_big.jpg" group-title="LANCAMENTOS",Os Ninjas da Rua de Baixo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220678.mp4
+#EXTINF:-1 tvg-name="A Arca das Girafas - 2022" tvg-logo="http://5ce.co:80/images/87xYDGhbi9xdM5MAhs6YM5qJWoy_big.jpg" group-title="LANCAMENTOS",A Arca das Girafas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220676.mp4
+#EXTINF:-1 tvg-name="A Misteriosa Tumba de Tutancamon - 2022" tvg-logo="http://5ce.co:80/images/bx3UBNjbmxCrHZWve7Jz3sEnggB_big.jpg" group-title="LANCAMENTOS",A Misteriosa Tumba de Tutancamon - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220622.mp4
+#EXTINF:-1 tvg-name="Roubo pelos Ares - 2023" tvg-logo="http://5ce.co:80/images/9wbjshzUHdfFhvdqHoNraGXhpLY_big.jpg" group-title="LANCAMENTOS",Roubo pelos Ares - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220621.mp4
+#EXTINF:-1 tvg-name="Vicio Perfeito - 2023" tvg-logo="http://5ce.co:80/images/1bFE8TlLU7r3IwwGHN7au8xPIds_big.jpg" group-title="LANCAMENTOS",Vicio Perfeito - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220620.mp4
+#EXTINF:-1 tvg-name="Batem a Porta - 2023" tvg-logo="http://5ce.co:80/images/94Gfu9vxUAVeL8EHc9toT9nGLkv_big.jpg" group-title="LANCAMENTOS",Batem a Porta - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220399.mp4
+#EXTINF:-1 tvg-name="Caso Perigoso - 2022" tvg-logo="http://5ce.co:80/images/h9FbCfpc4GXHkbd5zljPZNMXjsS_big.jpg" group-title="LANCAMENTOS",Caso Perigoso - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220398.mp4
+#EXTINF:-1 tvg-name="Furias Femininas - 2023" tvg-logo="http://5ce.co:80/images/yRJIqsE3JnP92HOXpmch1EJQ0xq_big.jpg" group-title="LANCAMENTOS",Furias Femininas - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220397.mp4
+#EXTINF:-1 tvg-name="Operacao Hunt - 2023" tvg-logo="http://5ce.co:80/images/gLeUgQ7do6nDRCLMTUIv7DeAiGa_big.jpg" group-title="LANCAMENTOS",Operacao Hunt - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220394.mp4
+#EXTINF:-1 tvg-name="Escola de Quebrada - 2023" tvg-logo="http://5ce.co:80/images/bYgRlSTnsjHqiK0z6JxBf4xAEqB_big.jpg" group-title="LANCAMENTOS",Escola de Quebrada - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220384.mp4
+#EXTINF:-1 tvg-name="Regra 34 - 2022" tvg-logo="http://5ce.co:80/images/bhfHqvpIzxQoXhmpUhn03g8EzFS_big.jpg" group-title="DRAMA",Regra 34 - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220376.mp4
+#EXTINF:-1 tvg-name="O Estrangulador de Boston - 2023" tvg-logo="http://5ce.co:80/images/iyJM16EEF5jcQZipFjpRtEjeRyu_big.jpg" group-title="LANCAMENTOS",O Estrangulador de Boston - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220374.mp4
+#EXTINF:-1 tvg-name="Aterrorizante 2 - 2022 " tvg-logo="http://5ce.co:80/images/8gLhu8UFPZfH2Hv11JhTZkb9CVl_big.jpg" group-title="LANCAMENTOS",Aterrorizante 2 - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220372.mp4
+#EXTINF:-1 tvg-name="A Elefanta do Magico - 2023" tvg-logo="http://5ce.co:80/images/g7weieVLynnkcFqOWA5WAmjffNB_big.jpg" group-title="LANCAMENTOS",A Elefanta do Magico - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220154.mp4
+#EXTINF:-1 tvg-name="Intencoes Crueis - 2022" tvg-logo="http://5ce.co:80/images/jwjMxIXoJ3T90pHDL0P5NsYyuTh_big.jpg" group-title="LANCAMENTOS",Intencoes Crueis - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220151.mp4
+#EXTINF:-1 tvg-name="O Faixa Preta - 2023" tvg-logo="http://5ce.co:80/images/tdXSgI3jxRbZOoBWxvpnMjkRfBV_big.jpg" group-title="LANCAMENTOS",O Faixa Preta - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220150.mp4
+#EXTINF:-1 tvg-name="O Rei das Sombras - 2023" tvg-logo="http://5ce.co:80/images/o0UxfLtPJ7rN1lKyBMFwbw5ngNU_big.jpg" group-title="LANCAMENTOS",O Rei das Sombras - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220149.mp4
+#EXTINF:-1 tvg-name="O Som do Caos - 2023" tvg-logo="http://5ce.co:80/images/yka6u5dbx1vWoMrNIHHutluaepp_big.jpg" group-title="LANCAMENTOS",O Som do Caos - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/220148.mp4
+#EXTINF:-1 tvg-name="TAR - 2022 " tvg-logo="http://5ce.co:80/images/dRVAlaU0vbG6hMf2K45NSiIyoUe_big.jpg" group-title="LANCAMENTOS",TAR - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221592.mp4
+#EXTINF:-1 tvg-name="Assombrosas - 2023" tvg-logo="http://5ce.co:80/images/kwdK2tzASFRaL2lFPU6Pd4Nqno4_big.jpg" group-title="LANCAMENTOS",Assombrosas - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221591.mp4
+#EXTINF:-1 tvg-name="Corrosao - 2023" tvg-logo="http://5ce.co:80/images/9WIHpY4qVYVYyRq220K4LVQwpjt_big.jpg" group-title="LANCAMENTOS",Corrosao - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221590.mp4
+#EXTINF:-1 tvg-name="O Amor Da Voltas - 2022" tvg-logo="http://5ce.co:80/images/fynvbvRZzkIWa2Q8h9Gg5w6FgzD_big.jpg" group-title="LANCAMENTOS",O Amor Da Voltas - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221589.mp4
+#EXTINF:-1 tvg-name="Rainhas em Fuga - 2023" tvg-logo="http://5ce.co:80/images/iL0hVqtK0NUa6B9UJXkoq5jSXAz_big.jpg" group-title="LANCAMENTOS",Rainhas em Fuga - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221588.mp4
+#EXTINF:-1 tvg-name="O Ultimo Reino  Sete Reis Devem Morrer - 2023" tvg-logo="http://5ce.co:80/images/xUvSeFhdsJbKFOaHnB9TeTZpJKs_big.jpg" group-title="LANCAMENTOS",O Ultimo Reino  Sete Reis Devem Morrer - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221587.mp4
+#EXTINF:-1 tvg-name="O Exorcista do Papa - 2023 " tvg-logo="http://5ce.co:80/images/rBDAkmDdRv1bG996JPPNq0cMOVG_big.jpg" group-title="LANCAMENTOS",O Exorcista do Papa - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221408.mp4
+#EXTINF:-1 tvg-name="Raquel 11 - 2023" tvg-logo="http://5ce.co:80/images/ezHJ7AkNQ0V83kQAY7fJHPPidSU_big.jpg" group-title="LANCAMENTOS",Raquel 11 - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222165.mp4
+#EXTINF:-1 tvg-name="Dracula Ele Ainda Esta Vivo - 2022" tvg-logo="http://5ce.co:80/images/9nbw6eAYOhYEjI1wODekAG6svZF_big.jpg" group-title="LANCAMENTOS",Dracula Ele Ainda Esta Vivo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222164.mp4
+#EXTINF:-1 tvg-name="Tudo pela Noiva - 2023" tvg-logo="http://5ce.co:80/images/2hdtxPuqCZtEnvfKFeLyrrn9HYM_big.jpg" group-title="LANCAMENTOS",Tudo pela Noiva - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222163.mp4
+#EXTINF:-1 tvg-name="Sem Rastro - 2023" tvg-logo="http://5ce.co:80/images/m3ZNSvplELOkVZKPXElMwdapIr4_big.jpg" group-title="LANCAMENTOS",Sem Rastro - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222161.mp4
+#EXTINF:-1 tvg-name="Quatro Amigas Numa Fria - 2022" tvg-logo="http://5ce.co:80/images/4QDkxzuZ1klmF3OYYM10xaMFIfu_big.jpg" group-title="LANCAMENTOS",Quatro Amigas Numa Fria - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222160.mp4
+#EXTINF:-1 tvg-name="O Grande Mauricinho - 2022" tvg-logo="http://5ce.co:80/images/qcCZnuFQv6faxbXUb9pa8Le5ujB_big.jpg" group-title="LANCAMENTOS",O Grande Mauricinho - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222159.mp4
+#EXTINF:-1 tvg-name="Liga da JustiCa x RWBY Super Herois e Cacadores  Parte 1 - 2023" tvg-logo="http://5ce.co:80/images/gs9thnvpkf6HCx2lJZlY5YaLQ7s_big.jpg" group-title="LANCAMENTOS",Liga da JustiCa x RWBY Super Herois e Cacadores  Parte 1 - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222158.mp4
+#EXTINF:-1 tvg-name="Como Os Anos Me Deixaram - 2023" tvg-logo="http://5ce.co:80/images/3njsXDhwRJOjvl461mhMxQoru9j_big.jpg" group-title="LANCAMENTOS",Como Os Anos Me Deixaram - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222157.mp4
+#EXTINF:-1 tvg-name="Panico VI - 2023" tvg-logo="http://5ce.co:80/images/oWPBXgmRxFIeo9Ad4EUye8JWs7v_big.jpg" group-title="LANCAMENTOS",Panico VI - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219777.mp4
+#EXTINF:-1 tvg-name="Creed III - 2023 " tvg-logo="http://5ce.co:80/images/fa23RPI5UmXqCUICdEFS8uFjUda_big.jpg" group-title="LANCAMENTOS",Creed III - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/219781.mp4
+#EXTINF:-1 tvg-name="O Rei Piu Piu - 2022" tvg-logo="http://5ce.co:80/images/jJatuRAVIsxAIszL3QTxrbIzxzc_big.jpg" group-title="LANCAMENTOS",O Rei Piu Piu - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222142.mp4
+#EXTINF:-1 tvg-name="Serial Kelly - 2022" tvg-logo="http://5ce.co:80/images/bHmlTaUrrMdh0m9vG5ApNwIWIPd_big.jpg" group-title="LANCAMENTOS",Serial Kelly - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222141.mp4
+#EXTINF:-1 tvg-name="Os Tres Mosqueteiros D Artagnan - 2023" tvg-logo="http://5ce.co:80/images/hfExJPcbBtDeFDEb7I1By72Drlr_big.jpg" group-title="CINEMA",Os Tres Mosqueteiros D Artagnan - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222140.mp4
+#EXTINF:-1 tvg-name="Dias de Desejo - 2022" tvg-logo="http://5ce.co:80/images/ihkJjmIPwno6uDF6njWcCwbL8a6_big.jpg" group-title="LANCAMENTOS",Dias de Desejo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222138.mp4
+#EXTINF:-1 tvg-name="One Piece Film Red - 2022 " tvg-logo="http://5ce.co:80/images/ogDXuVkO92GcETZfSofXXemw7gb_big.jpg" group-title="LANCAMENTOS",One Piece Film Red - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222125.mp4
+#EXTINF:-1 tvg-name="Encurralados - 2023" tvg-logo="http://5ce.co:80/images/mnSqnhE3DwfvgxaGeqp3QC4VjoE_big.jpg" group-title="LANCAMENTOS",Encurralados - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221788.mp4
+#EXTINF:-1 tvg-name="Ghosted Sem Resposta - 2023" tvg-logo="http://5ce.co:80/images/89p7MQ3I5wKzOEO0OCCXEdUqX9R_big.jpg" group-title="LANCAMENTOS",Ghosted Sem Resposta - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221787.mp4
+#EXTINF:-1 tvg-name="Guia de Viagem para o Amor - 2023" tvg-logo="http://5ce.co:80/images/2nhTfuDkks0MZgx0gncPvz1L59p_big.jpg" group-title="LANCAMENTOS",Guia de Viagem para o Amor - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221786.mp4
+#EXTINF:-1 tvg-name="Jogo Perigoso Vitimas da Heranca - 2022" tvg-logo="http://5ce.co:80/images/oWFcCb6UEnToFC7p2PnoNZhF7Fv_big.jpg" group-title="LANCAMENTOS",Jogo Perigoso Vitimas da Heranca - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221785.mp4
+#EXTINF:-1 tvg-name="Quasimodo - 2023" tvg-logo="http://5ce.co:80/images/yRitoZ1fVLhUsK7bzu84lJQMg1g_big.jpg" group-title="LANCAMENTOS",Quasimodo - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221784.mp4
+#EXTINF:-1 tvg-name="Tudo de Novo Mais Uma Vez - 2023" tvg-logo="http://5ce.co:80/images/iQ8nXd8L4aVNExq0RKjyl1EtA7A_big.jpg" group-title="LANCAMENTOS",Tudo de Novo Mais Uma Vez - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/221783.mp4
+#EXTINF:-1 tvg-name="D P A  e a Biblioteca Banida - 2023" tvg-logo="http://5ce.co:80/images/2jQ7Wtm6MNNn5J8rleBJrwSkedu_big.jpg" group-title="LANCAMENTOS",D P A  e a Biblioteca Banida - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222704.mp4
+#EXTINF:-1 tvg-name="O Acidente - 2022" tvg-logo="http://5ce.co:80/images/h8n9JW1LS0dMe0uC8pchAHYvl25_big.jpg" group-title="LANCAMENTOS",O Acidente - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222703.mp4
+#EXTINF:-1 tvg-name="O Urso do Po Branco - 2023 " tvg-logo="http://5ce.co:80/images/7tBvUMyZeJvpaAcnbV3vcCa753K_big.jpg" group-title="LANCAMENTOS",O Urso do Po Branco - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222702.mp4
+#EXTINF:-1 tvg-name="Gods Country - 2022 " tvg-logo="http://5ce.co:80/images/aZp190Qx33oRO8KGSkO1sFjEqC2_big.jpg" group-title="LANCAMENTOS",Gods Country - 2022 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222823.mp4
+#EXTINF:-1 tvg-name="Rastos de Sangue - 2022" tvg-logo="http://5ce.co:80/images/yHwi0rNp3tCJp4Nd30fed8k6vC_big.jpg" group-title="LANCAMENTOS",Rastos de Sangue - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222560.mp4
+#EXTINF:-1 tvg-name="A Roleta da Morte - 2023" tvg-logo="http://5ce.co:80/images/yDziA0OTfZq19IBlQ6EUemraSfY_big.jpg" group-title="LANCAMENTOS",A Roleta da Morte - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222555.mp4
+#EXTINF:-1 tvg-name="Substitutos - 2023" tvg-logo="http://5ce.co:80/images/ro4XtqD2bdgIoeK4Ysy3rvNOCju_big.jpg" group-title="LANCAMENTOS",Substitutos - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222400.mp4
+#EXTINF:-1 tvg-name="A Roleta da Morte - 2023" tvg-logo="http://5ce.co:80/images/yDziA0OTfZq19IBlQ6EUemraSfY_big.jpg" group-title="LANCAMENTOS",A Roleta da Morte - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222399.mp4
+#EXTINF:-1 tvg-name="Um Dia das Maes Nada Tradicional - 2023" tvg-logo="http://5ce.co:80/images/qqC2ZnhAfe7NN1Wkr5rRrAdd394_big.jpg" group-title="LANCAMENTOS",Um Dia das Maes Nada Tradicional - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222398.mp4
+#EXTINF:-1 tvg-name="The Hanging Sun - 2022" tvg-logo="http://5ce.co:80/images/ksvaHQxurLDF5qBXCFRgEhWqdtT_big.jpg" group-title="LANCAMENTOS",The Hanging Sun - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222386.mp4
+#EXTINF:-1 tvg-name="Pearl Uma Historia de Origem X - 2023" tvg-logo="http://5ce.co:80/images/cTgLkhIMmzwH1NAaq7NDbFN20zi_big.jpg" group-title="LANCAMENTOS",Pearl Uma Historia de Origem X - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222383.mp4
+#EXTINF:-1 tvg-name="Dungeons Dragons Honra Entre Rebeldes - 2023" tvg-logo="http://5ce.co:80/images/85ivt7lJm3J5Mqybdh59m09eksV_big.jpg" group-title="LANCAMENTOS",Dungeons Dragons Honra Entre Rebeldes - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222345.mp4
+#EXTINF:-1 tvg-name="Buzine por Jesus Salve a Sua Alma - 2022" tvg-logo="http://5ce.co:80/images/tVUEQX678hV84xaqJc4FOPAR6nN_big.jpg" group-title="LANCAMENTOS",Buzine por Jesus Salve a Sua Alma - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222343.mp4
+#EXTINF:-1 tvg-name="13 Exorcismos - 2023" tvg-logo="http://5ce.co:80/images/aNlCqSfAV4BhHqaxmXdcaYM4iTF_big.jpg" group-title="LANCAMENTOS",13 Exorcismos - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222327.mp4
+#EXTINF:-1 tvg-name="Casamento em Familia - 2023 " tvg-logo="http://5ce.co:80/images/1vi88La90aTwEtsRMNqXNwtTXn3_big.jpg" group-title="LANCAMENTOS",Casamento em Familia - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222323.mp4
+#EXTINF:-1 tvg-name="Tic Tac A Maternidade do Mal - 2023" tvg-logo="http://5ce.co:80/images/dpKHaXmAeiVaV1FQVIWStyg0Cws_big.jpg" group-title="LANCAMENTOS",Tic Tac A Maternidade do Mal - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222190.mp4
+#EXTINF:-1 tvg-name="Sick - 2022" tvg-logo="http://5ce.co:80/images/mpfoBxeLIgLIGN0YFwnny34ZE1K_big.jpg" group-title="LANCAMENTOS",Sick - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222189.mp4
+#EXTINF:-1 tvg-name="Peter Pan and Wendy - 2023" tvg-logo="http://5ce.co:80/images/xuI60N007L9x3r46paOZarUj2f3_big.jpg" group-title="LANCAMENTOS",Peter Pan and Wendy - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222188.mp4
+#EXTINF:-1 tvg-name="Assassin Club - 2023 " tvg-logo="http://5ce.co:80/images/pxetuS6VtpfIM58PQ1Fe9jrQVaI_big.jpg" group-title="LANCAMENTOS",Assassin Club - 2023 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222186.mp4
+#EXTINF:-1 tvg-name="Agente Infiltrado - 2023" tvg-logo="http://5ce.co:80/images/sgEUDZ1ZVTYLVLKWaXDud4COGLF_big.jpg" group-title="LANCAMENTOS",Agente Infiltrado - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222184.mp4
+#EXTINF:-1 tvg-name="Duas Bruxas  A Heranca Diabolica - 2023" tvg-logo="http://5ce.co:80/images/z2pnVAILnqSXGEWzIEEH3kxkiPB_big.jpg" group-title="LANCAMENTOS",Duas Bruxas  A Heranca Diabolica - 2023
+ http://5ce.co:80/movie/Rayan24250/Ray242509/222168.mp4
+
 #EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2023.xml"
 ############## Filmes: Lancamentos 2023 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes: Lancamentos 2023" group-title="
@@ -3971,6 +8260,2070 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/250722.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDwtFD4jQPh2YLmfzPQC4kDBdX.jpg" group-title="Filmes: Acao",A Supremacia Bourne - 2004
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25165.mp4
 
+#EXTM3U url-tvg="http://grade-de-ACAO.xml"
+############## ACAO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeACAO" group-title="
+
+#EXTINF:-1 tvg-name="10.000 A.C. - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="ACAO",10.000 A.C. - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111573.mp4
+#EXTINF:-1 tvg-name="12 Rounds 1 - 2009" tvg-logo="http://5ce.co:80/images/rzYL3JELRAmy9QqklHPYdEQoGAM_big.jpg" group-title="ACAO",12 Rounds 1 - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/174626.mp4
+#EXTINF:-1 tvg-name="12 Rounds 2 - Reloaded - 2013" tvg-logo="http://5ce.co:80/images/btThjvVC4lOqE95F9iVK118kpj2_big.jpg" group-title="ACAO",12 Rounds 2 - Reloaded - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/174627.mp4
+#EXTINF:-1 tvg-name="12 Rounds 3 - Caçada Mortal - 2015" tvg-logo="https://tinyurl.com/46rzkvpk" group-title="ACAO",12 Rounds 3 - Caçada Mortal - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/174628.mp4
+#EXTINF:-1 tvg-name="13 Distrito - 2014" tvg-logo="http://5ce.me:80/images/fJwAFbjWXdbu0nl8wZPYn1VZkNj_big.jpg" group-title="ACAO",13 Distrito - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212442.mp4
+#EXTINF:-1 tvg-name="15 Minutos de Guerra - 2019" tvg-logo="http://urlon.me/Ov5" group-title="ACAO",15 Minutos de Guerra - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61384.mp4
+#EXTINF:-1 tvg-name="16 Quadras - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp4k8o0oYSD9iLEc6m2U9Bkq3pY.jpg" group-title="ACAO",16 Quadras - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/112325.mp4
+#EXTINF:-1 tvg-name="211 - O Grande Assalto - 2018" tvg-logo="http://urlon.me/ZQ3" group-title="ACAO",211 - O Grande Assalto - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42828.mp4
+#EXTINF:-1 tvg-name="22 Balas - 2010" tvg-logo="http://urlon.me/O1x" group-title="ACAO",22 Balas - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61089.mp4
+#EXTINF:-1 tvg-name="22 Milhas - 2018" tvg-logo="http://urlon.me/Zwo" group-title="ACAO",22 Milhas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43176.mp4
+#EXTINF:-1 tvg-name="3 Dias para Matar - 2014" tvg-logo="http://urlon.me/ZgY1jK" group-title="ACAO",3 Dias para Matar - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65475.mp4
+#EXTINF:-1 tvg-name="400 Bullets - 2021" tvg-logo="http://5ce.me:80/images/2Y3KP16jgGmOqHRx2XNy8SM2Sid_big.jpg" group-title="ACAO",400 Bullets - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/144676.mp4
+#EXTINF:-1 tvg-name="47 Ronins - 2013" tvg-logo="http://urlon.me/ZgY1gF" group-title="ACAO",47 Ronins - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42827.mp4
+#EXTINF:-1 tvg-name="48 Horas - 1982" tvg-logo="http://5ce.me:80/images/lgW4inpyJKv9KkUYEaaA6MFk0eY_big.jpg" group-title="ACAO",48 Horas - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/143363.mp4
+#EXTINF:-1 tvg-name="48 Horas - Parte II - 1990" tvg-logo="http://5ce.me:80/images/lO4DyHX0vYkeUTuZpFStMTFbaI4_big.jpg" group-title="ACAO",48 Horas - Parte II - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/143364.mp4
+#EXTINF:-1 tvg-name="6 Balas - 2012" tvg-logo="http://cms-central.co:80/images/sMSYOBClCr8cQDxbYQaikqi5YG7_big.jpg" group-title="ACAO",6 Balas - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154801.mp4
+#EXTINF:-1 tvg-name="6 Dias - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="ACAO",6 Dias - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121954.mp4
+#EXTINF:-1 tvg-name="60 Segundos - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F9AlinnP2OhgnsK8xjksK94Oh1.jpg" group-title="ACAO",60 Segundos - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61386.mp4
+#EXTINF:-1 tvg-name="72 Horas Depois  - 2020" tvg-logo="http://5ce.co:80/images/aYT218ykdkD1XHtcbMNBnOnTb1X_big.jpg" group-title="ACAO",72 Horas Depois  - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185006.mp4
+#EXTINF:-1 tvg-name="A Arqueira - 2017" tvg-logo="http://urlon.me/O1A" group-title="ACAO",A Arqueira - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61090.mp4
+#EXTINF:-1 tvg-name="A Balada do Pistoleiro - 1995" tvg-logo="http://urlon.me/ZgY1gG" group-title="ACAO",A Balada do Pistoleiro - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42826.mp4
+#EXTINF:-1 tvg-name="A Caçada - 1996" tvg-logo="http://urlon.me/ZgYYYn" group-title="ACAO",A Caçada - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/79924.mp4
+#EXTINF:-1 tvg-name="A Caçada - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="ACAO",A Caçada - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/114937.mp4
+#EXTINF:-1 tvg-name="A Cartada Final - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2ZDIB3zqeHckoI8j6cpviYxs3t.jpg" group-title="ACAO",A Cartada Final - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121955.mp4
+#EXTINF:-1 tvg-name="A Colônia - 2013" tvg-logo="http://5ce.co:80/images/Acc3skjs4TGxF6G7VxG3WvVvbRr_big.jpg" group-title="ACAO",A Colônia - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42824.mp4
+#EXTINF:-1 tvg-name="A Divisão - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaAmitIfPZp08wpPXsadibUMEZ.jpg" group-title="ACAO",A Divisão - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70814.mp4
+#EXTINF:-1 tvg-name="A Espada do Imortal - 2017" tvg-logo="http://urlon.me/OvU" group-title="ACAO",A Espada do Imortal - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61387.mp4
+#EXTINF:-1 tvg-name="A Espiã Que Sabia de Menos - 2015" tvg-logo="http://5ce.co:80/images/bft6EuB96z0ureK832edqwAplDS_big.jpg" group-title="ACAO",A Espiã Que Sabia de Menos - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201989.mp4
+#EXTINF:-1 tvg-name="A Família - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg" group-title="ACAO",A Família - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123520.mp4
+#EXTINF:-1 tvg-name="A Força da Natureza - 2020" tvg-logo="http://cms-central.co:80/images/aCbYUY1xuyaxbp5F1KuyH7AIvHg_big.jpg" group-title="ACAO",A Força da Natureza - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/155569.mp4
+#EXTINF:-1 tvg-name="A Fortaleza - 2021" tvg-logo="http://5ce.co:80/images/hYi00SLc8v92h5i4MoluCvIwLG1_big.jpg" group-title="ACAO",A Fortaleza - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195177.mp4
+#EXTINF:-1 tvg-name="A Fúria do Dragão - 1972" tvg-logo="http://urlon.me/ZgY1FK" group-title="ACAO",A Fúria do Dragão - 1972
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61421.mp4
+#EXTINF:-1 tvg-name="A Hospedeira - 2013" tvg-logo="http://urlon.me/ZgY17S" group-title="ACAO",A Hospedeira - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61388.mp4
+#EXTINF:-1 tvg-name="A Identidade Bourne - 2002" tvg-logo="http://urlon.me/ZQ6" group-title="ACAO",A Identidade Bourne - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42822.mp4
+#EXTINF:-1 tvg-name="A Ilha - 2005" tvg-logo="http://urlon.me/OvY" group-title="ACAO",A Ilha - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61389.mp4
+#EXTINF:-1 tvg-name="A Ilha - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNJAQdWFNs59q5aikAaVJyKsoKw.jpg" group-title="ACAO",A Ilha - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/119553.mp4
+#EXTINF:-1 tvg-name="A Invasão - 2018" tvg-logo="http://5ce.co:80/images/6wq8H7AZRdQZcc9VE6oVjRvDkAG_big.jpg" group-title="ACAO",A Invasão - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/197125.mp4
+#EXTINF:-1 tvg-name="A Justiceira - 2018" tvg-logo="http://5ce.co:80/images/hXJek3Z6aOpT3c0ssPEmtnZhxLq_big.jpg" group-title="ACAO",A Justiceira - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218778.mp4
+#EXTINF:-1 tvg-name="A Lenda de Beowulf - 2007" tvg-logo="http://5ce.co:80/images/1gLjjiNrSfblI3Vopvuyd266LF8_big.jpg" group-title="ACAO",A Lenda de Beowulf - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/191923.mp4
+#EXTINF:-1 tvg-name="A Lenda de Billie Jean - 1985" tvg-logo="http://urlon.me/ZgYYmC" group-title="ACAO",A Lenda de Billie Jean - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/76972.mp4
+#EXTINF:-1 tvg-name="A Lenda do Tesouro Perdido - 2004" tvg-logo="http://urlon.me/OvG" group-title="ACAO",A Lenda do Tesouro Perdido - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61390.mp4
+#EXTINF:-1 tvg-name="A Lenda do Tesouro Perdido - Livro dos Segredos - 2007" tvg-logo="http://urlon.me/OvF" group-title="ACAO",A Lenda do Tesouro Perdido - Livro dos Segredos - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61391.mp4
+#EXTINF:-1 tvg-name="A Lenda do Zorro - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG28HziPyltTCpmMBLHmgGBbtRr.jpg" group-title="ACAO",A Lenda do Zorro - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/132281.mp4
+#EXTINF:-1 tvg-name="A Máscara do Zorro - 1998" tvg-logo="http://urlon.me/OvQ" group-title="ACAO",A Máscara do Zorro - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61392.mp4
+#EXTINF:-1 tvg-name="A Noite nos Persegue - 2018" tvg-logo="http://urlon.me/Ovq" group-title="ACAO",A Noite nos Persegue - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61393.mp4
+#EXTINF:-1 tvg-name="A Odisséia - 1997" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg" group-title="ACAO",A Odisséia - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/144501.mp4
+#EXTINF:-1 tvg-name="A Origem do Dragão - 2017" tvg-logo="http://5ce.co:80/images/89PrfqYkqafUrSK8YhWqyMt4E3M_big.jpg" group-title="ACAO",A Origem do Dragão - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158347.mp4
+#EXTINF:-1 tvg-name="A Outra Face - 1997" tvg-logo="http://urlon.me/ZvE" group-title="ACAO",A Outra Face - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42819.mp4
+#EXTINF:-1 tvg-name="A Outra História Americana - 1998" tvg-logo="http://urlon.me/ZgY1uE" group-title="ACAO",A Outra História Americana - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/68263.mp4
+#EXTINF:-1 tvg-name="A Porteira - 2020" tvg-logo="http://5ce.me:80/images/lh9jmB0FVXjjs4z9ehX6O5wN915_big.jpg" group-title="ACAO",A Porteira - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139616.mp4
+#EXTINF:-1 tvg-name="A Primeira Noite de Crime - 2018" tvg-logo="http://urlon.me/ZF0" group-title="ACAO",A Primeira Noite de Crime - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42776.mp4
+#EXTINF:-1 tvg-name="A Prova de Balas 2 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXCOELIgsRrHa3nMY69tN6XrEv6.jpg" group-title="ACAO",A Prova de Balas 2 - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/100930.mp4
+#EXTINF:-1 tvg-name="A Prova de Morte - 2007" tvg-logo="http://urlon.me/ZgY16l" group-title="ACAO",A Prova de Morte - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43461.mp4
+#EXTINF:-1 tvg-name="A Queda de Berlim - 2017" tvg-logo="http://urlon.me/Zv4" group-title="ACAO",A Queda de Berlim - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42817.mp4
+#EXTINF:-1 tvg-name="A Queima-Roupa - 2019" tvg-logo="http://urlon.me/ZFd" group-title="ACAO",A Queima-Roupa - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42760.mp4
+#EXTINF:-1 tvg-name="A Rocha - 1996" tvg-logo="http://5ce.co:80/images/eFPh6GQMQROAe6y1KQuL9f0TFRX_big.jpg" group-title="ACAO",A Rocha - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170612.mp4
+#EXTINF:-1 tvg-name="A Senha: Swordfish - 2001" tvg-logo="http://urlon.me/ZgY1FZ" group-title="ACAO",A Senha: Swordfish - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61394.mp4
+#EXTINF:-1 tvg-name="A Sombra e a Escuridão - 1996" tvg-logo="http://5ce.me:80/images/rQIxgAeOyltdrSNVGVhimGjX2hL_big.jpg" group-title="ACAO",A Sombra e a Escuridão - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137022.mp4
+#EXTINF:-1 tvg-name="A Super Maquina - 2000" tvg-logo="http://5ce.me:80/images/3fneLowMD1mTRT6JhIPPJbxSlSW_big.jpg" group-title="ACAO",A Super Maquina - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210831.mp4
+#EXTINF:-1 tvg-name="A Supremacia Bourne - 2004" tvg-logo="http://urlon.me/Zvo" group-title="ACAO",A Supremacia Bourne - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42816.mp4
+#EXTINF:-1 tvg-name="A Taberna do Inferno - 1978" tvg-logo="http://5ce.me:80/images/oHD8a1zEXMaUmJCXO9SeBMMiu97_big.jpg" group-title="ACAO",A Taberna do Inferno - 1978
+ http://5ce.co:80/movie/Rayan24250/Ray242509/173262.mp4
+#EXTINF:-1 tvg-name="A Travessia - 2016" tvg-logo="http://urlon.me/Ovk" group-title="ACAO",A Travessia - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61395.mp4
+#EXTINF:-1 tvg-name="A Última Fortaleza - 2001" tvg-logo="http://5ce.co:80/images/mHx7GUXpycO2sBuG8rjXRpmz9Zy_big.jpg" group-title="ACAO",A Última Fortaleza - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184496.mp4
+#EXTINF:-1 tvg-name="A Última Missão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrIBG0w9224hMNXpbwXc97WzYxI.jpg" group-title="ACAO",A Última Missão - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104698.mp4
+#EXTINF:-1 tvg-name="A Vilã - 2017" tvg-logo="http://urlon.me/ZrU" group-title="ACAO",A Vilã - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43830.mp4
+#EXTINF:-1 tvg-name="Abaixo de Zero - 2021" tvg-logo="http://5ce.me:80/images/fciMWczNCEODy1EaII34BNbHdYA_big.jpg" group-title="ACAO",Abaixo de Zero - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/141685.mp4
+#EXTINF:-1 tvg-name="Abra Suas Asas - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWlnUfzERPhYG6zUtepOsxcPlS6.jpg" group-title="ACAO",Abra Suas Asas - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133551.mp4
+#EXTINF:-1 tvg-name="Acima da Lei - 2019" tvg-logo="http://5ce.me:80/images/4d1pvFqLEBpqz83eyzBeDno6YZc_big.jpg" group-title="ACAO",Acima da Lei - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/210784.mp4
+#EXTINF:-1 tvg-name="Adrenalina 1 - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3Ox9qQyUXVoXcYZEBNfUeuqaS.jpg" group-title="ACAO",Adrenalina 1 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123872.mp4
+#EXTINF:-1 tvg-name="Adrenalina 2 - Alta Voltagem - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LXgxmu0pgDlVO4cIElA6HgnwFL.jpg" group-title="ACAO",Adrenalina 2 - Alta Voltagem - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111221.mp4
+#EXTINF:-1 tvg-name="Agentes Duplos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjzzXoOWTHkCLZG7V6XJLXHy1P4.jpg" group-title="ACAO",Agentes Duplos - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80778.mp4
+#EXTINF:-1 tvg-name="Agentes Vanguard - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXRTTMiEsvSFqhRuoeZXKcl3QP.jpg" group-title="ACAO",Agentes Vanguard - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133927.mp4
+#EXTINF:-1 tvg-name="Aguia de Aço 1 - 1986" tvg-logo="http://5ce.co:80/images/xpC5VhvL5J8AHh7U1xLlpM5Mntp_big.jpg" group-title="ACAO",Aguia de Aço 1 - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157751.mp4
+#EXTINF:-1 tvg-name="Aguia de Aço 2 - 1988" tvg-logo="http://5ce.me:80/images/yQNq0zbInR0Vx6nWJCEBN4d0pPI_big.jpg" group-title="ACAO",Aguia de Aço 2 - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157016.mp4
+#EXTINF:-1 tvg-name="Aguia de Aço 3 - Ases do Ceu - 1992" tvg-logo="http://5ce.me:80/images/2KzXWh4AA7bnR3O0TOHpdsWnBby_big.jpg" group-title="ACAO",Aguia de Aço 3 - Ases do Ceu - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157018.mp4
+#EXTINF:-1 tvg-name="Aguia de Aço 4 - O Combate Final - 1994" tvg-logo="http://5ce.me:80/images/qzDJLa7NCuN6GSBxIRhIWG8TGiz_big.jpg" group-title="ACAO",Aguia de Aço 4 - O Combate Final - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157017.mp4
+#EXTINF:-1 tvg-name="Aguia de Fogo - 1984" tvg-logo="http://5ce.co:80/images/p8d47nKPzPJOJnIQQVNtVcSEu7_big.jpg" group-title="ACAO",Aguia de Fogo - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/161257.mp4
+#EXTINF:-1 tvg-name="Air America - Loucos Pelo Perigo - 1990" tvg-logo="http://5ce.me:80/images/45i3yKCzM9DoicnWtrVgx5IWA0_big.jpg" group-title="ACAO",Air America - Loucos Pelo Perigo - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150802.mp4
+#EXTINF:-1 tvg-name="Ajiin – Semi-Humano - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg" group-title="ACAO",Ajiin – Semi-Humano - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103905.mp4
+#EXTINF:-1 tvg-name="Ajuste de Contas - 2019" tvg-logo="http://urlon.me/ZgYYmR" group-title="ACAO",Ajuste de Contas - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/76971.mp4
+#EXTINF:-1 tvg-name="Alerta Vermelho - 2019" tvg-logo="http://5ce.co:80/images/yCusqunCMU84z32OK0kyZMnTH45_big.jpg" group-title="ACAO",Alerta Vermelho - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158016.mp4
+#EXTINF:-1 tvg-name="Alerta Vermelho - 2021" tvg-logo="http://5ce.co:80/images/pe17f8VDfzbvbHSAKAlcORtBHmW_big.jpg" group-title="ACAO",Alerta Vermelho - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190848.mp4
+#EXTINF:-1 tvg-name="Alita: Anjo de Combate - 2019" tvg-logo="http://urlon.me/ZFw" group-title="ACAO",Alita: Anjo de Combate - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42774.mp4
+#EXTINF:-1 tvg-name="Alive - 2020" tvg-logo="http://5ce.co:80/images/fUEv9INjh1HEdbD9BAExioSO65a_big.jpg" group-title="ACAO",Alive - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/120640.mp4
+#EXTINF:-1 tvg-name="Along with the Gods: The Two Worlds - 2017" tvg-logo="http://5ce.co:80/images/5j2YVF7VouLG0Ze96SEsj4DnVQM_big.jpg" group-title="ACAO",Along with the Gods: The Two Worlds - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189925.mp4
+#EXTINF:-1 tvg-name="Alpinistas - Desastre No Everest - 2021" tvg-logo="http://5ce.co:80/images/eRaUlATfycdhVcF0MRwD1X0qbHk_big.jpg" group-title="ACAO",Alpinistas - Desastre No Everest - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184499.mp4
+#EXTINF:-1 tvg-name="Amanhecer Violento - 2012" tvg-logo="http://5ce.co:80/images/rq9EOXrBIWvDb5bey2vrUHlIui1_big.jpg" group-title="ACAO",Amanhecer Violento - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170549.mp4
+#EXTINF:-1 tvg-name="Amazônia - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spHMuvgrZnP0AqtwdeHaHlUUsHN.jpg" group-title="ACAO",Amazônia - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111575.mp4
+#EXTINF:-1 tvg-name="Ameaça Subterrânea - 1997" tvg-logo="http://5ce.co:80/images/4MImZklF3av4ItMIFfxgIsLvEuO_big.jpg" group-title="ACAO",Ameaça Subterrânea - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193555.mp4
+#EXTINF:-1 tvg-name="American Ninja 1 - Guerreiro Americano - 1985" tvg-logo="http://urlon.me/ZgYMGD" group-title="ACAO",American Ninja 1 - Guerreiro Americano - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/96754.mp4
+#EXTINF:-1 tvg-name="American Ninja 2 - A Volta do Guerreiro Americano - 1987" tvg-logo="http://urlon.me/ZgY1G4" group-title="ACAO",American Ninja 2 - A Volta do Guerreiro Americano - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/58533.mp4
+#EXTINF:-1 tvg-name="American Ninja 3 - Caçada de Sangue - 1989" tvg-logo="http://5ce.me:80/images/oiKM4CAEXrhAfDkpnhBW8RpOQC7_big.jpg" group-title="ACAO",American Ninja 3 - Caçada de Sangue - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169280.mp4
+#EXTINF:-1 tvg-name="American Ninja 5 - O Pequeno Ninja - 1993" tvg-logo="http://5ce.me:80/images/6ZSM6rDMEg4FNfqBn41kPLevwx9_big.jpg" group-title="ACAO",American Ninja 5 - O Pequeno Ninja - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169282.mp4
+#EXTINF:-1 tvg-name="American Sicario - 2021" tvg-logo="http://5ce.co:80/images/nQRPSUmHGLrFRPK6v3BI1frAM1O_big.jpg" group-title="ACAO",American Sicario - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208621.mp4
+#EXTINF:-1 tvg-name="Anaconda 1 - 1997" tvg-logo="http://urlon.me/ZgY16Q" group-title="ACAO",Anaconda 1 - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43452.mp4
+#EXTINF:-1 tvg-name="Anaconda 2 - A Caçada pela Orquídea Sangrenta - 2004" tvg-logo="http://urlon.me/ZgY16F" group-title="ACAO",Anaconda 2 - A Caçada pela Orquídea Sangrenta - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43451.mp4
+#EXTINF:-1 tvg-name="Anaconda 3 - 2008" tvg-logo="http://urlon.me/ZDQ" group-title="ACAO",Anaconda 3 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43450.mp4
+#EXTINF:-1 tvg-name="Anaconda 4 - Rastro de Sangue - 2009" tvg-logo="http://urlon.me/ZDF" group-title="ACAO",Anaconda 4 - Rastro de Sangue - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43449.mp4
+#EXTINF:-1 tvg-name="Anjos da Lei - 2012" tvg-logo="http://urlon.me/ZgY1da" group-title="ACAO",Anjos da Lei - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43799.mp4
+#EXTINF:-1 tvg-name="Anjos da Lei 2 - 2014" tvg-logo="http://urlon.me/ZgY1dI" group-title="ACAO",Anjos da Lei 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43796.mp4
+#EXTINF:-1 tvg-name="Anjos da Vida - Mais Bravos que o Mar - 2006" tvg-logo="http://urlon.me/ZgY1g2" group-title="ACAO",Anjos da Vida - Mais Bravos que o Mar - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42874.mp4
+#EXTINF:-1 tvg-name="Anna - O Perigo Tem Nome - 2019" tvg-logo="http://urlon.me/O1R" group-title="ACAO",Anna - O Perigo Tem Nome - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61094.mp4
+#EXTINF:-1 tvg-name="Anônimo - 2021" tvg-logo="http://5ce.me:80/images/woPYFGKwVULILbO7q44HmsNY0kO_big.jpg" group-title="ACAO",Anônimo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/167988.mp4
+#EXTINF:-1 tvg-name="Apenas o Começo - 2017" tvg-logo="http://urlon.me/ZgY1gV" group-title="ACAO",Apenas o Começo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42872.mp4
+#EXTINF:-1 tvg-name="Apocalypto - 2006" tvg-logo="http://urlon.me/Ov8" group-title="ACAO",Apocalypto - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61396.mp4
+#EXTINF:-1 tvg-name="Aprendiz de Espiã - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6i5Ypd9RGgUCU5YyJvrBllcGj7.jpg" group-title="ACAO",Aprendiz de Espiã - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/119554.mp4
+#EXTINF:-1 tvg-name="Armas em Jogo - 2019" tvg-logo="http://5ce.me:80/images/uSypWMagzI7jJ7cq2TStGnYyyfL_big.jpg" group-title="ACAO",Armas em Jogo - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/147781.mp4
+#EXTINF:-1 tvg-name="Arranha-Céu: Coragem Sem Limite - 2018" tvg-logo="http://urlon.me/Zyw" group-title="ACAO",Arranha-Céu: Coragem Sem Limite - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42871.mp4
+#EXTINF:-1 tvg-name="Arsenal - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vwgGqWge0PRZqhbqOW7WCVK2V.jpg" group-title="ACAO",Arsenal - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/120540.mp4
+#EXTINF:-1 tvg-name="Arthur & Merlin: Knights of Camelot - 2020" tvg-logo="http://5ce.me:80/images/chGTXsvn53XvEnvsJ9ZD9eiYKx9_big.jpg" group-title="ACAO",Arthur & Merlin: Knights of Camelot - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/138610.mp4
+#EXTINF:-1 tvg-name="As Duas Faces da Lei - 2008" tvg-logo="http://urlon.me/ZgY1gp" group-title="ACAO",As Duas Faces da Lei - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42869.mp4
+#EXTINF:-1 tvg-name="As Loucas Aventuras de James West - 1999" tvg-logo="http://5ce.co:80/images/zBDQbEx1k7xLv58gN0IyRZ5YjtW_big.jpg" group-title="ACAO",As Loucas Aventuras de James West - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/161258.mp4
+#EXTINF:-1 tvg-name="As Panteras - Detonando - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GZLHlKuvQCqNnKfT3GNZYnlFFc.jpg" group-title="ACAO",As Panteras - Detonando - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104703.mp4
+#EXTINF:-1 tvg-name="Ascensão do Cisne Negro - 2021" tvg-logo="http://5ce.co:80/images/9lI6MrGqeokTR65szTDVGEac4PQ_big.jpg" group-title="ACAO",Ascensão do Cisne Negro - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182067.mp4
+#EXTINF:-1 tvg-name="Asfalto de Sangue - 2017" tvg-logo="http://urlon.me/Ovt" group-title="ACAO",Asfalto de Sangue - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61398.mp4
+#EXTINF:-1 tvg-name="Assalto ao Banco da Espanha - 2021" tvg-logo="http://5ce.me:80/images/AhRSv4npEaE8ZvuJh4CmQpsXDZg_big.jpg" group-title="ACAO",Assalto ao Banco da Espanha - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152771.mp4
+#EXTINF:-1 tvg-name="Assalto ao Carro Blindado - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dLlRNOjWIQGNNyHuSFvDTgXW7n.jpg" group-title="ACAO",Assalto ao Carro Blindado - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/117288.mp4
+#EXTINF:-1 tvg-name="Assalto ao Poder - 2016" tvg-logo="http://5ce.co:80/images/4eNxOvkRmctOPr6PCA6MeJ8UXQt_big.jpg" group-title="ACAO",Assalto ao Poder - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187524.mp4
+#EXTINF:-1 tvg-name="Assassinato no Grupo de Mães - 2018" tvg-logo="http://urlon.me/ZgYYBl" group-title="ACAO",Assassinato no Grupo de Mães - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/84707.mp4
+#EXTINF:-1 tvg-name="Assassino A Preço Fixo 1 - 2011" tvg-logo="http://urlon.me/ZDG" group-title="ACAO",Assassino A Preço Fixo 1 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43448.mp4
+#EXTINF:-1 tvg-name="Assassino A Preço Fixo 2 - A Ressurreição - 2016" tvg-logo="http://urlon.me/ZDY" group-title="ACAO",Assassino A Preço Fixo 2 - A Ressurreição - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43447.mp4
+#EXTINF:-1 tvg-name="Assassinos de Aluguel - 2012" tvg-logo="http://urlon.me/O1C" group-title="ACAO",Assassinos de Aluguel - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61095.mp4
+#EXTINF:-1 tvg-name="Assassinos Múltiplos - 2017" tvg-logo="http://urlon.me/Ov0" group-title="ACAO",Assassinos Múltiplos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61399.mp4
+#EXTINF:-1 tvg-name="Assassinos Substitutos - 1998" tvg-logo="http://5ce.co:80/images/5JAVd0lYhkB2dsDtt84Qt6grNIn_big.jpg" group-title="ACAO",Assassinos Substitutos - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204166.mp4
+#EXTINF:-1 tvg-name="Ataque Fatal - 2019" tvg-logo="http://5ce.co:80/images/mAfQWKpALGe91Nn12lBeBoTGgsC_big.jpg" group-title="ACAO",Ataque Fatal - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157752.mp4
+#EXTINF:-1 tvg-name="Até o Céu - 2020" tvg-logo="http://5ce.me:80/images/imo9QdjIb3y5tJ7DICdVKHRkYXV_big.jpg" group-title="ACAO",Até o Céu - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152307.mp4
+#EXTINF:-1 tvg-name="Ate o Limite da Honra - 1997" tvg-logo="http://5ce.co:80/images/i8u0gaNBI7TTkxKkqjUTSpAtE5F_big.jpg" group-title="ACAO",Ate o Limite da Honra - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208095.mp4
+#EXTINF:-1 tvg-name="Atentado em Paris - 2016" tvg-logo="http://urlon.me/ZgY1FO" group-title="ACAO",Atentado em Paris - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61400.mp4
+#EXTINF:-1 tvg-name="Atirador - 2007 " tvg-logo="http://5ce.me:80/images/qluvMxXA2p15s7egazJn9vhX5Gi_big.jpg" group-title="ACAO",Atirador - 2007 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/147782.mp4
+#EXTINF:-1 tvg-name="Atirador de Elite - 1996" tvg-logo="http://5ce.co:80/images/j6FEq9yYNDp7pAPQCG2yl5qTY3U_big.jpg" group-title="ACAO",Atirador de Elite - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203053.mp4
+#EXTINF:-1 tvg-name="Atômica - 2017" tvg-logo="http://urlon.me/Ovp" group-title="ACAO",Atômica - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61401.mp4
+#EXTINF:-1 tvg-name="Atos de Violência - 2018" tvg-logo="http://urlon.me/Zyk" group-title="ACAO",Atos de Violência - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42868.mp4
+#EXTINF:-1 tvg-name="Atração de Risco - 2020" tvg-logo="http://urlon.me/ZgYYtX" group-title="ACAO",Atração de Risco - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81451.mp4
+#EXTINF:-1 tvg-name="Atrás da Linha: Fuga para Dunkirk - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OFNp1wuHnph8ytCE5HWyAFTLrz.jpg" group-title="ACAO",Atrás da Linha: Fuga para Dunkirk - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/131715.mp4
+#EXTINF:-1 tvg-name="Atrás das Linhas Inimigas 1 - 2001" tvg-logo="http://urlon.me/OvV" group-title="ACAO",Atrás das Linhas Inimigas 1 - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61402.mp4
+#EXTINF:-1 tvg-name="Atrás das Linhas Inimigas 2 - O Eixo do Mal - 2006" tvg-logo="http://urlon.me/ZgY1F9" group-title="ACAO",Atrás das Linhas Inimigas 2 - O Eixo do Mal - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61403.mp4
+#EXTINF:-1 tvg-name="Atrás das Linhas Inimigas 3 - Operação Colômbia - 2009" tvg-logo="http://urlon.me/ZgY1FT" group-title="ACAO",Atrás das Linhas Inimigas 3 - Operação Colômbia - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61404.mp4
+#EXTINF:-1 tvg-name="Atrás das Linhas Inimigas 4 - Missão África - 2014" tvg-logo="http://urlon.me/ZgY1Fm" group-title="ACAO",Atrás das Linhas Inimigas 4 - Missão África - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61405.mp4
+#EXTINF:-1 tvg-name="Atualização - 2018" tvg-logo="http://urlon.me/Ova" group-title="ACAO",Atualização - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61406.mp4
+#EXTINF:-1 tvg-name="Ava - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uobkkvvKCZbTKpJCMnvuTRQt5bV.jpg" group-title="ACAO",Ava - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133856.mp4
+#EXTINF:-1 tvg-name="Aventura em Duas Rodas - 2019" tvg-logo="http://5ce.co:80/images/gVKYg7HseTtYFavutwC2mZJn8iO_big.jpg" group-title="ACAO",Aventura em Duas Rodas - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209556.mp4
+#EXTINF:-1 tvg-name="Awake - 2021" tvg-logo="http://5ce.me:80/images/uZkNbB8isWXHMDNoIbqXvmslBMC_big.jpg" group-title="ACAO",Awake - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165775.mp4
+#EXTINF:-1 tvg-name="B13  13º Distrito  - 2004" tvg-logo="http://5ce.me:80/images/AoWK4Y4m3bBRmW1XXcQqXyo9gAj_big.jpg" group-title="ACAO",B13  13º Distrito  - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212441.mp4
+#EXTINF:-1 tvg-name="B13 U13 Distrito Ultimato - 2009" tvg-logo="http://5ce.me:80/images/97eKX9vZeHk6ugHO8jFToaNVkQY_big.jpg" group-title="ACAO",B13 U13 Distrito Ultimato - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212443.mp4
+#EXTINF:-1 tvg-name="Baahubali: O Início - 2015" tvg-logo="http://5ce.co:80/images/e0n2BL5jgDvOdHols6yWLfyCajq_big.jpg" group-title="ACAO",Baahubali: O Início - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42867.mp4
+#EXTINF:-1 tvg-name="Bad Ass 1 - Acima da Lei - 2012" tvg-logo="http://5ce.co:80/images/nTVRyHcPTrrMu90LIadJl44Itvo_big.jpg" group-title="ACAO",Bad Ass 1 - Acima da Lei - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182668.mp4
+#EXTINF:-1 tvg-name="Bad Ass 2: Ação em Dobro - 2014" tvg-logo="http://5ce.co:80/images/3kJghRHWS4VHIq2mkdkEZPV5oAE_big.jpg" group-title="ACAO",Bad Ass 2: Ação em Dobro - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199451.mp4
+#EXTINF:-1 tvg-name="Bad Ass 3 - Dois Durões em Bayou - 2015" tvg-logo="http://5ce.co:80/images/moZSQaD6GPRELWZO9qbRJjzq7re_big.jpg" group-title="ACAO",Bad Ass 3 - Dois Durões em Bayou - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182669.mp4
+#EXTINF:-1 tvg-name="Bala Perdida - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJREJK1UH66A2U0TzzVJ7anv8TK.jpg" group-title="ACAO",Bala Perdida - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/100427.mp4
+#EXTINF:-1 tvg-name="Bandidas - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg" group-title="ACAO",Bandidas - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/106646.mp4
+#EXTINF:-1 tvg-name="Banho de Sangue - 2018" tvg-logo="http://urlon.me/ZgYMme" group-title="ACAO",Banho de Sangue - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95712.mp4
+#EXTINF:-1 tvg-name="Bartkowiak - 2021" tvg-logo="http://5ce.co:80/images/kOVko9u2CSwpU8zGj14Pzei6Eco_big.jpg" group-title="ACAO",Bartkowiak - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/176607.mp4
+#EXTINF:-1 tvg-name="Battleship - A Batalha dos Mares - 2012" tvg-logo="http://urlon.me/ZgY1FM" group-title="ACAO",Battleship - A Batalha dos Mares - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61410.mp4
+#EXTINF:-1 tvg-name="Beirute - 2018" tvg-logo="http://urlon.me/Zyq" group-title="ACAO",Beirute - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42866.mp4
+#EXTINF:-1 tvg-name="Belas e Perseguidas - 2015" tvg-logo="http://5ce.co:80/images/yXvfvw7tdnEyFLkyKlBz3OIqDqa_big.jpg" group-title="ACAO",Belas e Perseguidas - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184112.mp4
+#EXTINF:-1 tvg-name="Bem Vindo à Selva - 2013" tvg-logo="http://urlon.me/ZgY1dc" group-title="ACAO",Bem Vindo à Selva - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43769.mp4
+#EXTINF:-1 tvg-name="Ben-Hur - 2016" tvg-logo="http://urlon.me/ZgY1F7" group-title="ACAO",Ben-Hur - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61411.mp4
+#EXTINF:-1 tvg-name="Beowulf, o Guerreiro das Sombras - 1999" tvg-logo="http://5ce.me:80/images/ajNUvzgzSYb4JKcfjcCgJl1r5dH_big.jpg" group-title="ACAO",Beowulf, o Guerreiro das Sombras - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156062.mp4
+#EXTINF:-1 tvg-name="Bernie, o Golfinho - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbpB4sHSOKHCsagcImO5I4RODmm.jpg" group-title="ACAO",Bernie, o Golfinho - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98971.mp4
+#EXTINF:-1 tvg-name="Black Ops - Operação Secreta - 2018" tvg-logo="http://5ce.co:80/images/kXaSLb7reKixWqujYqV8R4XybGo_big.jpg" group-title="ACAO",Black Ops - Operação Secreta - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/176608.mp4
+#EXTINF:-1 tvg-name="Block Z - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qw2naQOCBLQdcExyk4T4FslsRI.jpg" group-title="ACAO",Block Z - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129838.mp4
+#EXTINF:-1 tvg-name="Bloodshot - 2020" tvg-logo="http://urlon.me/ZgYYZH" group-title="ACAO",Bloodshot - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74275.mp4
+#EXTINF:-1 tvg-name="Boone: O Caçador de Recompensas - 2017" tvg-logo="http://urlon.me/ZyQ" group-title="ACAO",Boone: O Caçador de Recompensas - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42864.mp4
+#EXTINF:-1 tvg-name="Boyka: O Imbatível - 2016" tvg-logo="http://urlon.me/OQJ" group-title="ACAO",Boyka: O Imbatível - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61417.mp4
+#EXTINF:-1 tvg-name="Boyka: O Imbatível 4 - 2016" tvg-logo="http://urlon.me/ZyF" group-title="ACAO",Boyka: O Imbatível 4 - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42863.mp4
+#EXTINF:-1 tvg-name="Braddock 1 - O Super Comando - 1984" tvg-logo="http://urlon.me/ZyG" group-title="ACAO",Braddock 1 - O Super Comando - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42862.mp4
+#EXTINF:-1 tvg-name="Braddock 2 - O Início da Missão - 1985" tvg-logo="http://urlon.me/ZDp" group-title="ACAO",Braddock 2 - O Início da Missão - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43459.mp4
+#EXTINF:-1 tvg-name="Braddock 3 - O Resgate - 1988" tvg-logo="http://urlon.me/ZDc" group-title="ACAO",Braddock 3 - O Resgate - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43458.mp4
+#EXTINF:-1 tvg-name="Bright - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="ACAO",Bright - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/127167.mp4
+#EXTINF:-1 tvg-name="Bruce Lee - O Dragão Chines - 1972" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5SR0JUsYsw1N92bSigKuzwKYdS.jpg" group-title="ACAO",Bruce Lee - O Dragão Chines - 1972
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61420.mp4
+#EXTINF:-1 tvg-name="Bumblebee - 2018" tvg-logo="http://urlon.me/ZK0" group-title="ACAO",Bumblebee - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43008.mp4
+#EXTINF:-1 tvg-name="Busca Alucinante - 2013" tvg-logo="http://urlon.me/ZgY1dt" group-title="ACAO",Busca Alucinante - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43765.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngRBNPSSeQ3aga7I51B2gN6jUaJ.jpg" group-title="ACAO",Busca Explosiva - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129563.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva 1 - 1999" tvg-logo="http://urlon.me/ZyY" group-title="ACAO",Busca Explosiva 1 - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42861.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva 2 - 2009" tvg-logo="http://urlon.me/Zy3" group-title="ACAO",Busca Explosiva 2 - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42860.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva 3 - 2013" tvg-logo="http://urlon.me/ZgY1g0" group-title="ACAO",Busca Explosiva 3 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42859.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva 4 - 2015" tvg-logo="http://urlon.me/ZgY1gt" group-title="ACAO",Busca Explosiva 4 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42858.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva 5 - Campo de Batalha - 2017" tvg-logo="http://urlon.me/ZyX" group-title="ACAO",Busca Explosiva 5 - Campo de Batalha - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42857.mp4
+#EXTINF:-1 tvg-name="Busca Explosiva 6 - Sem Saída - 2018" tvg-logo="http://urlon.me/ZgYYxK" group-title="ACAO",Busca Explosiva 6 - Sem Saída - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81519.mp4
+#EXTINF:-1 tvg-name="Busca Implacável 1 - 2008" tvg-logo="http://urlon.me/ZgY1gw" group-title="ACAO",Busca Implacável 1 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42856.mp4
+#EXTINF:-1 tvg-name="Busca Implacável 2 - 2012" tvg-logo="http://urlon.me/ZgY1g8" group-title="ACAO",Busca Implacável 2 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42855.mp4
+#EXTINF:-1 tvg-name="Busca Implacável 3 - 2014" tvg-logo="http://urlon.me/ZgY1gk" group-title="ACAO",Busca Implacável 3 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42854.mp4
+#EXTINF:-1 tvg-name="Caça ao Outubro Vermelho - 1990" tvg-logo="http://5ce.co:80/images/iMViugzRCgok8Of27cCN9yru8BD_big.jpg" group-title="ACAO",Caça ao Outubro Vermelho - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158358.mp4
+#EXTINF:-1 tvg-name="Caçada Brutal - 2017" tvg-logo="http://urlon.me/OQI" group-title="ACAO",Caçada Brutal - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61447.mp4
+#EXTINF:-1 tvg-name="Cacada Selvagem - 2019" tvg-logo="http://5ce.co:80/images/paclnjtBlAcEh1ddUbCbT1azPIc_big.jpg" group-title="ACAO",Cacada Selvagem - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209720.mp4
+#EXTINF:-1 tvg-name="Caçador de Recompensas - 2010" tvg-logo="http://5ce.co:80/images/7hoZCsrSssuWJ9UHpX054EMzY2U_big.jpg" group-title="ACAO",Caçador de Recompensas - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121262.mp4
+#EXTINF:-1 tvg-name="Caçadores De Homens - 2017" tvg-logo="http://urlon.me/OQa" group-title="ACAO",Caçadores De Homens - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61450.mp4
+#EXTINF:-1 tvg-name="Caçadores de Mente - 2004" tvg-logo="http://urlon.me/ZgY16q" group-title="ACAO",Caçadores de Mente - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43457.mp4
+#EXTINF:-1 tvg-name="Caçados - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGFryMqOKXv7nv487cHYio19SYa.jpg" group-title="ACAO",Caçados - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98830.mp4
+#EXTINF:-1 tvg-name="Cães de Aluguel - 1992" tvg-logo="http://urlon.me/Zqp" group-title="ACAO",Cães de Aluguel - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42909.mp4
+#EXTINF:-1 tvg-name="Cães de Guerra - 2016" tvg-logo="http://urlon.me/ZgYMce" group-title="ACAO",Cães de Guerra - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66381.mp4
+#EXTINF:-1 tvg-name="Calibre - 2018" tvg-logo="http://urlon.me/Zyg" group-title="ACAO",Calibre - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42853.mp4
+#EXTINF:-1 tvg-name="Caminhos De Sangue - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62edhdYzdUNKDLL0GUlKbTOwbA7.jpg" group-title="ACAO",Caminhos De Sangue - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77629.mp4
+#EXTINF:-1 tvg-name="Cão de Briga - 2005" tvg-logo="http://urlon.me/Zqt" group-title="ACAO",Cão de Briga - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42906.mp4
+#EXTINF:-1 tvg-name="Caos na Prisão - 2017" tvg-logo="http://urlon.me/ZQE" group-title="ACAO",Caos na Prisão - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42852.mp4
+#EXTINF:-1 tvg-name="Capitão Coragem - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab5fAOedU84zGrJ7uzZfhDygUpl.jpg" group-title="ACAO",Capitão Coragem - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121318.mp4
+#EXTINF:-1 tvg-name="Capitão Phillips - 2013" tvg-logo="http://urlon.me/ZgY1Cd" group-title="ACAO",Capitão Phillips - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69470.mp4
+#EXTINF:-1 tvg-name="Capturado - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2jxIxIwvYCAgye13xD6tGNOzCq.jpg" group-title="ACAO",Capturado - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123387.mp4
+#EXTINF:-1 tvg-name="Carga Explosiva 1 - 2002" tvg-logo="http://urlon.me/ZD3" group-title="ACAO",Carga Explosiva 1 - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43446.mp4
+#EXTINF:-1 tvg-name="Carga Explosiva 2 - 2005" tvg-logo="http://urlon.me/ZDU" group-title="ACAO",Carga Explosiva 2 - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43445.mp4
+#EXTINF:-1 tvg-name="Carga Explosiva 3 - 2008" tvg-logo="http://urlon.me/ZDJ" group-title="ACAO",Carga Explosiva 3 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43444.mp4
+#EXTINF:-1 tvg-name="Carga Explosiva 4 - O Legado - 2015" tvg-logo="http://urlon.me/ZDX" group-title="ACAO",Carga Explosiva 4 - O Legado - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43443.mp4
+#EXTINF:-1 tvg-name="Carga Mortal - 2018" tvg-logo="http://urlon.me/OQr" group-title="ACAO",Carga Mortal - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61452.mp4
+#EXTINF:-1 tvg-name="Cassino - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lQhVKh5645tzajA0dOcb3TTEuY.jpg" group-title="ACAO",Cassino - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103866.mp4
+#EXTINF:-1 tvg-name="Centro de Trauma - 2019" tvg-logo="http://urlon.me/O1B" group-title="ACAO",Centro de Trauma - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61096.mp4
+#EXTINF:-1 tvg-name="Centurião - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVucoa12iePyXRj6kcv9sGO4aLB.jpg" group-title="ACAO",Centurião - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/114335.mp4
+#EXTINF:-1 tvg-name="Céu em Chamas - 2016" tvg-logo="http://urlon.me/Zqk" group-title="ACAO",Céu em Chamas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42903.mp4
+#EXTINF:-1 tvg-name="Céu em Chamas - 2020" tvg-logo="http://5ce.me:80/images/6i8NsvKi4azatHd7s8f42qsAb86_big.jpg" group-title="ACAO",Céu em Chamas - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139624.mp4
+#EXTINF:-1 tvg-name="Chamas da Vingança - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvEaP2L1xCAeDqW8jBCBG4VvvvJ.jpg" group-title="ACAO",Chamas da Vingança - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124539.mp4
+#EXTINF:-1 tvg-name="CHiPs: O Filme - 2017" tvg-logo="http://urlon.me/OP6" group-title="ACAO",CHiPs: O Filme - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60250.mp4
+#EXTINF:-1 tvg-name="Chocolate - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0pV6Kkd7rp6TPzlxN1xoItFvCm.jpg" group-title="ACAO",Chocolate - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123519.mp4
+#EXTINF:-1 tvg-name="Chumbo Grosso - 2007" tvg-logo="http://5ce.co:80/images/bqT6jMz8J7vhZo7lMd6q5d8ijjd_big.jpg" group-title="ACAO",Chumbo Grosso - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193556.mp4
+#EXTINF:-1 tvg-name="Cidade da Garganta Cortada - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg" group-title="ACAO",Cidade da Garganta Cortada - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/131718.mp4
+#EXTINF:-1 tvg-name="Cidade do Crime - 2017" tvg-logo="http://urlon.me/ZgYYeh" group-title="ACAO",Cidade do Crime - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85528.mp4
+#EXTINF:-1 tvg-name="Cidade Virtual - 2017" tvg-logo="http://5ce.co:80/images/v2TRu7tQ8LKHOwfusckYjHvXiya_big.jpg" group-title="ACAO",Cidade Virtual - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200979.mp4
+#EXTINF:-1 tvg-name="Círculo de Monstros - 2013" tvg-logo="http://urlon.me/ZqY" group-title="ACAO",Círculo de Monstros - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42896.mp4
+#EXTINF:-1 tvg-name="Clube da Luta Para Mulheres - 2020" tvg-logo="http://cms-central.co:80/images/4ZocdxnOO6q2UbdKye2wgofLFhB_big.jpg" group-title="ACAO",Clube da Luta Para Mulheres - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156701.mp4
+#EXTINF:-1 tvg-name="Cocoon - A Aventura dos Corais Perdidos - 1985" tvg-logo="http://5ce.me:80/images/wqNNm36j3nkucAucHEGAW5pNZcd_big.jpg" group-title="ACAO",Cocoon - A Aventura dos Corais Perdidos - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/143908.mp4
+#EXTINF:-1 tvg-name="Código de Conduta- 2009" tvg-logo="http://5ce.me:80/images/pW2PKCDKZ0ocEamVAEDDR3Buup2_big.jpg" group-title="ACAO",Código de Conduta- 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/141700.mp4
+#EXTINF:-1 tvg-name="Código para o Inferno - 1998" tvg-logo="http://5ce.co:80/images/sZxPAyNJD5ZJzJ587ol3c0mbZp3_big.jpg" group-title="ACAO",Código para o Inferno - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/171220.mp4
+#EXTINF:-1 tvg-name="Colombiana: Em Busca de Vingança - 2011" tvg-logo="http://urlon.me/ZgY1vS" group-title="ACAO",Colombiana: Em Busca de Vingança - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/64234.mp4
+#EXTINF:-1 tvg-name="Com As Próprias Mãos - 2004" tvg-logo="http://urlon.me/ZD8" group-title="ACAO",Com As Próprias Mãos - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43454.mp4
+#EXTINF:-1 tvg-name="Com as Próprias Mãos 2: O Troco - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG9ZRnXwehkPOajla9roaRxHi4P.jpg" group-title="ACAO",Com as Próprias Mãos 2: O Troco - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124541.mp4
+#EXTINF:-1 tvg-name="Comando Justiceiro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg" group-title="ACAO",Comando Justiceiro - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/100428.mp4
+#EXTINF:-1 tvg-name="Comando Para Matar - 1985" tvg-logo="http://urlon.me/Oqn" group-title="ACAO",Comando Para Matar - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61567.mp4
+#EXTINF:-1 tvg-name="Como Virei Gangster - 2019" tvg-logo="http://5ce.me:80/images/soBP2LIL5JPL2tIAFYrhQAau23Q_big.jpg" group-title="ACAO",Como Virei Gangster - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216672.mp4
+#EXTINF:-1 tvg-name="Con Air - A Rota Da Fuga - 1997" tvg-logo="http://urlon.me/ZD5" group-title="ACAO",Con Air - A Rota Da Fuga - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43442.mp4
+#EXTINF:-1 tvg-name="Conan 1 - o Bárbaro - 1982" tvg-logo="http://urlon.me/ZgY1ma" group-title="ACAO",Conan 1 - o Bárbaro - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/53007.mp4
+#EXTINF:-1 tvg-name="Conan 2 - O Destruidor - 1984" tvg-logo="http://urlon.me/he2" group-title="ACAO",Conan 2 - O Destruidor - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/53008.mp4
+#EXTINF:-1 tvg-name="Condenação Brutal - 1989" tvg-logo="http://urlon.me/Oqb" group-title="ACAO",Condenação Brutal - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61566.mp4
+#EXTINF:-1 tvg-name="Condução Perigosa - 2014" tvg-logo="http://5ce.co:80/images/96zAP3LAKFy4nMBuvARqewzSNke_big.jpg" group-title="ACAO",Condução Perigosa - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/175998.mp4
+#EXTINF:-1 tvg-name="Conexão Jamaica - 2002" tvg-logo="http://urlon.me/ZgY1gI" group-title="ACAO",Conexão Jamaica - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42930.mp4
+#EXTINF:-1 tvg-name="Confronto no Pavilhão Noventa e Nove - 2017" tvg-logo="http://5ce.co:80/images/xY9KVsJf8mmrefdmaRZ9pJl2dpd_big.jpg" group-title="ACAO",Confronto no Pavilhão Noventa e Nove - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182062.mp4
+#EXTINF:-1 tvg-name="Conspiração Implacável - 2021" tvg-logo="http://5ce.co:80/images/qlXenN6jjgbsIyEJxBjkfkEU0q8_big.jpg" group-title="ACAO",Conspiração Implacável - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190566.mp4
+#EXTINF:-1 tvg-name="Constantine - 2005" tvg-logo="http://urlon.me/ZgY1vf" group-title="ACAO",Constantine - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/62006.mp4
+#EXTINF:-1 tvg-name="Contos do Caçador de Sombras - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="ACAO",Contos do Caçador de Sombras - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129954.mp4
+#EXTINF:-1 tvg-name="Controle Absoluto - 2008" tvg-logo="http://urlon.me/ZgYYU2" group-title="ACAO",Controle Absoluto - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77333.mp4
+#EXTINF:-1 tvg-name="Coquetel Explosivo - 2021" tvg-logo="http://5ce.co:80/images/fOo0jPG6FICGA7mzoKgYNCFzNaU_big.jpg" group-title="ACAO",Coquetel Explosivo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188106.mp4
+#EXTINF:-1 tvg-name="Cores da Justiça - 2019" tvg-logo="http://urlon.me/ZgY1b7" group-title="ACAO",Cores da Justiça - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70486.mp4
+#EXTINF:-1 tvg-name="Corrida Mortal 1 - 2008" tvg-logo="http://urlon.me/Zj5" group-title="ACAO",Corrida Mortal 1 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42925.mp4
+#EXTINF:-1 tvg-name="Corrida Mortal 2 - 2010" tvg-logo="http://urlon.me/Zjd" group-title="ACAO",Corrida Mortal 2 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42924.mp4
+#EXTINF:-1 tvg-name="Corrida Mortal 3 - Inferno - 2013" tvg-logo="http://urlon.me/Zjg" group-title="ACAO",Corrida Mortal 3 - Inferno - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42921.mp4
+#EXTINF:-1 tvg-name="Corrida Mortal 4 - Além da Anarquia - 2018" tvg-logo="http://urlon.me/ZqL" group-title="ACAO",Corrida Mortal 4 - Além da Anarquia - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42919.mp4
+#EXTINF:-1 tvg-name="Corridas Clandestinas - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYFnMMQ8rJPydN7SBWM5x1mWqcH.jpg" group-title="ACAO",Corridas Clandestinas - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61568.mp4
+#EXTINF:-1 tvg-name="Cortina de Fogo 2 - 2019" tvg-logo="http://urlon.me/ZiU" group-title="ACAO",Cortina de Fogo 2 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43186.mp4
+#EXTINF:-1 tvg-name="Covil de Ladrões - 2018" tvg-logo="http://urlon.me/Zqo" group-title="ACAO",Covil de Ladrões - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42917.mp4
+#EXTINF:-1 tvg-name="Crime Sem Saída - 2019 " tvg-logo="http://5ce.me:80/images/i4AWAMPxqNpYTvp0RXL4JSKg7hh_big.jpg" group-title="ACAO",Crime Sem Saída - 2019 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152681.mp4
+#EXTINF:-1 tvg-name="Crimes na Madrugada - 2017 " tvg-logo="http://5ce.me:80/images/slwKFpQPCnBpq1gMAyp2LC1VpNb_big.jpg" group-title="ACAO",Crimes na Madrugada - 2017 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165754.mp4
+#EXTINF:-1 tvg-name="Crônicas da Tribo Fantasma - 2015" tvg-logo="http://5ce.co:80/images/sWuVJpOWNM0UVD0bGwbLZTzu294_big.jpg" group-title="ACAO",Crônicas da Tribo Fantasma - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177096.mp4
+#EXTINF:-1 tvg-name="Cyborg - O Dragão do Futuro - 1989" tvg-logo="http://urlon.me/ZgYMAA" group-title="ACAO",Cyborg - O Dragão do Futuro - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42912.mp4
+#EXTINF:-1 tvg-name="Cyborg 2 – 1993" tvg-logo="http://5ce.co:80/images/hYNJ4KNMVaVgR5JAqC5qlgbJEmJ_big.jpg" group-title="ACAO",Cyborg 2 – 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203964.mp4
+#EXTINF:-1 tvg-name="Darc - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBxHNF0risAugpPJeAgLkiUW0P1.jpg" group-title="ACAO",Darc - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42894.mp4
+#EXTINF:-1 tvg-name="Darkman 1 - Vingança Sem Rosto - 1990" tvg-logo="http://urlon.me/ZgYMci" group-title="ACAO",Darkman 1 - Vingança Sem Rosto - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61569.mp4
+#EXTINF:-1 tvg-name="Darkman 2 - O Retorno de Durant - 1995" tvg-logo="http://urlon.me/ZgYMcx" group-title="ACAO",Darkman 2 - O Retorno de Durant - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61570.mp4
+#EXTINF:-1 tvg-name="Darkman 3 - Enfrentando a Morte - 1996" tvg-logo="http://urlon.me/Ojh" group-title="ACAO",Darkman 3 - Enfrentando a Morte - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61571.mp4
+#EXTINF:-1 tvg-name="Daylight - 1996" tvg-logo="http://5ce.co:80/images/vcQlG6XMkhea1uOwjUpeA9qCDFu_big.jpg" group-title="ACAO",Daylight - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/172095.mp4
+#EXTINF:-1 tvg-name="Dead Zone Operacao Resgate - 2022" tvg-logo="http://5ce.co:80/images/tRm0yqIgoOa3k05SipqOB2yQJ1F_big.jpg" group-title="ACAO",Dead Zone Operacao Resgate - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217291.mp4
+#EXTINF:-1 tvg-name="Déjà Vu - 2006" tvg-logo="http://urlon.me/O1e" group-title="ACAO",Déjà Vu - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61099.mp4
+#EXTINF:-1 tvg-name="Demolidor - O Homem Sem Medo - 2003" tvg-logo="http://5ce.co:80/images/eG7xCJ3s3O0ihDXN4Nz5cG3mJv5_big.jpg" group-title="ACAO",Demolidor - O Homem Sem Medo - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193776.mp4
+#EXTINF:-1 tvg-name="Departamento Q - O Ausente - 2014" tvg-logo="http://urlon.me/ZgYMAi" group-title="ACAO",Departamento Q - O Ausente - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42889.mp4
+#EXTINF:-1 tvg-name="Depois da Terra - 2013" tvg-logo="http://5ce.co:80/images/1Kcjf0DXimg44Z1bEuzXUjJHNqi_big.jpg" group-title="ACAO",Depois da Terra - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216157.mp4
+#EXTINF:-1 tvg-name="Desafio Mortal - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h9hVOfC0gNNGpFFbcJKInQpFXk.jpg" group-title="ACAO",Desafio Mortal - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43244.mp4
+#EXTINF:-1 tvg-name="Desejo de Matar - 2018" tvg-logo="http://urlon.me/OjP" group-title="ACAO",Desejo de Matar - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61576.mp4
+#EXTINF:-1 tvg-name="Desejo de Matar 1 - 1974" tvg-logo="http://urlon.me/OjO" group-title="ACAO",Desejo de Matar 1 - 1974
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61572.mp4
+#EXTINF:-1 tvg-name="Desejo de Matar 2 - 1982" tvg-logo="http://urlon.me/Oj9" group-title="ACAO",Desejo de Matar 2 - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61573.mp4
+#EXTINF:-1 tvg-name="Desejo de Matar 3 - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grsGbmHYRNwPQrG6Z31fQEhp5Ex.jpg" group-title="ACAO",Desejo de Matar 3 - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61574.mp4
+#EXTINF:-1 tvg-name="Desejo de Matar 4 - Operação Crackdown - 1987" tvg-logo="http://urlon.me/Ojm" group-title="ACAO",Desejo de Matar 4 - Operação Crackdown - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61575.mp4
+#EXTINF:-1 tvg-name="Destruição Final: O Último Refúgio - 2020" tvg-logo="http://5ce.me:80/images/sJecw4UYpvTgKE2zS9le44Nwuag_big.jpg" group-title="ACAO",Destruição Final: O Último Refúgio - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140717.mp4
+#EXTINF:-1 tvg-name="Destruição: Los Angeles - 2017" tvg-logo="http://urlon.me/Zlo" group-title="ACAO",Destruição: Los Angeles - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42984.mp4
+#EXTINF:-1 tvg-name="Deu a Louca em Hollywood - 2007" tvg-logo="http://5ce.me:80/images/kZuxR8SUCjizOhynUtBhmZBSaLU_big.jpg" group-title="ACAO",Deu a Louca em Hollywood - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150256.mp4
+#EXTINF:-1 tvg-name="Deus da Guerra - 2017" tvg-logo="http://urlon.me/Oj1" group-title="ACAO",Deus da Guerra - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61577.mp4
+#EXTINF:-1 tvg-name="Dia de Treinamento - 2001" tvg-logo="http://urlon.me/ZgYMcD" group-title="ACAO",Dia de Treinamento - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61579.mp4
+#EXTINF:-1 tvg-name="Diablo: A Última Corrida - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iBoP7ftfTJsvK0FtxiuRIFdPan.jpg" group-title="ACAO",Diablo: A Última Corrida - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/109361.mp4
+#EXTINF:-1 tvg-name="Dias de Trovão - 1990" tvg-logo="http://urlon.me/ZgYMcs" group-title="ACAO",Dias de Trovão - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61580.mp4
+#EXTINF:-1 tvg-name="Difícil de Matar - 2020" tvg-logo="http://5ce.me:80/images/aohWBXqvFv69yhtASWQxncn7auU_big.jpg" group-title="ACAO",Difícil de Matar - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150806.mp4
+#EXTINF:-1 tvg-name="Direção Explosiva - 2018" tvg-logo="http://urlon.me/Ojy" group-title="ACAO",Direção Explosiva - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61581.mp4
+#EXTINF:-1 tvg-name="Divisão de Homicídios - 2003" tvg-logo="http://urlon.me/ZgYMcR" group-title="ACAO",Divisão de Homicídios - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61582.mp4
+#EXTINF:-1 tvg-name="Donnybrook Luta pela Redencao - 2019" tvg-logo="http://5ce.co:80/images/jbw7jGT9PFLJQqyoxuXLqbhQmWQ_big.jpg" group-title="ACAO",Donnybrook Luta pela Redencao - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/162708.mp4
+#EXTINF:-1 tvg-name="Doom: Aniquilação - 2019" tvg-logo="http://urlon.me/ZgY1be" group-title="ACAO",Doom: Aniquilação - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70826.mp4
+#EXTINF:-1 tvg-name="Dragao A Historia de Bruce Lee - 1993" tvg-logo="http://5ce.co:80/images/7vLXw8daw29C0JZ2aJWzYdOdclK_big.jpg" group-title="ACAO",Dragao A Historia de Bruce Lee - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208143.mp4
+#EXTINF:-1 tvg-name="Duelo no Asfalto - 2020" tvg-logo="http://5ce.me:80/images/a7QZdgQpyelhlehIyT6fiwSblAl_big.jpg" group-title="ACAO",Duelo no Asfalto - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/138613.mp4
+#EXTINF:-1 tvg-name="Dupla em Fúria - 2013" tvg-logo="http://urlon.me/ZgYMuG" group-title="ACAO",Dupla em Fúria - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42881.mp4
+#EXTINF:-1 tvg-name="Dupla Explosiva - 2017" tvg-logo="http://5ce.co:80/images/oogzn0EmTSkR2x3Khw7Muswwcpk_big.jpg" group-title="ACAO",Dupla Explosiva - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188794.mp4
+#EXTINF:-1 tvg-name="Dupla Explosiva 2 - E a Primeira-Dama do Crime - 2021" tvg-logo="http://5ce.co:80/images/eXjqdCBFg4zjUnc1MbL55hlQmm0_big.jpg" group-title="ACAO",Dupla Explosiva 2 - E a Primeira-Dama do Crime - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186468.mp4
+#EXTINF:-1 tvg-name="Duplo Impacto - 1991" tvg-logo="http://urlon.me/ZgYMuY" group-title="ACAO",Duplo Impacto - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42879.mp4
+#EXTINF:-1 tvg-name="Duro de Matar 1 - 1988" tvg-logo="http://urlon.me/ZgYMu3" group-title="ACAO",Duro de Matar 1 - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42877.mp4
+#EXTINF:-1 tvg-name="Duro de Matar 2 - 1990" tvg-logo="http://urlon.me/ZgYMuU" group-title="ACAO",Duro de Matar 2 - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42875.mp4
+#EXTINF:-1 tvg-name="Duro de Matar 3 - A Vingança - 1995" tvg-logo="http://urlon.me/ZKw" group-title="ACAO",Duro de Matar 3 - A Vingança - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43006.mp4
+#EXTINF:-1 tvg-name="Duro de Matar 4 - 4.0 - 2007" tvg-logo="http://urlon.me/ZgYMuq" group-title="ACAO",Duro de Matar 4 - 4.0 - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43004.mp4
+#EXTINF:-1 tvg-name="Duro de Matar 5 - Um Bom Dia para Morrer - 2013" tvg-logo="http://urlon.me/ZgYMuQ" group-title="ACAO",Duro de Matar 5 - Um Bom Dia para Morrer - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43000.mp4
+#EXTINF:-1 tvg-name="Efeito Colateral - 2002" tvg-logo="http://5ce.co:80/images/eTyvVGHdyG53nhHOySSYGxsVAvN_big.jpg" group-title="ACAO",Efeito Colateral - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209078.mp4
+#EXTINF:-1 tvg-name="Elektra - 2005" tvg-logo="http://urlon.me/ZgYMpJ" group-title="ACAO",Elektra - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61584.mp4
+#EXTINF:-1 tvg-name="Elysium - 2013" tvg-logo="http://urlon.me/ZgYMuE" group-title="ACAO",Elysium - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59619.mp4
+#EXTINF:-1 tvg-name="Em Ritmo de Fuga - 2017" tvg-logo="http://urlon.me/O1b" group-title="ACAO",Em Ritmo de Fuga - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61100.mp4
+#EXTINF:-1 tvg-name="Em Terreno Selvagem - 1994" tvg-logo="http://5ce.co:80/images/a2oVHUO7fN7bVy3lHHApq9tejcZ_big.jpg" group-title="ACAO",Em Terreno Selvagem - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185332.mp4
+#EXTINF:-1 tvg-name="Em Transe - 2013" tvg-logo="http://urlon.me/ZgYYtF" group-title="ACAO",Em Transe - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81458.mp4
+#EXTINF:-1 tvg-name="Embattled - 2021" tvg-logo="http://5ce.co:80/images/Foi2Via2fIACRJMB4934D5MP3j_big.jpg" group-title="ACAO",Embattled - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178701.mp4
+#EXTINF:-1 tvg-name="Emboscada - 2022" tvg-logo="http://5ce.co:80/images/zYduknwFBYYChOCyWZLhAMhagr6_big.jpg" group-title="ACAO",Emboscada - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198688.mp4
+#EXTINF:-1 tvg-name="Encontro Explosivo - 2010" tvg-logo="http://urlon.me/ZgYMpU" group-title="ACAO",Encontro Explosivo - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61587.mp4
+#EXTINF:-1 tvg-name="Entre Armas e Brinquedos - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WhAfI9GIgrOF4rasrtmvWOrjnX.jpg" group-title="ACAO",Entre Armas e Brinquedos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133928.mp4
+#EXTINF:-1 tvg-name="Entre Mundos - 2018" tvg-logo="http://urlon.me/Zw4" group-title="ACAO",Entre Mundos - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43177.mp4
+#EXTINF:-1 tvg-name="Equilibrium - 2002" tvg-logo="http://urlon.me/ZgYMp3" group-title="ACAO",Equilibrium - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61588.mp4
+#EXTINF:-1 tvg-name="Equipe Anticorrupção - 2019" tvg-logo="http://urlon.me/ZgYY6Z" group-title="ACAO",Equipe Anticorrupção - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74277.mp4
+#EXTINF:-1 tvg-name="Equipe Assassina - 2019" tvg-logo="http://urlon.me/ZgYYtY" group-title="ACAO",Equipe Assassina - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81456.mp4
+#EXTINF:-1 tvg-name="Era Uma vez no México - 2003" tvg-logo="http://cms-central.co:80/images/34rLY9dKtTww4HFi0rDih8TnJmE_big.jpg" group-title="ACAO",Era Uma vez no México - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/155576.mp4
+#EXTINF:-1 tvg-name="Espada da Vingança - Até a Última Linha  - 2020" tvg-logo="http://urlon.me/ZgYMmb" group-title="ACAO",Espada da Vingança - Até a Última Linha  - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95713.mp4
+#EXTINF:-1 tvg-name="Espada de Deus - A Última Cruzada - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sasYy2Hl5uplpT7jwQflFDANZXm.jpg" group-title="ACAO",Espada de Deus - A Última Cruzada - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/128155.mp4
+#EXTINF:-1 tvg-name="Esporte Sangrento - 1993" tvg-logo="http://urlon.me/ZgYMpY" group-title="ACAO",Esporte Sangrento - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61589.mp4
+#EXTINF:-1 tvg-name="Esquadrão 6 - 2019" tvg-logo="http://urlon.me/O7L" group-title="ACAO",Esquadrão 6 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61318.mp4
+#EXTINF:-1 tvg-name="Esquadrão Classe A - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fanpmhGSiFPBr6s4HRrszSYxjLx.jpg" group-title="ACAO",Esquadrão Classe A - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59620.mp4
+#EXTINF:-1 tvg-name="Esquadrao De Elite - 2019" tvg-logo="http://5ce.co:80/images/89ZwIY5Zx3VoqHaNOvwAAPcbuZE_big.jpg" group-title="ACAO",Esquadrao De Elite - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209558.mp4
+#EXTINF:-1 tvg-name="Esquadrão Red Tails - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXmhYTdeMiuQFW4VpiWbfjtxtl9.jpg" group-title="ACAO",Esquadrão Red Tails - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59621.mp4
+#EXTINF:-1 tvg-name="Esquadrão Tigre - 2016" tvg-logo="http://5ce.co:80/images/hjiB95KorUP0DumhGd0GTIsLMtl_big.jpg" group-title="ACAO",Esquadrão Tigre - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195484.mp4
+#EXTINF:-1 tvg-name="Estranhos em Casa - 2019" tvg-logo="http://urlon.me/ZgYYop" group-title="ACAO",Estranhos em Casa - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/91007.mp4
+#EXTINF:-1 tvg-name="Eu Sou a Fúria - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUfEYRW3LAh0hzhf78IWSsUC99b.jpg" group-title="ACAO",Eu Sou a Fúria - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61590.mp4
+#EXTINF:-1 tvg-name="Eu, Robô - 2004" tvg-logo="http://5ce.co:80/images/kVoidpsezSHT7EpNNBiEHSji1Tr_big.jpg" group-title="ACAO",Eu, Robô - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157190.mp4
+#EXTINF:-1 tvg-name="Exército de Ladrões: Invasão da Europa - 2021" tvg-logo="http://5ce.co:80/images/iPTZGFmPs7HsXHYxiuxGolihjOH_big.jpg" group-title="ACAO",Exército de Ladrões: Invasão da Europa - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189380.mp4
+#EXTINF:-1 tvg-name="Exodo - Deuses e Reis - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAJbKga0UUKFcgVF6ujw4TUWCrm.jpg" group-title="ACAO",Exodo - Deuses e Reis - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43460.mp4
+#EXTINF:-1 tvg-name="Falcão - O Campeão dos Campeões - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSsrQ450oOdEsCymOUo9dYq892w.jpg" group-title="ACAO",Falcão - O Campeão dos Campeões - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43440.mp4
+#EXTINF:-1 tvg-name="Falcão Negro em Perigo - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAFWuBysqT5JepQFBCmqRsKCFN4.jpg" group-title="ACAO",Falcão Negro em Perigo - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44677.mp4
+#EXTINF:-1 tvg-name="Feito na América - 2017" tvg-logo="http://urlon.me/Ojs" group-title="ACAO",Feito na América - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61591.mp4
+#EXTINF:-1 tvg-name="Ferry - 2021" tvg-logo="http://5ce.co:80/images/w6n1pu9thpCVHILejsuhKf3tNCV_big.jpg" group-title="ACAO",Ferry - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158367.mp4
+#EXTINF:-1 tvg-name="Fim dos Dias - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWfAnB5t5Pq8i5RTIEVJKeSB32e.jpg" group-title="ACAO",Fim dos Dias - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65385.mp4
+#EXTINF:-1 tvg-name="Fim dos Tempos - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6chRNu0PzJThUAYquf5ISeNhNZ.jpg" group-title="ACAO",Fim dos Tempos - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61592.mp4
+#EXTINF:-1 tvg-name="Fique Rico ou Morra Tentando - 2005" tvg-logo="http://urlon.me/ZgYMmS" group-title="ACAO",Fique Rico ou Morra Tentando - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95717.mp4
+#EXTINF:-1 tvg-name="Flyboys - 2006" tvg-logo="http://5ce.co:80/images/xezeqrrno6ytLyLrbTXRGUk4rdu_big.jpg" group-title="ACAO",Flyboys - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/206779.mp4
+#EXTINF:-1 tvg-name="Fogo Contra Fogo - 1995" tvg-logo="http://urlon.me/OjC" group-title="ACAO",Fogo Contra Fogo - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61593.mp4
+#EXTINF:-1 tvg-name="Fora da Trilha - 2016" tvg-logo="http://urlon.me/OMp" group-title="ACAO",Fora da Trilha - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61224.mp4
+#EXTINF:-1 tvg-name="Fração de Segundos - 2019" tvg-logo="http://urlon.me/ZgYMPu" group-title="ACAO",Fração de Segundos - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95841.mp4
+#EXTINF:-1 tvg-name="Fração de Segundos - 2019 " tvg-logo="http://5ce.me:80/images/om9LLjsNgwE36OEnIbFxlXK3YDn_big.jpg" group-title="ACAO",Fração de Segundos - 2019 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145807.mp4
+#EXTINF:-1 tvg-name="Free Fire - O Tiroteio - 2017" tvg-logo="http://5ce.me:80/images/w8gRUkBfby3f8bHKFsZgzX2euMf_big.jpg" group-title="ACAO",Free Fire - O Tiroteio - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/138616.mp4
+#EXTINF:-1 tvg-name="Free Fire - O Tiroteio - 2017 (L)" tvg-logo="http://5ce.me:80/images/w8gRUkBfby3f8bHKFsZgzX2euMf_big.jpg" group-title="ACAO",Free Fire - O Tiroteio - 2017 (L)
+ http://5ce.co:80/movie/Rayan24250/Ray242509/138615.mp4
+#EXTINF:-1 tvg-name="Fronteira Virtual - 2018" tvg-logo="http://urlon.me/Zl4" group-title="ACAO",Fronteira Virtual - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42985.mp4
+#EXTINF:-1 tvg-name="Fuga da Morte - 2021" tvg-logo="http://5ce.co:80/images/dOC9vx5PHc9ibRAG96rDQwr1TBW_big.jpg" group-title="ACAO",Fuga da Morte - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202340.mp4
+#EXTINF:-1 tvg-name="Fúria de Titãs - 1981" tvg-logo="http://cms-central.co:80/images/9FJ73MkwQqdzYi7Rh9NEj1hK0fF_big.jpg" group-title="ACAO",Fúria de Titãs - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156699.mp4
+#EXTINF:-1 tvg-name="Fúria de Titãs - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwswPRTjzSZTzcCEpjubuVU56vo.jpg" group-title="ACAO",Fúria de Titãs - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61594.mp4
+#EXTINF:-1 tvg-name="Fúria de Titãs 2 - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ul7MC2zseye6AGZzH3YkwUGtwcR.jpg" group-title="ACAO",Fúria de Titãs 2 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61595.mp4
+#EXTINF:-1 tvg-name="Fúria em Alto Mar - 2018" tvg-logo="http://urlon.me/Zlr" group-title="ACAO",Fúria em Alto Mar - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42983.mp4
+#EXTINF:-1 tvg-name="Fúria em Duas Rodas - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQbNFkRKiv5HWUrJYlaxbfTG7j2.jpg" group-title="ACAO",Fúria em Duas Rodas - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61596.mp4
+#EXTINF:-1 tvg-name="Fúria Incontrolável - 2020 " tvg-logo="http://5ce.me:80/images/kDt37orVVcJ4tbB2azkMc4nqn1U_big.jpg" group-title="ACAO",Fúria Incontrolável - 2020 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/147533.mp4
+#EXTINF:-1 tvg-name="Fúria Sobre Rodas - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3efFqfuqOFG1sEiv6buy81YHbpk.jpg" group-title="ACAO",Fúria Sobre Rodas - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61597.mp4
+#EXTINF:-1 tvg-name="Furioza - 2022" tvg-logo="http://5ce.co:80/images/tFURJnWv5qW58x4OOrXt1GQEyr1_big.jpg" group-title="ACAO",Furioza - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204050.mp4
+#EXTINF:-1 tvg-name="G.I. Joe 1 - A Origem de Cobra - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtjttcZdqHsaaRXyrpS7qa74wbo.jpg" group-title="ACAO",G.I. Joe 1 - A Origem de Cobra - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61598.mp4
+#EXTINF:-1 tvg-name="G.I. Joe 2 - Retaliação - 2013" tvg-logo="http://urlon.me/OjH" group-title="ACAO",G.I. Joe 2 - Retaliação - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61599.mp4
+#EXTINF:-1 tvg-name="Galveston - Destinos Cruzados - 2018" tvg-logo="http://urlon.me/OjS" group-title="ACAO",Galveston - Destinos Cruzados - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61600.mp4
+#EXTINF:-1 tvg-name="Gamer Jogo Mortal - 2009" tvg-logo="http://5ce.me:80/images/rfQtqLHeisaQ4HlYtNremtUl9oP_big.jpg" group-title="ACAO",Gamer Jogo Mortal - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/212838.mp4
+#EXTINF:-1 tvg-name="Gangues de Nova York - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AomqCo1CJ3P4C9ieMwirixpNj.jpg" group-title="ACAO",Gangues de Nova York - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59622.mp4
+#EXTINF:-1 tvg-name="Garantia de Morte - 1990" tvg-logo="http://urlon.me/ZlW" group-title="ACAO",Garantia de Morte - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42980.mp4
+#EXTINF:-1 tvg-name="Garota da Moto - 2021" tvg-logo="http://5ce.co:80/images/sYoWjGSW4XQRWwFDHf3kdMqtCLr_big.jpg" group-title="ACAO",Garota da Moto - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/191938.mp4
+#EXTINF:-1 tvg-name="Garotas sem rumo - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4yMNUroIjxDz8T7zOZWUobQtta.jpg" group-title="ACAO",Garotas sem rumo - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61601.mp4
+#EXTINF:-1 tvg-name="Generation X - 1996" tvg-logo="http://5ce.me:80/images/lxCNQr7lhlrZn6zpwEc0qxFs501_big.jpg" group-title="ACAO",Generation X - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137663.mp4
+#EXTINF:-1 tvg-name="Ghostland: Terra Sem Lei - 2021" tvg-logo="http://5ce.co:80/images/xBNVjog86fRYEnjwl4yRbIoXUxC_big.jpg" group-title="ACAO",Ghostland: Terra Sem Lei - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/196142.mp4
+#EXTINF:-1 tvg-name="Gigantes de Aço - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp74uUjwQTknGPqNrerj4FvU0ce.jpg" group-title="ACAO",Gigantes de Aço - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43439.mp4
+#EXTINF:-1 tvg-name="Gladiador - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg" group-title="ACAO",Gladiador - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42976.mp4
+#EXTINF:-1 tvg-name="Golpe de Risco - 2017" tvg-logo="http://urlon.me/Olh" group-title="ACAO",Golpe de Risco - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61602.mp4
+#EXTINF:-1 tvg-name="Golpe Duplo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bpIRckbOKP6JbKh4TuaYOtp8Op.jpg" group-title="ACAO",Golpe Duplo - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/67263.mp4
+#EXTINF:-1 tvg-name="Golpes de Vingança - 2022" tvg-logo="http://5ce.co:80/images/AbSz0ygA92OpwiYDTBVFA8Cf4Aw_big.jpg" group-title="ACAO",Golpes de Vingança - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201124.mp4
+#EXTINF:-1 tvg-name="Grand Prix - 1966" tvg-logo="http://urlon.me/ZgY1Cb" group-title="ACAO",Grand Prix - 1966
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69659.mp4
+#EXTINF:-1 tvg-name="Greyhound - Na Mira do Inimigo - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlgz2XLdLkSI5aNUJLHqUXVQ1GU.jpg" group-title="ACAO",Greyhound - Na Mira do Inimigo - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/107857.mp4
+#EXTINF:-1 tvg-name="Guardioes - 2021" tvg-logo="http://5ce.me:80/images/zfYaxwhKK3qK2Ak8QoujTQvP9ab_big.jpg" group-title="ACAO",Guardioes - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216730.mp4
+#EXTINF:-1 tvg-name="Guerra contra Aliens - 2019" tvg-logo="http://urlon.me/Ol9" group-title="ACAO",Guerra contra Aliens - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61604.mp4
+#EXTINF:-1 tvg-name="Guerra Sem Fim: A Espada é a Lei - 2020" tvg-logo="http://5ce.me:80/images/vXpm14VfoKnwaWKbBQi3hpc4TGQ_big.jpg" group-title="ACAO",Guerra Sem Fim: A Espada é a Lei - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139630.mp4
+#EXTINF:-1 tvg-name="Guerreira De Sangue - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YOAAlynH3jg7mDRhLe1PgJV2lc.jpg" group-title="ACAO",Guerreira De Sangue - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61605.mp4
+#EXTINF:-1 tvg-name="Guerreiro da Escuridão - 2017" tvg-logo="http://urlon.me/Zlw" group-title="ACAO",Guerreiro da Escuridão - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42973.mp4
+#EXTINF:-1 tvg-name="Gun City - 2018" tvg-logo="http://urlon.me/Zlk" group-title="ACAO",Gun City - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42971.mp4
+#EXTINF:-1 tvg-name="Hackers: Piratas de Computador - 1995" tvg-logo="http://5ce.co:80/images/1K6Y6leZwe18BydZxbkN2wvQRvA_big.jpg" group-title="ACAO",Hackers: Piratas de Computador - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/192437.mp4
+#EXTINF:-1 tvg-name="Hardcore: Missão Extrema - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWhH3rD0rzh9L1S9FMeHZkiChU9.jpg" group-title="ACAO",Hardcore: Missão Extrema - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124236.mp4
+#EXTINF:-1 tvg-name="Harley Davidson e Marlboro Man - Caçada Sem Tréguas - 1991" tvg-logo="http://5ce.co:80/images/9SDTF7fEheoSoIAD14n5TXhNyZf_big.jpg" group-title="ACAO",Harley Davidson e Marlboro Man - Caçada Sem Tréguas - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202499.mp4
+#EXTINF:-1 tvg-name="Hellboy - 2019" tvg-logo="http://urlon.me/6yi" group-title="ACAO",Hellboy - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/45803.mp4
+#EXTINF:-1 tvg-name="Hellboy II - O Exército Dourado - 2008" tvg-logo="http://5ce.me:80/images/2ZFnYUkYDlwJQvODkQ0JyTRZDSO_big.jpg" group-title="ACAO",Hellboy II - O Exército Dourado - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152472.mp4
+#EXTINF:-1 tvg-name="Herança de Sangue - 2016" tvg-logo="http://5ce.me:80/images/hdBcoAkSadDdzm7cRxYqTt4a2rO_big.jpg" group-title="ACAO",Herança de Sangue - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169448.mp4
+#EXTINF:-1 tvg-name="Hércules - 2014" tvg-logo="http://5ce.co:80/images/op64HvQ8XyB4l2afElLqxuYEuPT_big.jpg" group-title="ACAO",Hércules - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170992.mp4
+#EXTINF:-1 tvg-name="Heróis de Fogo - 2021" tvg-logo="http://5ce.co:80/images/1TU9bV5U33me9k3wao17qqZsFmg_big.jpg" group-title="ACAO",Heróis de Fogo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/188112.mp4
+#EXTINF:-1 tvg-name="Herois de Guerra - 2019" tvg-logo="http://5ce.co:80/images/AttAWFTg1K4Qxjo12nMhu8NQIFR_big.jpg" group-title="ACAO",Herois de Guerra - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208754.mp4
+#EXTINF:-1 tvg-name="Highlander, O Guerreiro Imortal - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg" group-title="ACAO",Highlander, O Guerreiro Imortal - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103867.mp4
+#EXTINF:-1 tvg-name="Hitman 1 - Assassino 47 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LsQzd1CAHuZIYbePt1k84w2mE7.jpg" group-title="ACAO",Hitman 1 - Assassino 47 - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63843.mp4
+#EXTINF:-1 tvg-name="Hitman 2 - Agente 47 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haw5Uz30g5nUJfHlzpJIhMQQE7q.jpg" group-title="ACAO",Hitman 2 - Agente 47 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63842.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha: Sem Volta Para Casa - 2022" tvg-logo="http://5ce.co:80/images/fVzXp3NwovUlLe7fvoRynCmBPNc_big.jpg" group-title="ACAO",Homem-Aranha: Sem Volta Para Casa - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202414.mp4
+#EXTINF:-1 tvg-name="Horas de Desespero - 2015" tvg-logo="http://urlon.me/OCe" group-title="ACAO",Horas de Desespero - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65005.mp4
+#EXTINF:-1 tvg-name="Horas Decisivas - 2016" tvg-logo="http://5ce.me:80/images/8VTYz8SkU8DcBgKNprMjqPNZBgt_big.jpg" group-title="ACAO",Horas Decisivas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216950.mp4
+#EXTINF:-1 tvg-name="Hotel Artemis - 2018" tvg-logo="http://urlon.me/ZlQ" group-title="ACAO",Hotel Artemis - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42968.mp4
+#EXTINF:-1 tvg-name="I Am Vengeance: Retaliation - 2021" tvg-logo="http://5ce.co:80/images/fshqvFBihzipvA5l9hwHQVuZCNG_big.jpg" group-title="ACAO",I Am Vengeance: Retaliation - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185618.mp4
+#EXTINF:-1 tvg-name="iBoy - 2017" tvg-logo="http://5ce.co:80/images/f5dMAWXLjp8duA44Lp40WZFGZB0_big.jpg" group-title="ACAO",iBoy - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200542.mp4
+#EXTINF:-1 tvg-name="Ida Red - 2021" tvg-logo="http://5ce.co:80/images/etMxKseW67499tUJonLNHXTF538_big.jpg" group-title="ACAO",Ida Red - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202343.mp4
+#EXTINF:-1 tvg-name="Impacto Profundo - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay7GJqX63hPuFJGeQq2sAuePNyK.jpg" group-title="ACAO",Impacto Profundo - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63845.mp4
+#EXTINF:-1 tvg-name="Impasse - 2021" tvg-logo="http://5ce.co:80/images/9lYAj14i5SDY0HvZ21EhXVi8A4E_big.jpg" group-title="ACAO",Impasse - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201450.mp4
+#EXTINF:-1 tvg-name="Implacável - 2019" tvg-logo="http://urlon.me/Zzp" group-title="ACAO",Implacável - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43138.mp4
+#EXTINF:-1 tvg-name="Impuros  O Filme - 2019" tvg-logo="http://5ce.co:80/images/9UFRFJ8PoXdy1OA6XW0i1hGjyFF_big.jpg" group-title="ACAO",Impuros  O Filme - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209147.mp4
+#EXTINF:-1 tvg-name="Independence Day 1 - 1996" tvg-logo="http://urlon.me/ZDt" group-title="ACAO",Independence Day 1 - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43456.mp4
+#EXTINF:-1 tvg-name="Independence Day 2 - O Ressurgimento - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh7dnhLboTzjNfPVTsqr8sBo6wh.jpg" group-title="ACAO",Independence Day 2 - O Ressurgimento - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43455.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e a Última Cruzada - 1989" tvg-logo="http://urlon.me/ZlU" group-title="ACAO",Indiana Jones e a Última Cruzada - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42962.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e o Reino da Caveira de Cristal - 2008" tvg-logo="http://urlon.me/Zl5" group-title="ACAO",Indiana Jones e o Reino da Caveira de Cristal - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42959.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e o Templo da Perdição - 1984" tvg-logo="http://urlon.me/ZjL" group-title="ACAO",Indiana Jones e o Templo da Perdição - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42954.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e os Caçadores da Arca Perdida - 1981" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xh4fYbcABTsF4cqPzMkD5QSv1z.jpg" group-title="ACAO",Indiana Jones e os Caçadores da Arca Perdida - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42957.mp4
+#EXTINF:-1 tvg-name="Inferno - 1999" tvg-logo="http://5ce.me:80/images/dFlI0Vb4JOsRXG1JSS2Ufs6Sp8k_big.jpg" group-title="ACAO",Inferno - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/173270.mp4
+#EXTINF:-1 tvg-name="Inferno - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg" group-title="ACAO",Inferno - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42952.mp4
+#EXTINF:-1 tvg-name="Infiltrado - 2021" tvg-logo="http://5ce.co:80/images/ef2ozkE4AiWwRnyfc9s05sEtAIT_big.jpg" group-title="ACAO",Infiltrado - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186431.mp4
+#EXTINF:-1 tvg-name="Infiltrado Na Klan - 2018" tvg-logo="http://urlon.me/Zk5" group-title="ACAO",Infiltrado Na Klan - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43025.mp4
+#EXTINF:-1 tvg-name="Infinite - 2021" tvg-logo="http://5ce.co:80/images/mLvjQ0IIdzZfQzQXULI7sIVxd8V_big.jpg" group-title="ACAO",Infinite - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/179278.mp4
+#EXTINF:-1 tvg-name="Inimigo do Estado - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg" group-title="ACAO",Inimigo do Estado - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63849.mp4
+#EXTINF:-1 tvg-name="Inimigo Mortal - 2017" tvg-logo="http://urlon.me/OQX" group-title="ACAO",Inimigo Mortal - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61416.mp4
+#EXTINF:-1 tvg-name="Inimigos de Sangue - 2013" tvg-logo="http://5ce.me:80/images/b5n8VuzaAywM1fIR3ECj3dvoO7B_big.jpg" group-title="ACAO",Inimigos de Sangue - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145808.mp4
+#EXTINF:-1 tvg-name="Inspetor Bugiganga 2 - 2003" tvg-logo="http://5ce.co:80/images/6g5L4lpsQ1jYDJpMn1XGYOGzlar_big.jpg" group-title="ACAO",Inspetor Bugiganga 2 - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204165.mp4
+#EXTINF:-1 tvg-name="Instinto Predador - 2019" tvg-logo="http://urlon.me/5dy" group-title="ACAO",Instinto Predador - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66541.mp4
+#EXTINF:-1 tvg-name="Instinto Radical - 2000" tvg-logo="http://urlon.me/Zil" group-title="ACAO",Instinto Radical - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43193.mp4
+#EXTINF:-1 tvg-name="Invasao A Casa Branca - 2013" tvg-logo="http://urlon.me/Zp4" group-title="ACAO",Invasao A Casa Branca - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43436.mp4
+#EXTINF:-1 tvg-name="Invasão à Londres - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wazDH9pNQxLzBKCZvN2iMduXxGb.jpg" group-title="ACAO",Invasão à Londres - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43434.mp4
+#EXTINF:-1 tvg-name="Invasão ao Serviço Secreto - 2019" tvg-logo="http://urlon.me/ZgY1Cl" group-title="ACAO",Invasão ao Serviço Secreto - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69644.mp4
+#EXTINF:-1 tvg-name="Invasão Zumbi - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QqHtwk0oHYed26zra9WGQGyBSm.jpg" group-title="ACAO",Invasão Zumbi - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134161.mp4
+#EXTINF:-1 tvg-name="Invasão Zumbi 2: Península - 2020" tvg-logo="http://5ce.me:80/images/dGVUiqnahQ4ZZRchGRpO2SyhtQY_big.jpg" group-title="ACAO",Invasão Zumbi 2: Península - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137422.mp4
+#EXTINF:-1 tvg-name="Jack Reacher 1 - O Último Tiro - 2012" tvg-logo="http://urlon.me/Osy" group-title="ACAO",Jack Reacher 1 - O Último Tiro - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63851.mp4
+#EXTINF:-1 tvg-name="Jack Reacher 2: Sem Retorno - 2016" tvg-logo="http://5ce.me:80/images/rR2UYbrTIrDiZIyyuWxx8c9z8ZU_big.jpg" group-title="ACAO",Jack Reacher 2: Sem Retorno - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165548.mp4
+#EXTINF:-1 tvg-name="Jack: O Caçador de Gigantes - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCp3BLjQc1qZTbw9VrEzuON9NEG.jpg" group-title="ACAO",Jack: O Caçador de Gigantes - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63850.mp4
+#EXTINF:-1 tvg-name="Jason Bourne - 2016" tvg-logo="http://5ce.co:80/images/xA7N41glw17MBQtcWSm2eBlBRuG_big.jpg" group-title="ACAO",Jason Bourne - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203960.mp4
+#EXTINF:-1 tvg-name="Jo Pil-ho: The Dawning Rage  -2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hba1qQ4Jon4fmCkylfzDrdbBcAo.jpg" group-title="ACAO",Jo Pil-ho: The Dawning Rage  -2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/101296.mp4
+#EXTINF:-1 tvg-name="Joana D'Arc - 1999" tvg-logo="http://5ce.co:80/images/qcFFvAZtoHs5s0C6GjkWhTD5aSW_big.jpg" group-title="ACAO",Joana D'Arc - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186821.mp4
+#EXTINF:-1 tvg-name="Jogada Divina - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBMs5X5VH6Ymr9X5YYtw2huxzTD.jpg" group-title="ACAO",Jogada Divina - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63852.mp4
+#EXTINF:-1 tvg-name="Jogo Duro - 2015" tvg-logo="http://urlon.me/ZgYYMQ" group-title="ACAO",Jogo Duro - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80308.mp4
+#EXTINF:-1 tvg-name="Jogo Entre Ladrões - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3js5mLX02ZcJNv9J8VaKUNiLq.jpg" group-title="ACAO",Jogo Entre Ladrões - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/117289.mp4
+#EXTINF:-1 tvg-name="Jogo Perigoso - 2021" tvg-logo="https://tinyurl.com/3hbhmabt" group-title="ACAO",Jogo Perigoso - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189889.mp4
+#EXTINF:-1 tvg-name="John Wick 2: Um Novo Dia para Matar - 2017 " tvg-logo="http://urlon.me/Z8r" group-title="ACAO",John Wick 2: Um Novo Dia para Matar - 2017 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43113.mp4
+#EXTINF:-1 tvg-name="John Wick 3: Parabellum - 2019" tvg-logo="http://urlon.me/ZgY3Sa" group-title="ACAO",John Wick 3: Parabellum - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42704.mp4
+#EXTINF:-1 tvg-name="John Wick: De Volta ao Jogo - 2014" tvg-logo="http://urlon.me/Z8I" group-title="ACAO",John Wick: De Volta ao Jogo - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43111.mp4
+#EXTINF:-1 tvg-name="Johnny English - 2003" tvg-logo="http://5ce.me:80/images/N4vioZ2pDBQWGBgTGxBmF82vwm_big.jpg" group-title="ACAO",Johnny English - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140679.mp4
+#EXTINF:-1 tvg-name="Jolt - 2021" tvg-logo="http://5ce.co:80/images/gYZAHan5CHPFXORpQMvOjCTug4E_big.jpg" group-title="ACAO",Jolt - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/175400.mp4
+#EXTINF:-1 tvg-name="Jonah Hex - Caçador de Recompensas - 2010" tvg-logo="http://5ce.co:80/images/ageBP5EWpmdGKJmp0RhsNDIDRh5_big.jpg" group-title="ACAO",Jonah Hex - Caçador de Recompensas - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158018.mp4
+#EXTINF:-1 tvg-name="Juice - Uma Questão de Respeito - 1992" tvg-logo="http://urlon.me/ZgY1ZI" group-title="ACAO",Juice - Uma Questão de Respeito - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43283.mp4
+#EXTINF:-1 tvg-name="Jungle - Protegendo a Selva - 2019" tvg-logo="http://urlon.me/ZgYYPv" group-title="ACAO",Jungle - Protegendo a Selva - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77549.mp4
+#EXTINF:-1 tvg-name="Justiça Brutal - 2019 " tvg-logo="http://5ce.me:80/images/fbZi8jRG0tZTdXx3GH6CZthkFzc_big.jpg" group-title="ACAO",Justiça Brutal - 2019 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/141904.mp4
+#EXTINF:-1 tvg-name="Justiça em Família - 2021" tvg-logo="http://5ce.co:80/images/wrwhbYVJK3O85tRLrkVjCXZniIJ_big.jpg" group-title="ACAO",Justiça em Família - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/180912.mp4
+#EXTINF:-1 tvg-name="K-9 - Um Policial Bom pra Cachorro - 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mBNUe0X4WYywe6w5DyihltmAn.jpg" group-title="ACAO",K-9 - Um Policial Bom pra Cachorro - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43100.mp4
+#EXTINF:-1 tvg-name="K-9: D.P.: Um Policial Bom pra Cachorro - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkI06uQJCnujYoN6MJzjnsxryaI.jpg" group-title="ACAO",K-9: D.P.: Um Policial Bom pra Cachorro - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43102.mp4
+#EXTINF:-1 tvg-name="K-911: Um Policial Bom Pra Cachorro 2 - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZsF9u6bBp46mMXTOpSAqowlZW4.jpg" group-title="ACAO",K-911: Um Policial Bom Pra Cachorro 2 - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43098.mp4
+#EXTINF:-1 tvg-name="Karatê Kid - 2010" tvg-logo="http://5ce.co:80/images/tAMQREOoztvluqrfHiGHFVfB04B_big.jpg" group-title="ACAO",Karatê Kid - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43087.mp4
+#EXTINF:-1 tvg-name="Karatê Kid - A Hora da Verdade - 1984" tvg-logo="http://5ce.me:80/images/dAB64Bp7S4JaMutZMEOWSycdge2_big.jpg" group-title="ACAO",Karatê Kid - A Hora da Verdade - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/141552.mp4
+#EXTINF:-1 tvg-name="Karatê Kid 2 - A Hora da Verdade Continua - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSne9mfUcL8QCGxF891LWa7lZNI.jpg" group-title="ACAO",Karatê Kid 2 - A Hora da Verdade Continua - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43094.mp4
+#EXTINF:-1 tvg-name="Karatê Kid 3 - O Desafio Final - 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46q3SjOI57iB6jm7W6RrM03FZb.jpg" group-title="ACAO",Karatê Kid 3 - O Desafio Final - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43091.mp4
+#EXTINF:-1 tvg-name="Karate Kid 4 - A Nova Aventura - 1994" tvg-logo="http://5ce.me:80/images/t54FvbWtndSRSFRZoVZVoCHspQp_big.jpg" group-title="ACAO",Karate Kid 4 - A Nova Aventura - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/146030.mp4
+#EXTINF:-1 tvg-name="Kart Nervoso - 2020" tvg-logo="http://urlon.me/ZgY1bn" group-title="ACAO",Kart Nervoso - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70828.mp4
+#EXTINF:-1 tvg-name="Kate - 2021" tvg-logo="http://5ce.co:80/images/uQWgSRXeYRWCvGIX9LDNBW6XBYD_big.jpg" group-title="ACAO",Kate - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184119.mp4
+#EXTINF:-1 tvg-name="Kick - Ass  Quebrando Tudo - 2010" tvg-logo="http://5ce.co:80/images/8citjdBmjddZjlPsAHEyCKwGVvD_big.jpg" group-title="ACAO",Kick - Ass  Quebrando Tudo - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205332.mp4
+#EXTINF:-1 tvg-name="Kick - Ass 2 - 2013" tvg-logo="http://5ce.co:80/images/4LUzG0blTn6JMhUwXSmjPqNFNXL_big.jpg" group-title="ACAO",Kick - Ass 2 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205333.mp4
+#EXTINF:-1 tvg-name="Kickboxer - A Vingança do Dragão - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqhTNSrOcU0rgN7QSTckp9p5yyx.jpg" group-title="ACAO",Kickboxer - A Vingança do Dragão - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61565.mp4
+#EXTINF:-1 tvg-name="Kickboxer 1- O Desafio do Dragão - 1989" tvg-logo="http://urlon.me/ZfL" group-title="ACAO",Kickboxer 1- O Desafio do Dragão - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43084.mp4
+#EXTINF:-1 tvg-name="Kickboxer 2 - A Vingança do Dragão - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4txwz6Tqt2WM8SnvBDGnGJxjLAN.jpg" group-title="ACAO",Kickboxer 2 - A Vingança do Dragão - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61561.mp4
+#EXTINF:-1 tvg-name="Kickboxer 3 - A Arte da Guerra - 1992" tvg-logo="http://urlon.me/OqC" group-title="ACAO",Kickboxer 3 - A Arte da Guerra - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61562.mp4
+#EXTINF:-1 tvg-name="Kickboxer 4 - O Agressor - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zRXzWRBt1bCdJa0naOs5RX8PSC.jpg" group-title="ACAO",Kickboxer 4 - O Agressor - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61563.mp4
+#EXTINF:-1 tvg-name="Kickboxer 5 - O Desafio Final - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6essQQLBu0YuYVau1xuihfkdGJ.jpg" group-title="ACAO",Kickboxer 5 - O Desafio Final - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61564.mp4
+#EXTINF:-1 tvg-name="Kickboxer 7- A Retaliação - 2018" tvg-logo="http://urlon.me/Zfr" group-title="ACAO",Kickboxer 7- A Retaliação - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43081.mp4
+#EXTINF:-1 tvg-name="Kill Bill: Volume 1 - 2003" tvg-logo="http://urlon.me/ZfW" group-title="ACAO",Kill Bill: Volume 1 - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43078.mp4
+#EXTINF:-1 tvg-name="Kill Bill: Volume 2 - 2004" tvg-logo="http://urlon.me/Zfp" group-title="ACAO",Kill Bill: Volume 2 - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43075.mp4
+#EXTINF:-1 tvg-name="Kin - 2018" tvg-logo="http://urlon.me/OsK" group-title="ACAO",Kin - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63853.mp4
+#EXTINF:-1 tvg-name="Kings Man A Origem - 2021" tvg-logo="http://5ce.co:80/images/pVL9AyKKLfUwrYD6jhdsI15gBQ7_big.jpg" group-title="ACAO",Kings Man A Origem - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205856.mp4
+#EXTINF:-1 tvg-name="Kingsman: O Círculo Dourado - 2017" tvg-logo="http://urlon.me/Osf" group-title="ACAO",Kingsman: O Círculo Dourado - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63854.mp4
+#EXTINF:-1 tvg-name="Kingsman: Serviço Secreto - 2015" tvg-logo="http://urlon.me/Osz" group-title="ACAO",Kingsman: Serviço Secreto - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63855.mp4
+#EXTINF:-1 tvg-name="Kong: A Ilha da Caveira - 2017" tvg-logo="http://urlon.me/ZS2" group-title="ACAO",Kong: A Ilha da Caveira - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44204.mp4
+#EXTINF:-1 tvg-name="Ladrões - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlMlXCzoehhc7fSYJWepUBZFdTW.jpg" group-title="ACAO",Ladrões - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63857.mp4
+#EXTINF:-1 tvg-name="Lágrimas do Sol - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uM1EHWxxMLpj0kUVYTzhN4t59ya.jpg" group-title="ACAO",Lágrimas do Sol - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/106172.mp4
+#EXTINF:-1 tvg-name="Lara Croft - Tomb Raider - A Origem da Vida - 2003" tvg-logo="http://5ce.co:80/images/vzWqkXbqs3EEMi3jgFpiRPgFGlG_big.jpg" group-title="ACAO",Lara Croft - Tomb Raider - A Origem da Vida - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204164.mp4
+#EXTINF:-1 tvg-name="LEAL Só Existe Uma Maneira de Viver - 2018" tvg-logo="http://urlon.me/OsA" group-title="ACAO",LEAL Só Existe Uma Maneira de Viver - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63858.mp4
+#EXTINF:-1 tvg-name="Leão Branco - O Lutador Sem Lei - 1990" tvg-logo="http://urlon.me/Zfq" group-title="ACAO",Leão Branco - O Lutador Sem Lei - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43066.mp4
+#EXTINF:-1 tvg-name="Legado de Mentiras - 2021" tvg-logo="http://5ce.co:80/images/bhNHCeJDFDaB00A46AoCw2mggdE_big.jpg" group-title="ACAO",Legado de Mentiras - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/179846.mp4
+#EXTINF:-1 tvg-name="Legado nos Ossos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtldsr6Soiu1RzIG15Or4HiUnxv.jpg" group-title="ACAO",Legado nos Ossos - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80471.mp4
+#EXTINF:-1 tvg-name="Legionário - 1998" tvg-logo="http://urlon.me/Zft" group-title="ACAO",Legionário - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43071.mp4
+#EXTINF:-1 tvg-name="Legítimo Rei - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imep7mUf7WzCdZiCE6adArFQrlt.jpg" group-title="ACAO",Legítimo Rei - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43069.mp4
+#EXTINF:-1 tvg-name="Lendas do Crime - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wyUnMWPqsK3J2dGl6JrjYUrtSO.jpg" group-title="ACAO",Lendas do Crime - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/64996.mp4
+#EXTINF:-1 tvg-name="Letras da Morte - 2017" tvg-logo="http://urlon.me/ZgY1ZJ" group-title="ACAO",Letras da Morte - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43067.mp4
+#EXTINF:-1 tvg-name="Liga dos Deuses - 2016" tvg-logo="http://urlon.me/ZSp" group-title="ACAO",Liga dos Deuses - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44202.mp4
+#EXTINF:-1 tvg-name="Ligacao Explosiva - 2021" tvg-logo="http://5ce.me:80/images/y2Aimt8isimtigec3e4kB2G9FMR_big.jpg" group-title="ACAO",Ligacao Explosiva - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215350.mp4
+#EXTINF:-1 tvg-name="Limite da Honra - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv5NhsZfE9obeb1c3PXNOmQDtTg.jpg" group-title="ACAO",Limite da Honra - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43062.mp4
+#EXTINF:-1 tvg-name="Linha de Frente - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NDhRiLFzjbyCnfUnwfVKWIN2k1.jpg" group-title="ACAO",Linha de Frente - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43060.mp4
+#EXTINF:-1 tvg-name="Linha Reta - 2019" tvg-logo="http://urlon.me/ZgYYpx" group-title="ACAO",Linha Reta - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81991.mp4
+#EXTINF:-1 tvg-name="Lobo Guerreiro 1 - 2015" tvg-logo="http://urlon.me/O23" group-title="ACAO",Lobo Guerreiro 1 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63880.mp4
+#EXTINF:-1 tvg-name="Lobo Guerreiro 2 - 2017" tvg-logo="http://urlon.me/Osu" group-title="ACAO",Lobo Guerreiro 2 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63859.mp4
+#EXTINF:-1 tvg-name="Logan - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" group-title="ACAO",Logan - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124691.mp4
+#EXTINF:-1 tvg-name="Logan Lucky - Roubo em Família - 2017" tvg-logo="http://urlon.me/OsD" group-title="ACAO",Logan Lucky - Roubo em Família - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63860.mp4
+#EXTINF:-1 tvg-name="Looper: Assassinos do Futuro - 2012" tvg-logo="http://5ce.me:80/images/qi3aMCoFbnfpbd0XBLznLUn99xQ_big.jpg" group-title="ACAO",Looper: Assassinos do Futuro - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140147.mp4
+#EXTINF:-1 tvg-name="Loucos e Perigosos - 2017" tvg-logo="http://5ce.me:80/images/zQw4fSps9BJbr5bneQGrv36ADrX_big.jpg" group-title="ACAO",Loucos e Perigosos - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150371.mp4
+#EXTINF:-1 tvg-name="Loucos por Justiça - 2021" tvg-logo="http://5ce.co:80/images/i7LtmfzZ2HCxNBEw0h4Wu2lZTSS_big.jpg" group-title="ACAO",Loucos por Justiça - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178702.mp4
+#EXTINF:-1 tvg-name="Lua Cheia - O Terror dos Virgens - 2012" tvg-logo="http://urlon.me/ZgYM6g" group-title="ACAO",Lua Cheia - O Terror dos Virgens - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/93965.mp4
+#EXTINF:-1 tvg-name="Lua Negra - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RobAQaPIYV2PBmkb4XISbsQZPe.jpg" group-title="ACAO",Lua Negra - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63861.mp4
+#EXTINF:-1 tvg-name="Lukas - 2018" tvg-logo="http://urlon.me/OsR" group-title="ACAO",Lukas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63862.mp4
+#EXTINF:-1 tvg-name="Lutador de Rua - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg" group-title="ACAO",Lutador de Rua - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65477.mp4
+#EXTINF:-1 tvg-name="Lutador Misterioso - 2018" tvg-logo="http://urlon.me/ZgYMPs" group-title="ACAO",Lutador Misterioso - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95843.mp4
+#EXTINF:-1 tvg-name="Machete - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="ACAO",Machete - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121404.mp4
+#EXTINF:-1 tvg-name="Magnatas do Crime - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isfhoWF9vnvqweEul2wtY4YBP2v.jpg" group-title="ACAO",Magnatas do Crime - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/109415.mp4
+#EXTINF:-1 tvg-name="Major Grom Contra o Dr. Peste - 2021" tvg-logo="http://5ce.co:80/images/yBkZlG55CprznYxwUcGY6r3ZXP6_big.jpg" group-title="ACAO",Major Grom Contra o Dr. Peste - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/171646.mp4
+#EXTINF:-1 tvg-name="Man Down - A Guerra - 2016" tvg-logo="http://urlon.me/OsC" group-title="ACAO",Man Down - A Guerra - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63863.mp4
+#EXTINF:-1 tvg-name="Mandy: Sede de Vingança - 2018" tvg-logo="http://urlon.me/ZKL" group-title="ACAO",Mandy: Sede de Vingança - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43020.mp4
+#EXTINF:-1 tvg-name="Máquina da Vingança - 2019" tvg-logo="http://urlon.me/ZgY1uL" group-title="ACAO",Máquina da Vingança - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/68262.mp4
+#EXTINF:-1 tvg-name="Máquina Mortífera - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsn0xqelydberc2UoHE8JzdDPTP.jpg" group-title="ACAO",Máquina Mortífera - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43160.mp4
+#EXTINF:-1 tvg-name="Máquina Mortífera 2 - 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="ACAO",Máquina Mortífera 2 - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43159.mp4
+#EXTINF:-1 tvg-name="Máquina Mortífera 3 - 1992" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="ACAO",Máquina Mortífera 3 - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43156.mp4
+#EXTINF:-1 tvg-name="Máquina Mortífera 4 - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="ACAO",Máquina Mortífera 4 - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43190.mp4
+#EXTINF:-1 tvg-name="Massacre no Bairro Japonês - 1991" tvg-logo="http://urlon.me/OsB" group-title="ACAO",Massacre no Bairro Japonês - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63864.mp4
+#EXTINF:-1 tvg-name="Mate ou Morra - 2021" tvg-logo="http://5ce.co:80/images/b9mTht2VCw0IMXmeeruRdZno3eS_big.jpg" group-title="ACAO",Mate ou Morra - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208470.mp4
+#EXTINF:-1 tvg-name="Maverick - 1994" tvg-logo="http://cms-central.co:80/images/aJtiPZTvROqyk5t0eD7s1SPfkR4_big.jpg" group-title="ACAO",Maverick - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/155901.mp4
+#EXTINF:-1 tvg-name="Max 2 - Um Agente Animal - 2017" tvg-logo="http://urlon.me/Zid" group-title="ACAO",Max 2 - Um Agente Animal - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43182.mp4
+#EXTINF:-1 tvg-name="Max Payne - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtNG3FsLhshbGDf0ybTQKNbyZV7.jpg" group-title="ACAO",Max Payne - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104721.mp4
+#EXTINF:-1 tvg-name="Max Steel - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuEzNLF8yvzd169guYEFisqvy5z.jpg" group-title="ACAO",Max Steel - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104722.mp4
+#EXTINF:-1 tvg-name="Max: O Cão Herói - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXnAwLT3OPWfeaqpPVIsbfu3OIH.jpg" group-title="ACAO",Max: O Cão Herói - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43180.mp4
+#EXTINF:-1 tvg-name="Meia-Noite no Switchgrass - 2021" tvg-logo="http://5ce.co:80/images/yMqiQycjmTVG8ocoQvJkFmHvFnD_big.jpg" group-title="ACAO",Meia-Noite no Switchgrass - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178383.mp4
+#EXTINF:-1 tvg-name="Mente Criminosa - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGIrdTMy24EpkYvjKrzRzszDSS.jpg" group-title="ACAO",Mente Criminosa - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63865.mp4
+#EXTINF:-1 tvg-name="Mergulho Radical - 2005" tvg-logo="http://urlon.me/Ose" group-title="ACAO",Mergulho Radical - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63866.mp4
+#EXTINF:-1 tvg-name="Mestre Z: O Legado de Ip Man - 2018 " tvg-logo="http://5ce.me:80/images/5fKLi2QVetpbLVUKpyDNTR43McW_big.jpg" group-title="ACAO",Mestre Z: O Legado de Ip Man - 2018 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140307.mp4
+#EXTINF:-1 tvg-name="Mestres do Universo - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Dbt2cU9rGKMVLy7pjT9ce6UFks.jpg" group-title="ACAO",Mestres do Universo - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/100935.mp4
+#EXTINF:-1 tvg-name="Meu Ex é um Espião - 2018" tvg-logo="http://urlon.me/Oam" group-title="ACAO",Meu Ex é um Espião - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65351.mp4
+#EXTINF:-1 tvg-name="Miami Vice - 2006" tvg-logo="http://5ce.co:80/images/iJPSls4taB09EUKtLj6FjFSprb3_big.jpg" group-title="ACAO",Miami Vice - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203058.mp4
+#EXTINF:-1 tvg-name="Midway - Batalha em Alto Mar - 2019" tvg-logo="http://urlon.me/O3F" group-title="ACAO",Midway - Batalha em Alto Mar - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61027.mp4
+#EXTINF:-1 tvg-name="Millennium 3 - A Rainha no Palácio das Correntes de Ar - 2009" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/gIo8ARDHsxehIVTqW0r8uadlIj2.jpg" group-title="ACAO",Millennium 3 - A Rainha no Palácio das Correntes de Ar - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/135312.mp4
+#EXTINF:-1 tvg-name="Millennium II - A Menina que Brincava com Fogo - 2009" tvg-logo="http://5ce.co:80/images/9T3qIfn3su92CibgnZmdXdIX3xl_big.jpg" group-title="ACAO",Millennium II - A Menina que Brincava com Fogo - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209744.mp4
+#EXTINF:-1 tvg-name="Millennium: A Garota na Teia de Aranha - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" group-title="ACAO",Millennium: A Garota na Teia de Aranha - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43173.mp4
+#EXTINF:-1 tvg-name="Minority Report - 2002" tvg-logo="http://5ce.co:80/images/ccqpHq5tk5W4ymbSbuoy4uYOxFI_big.jpg" group-title="ACAO",Minority Report - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207183.mp4
+#EXTINF:-1 tvg-name="Miss Bala - 2019" tvg-logo="http://urlon.me/Z8V" group-title="ACAO",Miss Bala - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43108.mp4
+#EXTINF:-1 tvg-name="Miss Simpatia - 2000 " tvg-logo="http://5ce.me:80/images/xltCN7p2dsrNMcGWEifcCKDMoR4_big.jpg" group-title="ACAO",Miss Simpatia - 2000 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140055.mp4
+#EXTINF:-1 tvg-name="Miss Simpatia 2 - Armada e Poderosa - 2005 " tvg-logo="http://5ce.me:80/images/zSJXqa4g3damGoDEhMQ00Snbix8_big.jpg" group-title="ACAO",Miss Simpatia 2 - Armada e Poderosa - 2005 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140053.mp4
+#EXTINF:-1 tvg-name="Missão Babilônia - 2008" tvg-logo="http://5ce.co:80/images/sayHOjIyQIWeGM5IGewGJzgbSns_big.jpg" group-title="ACAO",Missão Babilônia - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202502.mp4
+#EXTINF:-1 tvg-name="Missão Extraordinária - 2017" tvg-logo="http://urlon.me/Oa1" group-title="ACAO",Missão Extraordinária - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65353.mp4
+#EXTINF:-1 tvg-name="Missão Pijamas - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg" group-title="ACAO",Missão Pijamas - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/119152.mp4
+#EXTINF:-1 tvg-name="Missão Resgate - 2021" tvg-logo="http://5ce.co:80/images/4LHON8XgAfMSVG2Vv54caU6D1r5_big.jpg" group-title="ACAO",Missão Resgate - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200183.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível - Efeito Fallout - 2018" tvg-logo="http://urlon.me/Zww" group-title="ACAO",Missão: Impossível - Efeito Fallout - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43165.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível 1 - 1996" tvg-logo="http://urlon.me/OaM" group-title="ACAO",Missão: Impossível 1 - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65354.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível 2 - 2000" tvg-logo="http://urlon.me/Oa7" group-title="ACAO",Missão: Impossível 2 - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65355.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível 3 - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg" group-title="ACAO",Missão: Impossível 3 - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65356.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível 4 - Protocolo Fantasma - 2011" tvg-logo="http://urlon.me/Zwt" group-title="ACAO",Missão: Impossível 4 - Protocolo Fantasma - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43166.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível 5 - Nação Secreta - 2015" tvg-logo="http://urlon.me/Oay" group-title="ACAO",Missão: Impossível 5 - Nação Secreta - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65357.mp4
+#EXTINF:-1 tvg-name="Momento Crítico - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3CVqpSbvqvqNcY2dBjRQ44kN2l.jpg" group-title="ACAO",Momento Crítico - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65358.mp4
+#EXTINF:-1 tvg-name="Momentum - 2015" tvg-logo="http://5ce.me:80/images/1VO3FHrrJ0uhanwQNXh3pTvZDTo_big.jpg" group-title="ACAO",Momentum - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/168378.mp4
+#EXTINF:-1 tvg-name="Monster Trucks - 2016" tvg-logo="http://urlon.me/OaK" group-title="ACAO",Monster Trucks - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65359.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat - 2021" tvg-logo="http://5ce.me:80/images/ijvC2w2yANsfgLT3LMu2zFr0fxh_big.jpg" group-title="ACAO",Mortal Kombat - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/168380.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat 1 - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOQkcGtijlhp6NDyMS2qXSHalD8.jpg" group-title="ACAO",Mortal Kombat 1 - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65360.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat 2 - A Aniquilação - 1997" tvg-logo="http://urlon.me/Oaz" group-title="ACAO",Mortal Kombat 2 - A Aniquilação - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65361.mp4
+#EXTINF:-1 tvg-name="Morte às Seis da Tarde - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3VDEpSWjVv3Z02BKgpKSOmvQ9r.jpg" group-title="ACAO",Morte às Seis da Tarde - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111589.mp4
+#EXTINF:-1 tvg-name="Morte Súbita - 2007" tvg-logo="http://urlon.me/Oai" group-title="ACAO",Morte Súbita - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65362.mp4
+#EXTINF:-1 tvg-name="Motoqueiros Selvagens - 2007" tvg-logo="http://5ce.co:80/images/ziUx05m78Nil5CM90Yew5gFC8vB_big.jpg" group-title="ACAO",Motoqueiros Selvagens - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193451.mp4
+#EXTINF:-1 tvg-name="Mudança no Jogo - 2017" tvg-logo="http://urlon.me/Zfd" group-title="ACAO",Mudança no Jogo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43055.mp4
+#EXTINF:-1 tvg-name="Mulan - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72I82eKXCadZWEYygV9GkJOQNEq.jpg" group-title="ACAO",Mulan - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/120483.mp4
+#EXTINF:-1 tvg-name="Mulher-Gato - 2004" tvg-logo="http://urlon.me/Oax" group-title="ACAO",Mulher-Gato - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65363.mp4
+#EXTINF:-1 tvg-name="Na Escuridão do Oceano - 2018" tvg-logo="http://urlon.me/OQg" group-title="ACAO",Na Escuridão do Oceano - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61412.mp4
+#EXTINF:-1 tvg-name="Na Mira do Perigo - 2021" tvg-logo="http://5ce.co:80/images/wAJniojhHa4oVKa9AxdNwvpmS74_big.jpg" group-title="ACAO",Na Mira do Perigo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/170264.mp4
+#EXTINF:-1 tvg-name="Na Ponta da Bala - 2019" tvg-logo="http://urlon.me/ZgYM6O" group-title="ACAO",Na Ponta da Bala - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/93968.mp4
+#EXTINF:-1 tvg-name="Na Selva - 2018 " tvg-logo="http://5ce.me:80/images/ztVMXVNCIYK0CgXOjEmJlWupn95_big.jpg" group-title="ACAO",Na Selva - 2018 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145599.mp4
+#EXTINF:-1 tvg-name="Na Teia da Conspiracao - 2019" tvg-logo="http://urlon.me/OU4" group-title="ACAO",Na Teia da Conspiracao - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60246.mp4
+#EXTINF:-1 tvg-name="Nascido Para Correr - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR4EKQUDKwKBWtQwpY28xhnwKWJ.jpg" group-title="ACAO",Nascido Para Correr - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/68238.mp4
+#EXTINF:-1 tvg-name="Nascido para Correr 2 - Velocidade Máxima - 2014" tvg-logo="http://urlon.me/ZgY1uQ" group-title="ACAO",Nascido para Correr 2 - Velocidade Máxima - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/68239.mp4
+#EXTINF:-1 tvg-name="Nascido para Vencer - 2021" tvg-logo="http://5ce.co:80/images/8aOMcgbBcBRl3lqdkzR9xnMv0pe_big.jpg" group-title="ACAO",Nascido para Vencer - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/157181.mp4
+#EXTINF:-1 tvg-name="Need for Speed - O Filme - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UE2JFiI9rw0lkogjK8mNIR1cyk.jpg" group-title="ACAO",Need for Speed - O Filme - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/68240.mp4
+#EXTINF:-1 tvg-name="Ninja Assassino - 2009" tvg-logo="http://5ce.me:80/images/h9brQOUyWROaa10HfG7wG2dDSB7_big.jpg" group-title="ACAO",Ninja Assassino - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139639.mp4
+#EXTINF:-1 tvg-name="No Fim do Túnel - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOojHxKsXXJV7WcP61axtjbKx60.jpg" group-title="ACAO",No Fim do Túnel - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43152.mp4
+#EXTINF:-1 tvg-name="No Limite - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JZ5XlgOuyPN3yHePbvWOSj2FrV.jpg" group-title="ACAO",No Limite - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43150.mp4
+#EXTINF:-1 tvg-name="No Limite do Amanhã - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg" group-title="ACAO",No Limite do Amanhã - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65364.mp4
+#EXTINF:-1 tvg-name="No Olho do Furacao - 2018" tvg-logo="http://5ce.me:80/images/wKugroGel7UUnM83Kcrn2afPTYB_big.jpg" group-title="ACAO",No Olho do Furacao - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216099.mp4
+#EXTINF:-1 tvg-name="No Olho do Tornado - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9QCBIclgJzgJ3nq07OQSIdNQEb.jpg" group-title="ACAO",No Olho do Tornado - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65365.mp4
+#EXTINF:-1 tvg-name="No Rastro da Bala - 2006" tvg-logo="http://5ce.co:80/images/p8pQ8NZATylXjfIGLpT2FO4LyV7_big.jpg" group-title="ACAO",No Rastro da Bala - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190354.mp4
+#EXTINF:-1 tvg-name="Nocaute - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukZDWdH61QfkjIkroONXFUPm005.jpg" group-title="ACAO",Nocaute - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65366.mp4
+#EXTINF:-1 tvg-name="Noite Sem Fim - 2015" tvg-logo="http://5ce.me:80/images/fSpzuBdxyhmbaqfEKG8EOfTJv0Y_big.jpg" group-title="ACAO",Noite Sem Fim - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165760.mp4
+#EXTINF:-1 tvg-name="O 13° Guerreiro - 1999" tvg-logo="http://cms-central.co:80/images/pkfJhVfaWFZSHJP4ApGE69YReEy_big.jpg" group-title="ACAO",O 13° Guerreiro - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/155903.mp4
+#EXTINF:-1 tvg-name="O Acerto - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCFKG11VFZX9EtoSw8mboJAPb3h.jpg" group-title="ACAO",O Acerto - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98458.mp4
+#EXTINF:-1 tvg-name="O Acordo - 2013" tvg-logo="http://5ce.me:80/images/8pv8Ipisrz7682hlThmS6b5WFoY_big.jpg" group-title="ACAO",O Acordo - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/213230.mp4
+#EXTINF:-1 tvg-name="O Agente da U.N.C.L.E. - 2015" tvg-logo="http://5ce.me:80/images/vwcO16PV78DLEcazIRVnSdbt3oD_big.jpg" group-title="ACAO",O Agente da U.N.C.L.E. - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/173271.mp4
+#EXTINF:-1 tvg-name="O Alvo - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg" group-title="ACAO",O Alvo - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65367.mp4
+#EXTINF:-1 tvg-name="O Anel do Rei: A Última Batalha - 2018" tvg-logo="http://urlon.me/ZzL" group-title="ACAO",O Anel do Rei: A Última Batalha - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43147.mp4
+#EXTINF:-1 tvg-name="O Ano da Extincao - 2019" tvg-logo="http://5ce.co:80/images/9o6VLpFWRyYkjQVSWJY4hWBTzrs_big.jpg" group-title="ACAO",O Ano da Extincao - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207219.mp4
+#EXTINF:-1 tvg-name="O Assassino Americano - 2021" tvg-logo="http://5ce.co:80/images/yApYYf92j8OgCQyMQNTFbxRrTbU_big.jpg" group-title="ACAO",O Assassino Americano - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187668.mp4
+#EXTINF:-1 tvg-name="O Assassino: O Primeiro Alvo - 2017" tvg-logo="http://urlon.me/OaR" group-title="ACAO",O Assassino: O Primeiro Alvo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65368.mp4
+#EXTINF:-1 tvg-name="O Ataque - 2013" tvg-logo="http://urlon.me/ZDk" group-title="ACAO",O Ataque - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43453.mp4
+#EXTINF:-1 tvg-name="O Ataque dos Vermes Malditos 6 - Um Dia Frio no Inferno - 2018" tvg-logo="http://5ce.co:80/images/aFOdiHaRjeTmHG67e5B7md2Q1cq_big.jpg" group-title="ACAO",O Ataque dos Vermes Malditos 6 - Um Dia Frio no Inferno - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204499.mp4
+#EXTINF:-1 tvg-name="O Ataque dos Vermes Malditos 7 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" group-title="ACAO",O Ataque dos Vermes Malditos 7 - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/128319.mp4
+#EXTINF:-1 tvg-name="O Atirador - 1993" tvg-logo="http://5ce.me:80/images/31Q7yuYFk08NG4ZLyWRfZcD1GDL_big.jpg" group-title="ACAO",O Atirador - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/147120.mp4
+#EXTINF:-1 tvg-name="O Atirador: O Extermínio Final - 2017" tvg-logo="http://urlon.me/Zx3" group-title="ACAO",O Atirador: O Extermínio Final - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43252.mp4
+#EXTINF:-1 tvg-name="O Atirador: O Fim de um Assassino - 2020" tvg-logo="http://cms-central.co:80/images/v6joFIShgkQ40Tti3DagEbdvHwp_big.jpg" group-title="ACAO",O Atirador: O Fim de um Assassino - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154241.mp4
+#EXTINF:-1 tvg-name="O Beijo do Dragão - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1GrGdX4AgCRDweg9X3x8JsZrEc.jpg" group-title="ACAO",O Beijo do Dragão - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65370.mp4
+#EXTINF:-1 tvg-name="O Caçador de Recompensas - 2020 " tvg-logo="http://5ce.me:80/images/td0uLMhr67ateeoUZRQZYIqzp2B_big.jpg" group-title="ACAO",O Caçador de Recompensas - 2020 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/141560.mp4
+#EXTINF:-1 tvg-name="O Caçador de Troll - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQikpQcRL2AeoUQJdvIYW9qamYe.jpg" group-title="ACAO",O Caçador de Troll - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/76907.mp4
+#EXTINF:-1 tvg-name="O Caçador e a Rainha do Gelo - 2016" tvg-logo="http://urlon.me/OaN" group-title="ACAO",O Caçador e a Rainha do Gelo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65371.mp4
+#EXTINF:-1 tvg-name="O Caminho Difícil - 2019" tvg-logo="http://urlon.me/Oae" group-title="ACAO",O Caminho Difícil - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65372.mp4
+#EXTINF:-1 tvg-name="O Carma de Um Assassino - 2018" tvg-logo="http://urlon.me/ZxX" group-title="ACAO",O Carma de Um Assassino - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43248.mp4
+#EXTINF:-1 tvg-name="O Carro Desgovernado - 1997" tvg-logo="http://urlon.me/ZgYY7q" group-title="ACAO",O Carro Desgovernado - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80473.mp4
+#EXTINF:-1 tvg-name="O Cavaleiro Solitário - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg" group-title="ACAO",O Cavaleiro Solitário - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134163.mp4
+#EXTINF:-1 tvg-name="O Chacal - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZDOc1rIAaa6zcs6tHJPD99oYL6.jpg" group-title="ACAO",O Chacal - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65373.mp4
+#EXTINF:-1 tvg-name="O Clã das Adagas 2 - 2019" tvg-logo="http://urlon.me/ZwG" group-title="ACAO",O Clã das Adagas 2 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43158.mp4
+#EXTINF:-1 tvg-name="O Cla das Adagas Voadoras - 2004" tvg-logo="http://5ce.co:80/images/xn5lQNBhFVMQeS74vDFMrpLgl7M_big.jpg" group-title="ACAO",O Cla das Adagas Voadoras - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204431.mp4
+#EXTINF:-1 tvg-name="O Cobrador de Dividas - 2018" tvg-logo="http://5ce.co:80/images/7ucfWMr5WfgpzW4umBZWTpynqDe_big.jpg" group-title="ACAO",O Cobrador de Dividas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204432.mp4
+#EXTINF:-1 tvg-name="O Cobrador de Dívidas 2 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" group-title="ACAO",O Cobrador de Dívidas 2 - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/127618.mp4
+#EXTINF:-1 tvg-name="O Cobrador de Impostos - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuoarGHnpcFVg3DMxTp7e5ASnaK.jpg" group-title="ACAO",O Cobrador de Impostos - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/132103.mp4
+#EXTINF:-1 tvg-name="O Código - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg" group-title="ACAO",O Código - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43246.mp4
+#EXTINF:-1 tvg-name="O Conde de Monte Cristo - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjoMyKnMh0EY6o2IxT1aiM1xqpk.jpg" group-title="ACAO",O Conde de Monte Cristo - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65374.mp4
+#EXTINF:-1 tvg-name="O Confronto - 2001" tvg-logo="http://urlon.me/OaH" group-title="ACAO",O Confronto - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65375.mp4
+#EXTINF:-1 tvg-name="O Contador - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgJt4ADIjm5U2y3oPLu6kXEXOCY.jpg" group-title="ACAO",O Contador - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65376.mp4
+#EXTINF:-1 tvg-name="O Defensor - 2017" tvg-logo="http://urlon.me/ZkV" group-title="ACAO",O Defensor - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43043.avi
+#EXTINF:-1 tvg-name="O Demolidor - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG0mNI9ZXeHHf3cdQNWN4aqO1FE.jpg" group-title="ACAO",O Demolidor - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69841.mp4
+#EXTINF:-1 tvg-name="O Despertar da Lenda - 2014" tvg-logo="http://urlon.me/ONZ" group-title="ACAO",O Despertar da Lenda - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65377.mp4
+#EXTINF:-1 tvg-name="O Destemido - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7yOYYsbPtmmUuhNFspoe3Wlocw.jpg" group-title="ACAO",O Destemido - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65378.mp4
+#EXTINF:-1 tvg-name="O Dia do Atentado - 2016" tvg-logo="http://urlon.me/ZgYYYb" group-title="ACAO",O Dia do Atentado - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/79923.mp4
+#EXTINF:-1 tvg-name="O Duelista - 2016" tvg-logo="http://urlon.me/ZtE" group-title="ACAO",O Duelista - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43243.mp4
+#EXTINF:-1 tvg-name="O Escorpião Rei - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Xf2cp6TQo6WFDrS8hGPrOSvNAG.jpg" group-title="ACAO",O Escorpião Rei - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65379.mp4
+#EXTINF:-1 tvg-name="O Escorpião Rei 2: A Saga de um Guerreiro - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghiVoSY1FmInI6Xyr95KauGgzoh.jpg" group-title="ACAO",O Escorpião Rei 2: A Saga de um Guerreiro - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65380.mp4
+#EXTINF:-1 tvg-name="O Escorpião Rei 3: Batalha Pela Redenção - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4Y2kKZEAH5wt9lhd9pvkP8rZYu.jpg" group-title="ACAO",O Escorpião Rei 3: Batalha Pela Redenção - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65381.mp4
+#EXTINF:-1 tvg-name="O Escorpião Rei 4: Na Busca Pelo Poder - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8orlJgONS4FR16s1SoTFYGP1hRS.jpg" group-title="ACAO",O Escorpião Rei 4: Na Busca Pelo Poder - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65382.mp4
+#EXTINF:-1 tvg-name="O Escorpião Rei 5 - O Livro das Almas - 2018" tvg-logo="http://urlon.me/ZSG" group-title="ACAO",O Escorpião Rei 5 - O Livro das Almas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44188.mp4
+#EXTINF:-1 tvg-name="O Estrangeiro - 2017" tvg-logo="http://urlon.me/ONP" group-title="ACAO",O Estrangeiro - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65383.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro 1 - 1984" tvg-logo="http://urlon.me/ZSY" group-title="ACAO",O Exterminador do Futuro 1 - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44187.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro 2: O Julgamento Final - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg" group-title="ACAO",O Exterminador do Futuro 2: O Julgamento Final - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44186.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro 3 - A Rebelião das Máquinas - 2003" tvg-logo="http://urlon.me/ZSU" group-title="ACAO",O Exterminador do Futuro 3 - A Rebelião das Máquinas - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44185.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro 4 - A Salvação - 2009" tvg-logo="http://urlon.me/ZSJ" group-title="ACAO",O Exterminador do Futuro 4 - A Salvação - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44184.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro 5 - Gênesis - 2015" tvg-logo="http://urlon.me/ZSX" group-title="ACAO",O Exterminador do Futuro 5 - Gênesis - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/44183.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro 6 - Destino Sombrio - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="ACAO",O Exterminador do Futuro 6 - Destino Sombrio - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60641.mp4
+#EXTINF:-1 tvg-name="O Feiticeiro e a Serpente Branca - 2011" tvg-logo="https://3.bp.blogspot.com/-U7kVP_Ww0nQ/UQFHv9MZ2VI/AAAAAAAACX8/0gYgU8Xkrz4/s1600/O+Feiticeiro+e+a+Serpente+Branca+2011.jpg" group-title="ACAO",O Feiticeiro e a Serpente Branca - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65384.mp4
+#EXTINF:-1 tvg-name="O Fim do Dia - 2016" tvg-logo="http://urlon.me/Ztr" group-title="ACAO",O Fim do Dia - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43239.mp4
+#EXTINF:-1 tvg-name="O Fim do Mundo - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZsk45d9zARmvyW4pXvIhx7izRA.jpg" group-title="ACAO",O Fim do Mundo - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99599.mp4
+#EXTINF:-1 tvg-name="O Forasteiro - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esfi6vzwvq5M6H5OisFvG58mSvt.jpg" group-title="ACAO",O Forasteiro - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43237.mp4
+#EXTINF:-1 tvg-name="O Forasteiro - Violência Sem Limites - 2012" tvg-logo="http://urlon.me/ZgY1Zt" group-title="ACAO",O Forasteiro - Violência Sem Limites - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43235.mp4
+#EXTINF:-1 tvg-name="O Gângster - 2007" tvg-logo="http://5ce.co:80/images/qycBudNP3cEhp05cleZX49qF63Y_big.jpg" group-title="ACAO",O Gângster - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77361.mp4
+#EXTINF:-1 tvg-name="O Gângster Nômade - 2021" tvg-logo="http://5ce.me:80/images/lsHLyMrVRUX2nV6tsZIdK8TcTnh_big.jpg" group-title="ACAO",O Gângster Nômade - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/168146.mp4
+#EXTINF:-1 tvg-name="O Gangster, O Policial, O Diabo - 2019" tvg-logo="http://cms-central.co:80/images/az4OVqXbFVaHoZlktcm7oCm0LZo_big.jpg" group-title="ACAO",O Gangster, O Policial, O Diabo - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154243.mp4
+#EXTINF:-1 tvg-name="O Grande Assalto - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LUmY5tqRzsqiYp0xrIZWwIRSuw.jpg" group-title="ACAO",O Grande Assalto - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61586.mp4
+#EXTINF:-1 tvg-name="O Grande Dragão Branco - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zARBRlQuCJsEhOzY8fQgZUUuj5N.jpg" group-title="ACAO",O Grande Dragão Branco - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43234.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 1 - 2008" tvg-logo="http://urlon.me/ONv" group-title="ACAO",O Grande Mestre 1 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65387.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 2 - 2010" tvg-logo="http://urlon.me/ONy" group-title="ACAO",O Grande Mestre 2 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65388.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 3 - 2015" tvg-logo="http://urlon.me/ONj" group-title="ACAO",O Grande Mestre 3 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65389.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 4 - A Batalha Final - 2020" tvg-logo="http://5ce.me:80/images/7o7jvOGAIzu7nitHFGzoDjPqIJo_big.jpg" group-title="ACAO",O Grande Mestre 4 - A Batalha Final - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139642.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 5 - O Mestre do Kung Fu - 2019" tvg-logo="http://5ce.me:80/images/7goDYupzMM5KZH6bMndsxOat9Xq_big.jpg" group-title="ACAO",O Grande Mestre 5 - O Mestre do Kung Fu - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134896.mp4
+#EXTINF:-1 tvg-name="O Grande Tiro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHAyXJFHt8cccUZDji3jruzlgv2.jpg" group-title="ACAO",O Grande Tiro - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103983.mp4
+#EXTINF:-1 tvg-name="O Guarda-Costas - 1992" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg" group-title="ROMANCE",O Guarda-Costas - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61603.mp4
+#EXTINF:-1 tvg-name="O Homem da Máscara de Ferro - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9urO3enqeMgSjb6br1iSUj4Wq7.jpg" group-title="ACAO",O Homem da Máscara de Ferro - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65390.mp4
+#EXTINF:-1 tvg-name="O Homen do Norte - 2022" tvg-logo="http://5ce.co:80/images/mqCLGi2YxlqwWeGN7NRILYQOhm_big.jpg" group-title="ACAO",O Homen do Norte - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/208019.mp4
+#EXTINF:-1 tvg-name="O Imbatível - 2002" tvg-logo="http://5ce.co:80/images/z3bBXxBUADs3dUlIh627gRZ9V3q_big.jpg" group-title="ACAO",O Imbatível - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160883.mp4
+#EXTINF:-1 tvg-name="O Imbatível III: Redenção - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWghOYTMNYEq3YPRREHgarDkTKj.jpg" group-title="ACAO",O Imbatível III: Redenção - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61418.mp4
+#EXTINF:-1 tvg-name="O Inferno Chega a Frogtown - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NfX4svWACcXgy6th6yCTMHSftm.jpg" group-title="ACAO",O Inferno Chega a Frogtown - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/119500.mp4
+#EXTINF:-1 tvg-name="O Inferno de Dante - 1997" tvg-logo="http://urlon.me/ONf" group-title="ACAO",O Inferno de Dante - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65391.mp4
+#EXTINF:-1 tvg-name="O Inimigo ao Meu Redor - 2019" tvg-logo="http://5ce.me:80/images/dqMb5AR8hd2gSriksX43fYiZqVO_big.jpg" group-title="ACAO",O Inimigo ao Meu Redor - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/146570.mp4
+#EXTINF:-1 tvg-name="O Jogo da Morte - 1978" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z4s24ln8F2EDAzAlRv3cfdS4kO.jpg" group-title="ACAO",O Jogo da Morte - 1978
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61424.mp4
+#EXTINF:-1 tvg-name="O Jogo da Morte 2 - 1981" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8VdDcrtY8hyQVl2i81eKvptyrf.jpg" group-title="ACAO",O Jogo da Morte 2 - 1981
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61425.mp4
+#EXTINF:-1 tvg-name="O Justiceiro - 2004" tvg-logo="http://urlon.me/Ztt" group-title="ACAO",O Justiceiro - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43230.mp4
+#EXTINF:-1 tvg-name="O Justiceiro: Estrada do Caos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YYxSzOq66PEOppuQ2XxWm0QRDf.jpg" group-title="ACAO",O Justiceiro: Estrada do Caos - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65392.mp4
+#EXTINF:-1 tvg-name="O Legado Bourne - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIXzjirvmasyho2jTzD2FzT1vJn.jpg" group-title="ACAO",O Legado Bourne - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43228.mp4
+#EXTINF:-1 tvg-name="O Legionário - 2020" tvg-logo="http://5ce.me:80/images/spcpJtT7Ac3YAHy9a36uP3B0Yhd_big.jpg" group-title="ACAO",O Legionário - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152482.mp4
+#EXTINF:-1 tvg-name="O Livro de Eli - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg" group-title="ACAO",O Livro de Eli - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43432.mp4
+#EXTINF:-1 tvg-name="O Lutador - 2006" tvg-logo="http://urlon.me/OQ3" group-title="ACAO",O Lutador - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61419.mp4
+#EXTINF:-1 tvg-name="O Mediador - 2020" tvg-logo="http://5ce.me:80/images/jl31oYEi9Srf9QGwPQ2C3jz0Y8A_big.jpg" group-title="ACAO",O Mediador - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142815.mp4
+#EXTINF:-1 tvg-name="O Menino Que Queria Ser Rei - 2019" tvg-logo="http://urlon.me/Zz0" group-title="ACAO",O Menino Que Queria Ser Rei - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43136.mp4
+#EXTINF:-1 tvg-name="O Mestre das Armas - 2006" tvg-logo="http://urlon.me/ZgY1Zw" group-title="ACAO",O Mestre das Armas - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43226.mp4
+#EXTINF:-1 tvg-name="O Mestre Invencível - 1978" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lc23qh7F0MWQJweFaUfk6rdLQE.jpg" group-title="ACAO",O Mestre Invencível - 1978
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104961.mp4
+#EXTINF:-1 tvg-name="O Mestre Invencível 2 - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="ACAO",O Mestre Invencível 2 - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104962.mp4
+#EXTINF:-1 tvg-name="O Monge à Prova de Balas - 2003" tvg-logo="http://urlon.me/ZgYY0c" group-title="ACAO",O Monge à Prova de Balas - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81683.mp4
+#EXTINF:-1 tvg-name="O Motorista - 2019" tvg-logo="http://urlon.me/ZgYY6m" group-title="ACAO",O Motorista - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74282.mp4
+#EXTINF:-1 tvg-name="O Outro Lado do Céu - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVghb1iiBMUth0I1viekeznyQC.jpg" group-title="ACAO",O Outro Lado do Céu - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124693.mp4
+#EXTINF:-1 tvg-name="O Pacificador - 1997" tvg-logo="http://5ce.me:80/images/bFVnHoop9hLUtdqUeXfdc2bNVsS_big.jpg" group-title="ACAO",O Pacificador - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142879.mp4
+#EXTINF:-1 tvg-name="O Pacto dos Lobos - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfUwmffjQzlAsymqNVLDfeXxBZF.jpg" group-title="ACAO",O Pacto dos Lobos - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/92247.mp4
+#EXTINF:-1 tvg-name="O Pagamento - 2003" tvg-logo="http://5ce.me:80/images/8d6VZvqRqTPKGA074BfZiOGGw94_big.jpg" group-title="ACAO",O Pagamento - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140059.mp4
+#EXTINF:-1 tvg-name="O Passageiro - 2018" tvg-logo="http://5ce.me:80/images/yhjD4QZPu1SJsSdZ7c8dS1nBIBq_big.jpg" group-title="ACAO",O Passageiro - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43221.mp4
+#EXTINF:-1 tvg-name="O Plano Perfeito - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kguzFrQTF9MeO3l6oy0D1PU9tH3.jpg" group-title="ACAO",O Plano Perfeito - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65393.mp4
+#EXTINF:-1 tvg-name="O Plano Perfeito 2 - 2019" tvg-logo="http://urlon.me/ZgY14h" group-title="ACAO",O Plano Perfeito 2 - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70832.mp4
+#EXTINF:-1 tvg-name="O Preço de um Resgate - 1996" tvg-logo="http://5ce.me:80/images/9rBlJZaV6N9cR6KSlmG7DKkPzew_big.jpg" group-title="ACAO",O Preço de um Resgate - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150814.mp4
+#EXTINF:-1 tvg-name="O Predador - 2018" tvg-logo="http://urlon.me/ZtJ" group-title="ACAO",O Predador - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43218.mp4
+#EXTINF:-1 tvg-name="O Procurado - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/333wOuNUXcxIFDGZogj8nuyXoBH.jpg" group-title="ACAO",O Procurado - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65394.mp4
+#EXTINF:-1 tvg-name="O Protetor - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg" group-title="ACAO",O Protetor - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43216.mp4
+#EXTINF:-1 tvg-name="O Protetor 2 - 2018" tvg-logo="http://urlon.me/Zt5" group-title="ACAO",O Protetor 2 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43215.mp4
+#EXTINF:-1 tvg-name="O Quebra Gelo - 2016" tvg-logo="http://urlon.me/ZgY14O" group-title="ACAO",O Quebra Gelo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70833.mp4
+#EXTINF:-1 tvg-name="O Rapto - 2017" tvg-logo="http://urlon.me/ONA" group-title="ACAO",O Rapto - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65395.mp4
+#EXTINF:-1 tvg-name="O Rapto do Menino Dourado - 1986" tvg-logo="http://5ce.me:80/images/eCI8hPdqqCjZZ6FmgM9Loza8dbD_big.jpg" group-title="ACAO",O Rapto do Menino Dourado - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/144049.mp4
+#EXTINF:-1 tvg-name="O Redentor - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDLwHQcovUrNNQgYs8psgNTSi3B.jpg" group-title="ACAO",O Redentor - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99601.mp4
+#EXTINF:-1 tvg-name="O Regresso - 2015" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDRrUpOtnxiTkd9euZY7WRXdrvUnv0mmb58Iwbd0zSspprZX8a" group-title="ACAO",O Regresso - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43214.mp4
+#EXTINF:-1 tvg-name="O Rei das Armas - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH5vHXoHn3LICtxV7S3VKri1t7C.jpg" group-title="ACAO",O Rei das Armas - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104723.mp4
+#EXTINF:-1 tvg-name="O Rei das Drogas - 2018" tvg-logo="http://urlon.me/ONu" group-title="ACAO",O Rei das Drogas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65396.mp4
+#EXTINF:-1 tvg-name="O Rei Guerreiro - 2017" tvg-logo="http://urlon.me/OND" group-title="ACAO",O Rei Guerreiro - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65397.mp4
+#EXTINF:-1 tvg-name="O Reino das Espadas - 2018" tvg-logo="http://urlon.me/ZgY1bR" group-title="ACAO",O Reino das Espadas - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70819.mp4
+#EXTINF:-1 tvg-name="O Reino Proibido - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rEzOeG6he952m7tyFe7tOyfoko.jpg" group-title="ACAO",O Reino Proibido - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43213.mp4
+#EXTINF:-1 tvg-name="O Resgate - 2011" tvg-logo="http://5ce.me:80/images/7k710J8m1bHKsMKK6UjFDRl7CEb_big.jpg" group-title="ACAO",O Resgate - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/146018.mp4
+#EXTINF:-1 tvg-name="O Resgate: O Dia da Redenção - 2021" tvg-logo="http://5ce.co:80/images/dPsov8oNjcPmkKf8rxv9PEXy14J_big.jpg" group-title="ACAO",O Resgate: O Dia da Redenção - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177098.mp4
+#EXTINF:-1 tvg-name="O Retorno de Johnny English - 2011" tvg-logo="http://5ce.me:80/images/nM0r4uUi1K3cIebwB9gfbohtSo5_big.jpg" group-title="ACAO",O Retorno de Johnny English - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140493.mp4
+#EXTINF:-1 tvg-name="O Retorno do Dragão A Cidade Perdida - 2011" tvg-logo="http://urlon.me/ONs" group-title="ACAO",O Retorno do Dragão A Cidade Perdida - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65398.mp4
+#EXTINF:-1 tvg-name="O Ritmo da Vingança - 2020" tvg-logo="http://urlon.me/ZgYY3E" group-title="ACAO",O Ritmo da Vingança - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/78519.mp4
+#EXTINF:-1 tvg-name="O Segredo do Abismo - 1989" tvg-logo="http://5ce.co:80/images/iUmlHbK05F38QNnVDTDXa5qXFgF_big.jpg" group-title="ACAO",O Segredo do Abismo - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217401.mp4
+#EXTINF:-1 tvg-name="O Sequestro - 2022" tvg-logo="http://5ce.co:80/images/xf9dcjz6cyJJEKzSQG1wiFD61dh_big.jpg" group-title="ACAO",O Sequestro - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199454.mp4
+#EXTINF:-1 tvg-name="O Sequestro de Eden - 2021" tvg-logo="http://5ce.me:80/images/z2BurR1duynNPt3Dt7KUgQvhEHW_big.jpg" group-title="ACAO",O Sequestro de Eden - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142883.mp4
+#EXTINF:-1 tvg-name="O Sétimo Filho - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8Lf5RTbwhtO5o9wCNcZYV9m9Y8.jpg" group-title="ACAO",O Sétimo Filho - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65399.mp4
+#EXTINF:-1 tvg-name="O Silêncio da Chuva - 2021" tvg-logo="http://5ce.co:80/images/8nUWNGJYNx4Y4WDIe9kJkgeFBfK_big.jpg" group-title="ACAO",O Silêncio da Chuva - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186342.mp4
+#EXTINF:-1 tvg-name="O Silêncio do Pântano - 2019" tvg-logo="http://urlon.me/ZgYYtU" group-title="ACAO",O Silêncio do Pântano - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81453.mp4
+#EXTINF:-1 tvg-name="O Sobrevivente - 1987" tvg-logo="http://5ce.co:80/images/GTAUOhO4BN0peJVvxGEQydJvUO_big.jpg" group-title="ACAO",O Sobrevivente - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204162.mp4
+#EXTINF:-1 tvg-name="O Substituto - 1996" tvg-logo="http://5ce.co:80/images/oY2JTTBIqH5h46BFSLfXF4zVTIp_big.jpg" group-title="ACAO",O Substituto - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202445.mp4
+#EXTINF:-1 tvg-name="O Troco - 1999 " tvg-logo="http://5ce.me:80/images/amiu5aZfOo1QVvtOhID514hvk2H_big.jpg" group-title="ACAO",O Troco - 1999 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150816.mp4
+#EXTINF:-1 tvg-name="O Turista - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3VomS6Rj0J1S1xBdQy92LQ8b7k.jpg" group-title="ACAO",O Turista - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65400.mp4
+#EXTINF:-1 tvg-name="O Ultimato Bourne - 2007" tvg-logo="http://urlon.me/ZiL" group-title="ACAO",O Ultimato Bourne - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43210.mp4
+#EXTINF:-1 tvg-name="O Último Assalto - 2017" tvg-logo="http://urlon.me/ONN" group-title="ACAO",O Último Assalto - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65402.mp4
+#EXTINF:-1 tvg-name="O Último Desafio - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg" group-title="ACAO",O Último Desafio - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65401.mp4
+#EXTINF:-1 tvg-name="O Último Duelo - 2021" tvg-logo="http://5ce.co:80/images/mhrzzNauB1PKrwnqVbLQODNNTJN_big.jpg" group-title="ACAO",O Último Duelo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/193154.mp4
+#EXTINF:-1 tvg-name="O Último Mercenário - 2021" tvg-logo="http://5ce.co:80/images/iT9k4FyhjLcfMRH8Qzk3wR99pDC_big.jpg" group-title="ACAO",O Último Mercenário - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177068.mp4
+#EXTINF:-1 tvg-name="O Último Mestre do Ar - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BIXexxqwQaMqNCJJrdwQ8hmCm5.jpg" group-title="ACAO",O Último Mestre do Ar - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111597.mp4
+#EXTINF:-1 tvg-name="O Último Passageiro - 2013 " tvg-logo="http://5ce.me:80/images/s28PZ0XDIjgRTAmJlBvvQLBmvwJ_big.jpg" group-title="ACAO",O Último Passageiro - 2013 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/167764.mp4
+#EXTINF:-1 tvg-name="O Último Viking - 2018" tvg-logo="http://urlon.me/ZgY14P" group-title="ACAO",O Último Viking - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/71625.mp4
+#EXTINF:-1 tvg-name="O Vidente - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hF2pgtetdZ1VseXvVcy92s5lf5l.jpg" group-title="ACAO",O Vidente - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98419.mp4
+#EXTINF:-1 tvg-name="O Vigilante Mascarado - 2016" tvg-logo="http://urlon.me/ZgY1Z8" group-title="ACAO",O Vigilante Mascarado - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43208.mp4
+#EXTINF:-1 tvg-name="O Vingador - 2003" tvg-logo="http://5ce.co:80/images/87fZhPLKxxtot2V3JVcZz8XCO8c_big.jpg" group-title="ACAO",O Vingador - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186825.mp4
+#EXTINF:-1 tvg-name="O Vingador da Iugoslávia - 2017" tvg-logo="http://urlon.me/Zio" group-title="ACAO",O Vingador da Iugoslávia - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43207.mp4
+#EXTINF:-1 tvg-name="O Vingador do Futuro - 1990" tvg-logo="http://5ce.co:80/images/sFk3iW5ZvkAV7ZrNPYitB0sSxbw_big.jpg" group-title="ACAO",O Vingador do Futuro - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207084.mp4
+#EXTINF:-1 tvg-name="O Voo da Fênix - 2004" tvg-logo="http://5ce.me:80/images/2ntmTbeS9y2gXcrhLw1wxdLqKSK_big.jpg" group-title="ACAO",O Voo da Fênix - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/165764.mp4
+#EXTINF:-1 tvg-name="O Vôo do Dragão - 1972" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PoO9Wbu6w5suAZT3COipyUgKfk.jpg" group-title="ACAO",O Vôo do Dragão - 1972
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61422.mp4
+#EXTINF:-1 tvg-name="Oito Mulheres e Um Segredo - 2018" tvg-logo="http://urlon.me/Zur" group-title="ACAO",Oito Mulheres e Um Segredo - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43403.mp4
+#EXTINF:-1 tvg-name="Onda De Choque - 2017" tvg-logo="http://urlon.me/Zua" group-title="ACAO",Onda De Choque - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43402.mkv
+#EXTINF:-1 tvg-name="Onda de choque 2 - 2021" tvg-logo="http://5ce.co:80/images/oMtnpQWp8yVZMxbntdEBGFYf4SK_big.jpg" group-title="ACAO",Onda de choque 2 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190975.mp4
+#EXTINF:-1 tvg-name="Ong Bak 2 - O Guerreiro Sagrado Voltou - 2008" tvg-logo="http://5ce.co:80/images/qryAt2xNRxxjJZGwFMGvJKbCNvp_big.jpg" group-title="ACAO",Ong Bak 2 - O Guerreiro Sagrado Voltou - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209745.mp4
+#EXTINF:-1 tvg-name="Ong Bak 3 - 2010" tvg-logo="http://5ce.co:80/images/sIVrOJVeLqPz9NwNa0e4FpqJCWK_big.jpg" group-title="ACAO",Ong Bak 3 - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209819.mp4
+#EXTINF:-1 tvg-name="Ong-Bak  Guerreiro Sagrado - 2003" tvg-logo="http://5ce.co:80/images/giScNN1AdVEEZ1G6TLlxx4sZBb_big.jpg" group-title="ACAO",Ong-Bak  Guerreiro Sagrado - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217471.mp4
+#EXTINF:-1 tvg-name="Ong-Bak  Guerreiro Sagrado - 2003" tvg-logo="http://5ce.co:80/images/giScNN1AdVEEZ1G6TLlxx4sZBb_big.jpg" group-title="ACAO",Ong-Bak  Guerreiro Sagrado - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209094.mp4
+#EXTINF:-1 tvg-name="Ong-Bak 1 - Guerreiro Sagrado - 2003" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/11/ONG-BAK.jpg" group-title="ACAO",Ong-Bak 1 - Guerreiro Sagrado - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43396.mp4
+#EXTINF:-1 tvg-name="Ong-Bak 2 - 2008" tvg-logo="http://urlon.me/ZuW" group-title="ACAO",Ong-Bak 2 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43400.mp4
+#EXTINF:-1 tvg-name="Operação Dragão - 1973" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11IHhCkk9TtBkc4BbVPys6NkSh3.jpg" group-title="ACAO",Operação Dragão - 1973
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61423.mp4
+#EXTINF:-1 tvg-name="Operação Fronteira - 2019" tvg-logo="http://urlon.me/ONb" group-title="ACAO",Operação Fronteira - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65404.mp4
+#EXTINF:-1 tvg-name="Operação Invasão 1 - 2011" tvg-logo="http://urlon.me/ONn" group-title="ACAO",Operação Invasão 1 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65405.mp4
+#EXTINF:-1 tvg-name="Operação Invasão 2 - 2014" tvg-logo="http://urlon.me/ONH" group-title="ACAO",Operação Invasão 2 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65406.mp4
+#EXTINF:-1 tvg-name="Operação Narco - 2022" tvg-logo="http://5ce.co:80/images/h1f0vkdP48E8MybhglZsEWho7DR_big.jpg" group-title="ACAO",Operação Narco - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203062.mp4
+#EXTINF:-1 tvg-name="Operaçao Resgate - 2015" tvg-logo="http://5ce.co:80/images/1nmABUOxjzPSzOYDUIGVxvl3n5D_big.jpg" group-title="ACAO",Operaçao Resgate - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202281.mp4
+#EXTINF:-1 tvg-name="Operação Sombra: Jack Ryan - 2014" tvg-logo="http://urlon.me/ONS" group-title="ACAO",Operação Sombra: Jack Ryan - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65407.mp4
+#EXTINF:-1 tvg-name="Os Aventureiros do Bairro Proibido - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EsVboLJvPR5Dg9lkkLL3H9LXK3.jpg" group-title="ACAO",Os Aventureiros do Bairro Proibido - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65408.mp4
+#EXTINF:-1 tvg-name="Os Bad Boys 1 - 1995" tvg-logo="http://urlon.me/Zu8" group-title="ACAO",Os Bad Boys 1 - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43392.mp4
+#EXTINF:-1 tvg-name="Os Bad Boys 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeIy1U0NdOhCX0Rc2WGe1cUQ8uw.jpg" group-title="ACAO",Os Bad Boys 2 - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43390.mp4
+#EXTINF:-1 tvg-name="Os Bad Boys 3 - Para Sempre - 2020" tvg-logo="http://urlon.me/O2s" group-title="ACAO",Os Bad Boys 3 - Para Sempre - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63895.mp4
+#EXTINF:-1 tvg-name="Os Condenados - 2007" tvg-logo="http://5ce.me:80/images/ti2s7DhiurLvONSygW97AzzsGHR_big.jpg" group-title="ACAO",Os Condenados - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/147786.mp4
+#EXTINF:-1 tvg-name="Os Condenados 2 - 2015" tvg-logo="http://urlon.me/Orh" group-title="ACAO",Os Condenados 2 - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65409.mp4
+#EXTINF:-1 tvg-name="Os Dois Super-Tiras em Miami - 1985" tvg-logo="http://5ce.co:80/images/78Upz7UwbYSJw0orKFMgX9cjiCN_big.jpg" group-title="ACAO",Os Dois Super-Tiras em Miami - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202908.mp4
+#EXTINF:-1 tvg-name="Os Esquecidos - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41OWyEA4KG1noCvzHIoqzYSxJUE.jpg" group-title="ACAO",Os Esquecidos - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/127388.mp4
+#EXTINF:-1 tvg-name="Os Gatoes 2 - O Inicio - 2007" tvg-logo="http://5ce.co:80/images/1kqpqfIhCvuPRqNuH0ox3T5MBHZ_big.jpg" group-title="ACAO",Os Gatoes 2 - O Inicio - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204484.mp4
+#EXTINF:-1 tvg-name="Os Gatões: Uma Nova Balada - 2005" tvg-logo="http://5ce.me:80/images/o5pKtw26jEk7zX2446gPVbTNrFb_big.jpg" group-title="ACAO",Os Gatões: Uma Nova Balada - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137527.mp4
+#EXTINF:-1 tvg-name="Os Indomáveis - 2007" tvg-logo="http://urlon.me/OrO" group-title="ACAO",Os Indomáveis - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65410.mp4
+#EXTINF:-1 tvg-name="Os Instrumentos Mortais: Cidade dos Ossos - 2013" tvg-logo="http://urlon.me/Or9" group-title="ACAO",Os Instrumentos Mortais: Cidade dos Ossos - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65411.mp4
+#EXTINF:-1 tvg-name="Os Mercenarios - 2010" tvg-logo="http://5ce.co:80/images/tTfRV9lOBi3YDJpYXqbj4Ai04g2_big.jpg" group-title="ACAO",Os Mercenarios - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/218774.mp4
+#EXTINF:-1 tvg-name="Os Mercenários 2 - 2012" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" group-title="ACAO",Os Mercenários 2 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123140.mp4
+#EXTINF:-1 tvg-name="Os Mercenários 3 - 2014" tvg-logo="http://5ce.co:80/images/vd22faXhHRCr8d1FSiXuFfnpSKv_big.jpg" group-title="ACAO",Os Mercenários 3 - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195314.mp4
+#EXTINF:-1 tvg-name="Os Muitos Santos de Newark - 2021" tvg-logo="http://5ce.co:80/images/vEoIg56PIePxwEoxYHppEquTqHv_big.jpg" group-title="ACAO",Os Muitos Santos de Newark - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/189590.mp4
+#EXTINF:-1 tvg-name="Os Novos Mutantes - 2020" tvg-logo="http://5ce.me:80/images/6RcWaW43UWIJzhIp6bcmui2efd_big.jpg" group-title="ACAO",Os Novos Mutantes - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156557.mp4
+#EXTINF:-1 tvg-name="Os Outros Caras - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GyARLcQF124BKs9IBBlpaSrSqn.jpg" group-title="ACAO",Os Outros Caras - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65412.mp4
+#EXTINF:-1 tvg-name="Os Perdedores - 2010" tvg-logo="http://urlon.me/Orm" group-title="ACAO",Os Perdedores - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65413.mp4
+#EXTINF:-1 tvg-name="Os Piratas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMydhXOFTKPxxFBJiBMKv2JM7sl.jpg" group-title="ACAO",Os Piratas - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65414.mp4
+#EXTINF:-1 tvg-name="Os Piratas: Em Busca do Tesouro Perdido - 2022" tvg-logo="http://5ce.co:80/images/7TxDi9DhUIo23eZftFQPk86ojtN_big.jpg" group-title="ACAO",Os Piratas: Em Busca do Tesouro Perdido - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201795.mp4
+#EXTINF:-1 tvg-name="Os Quatro 1 - 2012" tvg-logo="http://5ce.co:80/images/5s8M7fhkbJwP2HbYRUEVTtLniAp_big.jpg" group-title="ACAO",Os Quatro 1 - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204486.mp4
+#EXTINF:-1 tvg-name="Os Quatro 2: Reino Sem Lei - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keINQqFnbovPS5NuYFhgeE1i5Rv.jpg" group-title="ACAO",Os Quatro 2: Reino Sem Lei - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65415.mp4
+#EXTINF:-1 tvg-name="Os Quatro 3 - A Batalha Final - 2014" tvg-logo="http://5ce.co:80/images/zXeEs2NCtw6IGoHxkxcsYQskpRK_big.jpg" group-title="ACAO",Os Quatro 3 - A Batalha Final - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204485.mp4
+#EXTINF:-1 tvg-name="Os Renegados - 2021" tvg-logo="http://5ce.co:80/images/vrYpppKn5UimPMwsuL8cM2aoFXL_big.jpg" group-title="ACAO",Os Renegados - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185336.mp4
+#EXTINF:-1 tvg-name="Os Sete Samurais - 1954" tvg-logo="http://5ce.me:80/images/telXEMxGtJvffm5JDsx1rQzwWlf_big.jpg" group-title="ACAO",Os Sete Samurais - 1954
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140655.mp4
+#EXTINF:-1 tvg-name="Padre - 2011" tvg-logo="https://i.pinimg.com/474x/a3/d7/bc/a3d7bcc045f8e3bf27dc785eb8ff5897.jpg" group-title="ACAO",Padre - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65416.mp4
+#EXTINF:-1 tvg-name="Par Perfeito - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JyOvit2p04mJFzyYQsb3JYtciB.jpg" group-title="ACAO",Par Perfeito - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65417.mp4
+#EXTINF:-1 tvg-name="Paranoia - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldfyJWn1xQBAjn1F8s3zi0RmXlm.jpg" group-title="ACAO",Paranoia - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43342.mp4
+#EXTINF:-1 tvg-name="Parker - 2013" tvg-logo="http://urlon.me/ZgYYMt" group-title="ACAO",Parker - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80314.mp4
+#EXTINF:-1 tvg-name="Passageiro 57 - 1992" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41Qz2IyVhmSJoCi1UhJHyDqEugL.jpg" group-title="ACAO",Passageiro 57 - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65418.mp4
+#EXTINF:-1 tvg-name="Pequenos Espiões 1 - 2001" tvg-logo="http://5ce.co:80/images/h7GC3f0YBKw6DrLXxdFNMZ1BhwR_big.jpg" group-title="ACAO",Pequenos Espiões 1 - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195231.mp4
+#EXTINF:-1 tvg-name="Pequenos Espiões 2 - A Ilha dos Sonhos Perdidos - 2002" tvg-logo="http://5ce.co:80/images/okbpLqjaUmtYfLlpnNq1vMuLz1w_big.jpg" group-title="ACAO",Pequenos Espiões 2 - A Ilha dos Sonhos Perdidos - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195228.mp4
+#EXTINF:-1 tvg-name="Pequenos Espiões 3 - Game Over - 2003" tvg-logo="http://5ce.co:80/images/1LlK2KfVSkz1ALDtV0jwfYbSVX4_big.jpg" group-title="ACAO",Pequenos Espiões 3 - Game Over - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195229.mp4
+#EXTINF:-1 tvg-name="Pequenos Espiões 4 - 2011" tvg-logo="http://5ce.co:80/images/wa1GASdOnQgVr1if3tQLIDMAtdz_big.jpg" group-title="ACAO",Pequenos Espiões 4 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195230.mp4
+#EXTINF:-1 tvg-name="Perda Total - 2018" tvg-logo="http://urlon.me/ZgY1dd" group-title="ACAO",Perda Total - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43582.mp4
+#EXTINF:-1 tvg-name="Perigo Extremo - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xA7mphx2GRLcLwKqDS2dX7R6bt3.jpg" group-title="ACAO",Perigo Extremo - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65419.mp4
+#EXTINF:-1 tvg-name="Perigo no Abrigo - 2021" tvg-logo="http://5ce.co:80/images/7h2ndK3XyaeZJ02HKW1EbcooaaH_big.jpg" group-title="ACAO",Perigo no Abrigo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204487.mp4
+#EXTINF:-1 tvg-name="Perseguição - 2022" tvg-logo="http://5ce.co:80/images/iEmwNY1s9BUJ2KguAkMuAhlq3cE_big.jpg" group-title="ACAO",Perseguição - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201199.mp4
+#EXTINF:-1 tvg-name="Perseguição Criminosa - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WHzdutcWNQFxwyosUqZUQ7t1sc.jpg" group-title="ACAO",Perseguição Criminosa - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99602.mp4
+#EXTINF:-1 tvg-name="Perseguição Explosiva - 2017" tvg-logo="http://urlon.me/ZAL" group-title="ACAO",Perseguição Explosiva - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43341.mp4
+#EXTINF:-1 tvg-name="Perseguição Implacável - 2012 " tvg-logo="http://5ce.co:80/images/m9pUIC2lp40KvDxdiCRP7PFjXYs_big.jpg" group-title="ACAO",Perseguição Implacável - 2012 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160599.mp4
+#EXTINF:-1 tvg-name="Perseguição Implacável - 2014" tvg-logo="http://5ce.me:80/images/sIcdBIV2gYaJAB2StVcSzpWWIb2_big.jpg" group-title="ACAO",Perseguição Implacável - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142888.mp4
+#EXTINF:-1 tvg-name="Perseguindo o Assassino - 2018" tvg-logo="http://urlon.me/ZgYMyi" group-title="ACAO",Perseguindo o Assassino - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/97327.mp4
+#EXTINF:-1 tvg-name="Pintou Sujeira - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5THtxQetFqaXJ5w1uCnoQdH7b34.jpg" group-title="ACAO",Pintou Sujeira - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104708.mp4
+#EXTINF:-1 tvg-name="Pipeline: O Grande Roubo - 2021" tvg-logo="http://5ce.me:80/images/oo4sBEhrOovS1l1qcPo0i1RRacP_big.jpg" group-title="ACAO",Pipeline: O Grande Roubo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198363.mp4
+#EXTINF:-1 tvg-name="Pitbull Forca Bruta - 2022" tvg-logo="http://5ce.co:80/images/hwbw4Ng7dV9EBA136a3sNiFwVZw_big.jpg" group-title="ACAO",Pitbull Forca Bruta - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209691.mp4
+#EXTINF:-1 tvg-name="Pixels - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yQliDYCBFx8LcPUWW09ef6LHBp.jpg" group-title="ACAO",Pixels - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65420.mp4
+#EXTINF:-1 tvg-name="Plano de Fuga - 2012" tvg-logo="http://5ce.co:80/images/iE5SJZ25jgLgitNAvxpPXoM8tm2_big.jpg" group-title="ACAO",Plano de Fuga - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158142.mp4
+#EXTINF:-1 tvg-name="Pokémon: Detetive Pikachu - 2019" tvg-logo="http://urlon.me/Zz4" group-title="ACAO",Pokémon: Detetive Pikachu - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43146.mp4
+#EXTINF:-1 tvg-name="Polar - 2019" tvg-logo="http://urlon.me/ZAW" group-title="ACAO",Polar - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43334.mp4
+#EXTINF:-1 tvg-name="Policial do Futuro - 1994" tvg-logo="https://br.web.img3.acsta.net/c_215_290/pictures/13/12/16/12/49/422152.jpg" group-title="ACAO",Policial do Futuro - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43220.mp4
+#EXTINF:-1 tvg-name="Policial em Apuros - 2014" tvg-logo="http://urlon.me/dF2" group-title="ACAO",Policial em Apuros - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/55117.mp4
+#EXTINF:-1 tvg-name="Policial em Apuros 2 - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSJG24PI4098LJQ0mEvNbRr01JF.jpg" group-title="ACAO",Policial em Apuros 2 - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/55118.mp4
+#EXTINF:-1 tvg-name="Pompeia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBT2fxEAcS5WuA2kr5Bl2xZpiCT.jpg" group-title="ACAO",Pompeia - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65421.mp4
+#EXTINF:-1 tvg-name="Poseidon - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCx2Ead8KoZhHofsAAr7tyrjfDo.jpg" group-title="ACAO",Poseidon - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42811.mp4
+#EXTINF:-1 tvg-name="Power - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PuIrWJLnSAZKUhVsuxLVGwZ0me.jpg" group-title="ACAO",Power - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/118361.mp4
+#EXTINF:-1 tvg-name="Power Rangers Super Megaforce - A Batalha Lendária - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v37uTgI2UUHny6g2ErbTtsxVIg8.jpg" group-title="ACAO",Power Rangers Super Megaforce - A Batalha Lendária - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/125168.mp4
+#EXTINF:-1 tvg-name="Preso no Tempo - 2016" tvg-logo="http://urlon.me/ZA2" group-title="ACAO",Preso no Tempo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43333.mp4
+#EXTINF:-1 tvg-name="Presságio - 2009" tvg-logo="http://5ce.co:80/images/At03GrpqsbeomLuLTRCyCMvSFI5_big.jpg" group-title="ACAO",Presságio - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/184682.mp4
+#EXTINF:-1 tvg-name="Prisao Estelar - 2018" tvg-logo="http://urlon.me/ZAV" group-title="ACAO",Prisao Estelar - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43332.mp4
+#EXTINF:-1 tvg-name="Projeto Gemini - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg" group-title="ACAO",Projeto Gemini - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60226.mp4
+#EXTINF:-1 tvg-name="Protegendo o Inimigo - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmxz31mxKZO0rreBcXbZNG11v5f.jpg" group-title="ACAO",Protegendo o Inimigo - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/124698.mp4
+#EXTINF:-1 tvg-name="Proud Mary - A Profissional - 2018" tvg-logo="http://urlon.me/ZAp" group-title="ACAO",Proud Mary - A Profissional - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43331.mp4
+#EXTINF:-1 tvg-name="Próxima Fase: Fugindo de Rancala - 2019" tvg-logo="http://urlon.me/Obl" group-title="ACAO",Próxima Fase: Fugindo de Rancala - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65649.mp4
+#EXTINF:-1 tvg-name="Próxima Parada: Apocalipse - 2018" tvg-logo="http://urlon.me/Orf" group-title="ACAO",Próxima Parada: Apocalipse - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65422.mp4
+#EXTINF:-1 tvg-name="Pulp Fiction: Tempo de Violência - 1994" tvg-logo="http://urlon.me/ZAc" group-title="ACAO",Pulp Fiction: Tempo de Violência - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43330.mp4
+#EXTINF:-1 tvg-name="Punhos da Vingança - 2022" tvg-logo="http://5ce.me:80/images/8vRdCB9nzZaYqh6nZ9HUFFSxKIW_big.jpg" group-title="ACAO",Punhos da Vingança - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198162.mp4
+#EXTINF:-1 tvg-name="Quatro Amigas e um Jeans Viajante 2 - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UefFbPLXtUNIwyUjT1Qy7KOoLl.jpg" group-title="ACAO",Quatro Amigas e um Jeans Viajante 2 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99604.mp4
+#EXTINF:-1 tvg-name="Quebrando Regras - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G2FPMqqyh98Vq97VoKBLkhRZ6Z.jpg" group-title="ACAO",Quebrando Regras - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61038.mp4
+#EXTINF:-1 tvg-name="Quebrando Regras 2 - 2011" tvg-logo="http://urlon.me/O32" group-title="ACAO",Quebrando Regras 2 - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61039.mp4
+#EXTINF:-1 tvg-name="Quebrando Regras 3 - Não Se Rendam - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LptNm4xAqcfaJwDiTLksf65JVJ.jpg" group-title="ACAO",Quebrando Regras 3 - Não Se Rendam - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61044.mp4
+#EXTINF:-1 tvg-name="Queima de Arquivo - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44MkE7h2Yx7QTN5uTCmx9Qo5Bzp.jpg" group-title="ACAO",Queima de Arquivo - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65423.mp4
+#EXTINF:-1 tvg-name="Quem Sou Eu? - 1998" tvg-logo="http://urlon.me/Ori" group-title="ACAO",Quem Sou Eu? - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65424.mp4
+#EXTINF:-1 tvg-name="Queremos Matar Gunther - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XDIAYXiN5WDIM5TElF6a5ejU93.jpg" group-title="ACAO",Queremos Matar Gunther - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/121266.mp4
+#EXTINF:-1 tvg-name="Raízes de Sangue - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptKugyJKWErkoWH4kURY0LR98Cv.jpg" group-title="ACAO",Raízes de Sangue - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/85204.mp4
+#EXTINF:-1 tvg-name="Rambo II - 1985" tvg-logo="http://urlon.me/ZA0" group-title="ACAO",Rambo II - 1985
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43329.mp4
+#EXTINF:-1 tvg-name="Rambo III - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SKg3XKEyNSZ2oAba3Ucfr0Sxw0.jpg" group-title="ACAO",Rambo III - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43328.mp4
+#EXTINF:-1 tvg-name="Rambo IV - 2008" tvg-logo="http://urlon.me/ZAw" group-title="ACAO",Rambo IV - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43327.mp4
+#EXTINF:-1 tvg-name="Rambo: Até o Fim - 2019" tvg-logo="http://5ce.co:80/images/kTQ3J8oTTKofAVLYnds2cHUz9KO_big.jpg" group-title="ACAO",Rambo: Até o Fim - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42706.mp4
+#EXTINF:-1 tvg-name="Rambo: Programado Para Matar - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ocBqNSqG1hWbzjv2sZxLc07nLs.jpg" group-title="ACAO",Rambo: Programado Para Matar - 1982
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43326.mp4
+#EXTINF:-1 tvg-name="Rampage: Destruição Total - 2018" tvg-logo="http://urlon.me/ZAk" group-title="ACAO",Rampage: Destruição Total - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43325.mp4
+#EXTINF:-1 tvg-name="Ray Donovan: The Movie - 2022" tvg-logo="http://5ce.me:80/images/5sw1EvOeXMGRZGWr18R4EiZs036_big.jpg" group-title="ACAO",Ray Donovan: The Movie - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198324.mp4
+#EXTINF:-1 tvg-name="Reação em Cadeia - 2021" tvg-logo="http://5ce.co:80/images/qfnYaV20yk9wm2Z0mJBq856zzSY_big.jpg" group-title="ACAO",Reação em Cadeia - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/192578.mp4
+#EXTINF:-1 tvg-name="Rebelião - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg" group-title="ACAO",Rebelião - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65425.mp4
+#EXTINF:-1 tvg-name="RED - Aposentados e Perigosos - 2010" tvg-logo="http://urlon.me/OrA" group-title="ACAO",RED - Aposentados e Perigosos - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65426.mp4
+#EXTINF:-1 tvg-name="RED 2 - Aposentados e Ainda Mais Perigosos - 2013" tvg-logo="http://urlon.me/Oru" group-title="ACAO",RED 2 - Aposentados e Ainda Mais Perigosos - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65427.mp4
+#EXTINF:-1 tvg-name="Rede de Corrupção - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yb89yFgxf6bNSt4t83HYJTGBD00.jpg" group-title="ACAO",Rede de Corrupção - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65428.mp4
+#EXTINF:-1 tvg-name="Rede de Mentiras - 2008" tvg-logo="http://5ce.co:80/images/sLjVDPPfNQfAma9XyOqHPClQb2V_big.jpg" group-title="ACAO",Rede de Mentiras - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/209818.mp4
+#EXTINF:-1 tvg-name="Redenção - 2011" tvg-logo="http://5ce.co:80/images/2Fksv8RJwVMoCsVcNxnElbVIKbS_big.jpg" group-title="ACAO",Redenção - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/161267.mp4
+#EXTINF:-1 tvg-name="Redenção - 2013" tvg-logo="http://5ce.co:80/images/6Vpck08etujGItQ3km8uJL2Zz0D_big.jpg" group-title="ACAO",Redenção - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/161665.mp4
+#EXTINF:-1 tvg-name="Refém do Jogo - 2018" tvg-logo="http://urlon.me/Zfc" group-title="ACAO",Refém do Jogo - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43074.mp4
+#EXTINF:-1 tvg-name="Refém Rebelde - 2021" tvg-logo="http://5ce.co:80/images/61hoGhY0khqOolZyfxqv4zrde8M_big.jpg" group-title="ACAO",Refém Rebelde - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/185009.mp4
+#EXTINF:-1 tvg-name="Reféns do Crime - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wh25GwfGZoYpNf3UkRqPcJuFgp.jpg" group-title="ACAO",Reféns do Crime - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65429.mp4
+#EXTINF:-1 tvg-name="Rei Arthur - A Volta Da Excalibur - 2017" tvg-logo="http://urlon.me/ZAl" group-title="ACAO",Rei Arthur - A Volta Da Excalibur - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43324.mkv
+#EXTINF:-1 tvg-name="Rei Arthur: A Lenda da Espada - 2017" tvg-logo="http://urlon.me/OrR" group-title="ACAO",Rei Arthur: A Lenda da Espada - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65430.mp4
+#EXTINF:-1 tvg-name="Reino de Fogo - 2002" tvg-logo="http://5ce.me:80/images/4XiWjJv1A5wV0REkJzcnalZIFgx_big.jpg" group-title="ACAO",Reino de Fogo - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169071.mp4
+#EXTINF:-1 tvg-name="Reino dos assassinos - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNSFl35PqSqc3vpkl0txC3eZLm0.jpg" group-title="ACAO",Reino dos assassinos - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65476.mp4
+#EXTINF:-1 tvg-name="Replicante - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH1nCUHEmqFZ46VoSNXWAQ9fZd9.jpg" group-title="ACAO",Replicante - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43322.mp4
+#EXTINF:-1 tvg-name="Repo Men: O Resgate de Órgãos - 2010" tvg-logo="http://5ce.co:80/images/6oJ3fRVTBYRSOjrurhFnuoxeHL9_big.jpg" group-title="ACAO",Repo Men: O Resgate de Órgãos - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201025.mp4
+#EXTINF:-1 tvg-name="Reprisal: Contra Ataque - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRUhfGW4WSZ6XpJcMz6CwLgMAkS.jpg" group-title="ACAO",Reprisal: Contra Ataque - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/120544.mp4
+#EXTINF:-1 tvg-name="Resgate - 2020" tvg-logo="http://urlon.me/ZgYYt5" group-title="ACAO",Resgate - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81450.mp4
+#EXTINF:-1 tvg-name="Resgate em Alta Velocidade - 2021" tvg-logo="http://5ce.co:80/images/aqzKXlhxyaENoaRq5St5agMkC3d_big.jpg" group-title="ACAO",Resgate em Alta Velocidade - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199903.mp4
+#EXTINF:-1 tvg-name="Resgate Sem Limites - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/es8LNVHb9S91T4OHBN57nv24fFu.jpg" group-title="ACAO",Resgate Sem Limites - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65432.mp4
+#EXTINF:-1 tvg-name="Resident Evil 1 : O Hóspede Maldito - 2002" tvg-logo="http://5ce.co:80/images/9vJX0Q9LSoOlTio8cTAm2ms0sWz_big.jpg" group-title="ACAO",Resident Evil 1 : O Hóspede Maldito - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202593.mp4
+#EXTINF:-1 tvg-name="Resident Evil 2: Apocalipse - 2004" tvg-logo="http://5ce.co:80/images/v8RRzNoNJqkhuwCIct46a8FBFw6_big.jpg" group-title="ACAO",Resident Evil 2: Apocalipse - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202594.mp4
+#EXTINF:-1 tvg-name="Resident Evil 3: A Extinção - 2007" tvg-logo="http://5ce.co:80/images/lKdzoUvMsriRrtfK6e5uw2XpXtn_big.jpg" group-title="ACAO",Resident Evil 3: A Extinção - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202595.mp4
+#EXTINF:-1 tvg-name="Resident Evil 4: Recomeço - 2010" tvg-logo="http://5ce.co:80/images/eLUc5to0p5LhbXJMXtgltg7P4g4_big.jpg" group-title="ACAO",Resident Evil 4: Recomeço - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203174.mp4
+#EXTINF:-1 tvg-name="Resident Evil 5: Retribuição - 2012" tvg-logo="http://5ce.co:80/images/8Hd7OTdX1Q3pccZn2TUsU9isJpz_big.jpg" group-title="ACAO",Resident Evil 5: Retribuição - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202596.mp4
+#EXTINF:-1 tvg-name="Resident Evil 6: O Capítulo Final - 2016" tvg-logo="http://5ce.co:80/images/kgkPkKPjDOfBjlUyWBg3GQNwBer_big.jpg" group-title="ACAO",Resident Evil 6: O Capítulo Final - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/202597.mp4
+#EXTINF:-1 tvg-name="Resident Evil: Bem-vindo a Raccoon City - 2021" tvg-logo="http://5ce.co:80/images/tnKi8Vx9mRvOGrmzBOOh5wHEbQI_big.jpg" group-title="ACAO",Resident Evil: Bem-vindo a Raccoon City - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203175.mp4
+#EXTINF:-1 tvg-name="Respite - 2020 " tvg-logo="http://5ce.me:80/images/dvXQ0Q0Tx4S8326yACe9GkZRsXm_big.jpg" group-title="ACAO",Respite - 2020 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142152.mp4
+#EXTINF:-1 tvg-name="Revolt - 2017" tvg-logo="http://urlon.me/ZAG" group-title="ACAO",Revolt - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43320.mp4
+#EXTINF:-1 tvg-name="Reza a Lenda - 2016" tvg-logo="http://5ce.co:80/images/4v9SIuSLAmNkxf6ca1vus1rejgD_big.jpg" group-title="ACAO",Reza a Lenda - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/199362.mp4
+#EXTINF:-1 tvg-name="Riddick 1 - Eclipse Mortal - 2000" tvg-logo="http://urlon.me/ZgYMuF" group-title="ACAO",Riddick 1 - Eclipse Mortal - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42996.mp4
+#EXTINF:-1 tvg-name="Riddick 2 - A Batalha de Riddick - 2004" tvg-logo="http://urlon.me/ZQX" group-title="ACAO",Riddick 2 - A Batalha de Riddick - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42825.mp4
+#EXTINF:-1 tvg-name="Riddick 3 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhdDd6Gd6EaPBwNdCjNW2HCnIQY.jpg" group-title="ACAO",Riddick 3 - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43319.mp4
+#EXTINF:-1 tvg-name="Risco Máximo - 2016" tvg-logo="http://urlon.me/OrN" group-title="ACAO",Risco Máximo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65433.mp4
+#EXTINF:-1 tvg-name="Robin Hood - 2010" tvg-logo="http://5ce.me:80/images/cCzqyuZxvJ38E8DXMbW9q4qgUVa_big.jpg" group-title="ACAO",Robin Hood - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145810.mp4
+#EXTINF:-1 tvg-name="Robin Hood: A Origem - 2018" tvg-logo="http://urlon.me/ZQV" group-title="ACAO",Robin Hood: A Origem - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42842.mp4
+#EXTINF:-1 tvg-name="Robin Hood: O Príncipe dos Ladrões - 1991" tvg-logo="http://5ce.me:80/images/vuh2PRV3Zn429nHAL6mDCJh4yzT_big.jpg" group-title="ACAO",Robin Hood: O Príncipe dos Ladrões - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/145811.mp4
+#EXTINF:-1 tvg-name="RoboCop - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vFsWZGc2ciJVt888FbeKBKWv16.jpg" group-title="ACAO",RoboCop - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61555.mp4
+#EXTINF:-1 tvg-name="RoboCop - O Policial do Futuro - 1987" tvg-logo="http://urlon.me/ZgY16g" group-title="ACAO",RoboCop - O Policial do Futuro - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43318.mp4
+#EXTINF:-1 tvg-name="RoboCop 2 - 1990" tvg-logo="http://urlon.me/ZgY1ZE" group-title="ACAO",RoboCop 2 - 1990
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43317.mp4
+#EXTINF:-1 tvg-name="RoboCop 3 - 1993" tvg-logo="http://urlon.me/ZgY1ZL" group-title="ACAO",RoboCop 3 - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43316.mp4
+#EXTINF:-1 tvg-name="Rogue - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg" group-title="ACAO",Rogue - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123478.mp4
+#EXTINF:-1 tvg-name="Rogue - O Assassino - 2007" tvg-logo="http://urlon.me/ZA6" group-title="ACAO",Rogue - O Assassino - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43312.mp4
+#EXTINF:-1 tvg-name="Rogue Warfare - Ameaça Global - 2020" tvg-logo="http://5ce.me:80/images/jZEAAW1W6mNxLZ87Aur79DjXdPv_big.jpg" group-title="ACAO",Rogue Warfare - Ameaça Global - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/137027.mp4
+#EXTINF:-1 tvg-name="Rogue Warfare 3: A Morte de uma Nação - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqhHuc5iEsgrDynkM9qxuATHG9x.jpg" group-title="ACAO",Rogue Warfare 3: A Morte de uma Nação - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133565.mp4
+#EXTINF:-1 tvg-name="Romeu Tem Que Morrer - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCuBA58NukJIqx81sD785RGh0i.jpg" group-title="ACAO",Romeu Tem Que Morrer - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43311.mp4
+#EXTINF:-1 tvg-name="Rota de Fuga - 2013" tvg-logo="http://5ce.co:80/images/8InLtl6o9Wrpn5opSHi9Y6wJ4RS_big.jpg" group-title="ACAO",Rota de Fuga - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200186.mp4
+#EXTINF:-1 tvg-name="Rota de Fuga 2 - 2018" tvg-logo="http://urlon.me/Z0E" group-title="ACAO",Rota de Fuga 2 - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43310.mp4
+#EXTINF:-1 tvg-name="Rota de Fuga 3 - O Resgate - 2019" tvg-logo="http://urlon.me/Z7o" group-title="ACAO",Rota de Fuga 3 - O Resgate - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42754.mp4
+#EXTINF:-1 tvg-name="Roubo nas Alturas - 2011" tvg-logo="http://5ce.me:80/images/vALQZ8HLWb720mhmNMV6tPOlVeR_big.jpg" group-title="ACAO",Roubo nas Alturas - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/144054.mp4
+#EXTINF:-1 tvg-name="Ruas Sangrentas - O Acerto Final - 2006" tvg-logo="http://urlon.me/Z0L" group-title="ACAO",Ruas Sangrentas - O Acerto Final - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43309.mp4
+#EXTINF:-1 tvg-name="Rush - No Limite da Emoção - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/va0WgAJBvrdIUnr0uetSqidNG6N.jpg" group-title="ACAO",Rush - No Limite da Emoção - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60284.mp4
+#EXTINF:-1 tvg-name="S.W.A.T.: Comando Especial - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmhNSdqp9guZwmDktqvfJZ5DVjt.jpg" group-title="ACAO",S.W.A.T.: Comando Especial - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65434.mp4
+#EXTINF:-1 tvg-name="S.W.A.T.: Força Letal - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr7fU8UsJio5sYFPeWy5OLgYsHT.jpg" group-title="ACAO",S.W.A.T.: Força Letal - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123062.mp4
+#EXTINF:-1 tvg-name="Sabotagem - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PXKu41DwUsGEXlmLF30I6QBmMF.jpg" group-title="ACAO",Sabotagem - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65435.mp4
+#EXTINF:-1 tvg-name="Salt - 2010" tvg-logo="http://5ce.co:80/images/5tmhUKYklYebFdF4tEUs4f9Om43_big.jpg" group-title="ACAO",Salt - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/172889.mp4
+#EXTINF:-1 tvg-name="Salyut 7: Missão Espacial - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq14CN39ZBj5pSNsqxa6XbWzTCI.jpg" group-title="ACAO",Salyut 7: Missão Espacial - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/66542.mp4
+#EXTINF:-1 tvg-name="Samurai X - O Filme - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks7Rgrh4a9gQuNMEVKwjND6Qwde.jpg" group-title="ACAO",Samurai X - O Filme - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103647.mp4
+#EXTINF:-1 tvg-name="Samurai X: A Origem - 2021" tvg-logo="http://5ce.co:80/images/smoKFlh9I7u9hk6Qlgewn8BJyZI_big.jpg" group-title="ACAO",Samurai X: A Origem - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177072.mp4
+#EXTINF:-1 tvg-name="Samurai X: O Fim de Uma Lenda - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqrrpQR77e6uWOsigAYjl7JBTwm.jpg" group-title="ACAO",Samurai X: O Fim de Uma Lenda - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65436.mp4
+#EXTINF:-1 tvg-name="Samurai X: O Final - 2021" tvg-logo="http://5ce.me:80/images/mzKKUblhyvv7nWyfJCLT69GijOA_big.jpg" group-title="ACAO",Samurai X: O Final - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/168149.mp4
+#EXTINF:-1 tvg-name="Samurai X: O Inferno de Kyoto - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXrRMSXndVuYQ1GSXi1sFR7pvvM.jpg" group-title="ACAO",Samurai X: O Inferno de Kyoto - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/103648.mp4
+#EXTINF:-1 tvg-name="Sangue Jovem - 2014" tvg-logo="http://5ce.me:80/images/vU3ir5iniBfK3neM2UFTeFSV4ye_big.jpg" group-title="ACAO",Sangue Jovem - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152484.mp4
+#EXTINF:-1 tvg-name="Sangue na Veia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLqmFJWiXnkhKFmx1dbsARwNWgu.jpg" group-title="ACAO",Sangue na Veia - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65437.mp4
+#EXTINF:-1 tvg-name="Santos Justiceiros - 1999" tvg-logo="http://5ce.co:80/images/hj03YpU8GotsyGXNTLPaxy5MT9D_big.jpg" group-title="ACAO",Santos Justiceiros - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/178884.mp4
+#EXTINF:-1 tvg-name="Santos Justiceiros 2: O Retorno - 2009" tvg-logo="http://5ce.co:80/images/5SnUOz4zXfT7UhS1GY2JZmmH2yj_big.jpg" group-title="ACAO",Santos Justiceiros 2: O Retorno - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/179281.mp4
+#EXTINF:-1 tvg-name="Scarface - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGY6NnlDsWaRKAycWUgXanqLxia.jpg" group-title="ACAO",Scarface - 1983
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65438.mp4
+#EXTINF:-1 tvg-name="Segundo em Comando - 2006" tvg-logo="http://5ce.co:80/images/yfClcix0iwBaAsm4QRPbmmFAcYk_big.jpg" group-title="ACAO",Segundo em Comando - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187761.mp4
+#EXTINF:-1 tvg-name="Segurança em Risco - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crGliGBsymh6qQTM876pSyKsoZs.jpg" group-title="ACAO",Segurança em Risco - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/113717.mp4
+#EXTINF:-1 tvg-name="Segurança Nacional - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4d5m96kzawTHyfH3g4Z41ipVYT.jpg" group-title="ACAO",Segurança Nacional - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/129490.mp4
+#EXTINF:-1 tvg-name="Selvagem - 2018" tvg-logo="http://5ce.co:80/images/8yLz19WoUtCd0TxcvqgrGI4uayz_big.jpg" group-title="ACAO",Selvagem - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65439.mp4
+#EXTINF:-1 tvg-name="Sem Dor, Sem Ganho - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgXl50zLN5gedqbdh7Et8q1nC9H.jpg" group-title="ACAO",Sem Dor, Sem Ganho - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59405.mp4
+#EXTINF:-1 tvg-name="Sem Escalas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzO55jtB4dRkk9qYuClk2c6UfHq.jpg" group-title="ACAO",Sem Escalas - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42810.mp4
+#EXTINF:-1 tvg-name="Sem Limites - 2011" tvg-logo="http://urlon.me/ZgYYKw" group-title="ACAO",Sem Limites - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80782.mp4
+#EXTINF:-1 tvg-name="Sem Misericórdia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dORQdVCIZMcCUVkQalzmo8nTGp.jpg" group-title="ACAO",Sem Misericórdia - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/114936.mp4
+#EXTINF:-1 tvg-name="Sem Remorso - 2021" tvg-logo="http://5ce.me:80/images/uHEZ4ZMziIjlAgCTQAEh9ROvtj0_big.jpg" group-title="ACAO",Sem Remorso - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156559.mp4
+#EXTINF:-1 tvg-name="Sentença de Morte - 2007" tvg-logo="http://urlon.me/Oeh" group-title="ACAO",Sentença de Morte - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65440.mp4
+#EXTINF:-1 tvg-name="Sequestro Internacional - 2021" tvg-logo="http://5ce.me:80/images/jay8E3DtnFgVfeDInMOOHxVUfn3_big.jpg" group-title="ACAO",Sequestro Internacional - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/166627.mp4
+#EXTINF:-1 tvg-name="Sequestro na Ilha - 2016" tvg-logo="http://urlon.me/OeO" group-title="ACAO",Sequestro na Ilha - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65441.mp4
+#EXTINF:-1 tvg-name="Serpentes a Bordo - 2006" tvg-logo="http://5ce.me:80/images/3L9OWoTmdV6ZXWDQJaRXWenRhfS_big.jpg" group-title="ACAO",Serpentes a Bordo - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/211080.mp4
+#EXTINF:-1 tvg-name="Sete Homens e Um Destino - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg" group-title="ACAO",Sete Homens e Um Destino - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/134171.mp4
+#EXTINF:-1 tvg-name="Shaft - 2019" tvg-logo="http://urlon.me/Z7r" group-title="ACAO",Shaft - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42753.mp4
+#EXTINF:-1 tvg-name="Shang-Chi e a Lenda dos Dez Anéis - 2021" tvg-logo="http://5ce.co:80/images/ArrOBeio968bUuUOtEpKa1teIh4_big.jpg" group-title="ACAO",Shang-Chi e a Lenda dos Dez Anéis - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/190856.mp4
+#EXTINF:-1 tvg-name="Sheena a Rainha das Selvas - 1984" tvg-logo="http://5ce.me:80/images/jpJ4kk5St9CpKFZZITMKqROCDeD_big.jpg" group-title="ACAO",Sheena a Rainha das Selvas - 1984
+ http://5ce.co:80/movie/Rayan24250/Ray242509/214735.mp4
+#EXTINF:-1 tvg-name="Sherlock Holmes: O Jogo de Sombras - 2011 " tvg-logo="http://5ce.me:80/images/7z498BJCpedGpCn8KcwaB0bbX48_big.jpg" group-title="ACAO",Sherlock Holmes: O Jogo de Sombras - 2011 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/167644.mp4
+#EXTINF:-1 tvg-name="Sherlock: A Abominável Noiva - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EJe9ZNCmypWjQZ99cGsNvhC8t0.jpg" group-title="ACAO",Sherlock: A Abominável Noiva - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43306.mp4
+#EXTINF:-1 tvg-name="Show Dogs: O Agente Canino - 2018" tvg-logo="http://urlon.me/Oe9" group-title="ACAO",Show Dogs: O Agente Canino - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65442.mp4
+#EXTINF:-1 tvg-name="Sicário: Dia do Soldado - 2018" tvg-logo="http://urlon.me/Z0a" group-title="ACAO",Sicário: Dia do Soldado - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43304.mp4
+#EXTINF:-1 tvg-name="Sicário: Terra de Ninguém - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c17pgL4n4WthDYTooWX7pY0z9Q.jpg" group-title="ACAO",Sicário: Terra de Ninguém - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43305.mp4
+#EXTINF:-1 tvg-name="Sin City 1 - A Cidade do Pecado - 2005" tvg-logo="http://urlon.me/OeT" group-title="ACAO",Sin City 1 - A Cidade do Pecado - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65443.mp4
+#EXTINF:-1 tvg-name="Sin City 2 - A Dama Fatal - 2014" tvg-logo="http://urlon.me/Oem" group-title="ACAO",Sin City 2 - A Dama Fatal - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65444.mp4
+#EXTINF:-1 tvg-name="Skin Trade - Em Busca de Vingança - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvE3FdU3GIOJBLBjZ4Gma9wxL5L.jpg" group-title="ACAO",Skin Trade - Em Busca de Vingança - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61585.mp4
+#EXTINF:-1 tvg-name="Snake Eyes: A Origem dos G.I. Joe - 2021" tvg-logo="http://5ce.co:80/images/6IxMW3939dOCjzenwzkWEjgICVq_big.jpg" group-title="ACAO",Snake Eyes: A Origem dos G.I. Joe - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/186213.mp4
+#EXTINF:-1 tvg-name="Sniper: Operações Especiais - 2016" tvg-logo="http://urlon.me/Oe1" group-title="ACAO",Sniper: Operações Especiais - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65446.mp4
+#EXTINF:-1 tvg-name="Sob Ataque - 2021" tvg-logo="http://5ce.me:80/images/u4nVnXdrDMRqzTb8jDEfzeH5H9X_big.jpg" group-title="ACAO",Sob Ataque - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/216551.mp4
+#EXTINF:-1 tvg-name="Sobreviva a Noite - 2019" tvg-logo="http://urlon.me/OFd" group-title="ACAO",Sobreviva a Noite - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61322.mp4
+#EXTINF:-1 tvg-name="Sobreviva ao jogo - 2021" tvg-logo="http://5ce.co:80/images/xF1uc2pEf34X2G41wvZaF5H0V7C_big.jpg" group-title="ACAO",Sobreviva ao jogo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187758.mp4
+#EXTINF:-1 tvg-name="Sobreviva ou Morra Tentando - 2021" tvg-logo="http://5ce.co:80/images/raSRcE1lVtwQValPmAmNv46PPei_big.jpg" group-title="ACAO",Sobreviva ou Morra Tentando - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201026.mp4
+#EXTINF:-1 tvg-name="Sobreviver à Noite - 2020" tvg-logo="http://urlon.me/ZgYM66" group-title="ACAO",Sobreviver à Noite - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/93966.mp4
+#EXTINF:-1 tvg-name="Soldado Anônimo: Lei do Retorno - 2019" tvg-logo="http://urlon.me/ZgYYt3" group-title="ACAO",Soldado Anônimo: Lei do Retorno - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/81455.mp4
+#EXTINF:-1 tvg-name="Soldado Universal - 1992" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg" group-title="ACAO",Soldado Universal - 1992
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43301.mp4
+#EXTINF:-1 tvg-name="Soldado Universal - O Retorno - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xdqqOJpzvk1rUL7p23N9bKsGTX.jpg" group-title="ACAO",Soldado Universal - O Retorno - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43300.mp4
+#EXTINF:-1 tvg-name="Soldado Universal 2 - 1998" tvg-logo="http://urlon.me/OeM" group-title="ACAO",Soldado Universal 2 - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65447.mp4
+#EXTINF:-1 tvg-name="Soldado Universal 3 - Regeneração - 2009" tvg-logo="http://urlon.me/Oe7" group-title="ACAO",Soldado Universal 3 - Regeneração - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65448.mp4
+#EXTINF:-1 tvg-name="Soldado Universal 4: Juízo Final - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9Sc6o3BNFgMAp1s8BrHQdcV09F.jpg" group-title="ACAO",Soldado Universal 4: Juízo Final - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65449.mp4
+#EXTINF:-1 tvg-name="Solomon Kane - O Caçador de Demônios - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="ACAO",Solomon Kane - O Caçador de Demônios - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42892.mp4
+#EXTINF:-1 tvg-name="Sooryavanshi - 2021" tvg-logo="http://5ce.co:80/images/zMuo3s9J0e5jsIJLCKv1ffKlLD4_big.jpg" group-title="ACAO",Sooryavanshi - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/195488.mp4
+#EXTINF:-1 tvg-name="Speed Racer - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x800OyHuJ9JDuhHLtdPLkH1vBjw.jpg" group-title="ACAO",Speed Racer - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65450.mp4
+#EXTINF:-1 tvg-name="Sr. & Sra. Smith - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zRxBuJ8SjqgMeQdmfXIQPDdz6b.jpg" group-title="ACAO",Sr. & Sra. Smith - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/113718.mp4
+#EXTINF:-1 tvg-name="Stallone: Cobra - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC47dOBpqh9uZb6jX5vF0RjaUbJ.jpg" group-title="ACAO",Stallone: Cobra - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43299.mp4
+#EXTINF:-1 tvg-name="Star Wars 6 - Guerra nas Estrelas: O Retorno de Jedi - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e57CeQLHE5WWzWy3oq03IVmAyfp.jpg" group-title="ACAO",Star Wars 6 - Guerra nas Estrelas: O Retorno de Jedi - 1983
+ http://5ce.co:80/movie/Rayan24250/Ray242509/107056.mp4
+#EXTINF:-1 tvg-name="Stargate - 1994" tvg-logo="http://5ce.me:80/images/8jt0L4TunEvH4KwN13hDuJgCsa4_big.jpg" group-title="ACAO",Stargate - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142549.mp4
+#EXTINF:-1 tvg-name="Stargate: A Arca da Verdade - 2008" tvg-logo="http://5ce.me:80/images/qvvHst9ztCuo5aCEXt8NdYON7wQ_big.jpg" group-title="ACAO",Stargate: A Arca da Verdade - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142551.mp4
+#EXTINF:-1 tvg-name="Stargate: Continuum - 2008" tvg-logo="http://5ce.me:80/images/vdL154n9IEyeHg6Z13hWZgtaGNq_big.jpg" group-title="ACAO",Stargate: Continuum - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/142550.mp4
+#EXTINF:-1 tvg-name="Steel Rain - 2017" tvg-logo="http://urlon.me/Z0p" group-title="ACAO",Steel Rain - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43298.mp4
+#EXTINF:-1 tvg-name="Street Fighter - A Lenda de Chun-Li - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7hpqPS2k8CpsxQImlIaSTefEqB.jpg" group-title="ACAO",Street Fighter - A Lenda de Chun-Li - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69700.mp4
+#EXTINF:-1 tvg-name="Street Fighter - A Última Batalha - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtjJnbfH3fTLHxmGAGeMQSRnDXf.jpg" group-title="ACAO",Street Fighter - A Última Batalha - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43297.mp4
+#EXTINF:-1 tvg-name="Street Fighter: Punho Assassino - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvisbnt0Ce8GefSVUjc87jlf8Il.jpg" group-title="ACAO",Street Fighter: Punho Assassino - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69702.mp4
+#EXTINF:-1 tvg-name="Stuber - A Corrida Maluca - 2019" tvg-logo="http://5ce.me:80/images/bopJPyP68dJEjO7i0gUrYMYC0Eh_big.jpg" group-title="ACAO",Stuber - A Corrida Maluca - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/150202.mp4
+#EXTINF:-1 tvg-name="Submundo Das Lutas - 2016" tvg-logo="http://urlon.me/ZgYYOW" group-title="ACAO",Submundo Das Lutas - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74755.mp4
+#EXTINF:-1 tvg-name="Sucesso Acima De Tudo - 2015" tvg-logo="http://5ce.co:80/images/hI9FMnGdywQhg7ukLLbrzeXLoNp_big.jpg" group-title="ACAO",Sucesso Acima De Tudo - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169754.mp4
+#EXTINF:-1 tvg-name="Sucker Punch: Mundo Surreal - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jhxBq1Zy7Q6xTcwFz84TL9k4b9.jpg" group-title="ACAO",Sucker Punch: Mundo Surreal - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65451.mp4
+#EXTINF:-1 tvg-name="Super Velozes, Mega Furiosos - 2015" tvg-logo="http://5ce.co:80/images/iuIWl90qCpoxv6g775JB6Kg0m86_big.jpg" group-title="ACAO",Super Velozes, Mega Furiosos - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/160102.mp4
+#EXTINF:-1 tvg-name="Supercross - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHgPR5jrN09KoHKltAnLp8cfgg3.jpg" group-title="ACAO",Supercross - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65452.mp4
+#EXTINF:-1 tvg-name="Superfly: Crime e Poder - 2018" tvg-logo="http://urlon.me/Z00" group-title="ACAO",Superfly: Crime e Poder - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43296.mp4
+#EXTINF:-1 tvg-name="Tango & Cash - Os Vingadores - 1989" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRVxt1sUMApMrRKlfscrl6SHyzJ.jpg" group-title="ACAO",Tango & Cash - Os Vingadores - 1989
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43387.mp4
+#EXTINF:-1 tvg-name="Taxi - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zTZaExVKWZvSN0YEfGC23FiJs2.jpg" group-title="ACAO",Taxi - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65481.mp4
+#EXTINF:-1 tvg-name="Taxi 1 - Velocidade nas Ruas - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKcewqR6BtJRyRd4ZeAPvT1Ibzq.jpg" group-title="ACAO",Taxi 1 - Velocidade nas Ruas - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65478.mp4
+#EXTINF:-1 tvg-name="Táxi 2 - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kutR0sRgvDFOXZQALcvTS3Lko.jpg" group-title="ACAO",Táxi 2 - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65480.mp4
+#EXTINF:-1 tvg-name="Táxi 3 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7VPz3OybrdpkVKLFqzLR0LRZzR.jpg" group-title="ACAO",Táxi 3 - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65479.mp4
+#EXTINF:-1 tvg-name="Táxi 4 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEWpHHZVaL1iLfcFynSYTSIRBLG.jpg" group-title="ACAO",Táxi 4 - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65482.mp4
+#EXTINF:-1 tvg-name="Taxi Driver - Motorista de Táxi - 1976" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOi8s0WQZYlTDkWB46Z6p3ji5Fq.jpg" group-title="ACAO",Taxi Driver - Motorista de Táxi - 1976
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59623.mp4
+#EXTINF:-1 tvg-name="Tekken - 2010" tvg-logo="http://5ce.co:80/images/tlpRr3MQGS1ACVIqL1AArhlZ023_big.jpg" group-title="ACAO",Tekken - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207965.mp4
+#EXTINF:-1 tvg-name="Tekken 2 A Vinganca de Kayuza - 2014" tvg-logo="http://5ce.co:80/images/gtPzVWxj41OpFwBHoFu8OYsWJKB_big.jpg" group-title="ACAO",Tekken 2 A Vinganca de Kayuza - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207967.mp4
+#EXTINF:-1 tvg-name="Tempestade: Planeta em Fúria - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGNyIpD9bTFVvXMaMOxo7RwNUSN.jpg" group-title="ACAO",Tempestade: Planeta em Fúria - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/98803.mp4
+#EXTINF:-1 tvg-name="Tenet - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="ACAO",Tenet - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133568.mp4
+#EXTINF:-1 tvg-name="Terremoto - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4adxNvVKNedDH1mBYWE6S0wr7.jpg" group-title="ACAO",Terremoto - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/82800.mp4
+#EXTINF:-1 tvg-name="Terremoto: A Falha de San Andreas - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfT3fpVI139u9FlYx7VkwEHnq95.jpg" group-title="ACAO",Terremoto: A Falha de San Andreas - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65453.mp4
+#EXTINF:-1 tvg-name="Terror na Síria - 2018" tvg-logo="http://5ce.me:80/images/dby3MpllNvWjOqccys01214xl2n_big.jpg" group-title="ACAO",Terror na Síria - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152696.mp4
+#EXTINF:-1 tvg-name="Testemunhas Silenciosas - 2019" tvg-logo="http://urlon.me/ZgYMPb" group-title="ACAO",Testemunhas Silenciosas - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/95935.mp4
+#EXTINF:-1 tvg-name="The Curse of King Tut's Tomb - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS8HiWOO7YcezktLKFmBJmitAzo.jpg" group-title="ACAO",The Curse of King Tut's Tomb - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/113060.mp4
+#EXTINF:-1 tvg-name="The Last Days of American Crime - 2020" tvg-logo="http://urlon.me/ZgYMyA" group-title="ACAO",The Last Days of American Crime - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/97329.mp4
+#EXTINF:-1 tvg-name="The Old Guard - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg" group-title="ACAO",The Old Guard - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/107058.mp4
+#EXTINF:-1 tvg-name="The Silencing - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg" group-title="ACAO",The Silencing - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/133885.mp4
+#EXTINF:-1 tvg-name="The Spirit: O Filme - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9qawfzR3LWRC8r8YZ9w2yaQi5W.jpg" group-title="ACAO",The Spirit: O Filme - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/112777.mp4
+#EXTINF:-1 tvg-name="The Trip - 2021" tvg-logo="http://5ce.co:80/images/5L3vyhkKqPC1tv9lja3VZMKS5n0_big.jpg" group-title="ACAO",The Trip - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/187408.mp4
+#EXTINF:-1 tvg-name="The Warriors - Os Selvagens da Noite - 1979" tvg-logo="http://urlon.me/OoZ" group-title="ACAO",The Warriors - Os Selvagens da Noite - 1979
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65470.mp4
+#EXTINF:-1 tvg-name="Tiro Certo - 2022" tvg-logo="http://5ce.co:80/images/2LSwzrdj7ljnFhiqIgfp9rd46fU_big.jpg" group-title="ACAO",Tiro Certo - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198078.mp4
+#EXTINF:-1 tvg-name="Todo o Dinheiro do Mundo - 2017" tvg-logo="http://urlon.me/Z0t" group-title="ACAO",Todo o Dinheiro do Mundo - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43294.mp4
+#EXTINF:-1 tvg-name="Tokyo Ghoul - 2017" tvg-logo="http://urlon.me/OfT" group-title="ACAO",Tokyo Ghoul - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61723.mp4
+#EXTINF:-1 tvg-name="Tomb Raider 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tYMtyMKBQmTmmHOUGeRkUFqSL8.jpg" group-title="ACAO",Tomb Raider 1 - 2001
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65454.mp4
+#EXTINF:-1 tvg-name="Tomb Raider 2 - A Origem - 2018" tvg-logo="http://urlon.me/Z0w" group-title="ACAO",Tomb Raider 2 - A Origem - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43293.mp4
+#EXTINF:-1 tvg-name="Top Gang 2! - A Missão - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j1Wt4kasG1BCJJjozScnoVyYbR.jpg" group-title="ACAO",Top Gang 2! - A Missão - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/109832.mp4
+#EXTINF:-1 tvg-name="Top Gun Ases Indomaveis - 1986" tvg-logo="http://5ce.co:80/images/dDrMtnVgtDeecIgNchb9F8JcO5w_big.jpg" group-title="ACAO",Top Gun Ases Indomaveis - 1986
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207757.mp4
+#EXTINF:-1 tvg-name="Tornado / Twister - 1996" tvg-logo="http://urlon.me/OeN" group-title="ACAO",Tornado / Twister - 1996
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65464.mp4
+#EXTINF:-1 tvg-name="Três Reis - 1999 " tvg-logo="http://5ce.me:80/images/3tteAin7WS4kpx250joRsu7kEU0_big.jpg" group-title="ACAO",Três Reis - 1999 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152486.mp4
+#EXTINF:-1 tvg-name="Tripla Ameaça - 2020" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/9AxRx0RYUatYdBHmtqnnmdOT2oc.jpg" group-title="ACAO",Tripla Ameaça - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/72863.mp4
+#EXTINF:-1 tvg-name="Triplo X 1 - 2002" tvg-logo="http://urlon.me/OeA" group-title="ACAO",Triplo X 1 - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65457.mp4
+#EXTINF:-1 tvg-name="Triplo X 2 - Estado de Emergência - 2005" tvg-logo="http://urlon.me/Oeu" group-title="ACAO",Triplo X 2 - Estado de Emergência - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65458.mp4
+#EXTINF:-1 tvg-name="Triplo X 3 - Reativado 3 - 2017" tvg-logo="https://s3.amazonaws.com/jgdprod-blogs-us/blogs/wp-content/uploads/sites/7/2017/01/xXx-Return-Of-Xander-Cage-Poster-01.jpg" group-title="ACAO",Triplo X 3 - Reativado 3 - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65459.mp4
+#EXTINF:-1 tvg-name="Troco em Dobro - 2020" tvg-logo="http://urlon.me/ZgY1Nl" group-title="ACAO",Troco em Dobro - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69850.mp4
+#EXTINF:-1 tvg-name="Troia - 2004" tvg-logo="http://5ce.co:80/images/2DCOh2hPdDtWxBSaanq80GFa2HN_big.jpg" group-title="ACAO",Troia - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/217467.mp4
+#EXTINF:-1 tvg-name="Tropa De Elite - 2007" tvg-logo="http://5ce.co:80/images/7STSm4dSnUxq0HoPtydj3k9MMPV_big.jpg" group-title="ACAO",Tropa De Elite - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205401.mp4
+#EXTINF:-1 tvg-name="Tropa de Elite 2 - O Inimigo Agora e Outro - 2010" tvg-logo="http://5ce.co:80/images/v39TyEFfzPUaj7uZlV6Xr5HD9tu_big.jpg" group-title="ACAO",Tropa de Elite 2 - O Inimigo Agora e Outro - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/205402.mp4
+#EXTINF:-1 tvg-name="Tropas Estelares - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AxWTbK96BRnZ17arhtTzThQkrv.jpg" group-title="ACAO",Tropas Estelares - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65460.mp4
+#EXTINF:-1 tvg-name="Tropas Estelares 2 - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IplDq4Vq2VTfWpnxArPqKgQcIe.jpg" group-title="ACAO",Tropas Estelares 2 - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65461.mp4
+#EXTINF:-1 tvg-name="Tropas Estelares 3 - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh5nospDpMOxZhyhRiXWWMmSFQe.jpg" group-title="ACAO",Tropas Estelares 3 - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65462.mp4
+#EXTINF:-1 tvg-name="True Lies - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cusvjQ8Ph7SPwW3CGvyjSCk9VP.jpg" group-title="ACAO",True Lies - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65463.mp4
+#EXTINF:-1 tvg-name="Truque de Mestre - 2 O 2º Ato - 2016" tvg-logo="http://urlon.me/Z0Q" group-title="ACAO",Truque de Mestre - 2 O 2º Ato - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43287.mp4
+#EXTINF:-1 tvg-name="Truque de Mestre - 2013" tvg-logo="http://urlon.me/Z08" group-title="ACAO",Truque de Mestre - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43292.mp4
+#EXTINF:-1 tvg-name="Tubarão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mo8kGc1XSAhdzlqf226gONxuRd.jpg" group-title="ACAO",Tubarão - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/112041.mp4
+#EXTINF:-1 tvg-name="Twist - 2021" tvg-logo="http://5ce.me:80/images/29dCusd9PwHrbDqzxNG35WcpZpS_big.jpg" group-title="ACAO",Twist - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/153598.mp4
+#EXTINF:-1 tvg-name="Um Contratempo - 2016" tvg-logo="http://urlon.me/Z0G" group-title="ACAO",Um Contratempo - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43285.mp4
+#EXTINF:-1 tvg-name="Um Crime para Dois - 2020" tvg-logo="http://urlon.me/ZgYM69" group-title="ACAO",Um Crime para Dois - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/93969.mp4
+#EXTINF:-1 tvg-name="Um Dia de Caos - 2017 " tvg-logo="http://5ce.me:80/images/v4Ic5tJBTLL83zd1RLailzDdJi0_big.jpg" group-title="ACAO",Um Dia de Caos - 2017 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/152699.mp4
+#EXTINF:-1 tvg-name="Um Dia Difícil - 2022" tvg-logo="http://5ce.co:80/images/bktIW44oeurTptHLdkj7ayc4zbH_big.jpg" group-title="ACAO",Um Dia Difícil - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201495.mp4
+#EXTINF:-1 tvg-name="Um Dia para Viver - 2017" tvg-logo="http://5ce.co:80/images/yyr8u7wQU2k7HpJvBeGmZsJkZTR_big.jpg" group-title="ACAO",Um Dia para Viver - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201125.mp4
+#EXTINF:-1 tvg-name="Um Dia para Viver - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDe7Eioe3VqE0TM7GSSPcCnRaCY.jpg" group-title="ACAO",Um Dia para Viver - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/131541.mp4
+#EXTINF:-1 tvg-name="Um Diretor Contra Todos - 1987" tvg-logo="http://5ce.co:80/images/doagXhvFljZefORYLiCXNk3j3ik_big.jpg" group-title="ACAO",Um Diretor Contra Todos - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/182679.mp4
+#EXTINF:-1 tvg-name="Um Looop Eterno - 2022" tvg-logo="http://5ce.co:80/images/b0cR03jYbO2hTrKnLVKQNRP8r6y_big.jpg" group-title="ACAO",Um Looop Eterno - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/200337.mp4
+#EXTINF:-1 tvg-name="Um Lugar Solitário para Morrer - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feYOjKSxz9UkxamVmjyMpc7bTHZ.jpg" group-title="ACAO",Um Lugar Solitário para Morrer - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/104744.mp4
+#EXTINF:-1 tvg-name="Um Ninja da Pesada - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3FLywObczptgOh18fkzxNmGmnd.jpg" group-title="ACAO",Um Ninja da Pesada - 1997
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65465.mp4
+#EXTINF:-1 tvg-name="Um Tira da Pesada 2 - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG30UP6IYG7Lq0zSr6wRT2h3Ua.jpg" group-title="ACAO",Um Tira da Pesada 2 - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43859.mp4
+#EXTINF:-1 tvg-name="Um Tira Muito Suspeito - 1999" tvg-logo="http://cms-central.co:80/images/yx412KtLwyuO4a12eHX64frlI4I_big.jpg" group-title="ACAO",Um Tira Muito Suspeito - 1999
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154815.mp4
+#EXTINF:-1 tvg-name="Uma Corrida Pela Vida - 2016" tvg-logo="http://cms-central.co:80/images/gZ3K1xXE4QnlEKnhWXFHTFVkKWc_big.jpg" group-title="ACAO",Uma Corrida Pela Vida - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154816.mp4
+#EXTINF:-1 tvg-name="Uma Noite em Bangkok - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQSI9tjOYr272EcjRjFjCMDcGyJ.jpg" group-title="ACAO",Uma Noite em Bangkok - 2020
+ http://5ce.co:80/movie/Rayan24250/Ray242509/119557.mp4
+#EXTINF:-1 tvg-name="Uma Noite Infernal - 2019" tvg-logo="http://urlon.me/ZgYYM0" group-title="ACAO",Uma Noite Infernal - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/80315.mp4
+#EXTINF:-1 tvg-name="Uma Saída de Mestre - 2003" tvg-logo="http://urlon.me/Oeb" group-title="ACAO",Uma Saída de Mestre - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65466.mp4
+#EXTINF:-1 tvg-name="Uma Sombra na Nuvem - 2020 " tvg-logo="http://cms-central.co:80/images/t7EUMSlfUN3jUSZUJOLURAzJzZs_big.jpg" group-title="ACAO",Uma Sombra na Nuvem - 2020 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/154250.mp4
+#EXTINF:-1 tvg-name="V de Vingança - 2006 " tvg-logo="http://5ce.me:80/images/rvrFkBKTrVCT1nVRuCaemQFRn0_big.jpg" group-title="ACAO",V de Vingança - 2006 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140156.mp4
+#EXTINF:-1 tvg-name="Valhalla: A Lenda de Thor - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg" group-title="ACAO",Valhalla: A Lenda de Thor - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/117803.mp4
+#EXTINF:-1 tvg-name="Vanquish - 2021" tvg-logo="http://5ce.me:80/images/AoWY1gkcNzabh229Icboa1Ff0BM_big.jpg" group-title="ACAO",Vanquish - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/156803.mp4
+#EXTINF:-1 tvg-name="Velocidade Maxima - 1994" tvg-logo="http://5ce.co:80/images/d30AWcDezR0qM6OgXovulfA4z8N_big.jpg" group-title="ACAO",Velocidade Maxima - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/207676.mp4
+#EXTINF:-1 tvg-name="Velocidade Máxima - 1994" tvg-logo="http://urlon.me/Zvp" group-title="ACAO",Velocidade Máxima - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42809.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 1 - 2001 " tvg-logo="http://urlon.me/Z05" group-title="ACAO",Velozes e Furiosos 1 - 2001 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43279.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 2 - 2003 " tvg-logo="http://urlon.me/Z0d" group-title="ACAO",Velozes e Furiosos 2 - 2003 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43278.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 3 - Desafio em Tóquio - 2006 " tvg-logo="http://urlon.me/Z0g" group-title="ACAO",Velozes e Furiosos 3 - Desafio em Tóquio - 2006 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43276.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 4 - 2009 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="ACAO",Velozes e Furiosos 4 - 2009 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43275.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 5 - Operação Rio - 2011 " tvg-logo="http://urlon.me/ZgY1Z2" group-title="ACAO",Velozes e Furiosos 5 - Operação Rio - 2011 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43273.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 6 - 2013 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="ACAO",Velozes e Furiosos 6 - 2013 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43271.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 7 - 2015 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPbKWpt3eRsDOYlWKohr2kIRxsT.jpg" group-title="ACAO",Velozes e Furiosos 7 - 2015 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43466.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 8 - 2017 " tvg-logo="http://urlon.me/ZDr" group-title="ACAO",Velozes e Furiosos 8 - 2017 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43465.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos 9 - 2021" tvg-logo="http://5ce.me:80/images/fnAzaxRSiveFafudJtByxA7I2xT_big.jpg" group-title="ACAO",Velozes e Furiosos 9 - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/183140.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos: Hobbs & Shaw - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="ACAO",Velozes e Furiosos: Hobbs & Shaw - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/60642.mp4
+#EXTINF:-1 tvg-name="Velozes e Mortais - 2004" tvg-logo="http://urlon.me/ZgYYOi" group-title="ACAO",Velozes e Mortais - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/74488.mp4
+#EXTINF:-1 tvg-name="Vencer ou Morrer - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title="ACAO",Vencer ou Morrer - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43464.mp4
+#EXTINF:-1 tvg-name="Vertigem - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdFpgtjrCmU4yB7PapB8H88XtYY.jpg" group-title="ACAO",Vertigem - 2009
+ http://5ce.co:80/movie/Rayan24250/Ray242509/99609.mp4
+#EXTINF:-1 tvg-name="Viagem 2 - A Ilha Misteriosa - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukMU8ISdlMWyZclBalEAUhlemtx.jpg" group-title="ACAO",Viagem 2 - A Ilha Misteriosa - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65467.mp4
+#EXTINF:-1 tvg-name="Viagem ao Centro da Terra: O Filme - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS7lsYDalDmZZgOYWVdE2hXdX3V.jpg" group-title="ACAO",Viagem ao Centro da Terra: O Filme - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/70493.mp4
+#EXTINF:-1 tvg-name="Viagem Clandestina - 1985 " tvg-logo="http://5ce.me:80/images/xc3efB3JJig0dBRqZNGSnp6LCgb_big.jpg" group-title="ACAO",Viagem Clandestina - 1985 
+ http://5ce.co:80/movie/Rayan24250/Ray242509/147000.mp4
+#EXTINF:-1 tvg-name="Viagem Insólita - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjXTe4eZWrD9TVnpJtw2f8xL4XF.jpg" group-title="ACAO",Viagem Insólita - 1987
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65469.mp4
+#EXTINF:-1 tvg-name="Vida Selvagem - 2018" tvg-logo="http://urlon.me/ZgY1NU" group-title="ACAO",Vida Selvagem - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69842.mp4
+#EXTINF:-1 tvg-name="Vigilantes da Guerra - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KrTJIRhbFslI6x17Fay8mu9akG.jpg" group-title="ACAO",Vigilantes da Guerra - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/59624.mp4
+#EXTINF:-1 tvg-name="Vingança - 2017" tvg-logo="http://urlon.me/ZDI" group-title="ACAO",Vingança - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43463.mp4
+#EXTINF:-1 tvg-name="Vingança à Sangue Frio - 2019" tvg-logo="http://5ce.co:80/images/q3dO43VmKK2k3UTJeKOnHrmT4fq_big.jpg" group-title="ACAO",Vingança à Sangue Frio - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43131.mp4
+#EXTINF:-1 tvg-name="Vingança sem Limites - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47lz4cxIZRRPiEKqAotA53zYCob.jpg" group-title="ACAO",Vingança sem Limites - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/111607.mp4
+#EXTINF:-1 tvg-name="Vingança Solitária - 2022" tvg-logo="http://5ce.co:80/images/pz5ZrXSymSrVybrKnTwiPQ4Cg1U_big.jpg" group-title="ACAO",Vingança Solitária - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/203363.mp4
+#EXTINF:-1 tvg-name="Violacao de Conduta - 2003" tvg-logo="http://5ce.me:80/images/eXZ2DWfVcn5DLw7adoMLp8syG3B_big.jpg" group-title="ACAO",Violacao de Conduta - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/215226.mp4
+#EXTINF:-1 tvg-name="Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CvbNHOcgHtmhSCC3HeCPTMg6Kr.jpg" group-title="ACAO",Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/63879.mp4
+#EXTINF:-1 tvg-name="Voto de Coragem - 2021" tvg-logo="http://5ce.co:80/images/o1WvNhoackad1QiAGRgjJCQ1Trj_big.jpg" group-title="ACAO",Voto de Coragem - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/177918.mp4
+#EXTINF:-1 tvg-name="Warcraft - O Primeiro Encontro de Dois Mundos - 2016" tvg-logo="http://urlon.me/ZDW" group-title="ACAO",Warcraft - O Primeiro Encontro de Dois Mundos - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43462.mp4
+#EXTINF:-1 tvg-name="Waterloo - 1970" tvg-logo="http://5ce.me:80/images/kH8z1blczwSzbDRsbPRl8WY43XM_big.jpg" group-title="ACAO",Waterloo - 1970
+ http://5ce.co:80/movie/Rayan24250/Ray242509/139444.mp4
+#EXTINF:-1 tvg-name="Waterworld O Segredo das Aguas - 1995" tvg-logo="http://5ce.co:80/images/wN30JINYy2IehvN49GWD2IGhohP_big.jpg" group-title="ACAO",Waterworld O Segredo das Aguas - 1995
+ http://5ce.co:80/movie/Rayan24250/Ray242509/162723.mp4
+#EXTINF:-1 tvg-name="Wedlock - 1991" tvg-logo="http://5ce.co:80/images/jQNEJIKeCk9wNXRW7a2FiNCR3ie_big.jpg" group-title="ACAO",Wedlock - 1991
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169722.mp4
+#EXTINF:-1 tvg-name="Xtremo - 2021" tvg-logo="http://5ce.co:80/images/njKTjqWXfNhi2fu3J3i0pRbPSWj_big.jpg" group-title="ACAO",Xtremo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/164510.mp4
+#EXTINF:-1 tvg-name="xXx: Reativado - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OVKCxeBt3B84yMjvZ4iQ1tB2BP.jpg" group-title="ACAO",xXx: Reativado - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65472.mp4
+#EXTINF:-1 tvg-name="Yaksha Operacao Implacavel - 2022" tvg-logo="http://5ce.co:80/images/7MDgiFOPUCeG74nQsMKJuzTJrtc_big.jpg" group-title="ACAO",Yaksha Operacao Implacavel - 2022
+ http://5ce.co:80/movie/Rayan24250/Ray242509/204271.mp4
+#EXTINF:-1 tvg-name="Zona de Combate - 2021" tvg-logo="http://5ce.me:80/images/6XYLiMxHAaCsoyrVo38LBWMw2p8_big.jpg" group-title="ACAO",Zona de Combate - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/140224.mp4
+#EXTINF:-1 tvg-name="Zona de Perigo - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nB7H2YQtW37aDXPXJJsjKvuABL9.jpg" group-title="ACAO",Zona de Perigo - 1993
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65473.mp4
+#EXTINF:-1 tvg-name="Zona Fria - 2017" tvg-logo="http://urlon.me/OoT" group-title="ACAO",Zona Fria - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/65474.mp4
+#EXTINF:-1 tvg-name="Zumbis e Robôs - 2013" tvg-logo="http://5ce.co:80/images/xmGJwTaQ8XTnW4EPNag6Eu2KaTL_big.jpg" group-title="ACAO",Zumbis e Robôs - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/158411.mp4
+
+
 #EXTM3U url-tvg="http://grade-de-Ação Crime.xml"
 ############## Ação Crime ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeAção Crime" group-title="
@@ -4979,7 +11332,6 @@ http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/67032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Contrato Obsessivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g27AMMhkMpzOdil8CLo6j4lLMkK.jpg" group-title="Suspense/ Mistério",Contrato Obsessivo (2020)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/61708.mp4
 
-
 #EXTM3U url-tvg="http://grade-de-Filmes da Semana.xml"
 ############## Filmes da Semana ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes da Semana" group-title="
@@ -5567,6 +11919,174 @@ https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="Religioso",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF:-1 tvg-name="A Caminho da Fé - 2018" tvg-logo="http://urlon.me/Z8w" group-title="RELIGIOSOS",A Caminho da Fé - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43103.mp4
+#EXTINF:-1 tvg-name="A Colheita Da Fe - 2017" tvg-logo="http://urlon.me/Z8q" group-title="RELIGIOSOS",A Colheita Da Fe - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43099.mp4
+#EXTINF:-1 tvg-name="A Estrela De Belem - 2017" tvg-logo="http://urlon.me/Z8F" group-title="RELIGIOSOS",A Estrela De Belem - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43097.mp4
+#EXTINF:-1 tvg-name="A Filha Do Pastor - 2010" tvg-logo="http://urlon.me/Z8G" group-title="RELIGIOSOS",A Filha Do Pastor - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43095.mp4
+#EXTINF:-1 tvg-name="A Historia De Ester - 2013" tvg-logo="http://urlon.me/ZgY1ZG" group-title="RELIGIOSOS",A Historia De Ester - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43093.mp4
+#EXTINF:-1 tvg-name="A Luz Divina - 2017" tvg-logo="http://urlon.me/Z8X" group-title="RELIGIOSOS",A Luz Divina - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43090.mp4
+#EXTINF:-1 tvg-name="A Menina que Acredita em Milagres - 2021" tvg-logo="http://5ce.me:80/images/jhVnf6QmiRujRx2cYIZOnI8cPZ9_big.jpg" group-title="RELIGIOSOS",A Menina que Acredita em Milagres - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/198320.mp4
+#EXTINF:-1 tvg-name="A Oração Não Falha - 2016" tvg-logo="http://urlon.me/Z8d" group-title="RELIGIOSOS",A Oração Não Falha - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43088.mp4
+#EXTINF:-1 tvg-name="A Paixão de Cristo - 2004" tvg-logo="http://urlon.me/ZgY1ZY" group-title="RELIGIOSOS",A Paixão de Cristo - 2004
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43085.mp4
+#EXTINF:-1 tvg-name="À Procura da Liberdade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fzuXJPcL84FPKcRQRaVQKSEmyX.jpg" group-title="RELIGIOSOS",À Procura da Liberdade - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42887.mp4
+#EXTINF:-1 tvg-name="A Prova de Fogo - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94vWXepNu95YNoTSHCEwM212ugY.jpg" group-title="RELIGIOSOS",A Prova de Fogo - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42885.mp4
+#EXTINF:-1 tvg-name="A Última Tentação de Cristo - 1988" tvg-logo="http://urlon.me/Zf4" group-title="RELIGIOSOS",A Última Tentação de Cristo - 1988
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43083.mp4
+#EXTINF:-1 tvg-name="A Vida de Jesus Cristo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA3x4zQhwDL7Ir8DSCYfbhbtCDS.jpg" group-title="RELIGIOSOS",A Vida de Jesus Cristo - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/123686.mp4
+#EXTINF:-1 tvg-name="A Virada - 2003" tvg-logo="http://urlon.me/ZgY1Z3" group-title="RELIGIOSOS",A Virada - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43079.mp4
+#EXTINF:-1 tvg-name="Amor Incondicional: A História de Oseias - 2012" tvg-logo="http://urlon.me/ZgY1ZU" group-title="RELIGIOSOS",Amor Incondicional: A História de Oseias - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43077.mp4
+#EXTINF:-1 tvg-name="Antes Que Seja Tarde - 2019" tvg-logo="http://urlon.me/ZgY1Z6" group-title="RELIGIOSOS",Antes Que Seja Tarde - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43010.mp4
+#EXTINF:-1 tvg-name="Barrabas - 2013" tvg-logo="http://urlon.me/ZKc" group-title="RELIGIOSOS",Barrabas - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43009.mp4
+#EXTINF:-1 tvg-name="Cartas Para Deus - 2010" tvg-logo="http://urlon.me/ZKt" group-title="RELIGIOSOS",Cartas Para Deus - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43007.mp4
+#EXTINF:-1 tvg-name="Davi e Golias – A Batalha Da Fé - 2016" tvg-logo="http://urlon.me/ZgY1gE" group-title="RELIGIOSOS",Davi e Golias – A Batalha Da Fé - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43002.mp4
+#EXTINF:-1 tvg-name="Deixados para Trás - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mJhwENHWx6l1N447doXihtfTwd.jpg" group-title="RELIGIOSOS",Deixados para Trás - 2000
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43001.mp4
+#EXTINF:-1 tvg-name="Deixados para Trás 2 - Comando Tribulação - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWhr8FcP75eAmfQJyg224eZKC5p.jpg" group-title="RELIGIOSOS",Deixados para Trás 2 - Comando Tribulação - 2002
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42880.mp4
+#EXTINF:-1 tvg-name="Deixados para Trás 3 - Mundo em Guerra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6zixyL8rUZExfENtEwLa4YRxCg.jpg" group-title="RELIGIOSOS",Deixados para Trás 3 - Mundo em Guerra - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42878.mp4
+#EXTINF:-1 tvg-name="Deixados Para Tras 4: A Nova Geração - 2016" tvg-logo="http://urlon.me/Zyp" group-title="RELIGIOSOS",Deixados Para Tras 4: A Nova Geração - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42876.mp4
+#EXTINF:-1 tvg-name="Desafiando Gigantes - 2006" tvg-logo="http://urlon.me/ZgYMAR" group-title="RELIGIOSOS",Desafiando Gigantes - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42998.mp4
+#EXTINF:-1 tvg-name="Deus Não Está Morto - 2014" tvg-logo="http://urlon.me/ZgYMAs" group-title="RELIGIOSOS",Deus Não Está Morto - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42994.mp4
+#EXTINF:-1 tvg-name="Deus Não Está Morto 2 - 2016" tvg-logo="http://urlon.me/ZgYMAD" group-title="RELIGIOSOS",Deus Não Está Morto 2 - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42989.mp4
+#EXTINF:-1 tvg-name="Deus Não Esta Morto: O Próximo Capítulo - 2021" tvg-logo="http://5ce.co:80/images/kPLGhukHKy8kbYntAOvHQgztxe4_big.jpg" group-title="RELIGIOSOS",Deus Não Esta Morto: O Próximo Capítulo - 2021
+ http://5ce.co:80/movie/Rayan24250/Ray242509/201453.mp4
+#EXTINF:-1 tvg-name="Deus Nao Esta Morto: Uma Luz Na Escuridao - 2018" tvg-logo="http://urlon.me/ZlL" group-title="RELIGIOSOS",Deus Nao Esta Morto: Uma Luz Na Escuridao - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42986.mp4
+#EXTINF:-1 tvg-name="Em Defesa De Cristo  - 2017" tvg-logo="http://urlon.me/Zla" group-title="RELIGIOSOS",Em Defesa De Cristo  - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42982.mp4
+#EXTINF:-1 tvg-name="Entre A Vingança E O Perdão - 2015" tvg-logo="http://urlon.me/ZgY1gr" group-title="RELIGIOSOS",Entre A Vingança E O Perdão - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42975.mp4
+#EXTINF:-1 tvg-name="Escrevendo Uma Nova Vida - 2011" tvg-logo="http://5ce.co:80/images/fwy2vWc8GSXtyTuNgK7Z4MST2FU_big.jpg" group-title="RELIGIOSOS",Escrevendo Uma Nova Vida - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42972.mp4
+#EXTINF:-1 tvg-name="Eu & Você, Nós Para Sempre - 2008" tvg-logo="http://urlon.me/Zlq" group-title="RELIGIOSOS",Eu & Você, Nós Para Sempre - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42969.mp4
+#EXTINF:-1 tvg-name="Eu Acredito - 2017" tvg-logo="http://urlon.me/OCz" group-title="RELIGIOSOS",Eu Acredito - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/64994.mp4
+#EXTINF:-1 tvg-name="Jacó - 1994" tvg-logo="https://cineplayers.com/sites/default/files/posters/22623_poster.jpg" group-title="RELIGIOSOS",Jacó - 1994
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42967.mp4
+#EXTINF:-1 tvg-name="Jesus - A História do Nascimento - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31gjSyZWNLy6PMRg2JrJsA1RL2u.jpg" group-title="RELIGIOSOS",Jesus - A História do Nascimento - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42934.mp4
+#EXTINF:-1 tvg-name="João de Deus - O Silêncio é uma Prece - 2018" tvg-logo="http://urlon.me/ZgY1ga" group-title="RELIGIOSOS",João de Deus - O Silêncio é uma Prece - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42956.mp4
+#EXTINF:-1 tvg-name="Jornada Pela Liberdade - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13e5nAa0M7Ui0Kw1LCiI5dFnwT1.jpg" group-title="RELIGIOSOS",Jornada Pela Liberdade - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42964.mp4
+#EXTINF:-1 tvg-name="Jose Do Egito: O Filme - 2016" tvg-logo="http://urlon.me/ZlJ" group-title="RELIGIOSOS",Jose Do Egito: O Filme - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42961.mp4
+#EXTINF:-1 tvg-name="Jose E Maria - 2017" tvg-logo="http://urlon.me/Zld" group-title="RELIGIOSOS",Jose E Maria - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42958.mp4
+#EXTINF:-1 tvg-name="Lutero - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg" group-title="RELIGIOSOS",Lutero - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42955.mp4
+#EXTINF:-1 tvg-name="Maria Madalena - 2018" tvg-logo="http://urlon.me/Zj4" group-title="RELIGIOSOS",Maria Madalena - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42953.mp4
+#EXTINF:-1 tvg-name="Milagres De Jesus - O Filme  - 2016" tvg-logo="http://urlon.me/Zjr" group-title="RELIGIOSOS",Milagres De Jesus - O Filme  - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42951.mp4
+#EXTINF:-1 tvg-name="Milagres do Paraíso - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx0r6MPwo2ZQfcr018HLek0u7z3.jpg" group-title="RELIGIOSOS",Milagres do Paraíso - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42949.mp4
+#EXTINF:-1 tvg-name="Nada A Perder - 2018" tvg-logo="http://urlon.me/ZjW" group-title="RELIGIOSOS",Nada A Perder - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42947.mp4
+#EXTINF:-1 tvg-name="Nada a Perder 2: Não Se Pode Esconder a Verdade - 2019" tvg-logo="http://urlon.me/ZgY1ng" group-title="RELIGIOSOS",Nada a Perder 2: Não Se Pode Esconder a Verdade - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/71720.mp4
+#EXTINF:-1 tvg-name="Noé - 2014" tvg-logo="http://urlon.me/ZjV" group-title="RELIGIOSOS",Noé - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42945.mp4
+#EXTINF:-1 tvg-name="Nosso Lar - 2010" tvg-logo="http://urlon.me/ZgYY3I" group-title="RELIGIOSOS",Nosso Lar - 2010
+ http://5ce.co:80/movie/Rayan24250/Ray242509/78510.mp4
+#EXTINF:-1 tvg-name="O Céu é de Verdade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63EnKIUOWnBIR9Ox2WPW22TQ0Kn.jpg" group-title="RELIGIOSOS",O Céu é de Verdade - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42944.mp4
+#EXTINF:-1 tvg-name="O Despertar da Fé - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XKVy3GGM079NPX2Gr4M9PNO73R.jpg" group-title="RELIGIOSOS",O Despertar da Fé - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42941.mp4
+#EXTINF:-1 tvg-name="O Evangelho Segundo Joao - 2003" tvg-logo="http://urlon.me/Zj8" group-title="RELIGIOSOS",O Evangelho Segundo Joao - 2003
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42939.mp4
+#EXTINF:-1 tvg-name="O Fazendeiro e Deus - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGTKmTYm7PSkMYUV0D3WuIVuspi.jpg" group-title="RELIGIOSOS",O Fazendeiro e Deus - 2006
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42938.mp4
+#EXTINF:-1 tvg-name="O Filho de Deus - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dawSGD2qjDGNL29yIF9oW4dICgS.jpg" group-title="RELIGIOSOS",O Filho de Deus - 2014
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42926.mp4
+#EXTINF:-1 tvg-name="O Filho do Homem - 2019" tvg-logo="http://urlon.me/OWb" group-title="RELIGIOSOS",O Filho do Homem - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/64832.mp4
+#EXTINF:-1 tvg-name="O Jovem Messias - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YRbIclm6OhqzegE4JqNkPtDfJk.jpg" group-title="RELIGIOSOS",O Jovem Messias - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42937.mp4
+#EXTINF:-1 tvg-name="O Livro De Genesis - 2016" tvg-logo="http://urlon.me/Zjq" group-title="RELIGIOSOS",O Livro De Genesis - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42936.mp4
+#EXTINF:-1 tvg-name="O Medalhão Perdido - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oR1FpvRAOfI3WZugCUFzGyUPPhr.jpg" group-title="RELIGIOSOS",O Medalhão Perdido - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42935.mp4
+#EXTINF:-1 tvg-name="O Peregrino - Uma Jornada para o Céu - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9NYlsFMuM1ssJHNc8V8zTew4l.jpg" group-title="RELIGIOSOS",O Peregrino - Uma Jornada para o Céu - 2008
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42933.mp4
+#EXTINF:-1 tvg-name="O Príncipe do Egito - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg" group-title="RELIGIOSOS",O Príncipe do Egito - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42932.mp4
+#EXTINF:-1 tvg-name="O Rei dos Reis - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7ZihCBZOVXL827GKUbYiGnWSdX.jpg" group-title="RELIGIOSOS",O Rei dos Reis - 1961
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42929.mp4
+#EXTINF:-1 tvg-name="O Soldado De Cristo - 2019" tvg-logo="http://urlon.me/Z8g" group-title="RELIGIOSOS",O Soldado De Cristo - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/43086.mp4
+#EXTINF:-1 tvg-name="Onde Está Deus? - 2015" tvg-logo="http://urlon.me/Zj6" group-title="RELIGIOSOS",Onde Está Deus? - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42923.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos: O Filme - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEssXteZnvUfkVEfJi7zVZtHg28.jpg" group-title="RELIGIOSOS",Os Dez Mandamentos: O Filme - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42920.mp4
+#EXTINF:-1 tvg-name="Os Enigmas da Bíblia - 2017" tvg-logo="http://urlon.me/Zq4" group-title="RELIGIOSOS",Os Enigmas da Bíblia - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42918.mp4
+#EXTINF:-1 tvg-name="Paulo, Apóstolo de Cristo - 2018" tvg-logo="http://5ce.co:80/images/6J8IDXJlURmOwX3KnfYitSr7QbR_big.jpg" group-title="RELIGIOSOS",Paulo, Apóstolo de Cristo - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/169721.mp4
+#EXTINF:-1 tvg-name="Paulo: Apostolo De Cristo - 2018" tvg-logo="http://urlon.me/ZqW" group-title="RELIGIOSOS",Paulo: Apostolo De Cristo - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42913.mp4
+#EXTINF:-1 tvg-name="Pedro A Redenção - 2016" tvg-logo="http://urlon.me/ZqV" group-title="RELIGIOSOS",Pedro A Redenção - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42911.mp4
+#EXTINF:-1 tvg-name="Policarpo Quaresma, Herói do Brasil - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vezda5Dc53Hv0Cize3rNJAUaL1Y.jpg" group-title="RELIGIOSOS",Policarpo Quaresma, Herói do Brasil - 1998
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42910.mp4
+#EXTINF:-1 tvg-name="Quando Tudo Parece Perdido - 2015" tvg-logo="http://urlon.me/Zqc" group-title="RELIGIOSOS",Quando Tudo Parece Perdido - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42908.mp4
+#EXTINF:-1 tvg-name="Quarto de Guerra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg" group-title="RELIGIOSOS",Quarto de Guerra - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42931.mp4
+#EXTINF:-1 tvg-name="Resgatados Pela Graça - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsXBRuNur2PLFiEAZ23FR9cKAaS.jpg" group-title="RELIGIOSOS",Resgatados Pela Graça - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42905.mp4
+#EXTINF:-1 tvg-name="Ressurreição - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbx72yOS42RSjmayJDBdaP6oC8J.jpg" group-title="RELIGIOSOS",Ressurreição - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/61107.mp4
+#EXTINF:-1 tvg-name="Sansão - 2018" tvg-logo="http://urlon.me/Zq8" group-title="RELIGIOSOS",Sansão - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42904.mp4
+#EXTINF:-1 tvg-name="Três Histórias, Um Destino - 2012" tvg-logo="http://5ce.co:80/images/ovn5OEysi1c2rqLXLf9KiXGvXe0_big.jpg" group-title="RELIGIOSOS",Três Histórias, Um Destino - 2012
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42902.mp4
+#EXTINF:-1 tvg-name="Últimos Dias no Deserto - 2016" tvg-logo="http://urlon.me/Zyo" group-title="RELIGIOSOS",Últimos Dias no Deserto - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42883.mp4
+#EXTINF:-1 tvg-name="Um Encontro Perfeito - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dipJllTqfinmiOIZGaRGmoHUn5R.jpg" group-title="RELIGIOSOS",Um Encontro Perfeito - 2005
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42940.mp4
+#EXTINF:-1 tvg-name="Um Lar Verdadeiro - 2013" tvg-logo="http://urlon.me/ZqQ" group-title="RELIGIOSOS",Um Lar Verdadeiro - 2013
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42900.mp4
+#EXTINF:-1 tvg-name="Um Novo Plano - 2011" tvg-logo="http://urlon.me/ZqG" group-title="RELIGIOSOS",Um Novo Plano - 2011
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42898.mp4
+#EXTINF:-1 tvg-name="Um Outro Encontro - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ5WilRphrBbraCfNdgMSmE8888.jpg" group-title="RELIGIOSOS",Um Outro Encontro - 2007
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42897.mp4
+#EXTINF:-1 tvg-name="Uma Batalha de Fé - 2019" tvg-logo="http://urlon.me/ZgYYPK" group-title="RELIGIOSOS",Uma Batalha de Fé - 2019
+ http://5ce.co:80/movie/Rayan24250/Ray242509/77552.mp4
+#EXTINF:-1 tvg-name="Uma Jornada de Perdão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J14qm2QDenwImXVVBRbv7mwpRa.jpg" group-title="RELIGIOSOS",Uma Jornada de Perdão - 2018
+ http://5ce.co:80/movie/Rayan24250/Ray242509/69703.mp4
+#EXTINF:-1 tvg-name="Uma Prova De Fé - 2015" tvg-logo="http://urlon.me/ZqU" group-title="RELIGIOSOS",Uma Prova De Fé - 2015
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42893.mp4
+#EXTINF:-1 tvg-name="Uma Questão de Fé - 2017" tvg-logo="http://urlon.me/ZqX" group-title="RELIGIOSOS",Uma Questão de Fé - 2017
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42891.mp4
+#EXTINF:-1 tvg-name="Uma Vida Com Propósito - 2016" tvg-logo="http://urlon.me/Zq5" group-title="RELIGIOSOS",Uma Vida Com Propósito - 2016
+ http://5ce.co:80/movie/Rayan24250/Ray242509/42890.mp4
 
 #EXTM3U url-tvg="http://grade-de-FÉ | ESPIRITUAIS.xml"
 ############## FÉ | ESPIRITUAIS ################# 

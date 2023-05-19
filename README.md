@@ -11034,6 +11034,94 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/188
 #EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GERAÇÃO FUNK FM (RADIOS)
 http://meuplay.shop:80/67598237854pw/9875352849pw/191
 
+#EXTM3U url-tvg="http://grade-de-Shows Rock in Rio.xml"
+############## Shows Rock in Rio ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeShows Rock in Rio" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bala Desejo" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Bala Desejo
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Pantera e Devotos" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Black Pantera e Devotos
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CeeLo Green" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",CeeLo Green
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criolo e Mayra Andrade" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Criolo e Mayra Andrade
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Djavan" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Djavan
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dua Lipa" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Dua Lipa
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duda Beat" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Duda Beat
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilberto Gil com família" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Gilberto Gil com família
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilsons e Jorge Aragão" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Gilsons e Jorge Aragão
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homenagem a Elza Soares" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Homenagem a Elza Soares
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homenagem ao Rock in Rio 1985" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Homenagem ao Rock in Rio 1985
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ivete Sangalo" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Ivete Sangalo
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liniker e Luedji Luna" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Liniker e Luedji Luna
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Living Colour e Steve Vai" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Living Colour e Steve Vai
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ludmilla" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Ludmilla
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macy Gray" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Macy Gray
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria Rita" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Maria Rita
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megan Thee Stallion" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Megan Thee Stallion
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metal Allegiance" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Metal Allegiance
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rita Ora" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Rita Ora
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xamã e Bro MCs" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Xamã e Bro MCs
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/89087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avril Lavigne" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Avril Lavigne
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buchecha" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Buchecha
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capital Inicial" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Capital Inicial
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corinne Bailey Rae" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Corinne Bailey Rae
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Di Ferrero e Vitor Kley" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Di Ferrero e Vitor Kley
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emicida e Convidados" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Emicida e Convidados
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gloria Groove" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Gloria Groove
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guns N' Roses" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Guns N' Roses
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jão" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Jão
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jessie J" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Jessie J
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maneskin" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Maneskin
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Offspring" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",The Offspring
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sepultura e Orquestra Sinfônica" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Sepultura e Orquestra Sinfônica
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Billy Idol" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Billy Idol
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CPM 22" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",CPM 22
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fall Out Boy" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Fall Out Boy
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Green Day" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Green Day
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MD Chefe e DomLaike" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",MD Chefe e DomLaike
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastille" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Bastille
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camila Cabello" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Camila Cabello
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coldplay" tvg-logo="https://imgur.com/kk4XtD0.jpg" group-title="Shows Rock in Rio",Coldplay
+http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/88854.mp4
 
 ############## DESENHOS ################# 
 

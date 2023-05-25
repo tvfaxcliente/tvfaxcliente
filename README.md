@@ -1392,6 +1392,96 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
 ############## FILMES | TV FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Lilo, Lilo, Crocodilo"tvg-logo="https://image.tmdb.org/t/p/w185/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg"group-title="FILMES | TV FAX",Lilo, Lilo, Crocodilo
+https://seig.tv/16/1/663e764362fbc539bad205facfdcf70d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pinóquio"tvg-logo="https://image.tmdb.org/t/p/w185/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg"group-title="FILMES | TV FAX",Pinóquio
+https://seig.tv/19/1/7ba85cea0f777ff47b36ce05975add22/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Busca de Groot"tvg-logo="https://image.tmdb.org/t/p/w185/oV3mUWylNaRsBkbul7BGilaxE9k.jpg"group-title="FILMES | TV FAX",A Busca de Groot
+https://seig.tv/16/1/007ddb883fd95bca3a9fb3d332d77894/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marmaduke"tvg-logo="https://image.tmdb.org/t/p/w185/cyNivzjzniErFkzq45ZEWOKQMgY.jpg"group-title="FILMES | TV FAX",Marmaduke
+https://seig.tv/18/1/7d9ab2332e9579b52438c4a5e0f67edf/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tarsilinha"tvg-logo="https://image.tmdb.org/t/p/w185/szoK1qZ0YThXajLnkE8l7wygXpG.jpg"group-title="FILMES | TV FAX",Tarsilinha
+https://seig.tv/11/1/cf411be661135e8bb93fc1268512dd08/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Caras Malvados"tvg-logo="https://image.tmdb.org/t/p/w185/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg"group-title="FILMES | TV FAX",Os Caras Malvados
+https://seig.tv/16/1/f9c010ad89c1a410e8ad36f70aab5d63/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://image.tmdb.org/t/p/w185/53AC95HTGvFYA8ZRkGgeYo7lBRo.jpg"group-title="FILMES | TV FAX",A Queda
+https://seig.tv/19/1/97c990a6b53b1f8612174350de91946a/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam"tvg-logo="https://image.tmdb.org/t/p/w185/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg"group-title="FILMES | TV FAX",O Projeto Adam
+https://seig.tv/16/1/fadfb9b8eb05c5cae5c14323604042e0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Operação Implacável"tvg-logo="https://image.tmdb.org/t/p/w185/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg"group-title="FILMES | TV FAX",Yaksha: Operação Implacável
+https://seig.tv/11/1/bcf086cab69f796f5b6f22f39169f15e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown"tvg-logo="https://image.tmdb.org/t/p/w185/q5gVKsYkWmz1pklu4JBmac1wr2.jpg"group-title="FILMES | TV FAX",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown
+https://seig.tv/12/1/d82cd5cd24bb27c39d5aac4afb5601c0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ambulância: Um Dia de Crime"tvg-logo="https://image.tmdb.org/t/p/w185/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg"group-title="FILMES | TV FAX",Ambulância: Um Dia de Crime
+https://seig.tv/17/1/2ce15b3cc176cd70b154feda05f5946b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: O Filme"tvg-logo="https://www.themoviedb.org/t/p/original/8E7mIpEpSATxX5JEuw55GYx9hfk.jpg"group-title="FILMES | TV FAX",Sonic 2: O Filme
+https://seig.tv/14/1/8e279f070861d52941202684414fa9fb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais"tvg-logo="https://image.tmdb.org/t/p/w185/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg"group-title="FILMES | TV FAX",365 Dias Finais
+https://seig.tv/19/1/2cefa494408f76c96717622e95dd57cf/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Acontecimento"tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg"group-title="FILMES | TV FAX",O Acontecimento
+https://seig.tv/17/1/2c0b1a651818e984c14bc698eb4548a9/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século"tvg-logo="https://image.tmdb.org/t/p/w185/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg"group-title="FILMES | TV FAX",A Verdadeira História do Roubo do Século
+https://seig.tv/11/1/46382acfe475e803d9577240bfa5c7e3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick"tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"group-title="FILMES | TV FAX",Top Gun: Maverick
+https://seig.tv/16/1/5881c5b2687ff5d6f72ccf032c56e4eb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Férias da Família"tvg-logo="https://image.tmdb.org/t/p/w185/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg"group-title="FILMES | TV FAX",De Férias da Família
+https://seig.tv/14/1/9ffddca7cf55eb04b8efaca2d0ad40a3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor e Trovão"tvg-logo="https://image.tmdb.org/t/p/w185/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg"group-title="FILMES | TV FAX",Thor: Amor e Trovão
+https://seig.tv/11/1/3c967dd01776986fe3bcd8bb2a33df8e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Obi-Wan Kenobi O Retorno do Jedi"tvg-logo="https://image.tmdb.org/t/p/w185/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg"group-title="FILMES | TV FAX",Obi-Wan Kenobi O Retorno do Jedi
+https://seig.tv/12/1/0385133e62b3bbecc4eb5ffbf15cdfdb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto"tvg-logo="https://image.tmdb.org/t/p/w185/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg"group-title="FILMES | TV FAX",Esquadrão Secreto
+https://seig.tv/15/1/77ff5947544db7954df7f181011d521c/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2"tvg-logo="https://image.tmdb.org/t/p/w185/8G7EaPTocE0ok3YNxo972woo9EP.jpg"group-title="FILMES | TV FAX",Abracadabra 2
+https://seig.tv/11/1/c763927396999a43dde7bdd4a1958625/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow"tvg-logo="https://image.tmdb.org/t/p/w185/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg"group-title="FILMES | TV FAX",Rainbow
+https://seig.tv/15/1/40464eae2d403b931cc3f69fa7f9259d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions Volume 1"tvg-logo="https://image.tmdb.org/t/p/w185/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg"group-title="FILMES | TV FAX",Curtas dos Minions Volume 1
+https://seig.tv/18/1/a231c43b7c1f103f11bec6051aaa653b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva"tvg-logo="https://www.themoviedb.org/t/p/original/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg"group-title="FILMES | TV FAX",Conspiração Explosiva
+https://seig.tv/16/1/7862aad70e4542d4a5d1a51e3dfecf55/360p/360p7.png
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon: As Crônicas de Arceus"tvg-logo="https://image.tmdb.org/t/p/w185/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg"group-title="FILMES | TV FAX",Pokémon: As Crônicas de Arceus
+https://seig.tv/17/1/3a7d36af40744937e48772558e7475d8/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama"tvg-logo="https://image.tmdb.org/t/p/w185/82I3tDsGDTMy7lHar84Gz0jUuyW.jpg"group-title="FILMES | TV FAX",Panama
+https://seig.tv/16/1/2e03ae21069b08a9c336cddbf316d113/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos"tvg-logo="https://image.tmdb.org/t/p/w185/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg"group-title="FILMES | TV FAX",Terra dos Sonhos
+https://seig.tv/17/1/02e3c3408d1499e1177816875c426cc9/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hawa"tvg-logo="https://image.tmdb.org/t/p/w185/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg"group-title="FILMES | TV FAX",Hawa
+https://seig.tv/16/1/8cde8c817449d0e2c94ff175df11292f/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Vingança"tvg-logo="https://image.tmdb.org/t/p/w185/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg"group-title="FILMES | TV FAX",Meu Nome é Vingança
+https://seig.tv/14/1/f02c36fb002cb2e93e40e5dc5a0f7014/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desencantada"tvg-logo="https://image.tmdb.org/t/p/w185/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg"group-title="FILMES | TV FAX",Desencantada
+https://seig.tv/17/1/69c088bac41ab9553ea5ed62e897b1d4/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Menino, a Toupeira, a Raposa e o Cavalo"tvg-logo="https://image.tmdb.org/t/p/w185/765XUik0cbyWHITgE22FhpA8elG.jpg"group-title="FILMES | TV FAX",O Menino, a Toupeira, a Raposa e o Cavalo
+https://seig.tv/15/1/b425911631fca6bc4bdf77c4d0587f40/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Estranho"tvg-logo="https://image.tmdb.org/t/p/w185/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"group-title="FILMES | TV FAX",Mundo Estranho
+https://seig.tv/18/1/fc3c407880b162d4a8e1563703936d12/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Fabuloso Maurício"tvg-logo="https://image.tmdb.org/t/p/w185/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg"group-title="FILMES | TV FAX",O Fabuloso Maurício
+https://seig.tv/19/1/cee9263b22e97d95812f07f1a0b9bc08/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight: Independência"tvg-logo="https://image.tmdb.org/t/p/w185/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg"group-title="FILMES | TV FAX",Detetive Knight: Independência
+https://seig.tv/19/1/80fac7c5f909b33fa2b907b74ffc69fb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos"tvg-logo="https://image.tmdb.org/t/p/w185/yka6u5dbx1vWoMrNIHHutluaepp.jpg"group-title="FILMES | TV FAX",O Som do Caos
+https://seig.tv/19/1/6f30f3c43a3409b7ccfc1ab962f0f649/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Já Era Hora"tvg-logo="https://image.tmdb.org/t/p/w185/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg"group-title="FILMES | TV FAX",Já Era Hora
+https://seig.tv/19/1/538be4e19755fd846839eda0b58fa5dd/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras"tvg-logo="https://image.tmdb.org/t/p/w185/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg"group-title="FILMES | TV FAX",O Rei das Sombras
+https://seig.tv/19/1/1d7a006af80911ce7f655937e22e8a64/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Padre Johnny"tvg-logo="https://image.tmdb.org/t/p/w185/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg"group-title="FILMES | TV FAX",Padre Johnny
+https://seig.tv/19/1/c6cca2cb396cd3b1e9477ac90c473f2a/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desapega"tvg-logo="https://image.tmdb.org/t/p/w185/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg"group-title="FILMES | TV FAX",Desapega
+https://seig.tv/19/1/e983c14cfdeef3c6a5a7575ff5efcd6d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido"tvg-logo="https://image.tmdb.org/t/p/w185/w5uM8SZKWN9CwpFvzTnEZSkO8Ow.jpg"group-title="FILMES | TV FAX",As Múmias e o Anel Perdido
+https://seig.tv/19/1/cfee4175fe97870cc75f77cbf827be53/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha"tvg-logo="https://image.tmdb.org/t/p/w185/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg"group-title="FILMES | TV FAX",Meu Amigo Lutcha
+https://seig.tv/19/1/47b56a8ebd0ecc5e1ffebf2889206501/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tic-Tac: A Maternidade do Mal"tvg-logo="https://image.tmdb.org/t/p/w185/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg"group-title="FILMES | TV FAX",Tic-Tac: A Maternidade do Mal
+https://seig.tv/19/1/2da30667f9dfee2c8dc5d78be0afb053/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infiesto"tvg-logo="https://image.tmdb.org/t/p/w185/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg"group-title="FILMES | TV FAX",Infiesto
+https://seig.tv/19/1/f54405aa348cee5b40125e989bf8f9f6/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fanfic"tvg-logo="https://image.tmdb.org/t/p/w185/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg"group-title="FILMES | TV FAX",Fanfic
+https://seig.tv/19/1/1eede5057cbc4f8259e95cfc49b395c3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abril Despedaçado"tvg-logo="https://image.tmdb.org/t/p/w185/9GVEX1VC4iEh5t5T7YNDU9P8zKQ.jpg"group-title="FILMES | TV FAX",Abril Despedaçado 
+https://seig.tv/19/1/8af63f3f1acd16a92310f8b42a9ed54c/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo"tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title="FILMES | TV FAX",Ao Lado de Cristo
 https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8   
 #EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://ottvsimg.ottvs.com.br/ban/gmt.272391/looke_1010_670.jpg?2117268655"group-title="FILMES | TV FAX",Balas em Fúria
@@ -1404,6 +1494,27 @@ https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fim dos Tempos"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d3696d59afc1b8a949d663f68d41d68f9753cd1734d541454902a4a98395fe9e._RI_TTW_.jpg"group-title="FILMES | TV FAX",Fim dos Tempos
 https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-Serie Bem-vindos ao Éden.xml"
+############## Serie Bem-vindos ao Éden ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie Bem-vindos ao Éden" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E01
+https://seig.tv/18/1/77fa9180b83593f6423ce24914a22085/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E02
+https://seig.tv/16/1/6628846ee91f7f04a971fb811b43bf97/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E03
+https://seig.tv/17/1/e666d498515034577b2659dd7fbf1a0f/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E04
+https://seig.tv/16/1/da387e05382ad55b515cbe6b94b9565b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E05
+https://seig.tv/15/1/83b900d707fb74212b59956347431f07/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E06
+https://seig.tv/13/1/d70b3b2f180409e11168d622f3b5ccac/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E07
+https://seig.tv/18/1/a4966196c3e05ea6ede1f8a3cdc89ccf/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E08
+https://seig.tv/11/1/89b84379788d01ea06fc7dc1867aa09c/720p/720p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES  INFANTIL CINEMA.xml"
 ############## FILMES  INFANTIL CINEMA ################# 

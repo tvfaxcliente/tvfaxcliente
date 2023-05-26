@@ -1177,64 +1177,92 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/484
  ############## PREMIERE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldePREMIERE" group-title="
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69105
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191956
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144705
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 1³" tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="PREMIERE",PREMIERE CLUBES 1³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192155
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69086
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191957
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144688
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2³" tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="PREMIERE",PREMIERE 2³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192148
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69089
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191958
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144691
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3³" tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="PREMIERE",PREMIERE 3³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192149
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69092
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191959
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144694
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4³" tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="PREMIERE",PREMIERE 4³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192150
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69095
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191960
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144697
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5³" tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="PREMIERE",PREMIERE 5³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192151
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69098
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191961
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144699
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6³" tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="PREMIERE",PREMIERE 6³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192152
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7 FHD H265
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/69101
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265³" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7 FHD H265³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/191962
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD²" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7 FHD²
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/144701
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7³" tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="PREMIERE",PREMIERE 7³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192153
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8³" tvg-logo="http://dns.ulttv.xyz/i/premiere8.png" group-title="PREMIERE",PREMIERE 8³
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/192154
+#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6938
+#EXTINF:-1 tvg-name="Premiere Clubes FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/16830
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6900
+#EXTINF:-1 tvg-name="Premiere Clubes HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6513
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6417
+#EXTINF:-1 tvg-name="Premiere Clubes SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10710
+#EXTINF:-1 tvg-name="Premiere Clubes 2 FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 2 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/21134
+#EXTINF:-1 tvg-name="Premiere Clubes 2 FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 2 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35425
+#EXTINF:-1 tvg-name="Premiere Clubes 2 HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 2 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6512
+#EXTINF:-1 tvg-name="Premiere Clubes 2 HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 2 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6514
+#EXTINF:-1 tvg-name="Premiere Clubes 2 SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 2 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6416
+#EXTINF:-1 tvg-name="Premiere Clubes 2 SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 2 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10720
+#EXTINF:-1 tvg-name="Premiere Clubes 3 FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 3 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6921
+#EXTINF:-1 tvg-name="Premiere Clubes 3 FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 3 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/16831
+#EXTINF:-1 tvg-name="Premiere Clubes 3 HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 3 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6511
+#EXTINF:-1 tvg-name="Premiere Clubes 3 HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 3 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6895
+#EXTINF:-1 tvg-name="Premiere Clubes 3 SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 3 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6415
+#EXTINF:-1 tvg-name="Premiere Clubes 3 SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 3 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10719
+#EXTINF:-1 tvg-name="Premiere Clubes 4 FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 4 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/15376
+#EXTINF:-1 tvg-name="Premiere Clubes 4 FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 4 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35424
+#EXTINF:-1 tvg-name="Premiere Clubes 4 HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 4 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6510
+#EXTINF:-1 tvg-name="Premiere Clubes 4 HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 4 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10717
+#EXTINF:-1 tvg-name="Premiere Clubes 4 SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 4 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6414
+#EXTINF:-1 tvg-name="Premiere Clubes 4 SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 4 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10718
+#EXTINF:-1 tvg-name="Premiere Clubes 5 FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 5 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/21133
+#EXTINF:-1 tvg-name="Premiere Clubes 5 FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 5 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100453
+#EXTINF:-1 tvg-name="Premiere Clubes 5 HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 5 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6509
+#EXTINF:-1 tvg-name="Premiere Clubes 5 HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 5 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10715
+#EXTINF:-1 tvg-name="Premiere Clubes 5 SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 5 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6413
+#EXTINF:-1 tvg-name="Premiere Clubes 5 SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 5 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10716
+#EXTINF:-1 tvg-name="Premiere Clubes 6 FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 6 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/21132
+#EXTINF:-1 tvg-name="Premiere Clubes 6 FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 6 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100450
+#EXTINF:-1 tvg-name="Premiere Clubes 6 HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 6 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6508
+#EXTINF:-1 tvg-name="Premiere Clubes 6 HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 6 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35396
+#EXTINF:-1 tvg-name="Premiere Clubes 6 SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 6 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6412
+#EXTINF:-1 tvg-name="Premiere Clubes 6 SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 6 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10714
+#EXTINF:-1 tvg-name="Premiere Clubes 7 FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 7 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/21131
+#EXTINF:-1 tvg-name="Premiere Clubes 7 FHD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 7 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100451
+#EXTINF:-1 tvg-name="Premiere Clubes 7 HD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 7 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6507
+#EXTINF:-1 tvg-name="Premiere Clubes 7 HD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 7 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35395
+#EXTINF:-1 tvg-name="Premiere Clubes 7 SD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 7 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6411
+#EXTINF:-1 tvg-name="Premiere Clubes 7 SD²" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 7 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10713
+#EXTINF:-1 tvg-name="Premiere Clubes 8" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes 8
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/61088
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES TNT.xml "
  ############## CANAIS  ESPORTES TNT ############## ### 
@@ -2718,6 +2746,579 @@ http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
 http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
 
+#EXTM3U url-tvg="http://grade-de-Filmes UHD 4K.xml"
+############## Filmes UHD 4K ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes UHD 4K" group-title="
+
+#EXTINF:-1 tvg-name="15h17 - Trem Para Paris - - 2018 UHD 4K" tvg-logo="http://urlon.me/OGQ" group-title="UHD 4K",15h17 - Trem Para Paris - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61265.mp4
+#EXTINF:-1 tvg-name="1917 - 2019 UHD 4k" tvg-logo="http://urlon.me/ZgYYxb" group-title="UHD 4K",1917 - 2019 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/81650.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYZY" group-title="UHD 4K",A Dama e o Vagabundo - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/73173.mp4
+#EXTINF:-1 tvg-name="A Extraordinária Garota Chamada Estrela - 2020 UHD 4K" tvg-logo="http://urlon.me/ZgYYJF" group-title="UHD 4K",A Extraordinária Garota Chamada Estrela - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76302.mp4
+#EXTINF:-1 tvg-name="A Freira - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg" group-title="UHD 4K",A Freira - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61266.mp4
+#EXTINF:-1 tvg-name="A Mula - 2018 UHD 4K" tvg-logo="http://urlon.me/OGV" group-title="UHD 4K",A Mula - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61278.mp4
+#EXTINF:-1 tvg-name="A Terra e o Sangue uhd 4k - 2020" tvg-logo="" group-title="UHD 4K",A Terra e o Sangue uhd 4k - 2020
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/126588.mp4
+#EXTINF:-1 tvg-name="Abominável - 2019 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg" group-title="UHD 4K",Abominável - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65324.mp4
+#EXTINF:-1 tvg-name="Ad Astra - Rumo às Estrelas - 2019 4K" tvg-logo="http://urlon.me/ZgY1j7" group-title="UHD 4K",Ad Astra - Rumo às Estrelas - 2019 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65319.mp4
+#EXTINF:-1 tvg-name="Adao Negro - 2022 UHD 4K" tvg-logo="http://5ce.me:80/images/9z256FFPDsL7kSVJ9oyLELaN1ph_big.jpg" group-title="UHD 4K",Adao Negro - 2022 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/215163.mp4
+#EXTINF:-1 tvg-name="Aladdin - 2019 UHD 4K" tvg-logo="http://urlon.me/O3U" group-title="UHD 4K",Aladdin - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61023.mp4
+#EXTINF:-1 tvg-name="Alita: Anjo de Combate  - 2019 UHD 4K" tvg-logo="http://urlon.me/OG2" group-title="UHD 4K",Alita: Anjo de Combate  - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61280.mp4
+#EXTINF:-1 tvg-name="Angry Birds 2: O Filme  - 2019 UHD 4K" tvg-logo="http://urlon.me/OGW" group-title="UHD 4K",Angry Birds 2: O Filme  - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61281.mp4
+#EXTINF:-1 tvg-name="Anna - O Perigo Tem Nome - - 2019 UHD 4K" tvg-logo="http://urlon.me/OGI" group-title="UHD 4K",Anna - O Perigo Tem Nome - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61282.mp4
+#EXTINF:-1 tvg-name="Annabelle 3: De Volta Para Casa - - 2019 UHD 4K" tvg-logo="http://urlon.me/OGa" group-title="UHD 4K",Annabelle 3: De Volta Para Casa - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61283.mp4
+#EXTINF:-1 tvg-name="Apollo 11 - 2019 UHD 4K" tvg-logo="http://urlon.me/OBj" group-title="UHD 4K",Apollo 11 - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65323.mp4
+#EXTINF:-1 tvg-name="Aquaman - - 2018 UHD 4K" tvg-logo="http://urlon.me/OGr" group-title="UHD 4K",Aquaman - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61284.mp4
+#EXTINF:-1 tvg-name="As Golpistas - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYJQ" group-title="UHD 4K",As Golpistas - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76303.mp4
+#EXTINF:-1 tvg-name="As Viúvas - - 2018 UHD 4K" tvg-logo="http://urlon.me/OGo" group-title="UHD 4K",As Viúvas - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61285.mp4
+#EXTINF:-1 tvg-name="ASAVENTURASDEJACKCHAN" tvg-logo="" group-title="UHD 4K",ASAVENTURASDEJACKCHAN
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/81954.mp4
+#EXTINF:-1 tvg-name="As Meninas Superpoderosas  O Filme - 2022 UHD 4K" tvg-logo="http://5ce.co:80/images/fYQIXrPHtYSSBm9IQkCuWaWEBVo_big.jpg" group-title="UHD 4K",As Meninas Superpoderosas  O Filme - 2022 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/81955.mp4
+#EXTINF:-1 tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - 2020 UHD 4K" tvg-logo="http://urlon.me/ZgYYJG" group-title="UHD 4K",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76301.mp4
+#EXTINF:-1 tvg-name="Bad Boys Para Sempre - 2020 UHD 4K" tvg-logo="http://urlon.me/ZgYYJ0" group-title="UHD 4K",Bad Boys Para Sempre - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76310.mp4
+#EXTINF:-1 tvg-name="Batman: O Cavaleiro das Trevas - 2008 UHD 4K" tvg-logo="http://urlon.me/ZgY17b" group-title="UHD 4K",Batman: O Cavaleiro das Trevas - 2008 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61286.mp4
+#EXTINF:-1 tvg-name="Bird box - 2018 UHD 4K" tvg-logo="http://urlon.me/ZgYGY3" group-title="UHD 4K",Bird box - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61287.mp4
+#EXTINF:-1 tvg-name="Blade Runner 2049 - - 2017 UHD 4K" tvg-logo="http://urlon.me/O7g" group-title="UHD 4K",Blade Runner 2049 - - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61289.mp4
+#EXTINF:-1 tvg-name="Bloodshot - 2020 UHD 4K" tvg-logo="http://urlon.me/ZgYYJq" group-title="UHD 4K",Bloodshot - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76304.mp4
+#EXTINF:-1 tvg-name="Bumblebee - - 2018 UHD 4K" tvg-logo="http://urlon.me/O76" group-title="UHD 4K",Bumblebee - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61290.mp4
+#EXTINF:-1 tvg-name="Campo do Medo - 2019" tvg-logo="http://urlon.me/ZgY1Ay" group-title="UHD 4K",Campo do Medo - 2019
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/67819.mp4
+#EXTINF:-1 tvg-name="Capitã Marvel - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7d" group-title="UHD 4K",Capitã Marvel - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61291.mp4
+#EXTINF:-1 tvg-name="Cinquenta Tons de Liberdade - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ9J66C5UwHy3YUIi1Hm34ISnk7.jpg" group-title="UHD 4K",Cinquenta Tons de Liberdade - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61292.mp4
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão 3 - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7X" group-title="UHD 4K",Como Treinar o Seu Dragão 3 - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61293.mp4
+#EXTINF:-1 tvg-name="Consequências - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7J" group-title="UHD 4K",Consequências - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61294.mp4
+#EXTINF:-1 tvg-name="Coringa - - 2019 UHD 4K" tvg-logo="http://urlon.me/OFM" group-title="UHD 4K",Coringa - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61332.mp4
+#EXTINF:-1 tvg-name="Coringa - 2019 UHD 4K" tvg-logo="http://urlon.me/OB7" group-title="UHD 4K",Coringa - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65320.mp4
+#EXTINF:-1 tvg-name="Creed II - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7U" group-title="UHD 4K",Creed II - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61295.mp4
+#EXTINF:-1 tvg-name="Deadpool - 2016 UHD 4K" tvg-logo="http://urlon.me/ZgYMcf" group-title="UHD 4K",Deadpool - 2016 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61046.mp4
+#EXTINF:-1 tvg-name="Deadpool 2 - 2018 UHD 4k" tvg-logo="http://urlon.me/O3E" group-title="UHD 4K",Deadpool 2 - 2018 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61047.mp4
+#EXTINF:-1 tvg-name="Desejo de Matar - - 2018 UHD 4K" tvg-logo="http://urlon.me/O73" group-title="UHD 4K",Desejo de Matar - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61296.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho - 2016 UHD 4K" tvg-logo="http://urlon.me/ZgYMp5" group-title="UHD 4K",Doutor Estranho - 2016 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61297.mp4
+#EXTINF:-1 tvg-name="Entre Facas e Segredos - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYJl" group-title="UHD 4K",Entre Facas e Segredos - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76305.mp4
+#EXTINF:-1 tvg-name="Estrada Sem Lei - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7G" group-title="UHD 4K",Estrada Sem Lei - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61298.mp4
+#EXTINF:-1 tvg-name="Ford vs Ferrari - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgY1SU" group-title="UHD 4K",Ford vs Ferrari - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/72728.mp4
+#EXTINF:-1 tvg-name="Fúria em Alto Mar - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7F" group-title="UHD 4K",Fúria em Alto Mar - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61299.mp4
+#EXTINF:-1 tvg-name="Godzilla II: Rei dos Monstros - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7Q" group-title="UHD 4K",Godzilla II: Rei dos Monstros - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61300.mp4
+#EXTINF:-1 tvg-name="Goosebumps: Monstros e Arrepios - 2015 UHD 4K" tvg-logo="http://urlon.me/OCn" group-title="UHD 4K",Goosebumps: Monstros e Arrepios - 2015 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65274.mp4
+#EXTINF:-1 tvg-name="Green Book: O Guia - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaosA7NFPYBDueQ3X3SkADN6aS.jpg" group-title="UHD 4K",Green Book: O Guia - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65275.mp4
+#EXTINF:-1 tvg-name="Guardiões da Galáxia - 2014 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="UHD 4K",Guardiões da Galáxia - 2014 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61301.mp4
+#EXTINF:-1 tvg-name="Halloween - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7k" group-title="UHD 4K",Halloween - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61303.mp4
+#EXTINF:-1 tvg-name="Halloween - 2018 UHD 4K" tvg-logo="http://urlon.me/OCS" group-title="UHD 4K",Halloween - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65276.mp4
+#EXTINF:-1 tvg-name="Han Solo - Uma Historia Star Wars - 2018 UHD 4K" tvg-logo="http://5ce.co:80/images/jAMEX0syUh6sbjBiysibzrFpbo_big.jpg" group-title="UHD 4K",Han Solo - Uma Historia Star Wars - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/209184.mp4
+#EXTINF:-1 tvg-name="Han Solo: Uma História Star Wars - - 2018 UHD 4K" tvg-logo="http://urlon.me/O78" group-title="UHD 4K",Han Solo: Uma História Star Wars - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61304.mp4
+#EXTINF:-1 tvg-name="Harry Potter e a Câmara Secreta - - 2002 UHD 4K" tvg-logo="http://urlon.me/OPs" group-title="UHD 4K",Harry Potter e a Câmara Secreta - - 2002 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/60984.mp4
+#EXTINF:-1 tvg-name="Harry Potter e a Ordem da Fénix - 2007 UHD 4K" tvg-logo="http://urlon.me/O13" group-title="UHD 4K",Harry Potter e a Ordem da Fénix - 2007 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61067.mp4
+#EXTINF:-1 tvg-name="Harry Potter e a Pedra Filosofal - - 2001 UHD 4K" tvg-logo="http://urlon.me/OPD" group-title="UHD 4K",Harry Potter e a Pedra Filosofal - - 2001 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/60983.mp4
+#EXTINF:-1 tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="UHD 4K",Harry Potter e as Relíquias da Morte - Parte 1 - 2010
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61078.mp4
+#EXTINF:-1 tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 - - 2011 UHD 4K" tvg-logo="http://urlon.me/O18" group-title="UHD 4K",Harry Potter e as Relíquias da Morte - Parte 2 - - 2011 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61079.mp4
+#EXTINF:-1 tvg-name="Harry Potter e o Cálice de Fogo - 2005 UHD 4K" tvg-logo="http://urlon.me/O1U" group-title="UHD 4K",Harry Potter e o Cálice de Fogo - 2005 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61066.mp4
+#EXTINF:-1 tvg-name="Harry Potter e o Enigma do Príncipe - - 2009 UHD 4K" tvg-logo="http://urlon.me/O1G" group-title="UHD 4K",Harry Potter e o Enigma do Príncipe - - 2009 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61069.mp4
+#EXTINF:-1 tvg-name="Harry Potter E O Prisioneiro De Azkaban - 2004  UHD 4k" tvg-logo="http://urlon.me/O1g" group-title="UHD 4K",Harry Potter E O Prisioneiro De Azkaban - 2004  UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61048.mp4
+#EXTINF:-1 tvg-name="Hellboy - 2004 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSzF4WqCDVphxiOlpLGufqJc6j.jpg" group-title="UHD 4K",Hellboy - 2004 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61302.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha Longe de Casa - 2019 UHD 4k" tvg-logo="http://urlon.me/O30" group-title="UHD 4K",Homem-Aranha Longe de Casa - 2019 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61035.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha no Aranhaverso - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7t" group-title="UHD 4K",Homem-Aranha no Aranhaverso - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61306.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha: De Volta ao Lar - 2017 UHD 4K" tvg-logo="http://urlon.me/OIZ" group-title="UHD 4K",Homem-Aranha: De Volta ao Lar - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65277.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha: Longe de Casa - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7w" group-title="UHD 4K",Homem-Aranha: Longe de Casa - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61305.mp4
+#EXTINF:-1 tvg-name="Homem-Formiga e a Vespa - - 2018 UHD 4K" tvg-logo="http://urlon.me/O70" group-title="UHD 4K",Homem-Formiga e a Vespa - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61307.mp4
+#EXTINF:-1 tvg-name="Hotel Artemis - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7c" group-title="UHD 4K",Hotel Artemis - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61308.mp4
+#EXTINF:-1 tvg-name="Infiltrado Na Klan - - 2018 UHD 4K" tvg-logo="http://urlon.me/OGE" group-title="UHD 4K",Infiltrado Na Klan - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61288.mp4
+#EXTINF:-1 tvg-name="Interestelar - 2014 UHD 4K" tvg-logo="http://urlon.me/ZgYMVA" group-title="UHD 4K",Interestelar - 2014 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61310.mp4
+#EXTINF:-1 tvg-name="Invasão ao Serviço Secreto - 2019 UHD 4K" tvg-logo="http://urlon.me/OBf" group-title="UHD 4K",Invasão ao Serviço Secreto - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65325.mp4
+#EXTINF:-1 tvg-name="Isi e Ossi - 2020 UHD 4K" tvg-logo="http://5ce.co:80/images/bZ7H0kCwEM6CQ0dyCs2H4RkU130_big.jpg" group-title="UHD 4K",Isi e Ossi - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/135206.mp4
+#EXTINF:-1 tvg-name="It: Capítulo Dois - 2019 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kELuciNhApVGJiQDJHzC7Okbu1S.jpg" group-title="UHD 4K",It: Capítulo Dois - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61311.mp4
+#EXTINF:-1 tvg-name="Jogador N° 1 - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7W" group-title="UHD 4K",Jogador N° 1 - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61312.mp4
+#EXTINF:-1 tvg-name="John Wick 3: Parabellum - - 2019 UHD 4K" tvg-logo="http://urlon.me/O7I" group-title="UHD 4K",John Wick 3: Parabellum - - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61313.mp4
+#EXTINF:-1 tvg-name="Jumanji: Próxima Fase - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYJc" group-title="UHD 4K",Jumanji: Próxima Fase - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76311.mp4
+#EXTINF:-1 tvg-name="Jurassic World Reino Ameaçado - 2018 UHD 4k" tvg-logo="http://urlon.me/O3r" group-title="UHD 4K",Jurassic World Reino Ameaçado - 2018 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61043.mp4
+#EXTINF:-1 tvg-name="Jurassic World: Reino Ameaçado - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7a" group-title="UHD 4K",Jurassic World: Reino Ameaçado - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61314.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça - - 2017 UHD 4K" tvg-logo="http://urlon.me/O7r" group-title="UHD 4K",Liga da Justiça - - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61315.mp4
+#EXTINF:-1 tvg-name="Logan - 2017 UHD 4K" tvg-logo="http://urlon.me/OIh" group-title="UHD 4K",Logan - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65278.mp4
+#EXTINF:-1 tvg-name="Lucy - 2014 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="UHD 4K",Lucy - 2014 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65279.mp4
+#EXTINF:-1 tvg-name="Malévola: Dona do Mal - 2019 UHD 4K" tvg-logo="http://urlon.me/OBy" group-title="UHD 4K",Malévola: Dona do Mal - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65322.mp4
+#EXTINF:-1 tvg-name="Máquinas Mortais - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="UHD 4K",Máquinas Mortais - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65280.mp4
+#EXTINF:-1 tvg-name="Megatubarão - 2018" tvg-logo="http://urlon.me/OI9" group-title="UHD 4K",Megatubarão - 2018
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65281.mp4
+#EXTINF:-1 tvg-name="MIB: Homens de Preto - Internacional - 2019 UHD 4K" tvg-logo="http://urlon.me/OIT" group-title="UHD 4K",MIB: Homens de Preto - Internacional - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65282.mp4
+#EXTINF:-1 tvg-name="Millennium: A Garota na Teia de Aranha - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" group-title="UHD 4K",Millennium: A Garota na Teia de Aranha - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65283.mp4
+#EXTINF:-1 tvg-name="Missão: Impossível - Efeito Fallout - 2018 UHD 4K" tvg-logo="http://urlon.me/OIP" group-title="UHD 4K",Missão: Impossível - Efeito Fallout - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65284.mp4
+#EXTINF:-1 tvg-name="Morbius - 2022 UHD 4K" tvg-logo="http://5ce.co:80/images/h4WLN3cmEjCsH1fNGRfvGV6IPBX_big.jpg" group-title="UHD 4K",Morbius - 2022 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/206960.mp4
+#EXTINF:-1 tvg-name="Mulher-Maravilha - 2017 UHD 4K" tvg-logo="http://urlon.me/OI1" group-title="UHD 4K",Mulher-Maravilha - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65285.mp4
+#EXTINF:-1 tvg-name="Nasce Uma Estrela - 2018 UHD 4K" tvg-logo="http://urlon.me/OIM" group-title="UHD 4K",Nasce Uma Estrela - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65286.mp4
+#EXTINF:-1 tvg-name="No Olho do Furacão - 2018 UHD 4K" tvg-logo="http://urlon.me/OI7" group-title="UHD 4K",No Olho do Furacão - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65287.mp4
+#EXTINF:-1 tvg-name="Nós - 2018 UHD 4K" tvg-logo="http://urlon.me/OIv" group-title="UHD 4K",Nós - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65288.mp4
+#EXTINF:-1 tvg-name="O Banqueiro - 2020 UHD 4K" tvg-logo="http://urlon.me/ZgYYJa" group-title="UHD 4K",O Banqueiro - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76891.mp4
+#EXTINF:-1 tvg-name="O Exterminador do Futuro: Destino Sombrio - 2019 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="UHD 4K",O Exterminador do Futuro: Destino Sombrio - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65326.mp4
+#EXTINF:-1 tvg-name="O Grinch - 2018 UHD 4K" tvg-logo="http://urlon.me/OIy" group-title="UHD 4K",O Grinch - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65289.mp4
+#EXTINF:-1 tvg-name="O Menino Que Queria Ser Rei - 2019 UHD 4K" tvg-logo="http://urlon.me/OIj" group-title="UHD 4K",O Menino Que Queria Ser Rei - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65290.mp4
+#EXTINF:-1 tvg-name="O Mistério do Relógio na Parede - 2018 UHD 4K" tvg-logo="http://urlon.me/OIK" group-title="UHD 4K",O Mistério do Relógio na Parede - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65291.mp4
+#EXTINF:-1 tvg-name="O Primeiro Homem - 2018 UHD 4K" tvg-logo="http://urlon.me/OIf" group-title="UHD 4K",O Primeiro Homem - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65292.mp4
+#EXTINF:-1 tvg-name="O Projeto Adam - 2022 UHD 4K" tvg-logo="http://5ce.co:80/images/11MJy6lkt7yTEIowEPIkaK4B7lM_big.jpg" group-title="UHD 4K",O Projeto Adam - 2022 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/207514.mp4
+#EXTINF:-1 tvg-name="O Protetor 2 - 2018 UHD 4K" tvg-logo="http://urlon.me/OIz" group-title="UHD 4K",O Protetor 2 - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65293.mp4
+#EXTINF:-1 tvg-name="O Quebra-Nozes e os Quatro Reinos - 2018 UHD 4K" tvg-logo="http://urlon.me/OIi" group-title="UHD 4K",O Quebra-Nozes e os Quatro Reinos - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65294.mp4
+#EXTINF:-1 tvg-name="O Rei Leão - 2019 UHD 4K" tvg-logo="http://urlon.me/OIx" group-title="UHD 4K",O Rei Leão - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65295.mp4
+#EXTINF:-1 tvg-name="O Retorno de Mary Poppins - 2018 UHD 4K" tvg-logo="http://urlon.me/OIA" group-title="UHD 4K",O Retorno de Mary Poppins - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65296.mp4
+#EXTINF:-1 tvg-name="Os Incríveis 2 - - 2018 UHD 4K" tvg-logo="http://urlon.me/O7p" group-title="UHD 4K",Os Incríveis 2 - - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61309.mp4
+#EXTINF:-1 tvg-name="Pantera Negra - 2018 UHD 4K" tvg-logo="http://urlon.me/OIu" group-title="UHD 4K",Pantera Negra - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65297.mp4
+#EXTINF:-1 tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você - 2020 UHD 4K" tvg-logo="http://urlon.me/ZgYYJr" group-title="UHD 4K",Para Todos os Garotos: P.S. Ainda Amo Você - 2020 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76892.mp4
+#EXTINF:-1 tvg-name="Perdido em Marte - 2015 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg" group-title="UHD 4K",Perdido em Marte - 2015 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65298.mp4
+#EXTINF:-1 tvg-name="Pokémon: Detetive Pikachu - 2019 UHD 4K" tvg-logo="http://urlon.me/OIs" group-title="UHD 4K",Pokémon: Detetive Pikachu - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65299.mp4
+#EXTINF:-1 tvg-name="Polar - 2019 UHD 4K" tvg-logo="http://urlon.me/OIR" group-title="UHD 4K",Polar - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65300.mp4
+#EXTINF:-1 tvg-name="Rampage: Destruição Total - 2018 UHD 4K" tvg-logo="http://urlon.me/OIC" group-title="UHD 4K",Rampage: Destruição Total - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65301.mp4
+#EXTINF:-1 tvg-name="Robin Hood: A Origem - 2018 UHD 4k" tvg-logo="http://urlon.me/O3I" group-title="UHD 4K",Robin Hood: A Origem - 2018 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61041.mkv
+#EXTINF:-1 tvg-name="Shazam! - 2019 UHD 4k" tvg-logo="http://urlon.me/O3W" group-title="UHD 4K",Shazam! - 2019 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61040.mp4
+#EXTINF:-1 tvg-name="Sonic: O Filme - 2020 UHD 4k" tvg-logo="http://urlon.me/ZgYYxe" group-title="UHD 4K",Sonic: O Filme - 2020 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/81649.mp4
+#EXTINF:-1 tvg-name="Star Wars - A Ascensão Skywalker - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYJo" group-title="UHD 4K",Star Wars - A Ascensão Skywalker - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76893.mp4
+#EXTINF:-1 tvg-name="Superação: O Milagre da Fé - 2019 UHD 4K" tvg-logo="http://urlon.me/OIN" group-title="UHD 4K",Superação: O Milagre da Fé - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65303.mp4
+#EXTINF:-1 tvg-name="Te Peguei! - 2018 UHD 4K" tvg-logo="http://urlon.me/OIe" group-title="UHD 4K",Te Peguei! - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65304.mp4
+#EXTINF:-1 tvg-name="Thor: Ragnarok - 2017 UHD 4K" tvg-logo="http://urlon.me/OIb" group-title="UHD 4K",Thor: Ragnarok - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65305.mp4
+#EXTINF:-1 tvg-name="Titanic - 1997 UHD 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwRgiAjXREMbfr270MDZ73kQqIf.jpg" group-title="UHD 4K",Titanic - 1997 UHD 4k
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/61025.mp4
+#EXTINF:-1 tvg-name="Togo - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYJt" group-title="UHD 4K",Togo - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76309.mp4
+#EXTINF:-1 tvg-name="Tomb Raider: A Origem - 2018 UHD 4K" tvg-logo="http://urlon.me/OIn" group-title="UHD 4K",Tomb Raider: A Origem - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65306.mp4
+#EXTINF:-1 tvg-name="Toy Story 4 - 2019 UHD 4K" tvg-logo="http://urlon.me/OIH" group-title="UHD 4K",Toy Story 4 - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65307.mp4
+#EXTINF:-1 tvg-name="Transformers: O Último Cavaleiro - 2017 UHD 4K" tvg-logo="http://urlon.me/OIS" group-title="UHD 4K",Transformers: O Último Cavaleiro - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65308.mp4
+#EXTINF:-1 tvg-name="Um Espião Animal - 2019 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg" group-title="UHD 4K",Um Espião Animal - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76307.mp4
+#EXTINF:-1 tvg-name="Um Lindo Dia na Vizinhança - 2019 UHD 4K" tvg-logo="http://urlon.me/ZgYYJw" group-title="UHD 4K",Um Lindo Dia na Vizinhança - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76308.mp4
+#EXTINF:-1 tvg-name="Um Lugar Silencioso - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg" group-title="UHD 4K",Um Lugar Silencioso - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/133834.mp4
+#EXTINF:-1 tvg-name="Valerian e a Cidade dos Mil Planetas - 2017 UHD 4K" tvg-logo="http://urlon.me/ZgYYJk" group-title="UHD 4K",Valerian e a Cidade dos Mil Planetas - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/76306.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos: Hobbs & Shaw - 2019 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="UHD 4K",Velozes e Furiosos: Hobbs & Shaw - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65310.mp4
+#EXTINF:-1 tvg-name="Venom - 2018 UHD 4K" tvg-logo="http://urlon.me/OBO" group-title="UHD 4K",Venom - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65311.mp4
+#EXTINF:-1 tvg-name="Venom: Tempo de Carnificina - 2021 UHD 4K" tvg-logo="http://5ce.co:80/images/h5UzYZquMwO9FVn15R2eK2itmHu_big.jpg" group-title="UHD 4K",Venom: Tempo de Carnificina - 2021 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/196883.mp4
+#EXTINF:-1 tvg-name="Vida - 2017 UHD 4K" tvg-logo="http://urlon.me/OB9" group-title="UHD 4K",Vida - 2017 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65312.mp4
+#EXTINF:-1 tvg-name="Vidro - 2019 UHD 4K" tvg-logo="http://urlon.me/OBT" group-title="UHD 4K",Vidro - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65313.mp4
+#EXTINF:-1 tvg-name="Vingadores: Guerra Infinita - 2018 UHD 4K" tvg-logo="http://urlon.me/OBm" group-title="UHD 4K",Vingadores: Guerra Infinita - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65314.mp4
+#EXTINF:-1 tvg-name="Vingadores: Ultimato - 2019 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="UHD 4K",Vingadores: Ultimato - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65315.mp4
+#EXTINF:-1 tvg-name="White Boy Rick - 2018 UHD 4K" tvg-logo="http://urlon.me/OB1" group-title="UHD 4K",White Boy Rick - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65316.mp4
+#EXTINF:-1 tvg-name="WiFi Ralph: Quebrando a Internet - 2018 UHD 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg" group-title="UHD 4K",WiFi Ralph: Quebrando a Internet - 2018 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65317.mp4
+#EXTINF:-1 tvg-name="X-Men: Fênix Negra - 2019 UHD 4K" tvg-logo="http://urlon.me/OBM" group-title="UHD 4K",X-Men: Fênix Negra - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65318.mp4
+#EXTINF:-1 tvg-name="Zumbilândia: Atire Duas Vezes - 2019 UHD 4K" tvg-logo="http://urlon.me/OBv" group-title="UHD 4K",Zumbilândia: Atire Duas Vezes - 2019 UHD 4K
+ http://5ce.co:80/movie/ndplay33719830/21503n38vgj79/65321.mp4
+
+#EXTM3U url-tvg="http://grade-de-CINE SKY.xml"
+##############CINE SKY ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCINE SKY" group-title="
+
+#EXTINF:-1 tvg-name="Cine SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 1
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122135
+#EXTINF:-1 tvg-name="Cine SKY 1²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 1²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/95848
+#EXTINF:-1 tvg-name="Cine SKY 2" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 2
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122136
+#EXTINF:-1 tvg-name="Cine SKY 2²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 2²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/95849
+#EXTINF:-1 tvg-name="Cine SKY 3" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 3
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122137
+#EXTINF:-1 tvg-name="Cine SKY 3²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 3²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/95850
+#EXTINF:-1 tvg-name="Cine SKY 4" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 4
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122138
+#EXTINF:-1 tvg-name="Cine SKY 4²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 4²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/95851
+#EXTINF:-1 tvg-name="Cine SKY 5" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 5
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122139
+#EXTINF:-1 tvg-name="Cine SKY 5²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 5²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/95852
+#EXTINF:-1 tvg-name="Cine SKY 6" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 6
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122140
+#EXTINF:-1 tvg-name="Cine SKY 6²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 6²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/98443
+#EXTINF:-1 tvg-name="Cine SKY 7" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 7
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122141
+#EXTINF:-1 tvg-name="Cine SKY 7²" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 7²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/98444
+#EXTINF:-1 tvg-name="Cine SKY 8" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 8
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122142
+#EXTINF:-1 tvg-name="Cine SKY 9" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 9
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/122143
+
+#EXTM3U url-tvg="http://grade-de-YOUTUBE 24 HORAS.xml"
+############## YOUTUBE 24 HORAS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeYOUTUBE 24 HORAS" group-title="
+
+#EXTINF:-1 tvg-name="Pegadinhas Jalals" tvg-logo="https://i.imgur.com/xvFoIpK.jpg" group-title="YOUTUBE 24 HORAS",Pegadinhas Jalals
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/118899
+#EXTINF:-1 tvg-name="ZE PEQUENO DO POVO" tvg-logo="http://70.ms/ZgY3ID" group-title="YOUTUBE 24 HORAS",ZE PEQUENO DO POVO
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155636
+#EXTINF:-1 tvg-name="WEBBULLYING" tvg-logo="http://70.ms/ZgY3IV" group-title="YOUTUBE 24 HORAS",WEBBULLYING
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155635
+#EXTINF:-1 tvg-name="Voce Sabia part 2" tvg-logo="http://70.ms/ZgY3Is" group-title="YOUTUBE 24 HORAS",Voce Sabia part 2
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155634
+#EXTINF:-1 tvg-name="Voce Sabia part 1" tvg-logo="http://70.ms/ZgY3I2" group-title="YOUTUBE 24 HORAS",Voce Sabia part 1
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155633
+#EXTINF:-1 tvg-name="Voce na TV" tvg-logo="http://70.ms/ZgY3IR" group-title="YOUTUBE 24 HORAS",Voce na TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155632
+#EXTINF:-1 tvg-name="South America Memes" tvg-logo="http://70.ms/ZgY3IW" group-title="YOUTUBE 24 HORAS",South America Memes
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155631
+#EXTINF:-1 tvg-name="Refugio Mental" tvg-logo="http://70.ms/ZgY3IC" group-title="YOUTUBE 24 HORAS",Refugio Mental
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155630
+#EXTINF:-1 tvg-name="Rabisco" tvg-logo="http://70.ms/ZgY3II" group-title="YOUTUBE 24 HORAS",Rabisco
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155629
+#EXTINF:-1 tvg-name="Porta dos Fundos" tvg-logo="http://70.ms/ZgY3IB" group-title="YOUTUBE 24 HORAS",Porta dos Fundos
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155628
+#EXTINF:-1 tvg-name="Parafernalha" tvg-logo="http://70.ms/ZgY3Ia" group-title="YOUTUBE 24 HORAS",Parafernalha
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155627
+#EXTINF:-1 tvg-name="PANICO TROLLAGENS" tvg-logo="http://70.ms/ZgY3IN" group-title="YOUTUBE 24 HORAS",PANICO TROLLAGENS
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155626
+#EXTINF:-1 tvg-name="Pagode da Ofensa na Web" tvg-logo="http://70.ms/ZgY3Ir" group-title="YOUTUBE 24 HORAS",Pagode da Ofensa na Web
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155625
+#EXTINF:-1 tvg-name="Na CorreRia" tvg-logo="http://70.ms/ZgY3Ie" group-title="YOUTUBE 24 HORAS",Na CorreRia
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155624
+#EXTINF:-1 tvg-name="MixReynold" tvg-logo="http://70.ms/ZgY3Io" group-title="YOUTUBE 24 HORAS",MixReynold
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155623
+#EXTINF:-1 tvg-name="MASTER TRASH e PANICO CHEF" tvg-logo="http://70.ms/ZgY3Ib" group-title="YOUTUBE 24 HORAS",MASTER TRASH e PANICO CHEF
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155622
+#EXTINF:-1 tvg-name="John Leitao" tvg-logo="http://70.ms/ZgY3I4" group-title="YOUTUBE 24 HORAS",John Leitao
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155621
+#EXTINF:-1 tvg-name="INCRIVEL" tvg-logo="http://70.ms/ZgY3In" group-title="YOUTUBE 24 HORAS",INCRIVEL
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155620
+#EXTINF:-1 tvg-name="Gerson Albuquerque" tvg-logo="http://70.ms/ZgY3IL" group-title="YOUTUBE 24 HORAS",Gerson Albuquerque
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155619
+#EXTINF:-1 tvg-name="FitDance" tvg-logo="http://70.ms/ZgY3IH" group-title="YOUTUBE 24 HORAS",FitDance
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155618
+#EXTINF:-1 tvg-name="Fatos Insanos" tvg-logo="http://70.ms/ZgY3IE" group-title="YOUTUBE 24 HORAS",Fatos Insanos
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155617
+#EXTINF:-1 tvg-name="Fatos Desconhecidos" tvg-logo="http://70.ms/ZgY3IS" group-title="YOUTUBE 24 HORAS",Fatos Desconhecidos
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155616
+#EXTINF:-1 tvg-name="Encrenca RedeTV" tvg-logo="http://70.ms/ZgY3BZ" group-title="YOUTUBE 24 HORAS",Encrenca RedeTV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155615
+#EXTINF:-1 tvg-name="Edu Primitivo" tvg-logo="http://70.ms/ZgY3BZ" group-title="YOUTUBE 24 HORAS",Edu Primitivo
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155614
+#EXTINF:-1 tvg-name="Dramaturgia Panico na TV" tvg-logo="http://70.ms/ZgY3B6" group-title="YOUTUBE 24 HORAS",Dramaturgia Panico na TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155613
+#EXTINF:-1 tvg-name="Ciencia Todo Dia" tvg-logo="http://70.ms/ZgY3Bh" group-title="YOUTUBE 24 HORAS",Ciencia Todo Dia
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155612
+#EXTINF:-1 tvg-name="Carol kyoko" tvg-logo="http://70.ms/ZgY3Bd" group-title="YOUTUBE 24 HORAS",Carol kyoko
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155611
+#EXTINF:-1 tvg-name="BOOM" tvg-logo="http://70.ms/ZgY3BO" group-title="YOUTUBE 24 HORAS",BOOM
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155610
+#EXTINF:-1 tvg-name="Barbixas" tvg-logo="http://70.ms/ZgY3B5" group-title="YOUTUBE 24 HORAS",Barbixas
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155609
+#EXTINF:-1 tvg-name="5 Alguma Coisa" tvg-logo="http://70.ms/ZgY3BX" group-title="YOUTUBE 24 HORAS",5 Alguma Coisa
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155608
+#EXTINF:-1 tvg-name="PARTOBA" tvg-logo="http://70.ms/ZgY3oD" group-title="YOUTUBE 24 HORAS",PARTOBA
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/155606
+
+#EXTM3U url-tvg="http://grade-de-VARIEDADES.xml"
+############## VARIEDADES ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeVARIEDADES" group-title="
+
+#EXTINF:-1 tvg-name="Sabor e Arte HD" tvg-logo="https://i.imgur.com/TiWLqlx.png" group-title="VARIEDADES",Sabor e Arte HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/205327
+#EXTINF:-1 tvg-name="TVT" tvg-logo="https://i.imgur.com/k7NZGyi.png" group-title="VARIEDADES",TVT
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180817
+#EXTINF:-1 tvg-name="Rede Mosaico" tvg-logo="https://i.imgur.com/v54QSnl.png" group-title="VARIEDADES",Rede Mosaico
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180814
+#EXTINF:-1 tvg-name="Inspire" tvg-logo="https://i.imgur.com/NsB87rG.png" group-title="VARIEDADES",Inspire
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180810
+#EXTINF:-1 tvg-name="Up Channel" tvg-logo="https://i.imgur.com/tLQDkeU.png" group-title="VARIEDADES",Up Channel
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180809
+#EXTINF:-1 tvg-name="Yes Life" tvg-logo="https://i.imgur.com/xHVpqpw.png" group-title="VARIEDADES",Yes Life
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180808
+#EXTINF:-1 tvg-name="Clubinho Fun" tvg-logo="https://i.imgur.com/BUrmGpI.png" group-title="VARIEDADES",Clubinho Fun
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180806
+#EXTINF:-1 tvg-name="Urban TV" tvg-logo="https://i.imgur.com/pQAmOBx.png" group-title="VARIEDADES",Urban TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180727
+#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://70.ms/mv" group-title="VARIEDADES",Arte 1 FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28654
+#EXTINF:-1 tvg-name="Arte 1 FHD²" tvg-logo="http://70.ms/mv" group-title="VARIEDADES",Arte 1 FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100484
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://70.ms/9z" group-title="VARIEDADES",Arte 1 HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10878
+#EXTINF:-1 tvg-name="Arte 1 HD²" tvg-logo="http://70.ms/Pf" group-title="VARIEDADES",Arte 1 HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35417
+#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="http://70.ms/ZJ" group-title="VARIEDADES",Arte 1 SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6492
+#EXTINF:-1 tvg-name="Arte 1 SD²" tvg-logo="http://70.ms/9w" group-title="VARIEDADES",Arte 1 SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10879
+#EXTINF:-1 tvg-name="Comedy Central FHD" tvg-logo="http://70.ms/TO" group-title="VARIEDADES",Comedy Central FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/16865
+#EXTINF:-1 tvg-name="Comedy Central FHD²" tvg-logo="http://70.ms/Cr" group-title="VARIEDADES",Comedy Central FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/64436
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="http://70.ms/hg" group-title="VARIEDADES",Comedy Central HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6623
+#EXTINF:-1 tvg-name="Comedy Central HD²" tvg-logo="http://70.ms/9m" group-title="VARIEDADES",Comedy Central HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10849
+#EXTINF:-1 tvg-name="Comedy Central SD" tvg-logo="http://70.ms/6S" group-title="VARIEDADES",Comedy Central SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6622
+#EXTINF:-1 tvg-name="Comedy Central SD²" tvg-logo="http://70.ms/9U" group-title="VARIEDADES",Comedy Central SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10850
+#EXTINF:-1 tvg-name="Curta! FHD" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28652
+#EXTINF:-1 tvg-name="Curta! FHD²" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100472
+#EXTINF:-1 tvg-name="Curta! HD" tvg-logo="http://70.ms/9T" group-title="VARIEDADES",Curta! HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10846
+#EXTINF:-1 tvg-name="Curta! HD²" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100473
+#EXTINF:-1 tvg-name="Curta! SD" tvg-logo="http://70.ms/6E" group-title="VARIEDADES",Curta! SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6621
+#EXTINF:-1 tvg-name="Curta! SD²" tvg-logo="http://70.ms/9J" group-title="VARIEDADES",Curta! SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10847
+#EXTINF:-1 tvg-name="Curta! SD²" tvg-logo="http://70.ms/m7" group-title="VARIEDADES",Curta! SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100474
+#EXTINF:-1 tvg-name="Dog TV FHD" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/98441
+#EXTINF:-1 tvg-name="Dog TV FHD²" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100442
+#EXTINF:-1 tvg-name="Dog TV HD" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/98442
+#EXTINF:-1 tvg-name="Dog TV HD²" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100443
+#EXTINF:-1 tvg-name="Dog TV SD" tvg-logo="https://fivetv.xyz/logos/dogtv.png" group-title="VARIEDADES",Dog TV SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100444
+#EXTINF:-1 tvg-name="E! FHD" tvg-logo="http://70.ms/mM" group-title="VARIEDADES",E! FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28650
+#EXTINF:-1 tvg-name="E! FHD²" tvg-logo="http://70.ms/mM" group-title="VARIEDADES",E! FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100438
+#EXTINF:-1 tvg-name="E! HD" tvg-logo="http://70.ms/6A" group-title="VARIEDADES",E! HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6598
+#EXTINF:-1 tvg-name="E! HD²" tvg-logo="http://70.ms/5e" group-title="VARIEDADES",E! HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10827
+#EXTINF:-1 tvg-name="E! SD" tvg-logo="http://70.ms/60" group-title="VARIEDADES",E! SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6597
+#EXTINF:-1 tvg-name="E! SD²" tvg-logo="http://70.ms/5o" group-title="VARIEDADES",E! SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10828
+#EXTINF:-1 tvg-name="Fashion TV FHD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100499
+#EXTINF:-1 tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100500
+#EXTINF:-1 tvg-name="Fashion TV SD" tvg-logo="https://i.imgur.com/1pVZkV5.png" group-title="VARIEDADES",Fashion TV SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100501
+#EXTINF:-1 tvg-name="Food Network FHD" tvg-logo="http://70.ms/XL" group-title="VARIEDADES",Food Network FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/16854
+#EXTINF:-1 tvg-name="Food Network FHD²" tvg-logo="http://70.ms/PC" group-title="VARIEDADES",Food Network FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35438
+#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="http://70.ms/6k" group-title="VARIEDADES",Food Network HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6585
+#EXTINF:-1 tvg-name="Food Network HD²" tvg-logo="http://70.ms/hC" group-title="VARIEDADES",Food Network HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6888
+#EXTINF:-1 tvg-name="Food Network SD" tvg-logo="http://70.ms/6K" group-title="VARIEDADES",Food Network SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6584
+#EXTINF:-1 tvg-name="Food Network SD²" tvg-logo="http://70.ms/52" group-title="VARIEDADES",Food Network SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10818
+#EXTINF:-1 tvg-name="GNT FHD" tvg-logo="http://70.ms/m3" group-title="VARIEDADES",GNT FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28647
+#EXTINF:-1 tvg-name="GNT FHD²" tvg-logo="http://70.ms/m3" group-title="VARIEDADES",GNT FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100441
+#EXTINF:-1 tvg-name="GNT HD" tvg-logo="http://70.ms/65" group-title="VARIEDADES",GNT HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6563
+#EXTINF:-1 tvg-name="GNT HD²" tvg-logo="http://70.ms/5f" group-title="VARIEDADES",GNT HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10803
+#EXTINF:-1 tvg-name="GNT SD" tvg-logo="http://70.ms/6O" group-title="VARIEDADES",GNT SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6562
+#EXTINF:-1 tvg-name="GNT SD²" tvg-logo="http://70.ms/58" group-title="VARIEDADES",GNT SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10804
+#EXTINF:-1 tvg-name="Lifetime FHD" tvg-logo="http://70.ms/mT" group-title="VARIEDADES",Lifetime FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28642
+#EXTINF:-1 tvg-name="Lifetime FHD²" tvg-logo="http://70.ms/mT" group-title="VARIEDADES",Lifetime FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100481
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="http://70.ms/Zr" group-title="VARIEDADES",Lifetime HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6545
+#EXTINF:-1 tvg-name="Lifetime HD²" tvg-logo="http://70.ms/5m" group-title="VARIEDADES",Lifetime HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10752
+#EXTINF:-1 tvg-name="Lifetime SD" tvg-logo="http://70.ms/ZN" group-title="VARIEDADES",Lifetime SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6544
+#EXTINF:-1 tvg-name="Lifetime SD²" tvg-logo="http://70.ms/5U" group-title="VARIEDADES",Lifetime SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10753
+#EXTINF:-1 tvg-name="Mais Globosat FHD" tvg-logo="http://70.ms/JL" group-title="VARIEDADES",Mais Globosat FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28629
+#EXTINF:-1 tvg-name="Mais Globosat FHD²" tvg-logo="http://70.ms/JL" group-title="VARIEDADES",Mais Globosat FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100455
+#EXTINF:-1 tvg-name="Mais Globosat HD" tvg-logo="http://70.ms/6J" group-title="VARIEDADES",Mais Globosat HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6567
+#EXTINF:-1 tvg-name="Mais Globosat HD²" tvg-logo="http://70.ms/5K" group-title="VARIEDADES",Mais Globosat HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10773
+#EXTINF:-1 tvg-name="Mais Globosat SD" tvg-logo="http://70.ms/6T" group-title="VARIEDADES",Mais Globosat SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6566
+#EXTINF:-1 tvg-name="Mais Globosat SD²" tvg-logo="http://70.ms/5k" group-title="VARIEDADES",Mais Globosat SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10774
+#EXTINF:-1 tvg-name="Polishop TV" tvg-logo="http://70.ms/YC" group-title="VARIEDADES",Polishop TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/38257
+#EXTINF:-1 tvg-name="Shoptime" tvg-logo="http://70.ms/YI" group-title="VARIEDADES",Shoptime
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/38270
+#EXTINF:-1 tvg-name="TLC FHD" tvg-logo="http://70.ms/m6" group-title="VARIEDADES",TLC FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28635
+#EXTINF:-1 tvg-name="TLC FHD²" tvg-logo="http://70.ms/m6" group-title="VARIEDADES",TLC FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100440
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="http://70.ms/I" group-title="VARIEDADES",TLC HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6459
+#EXTINF:-1 tvg-name="TLC HD²" tvg-logo="http://70.ms/OY" group-title="VARIEDADES",TLC HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10682
+#EXTINF:-1 tvg-name="TLC SD" tvg-logo="http://70.ms/C" group-title="VARIEDADES",TLC SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6458
+#EXTINF:-1 tvg-name="TLC SD²" tvg-logo="http://70.ms/OM" group-title="VARIEDADES",TLC SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10683
+#EXTINF:-1 tvg-name="Trace Brazuca FHD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/113598
+#EXTINF:-1 tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/113599
+#EXTINF:-1 tvg-name="Trace Brazuca SD" tvg-logo="https://i.imgur.com/EUDaMHw.png" group-title="VARIEDADES",Trace Brazuca SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/113600
+#EXTINF:-1 tvg-name="TruTV FHD" tvg-logo="http://70.ms/mg" group-title="VARIEDADES",TruTV FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28633
+#EXTINF:-1 tvg-name="TruTV HD" tvg-logo="http://70.ms/Tv" group-title="VARIEDADES",TruTV HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/21100
+#EXTINF:-1 tvg-name="TruTV SD" tvg-logo="http://70.ms/p" group-title="VARIEDADES",TruTV SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6451
+#EXTINF:-1 tvg-name="Viva FHD" tvg-logo="http://70.ms/dX" group-title="VARIEDADES",Viva FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6920
+#EXTINF:-1 tvg-name="Viva FHD²" tvg-logo="http://70.ms/Xf" group-title="VARIEDADES",Viva FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/16804
+#EXTINF:-1 tvg-name="Viva HD" tvg-logo="http://70.ms/w" group-title="VARIEDADES",Viva HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6441
+#EXTINF:-1 tvg-name="Viva HD²" tvg-logo="http://70.ms/hw" group-title="VARIEDADES",Viva HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6870
+#EXTINF:-1 tvg-name="Viva SD" tvg-logo="http://70.ms/9" group-title="VARIEDADES",Viva SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/61
+#EXTINF:-1 tvg-name="Viva SD²" tvg-logo="http://70.ms/dn" group-title="VARIEDADES",Viva SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10653
+#EXTINF:-1 tvg-name="Woohoo FHD" tvg-logo="http://70.ms/JH" group-title="VARIEDADES",Woohoo FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28630
+#EXTINF:-1 tvg-name="Woohoo FHD²" tvg-logo="http://70.ms/JH" group-title="VARIEDADES",Woohoo FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100511
+#EXTINF:-1 tvg-name="Woohoo HD" tvg-logo="http://70.ms/de" group-title="VARIEDADES",Woohoo HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10649
+#EXTINF:-1 tvg-name="Woohoo HD²" tvg-logo="http://70.ms/P9" group-title="VARIEDADES",Woohoo HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35385
+#EXTINF:-1 tvg-name="Woohoo SD" tvg-logo="http://70.ms/O" group-title="VARIEDADES",Woohoo SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/59
+#EXTINF:-1 tvg-name="Woohoo SD²" tvg-logo="http://70.ms/do" group-title="VARIEDADES",Woohoo SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10650
+#EXTINF:-1 tvg-name="Loading FHD" tvg-logo="" group-title="VARIEDADES",Loading FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/134884
+#EXTINF:-1 tvg-name="Loading HD" tvg-logo="" group-title="VARIEDADES",Loading HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/134885
+#EXTINF:-1 tvg-name="Loading SD" tvg-logo="" group-title="VARIEDADES",Loading SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/134886
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Top 2022.xml"
 ############## Filmes: Top 2022 ################# 
@@ -3934,19 +4535,19 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/133416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="X-Men 02" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 02
 http://srv.cldplay.net:80/live/820584rohs/67864336899/133417.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Faroeste.xml"
-############## Faroeste ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFaroeste" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES | FAROESTE.xml"
+############## FILMES | FAROESTE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | FAROESTE" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="Faroeste",A Difícil Vingança - 2012
+#EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="FILMES | FAROESTE",A Difícil Vingança - 2012
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="Faroeste",A Morte anda a Cavalo - 1967
+#EXTINF:-1 tvg-id="" tvg-name="A Morte anda a Cavalo - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyAD6dY9MkSVinMDLpUUkSg4jw.jpg" group-title="FILMES | FAROESTE",A Morte anda a Cavalo - 1967
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/151192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Salvação - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="Faroeste",A Salvação - 2014
+#EXTINF:-1 tvg-id="" tvg-name="A Salvação - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="FILMES | FAROESTE",A Salvação - 2014
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/14306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill Hickok - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Faroeste",A Lenda de Wild Bill Hickok - 2017
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill Hickok - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="FILMES | FAROESTE",A Lenda de Wild Bill Hickok - 2017
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/163314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="Faroeste",A Face Oculta - 1961
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBb0IcUYPn5yPJCtOfSzVkBFN9k.jpg" group-title="FILMES | FAROESTE",A Face Oculta - 1961
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146996.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Salvação (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="FILMES | FAROESTE",A Salvação (2014)
 http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274455.mp4
@@ -4544,7 +5145,7 @@ https://play.prod.gcp.vix.services/santa-barbara_pt/santa-barbara_pt_1-1/play_v1
 https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santa Rita de Cássia  " tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="RELIGIOSOS",Provas de Fé - Santa Rita de Cássia
 https://play.prod.gcp.vix.services/faith-santa-rita_pt/faith-santa-rita_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Quando Tudo Parece Perdido  "tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="RELIGIOSOSo",Quando Tudo Parece Perdido
+#EXTINF:-1 tvg-id="" tvg-name=" Quando Tudo Parece Perdido  "tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="RELIGIOSOS",Quando Tudo Parece Perdido
 https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Meu Filho Amado  " tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="RELIGIOSOS",Meu Filho Amado
 https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
@@ -4552,172 +5153,91 @@ https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="RELIGIOSOS",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-name="A Caminho da Fé - 2018" tvg-logo="http://urlon.me/Z8w" group-title="RELIGIOSOS",A Caminho da Fé - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/43103.mp4
-#EXTINF:-1 tvg-name="A Colheita Da Fe - 2017" tvg-logo="http://urlon.me/Z8q" group-title="RELIGIOSOS",A Colheita Da Fe - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/43099.mp4
-#EXTINF:-1 tvg-name="A Estrela De Belem - 2017" tvg-logo="http://urlon.me/Z8F" group-title="RELIGIOSOS",A Estrela De Belem - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/43097.mp4
-#EXTINF:-1 tvg-name="A Filha Do Pastor - 2010" tvg-logo="http://urlon.me/Z8G" group-title="RELIGIOSOS",A Filha Do Pastor - 2010
- http://5ce.co:80/movie/Rayan24250/Ray242509/43095.mp4
-#EXTINF:-1 tvg-name="A Historia De Ester - 2013" tvg-logo="http://urlon.me/ZgY1ZG" group-title="RELIGIOSOS",A Historia De Ester - 2013
- http://5ce.co:80/movie/Rayan24250/Ray242509/43093.mp4
-#EXTINF:-1 tvg-name="A Luz Divina - 2017" tvg-logo="http://urlon.me/Z8X" group-title="RELIGIOSOS",A Luz Divina - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/43090.mp4
-#EXTINF:-1 tvg-name="A Menina que Acredita em Milagres - 2021" tvg-logo="http://5ce.me:80/images/jhVnf6QmiRujRx2cYIZOnI8cPZ9_big.jpg" group-title="RELIGIOSOS",A Menina que Acredita em Milagres - 2021
- http://5ce.co:80/movie/Rayan24250/Ray242509/198320.mp4
-#EXTINF:-1 tvg-name="A Oração Não Falha - 2016" tvg-logo="http://urlon.me/Z8d" group-title="RELIGIOSOS",A Oração Não Falha - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/43088.mp4
-#EXTINF:-1 tvg-name="A Paixão de Cristo - 2004" tvg-logo="http://urlon.me/ZgY1ZY" group-title="RELIGIOSOS",A Paixão de Cristo - 2004
- http://5ce.co:80/movie/Rayan24250/Ray242509/43085.mp4
-#EXTINF:-1 tvg-name="À Procura da Liberdade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fzuXJPcL84FPKcRQRaVQKSEmyX.jpg" group-title="RELIGIOSOS",À Procura da Liberdade - 2014
- http://5ce.co:80/movie/Rayan24250/Ray242509/42887.mp4
-#EXTINF:-1 tvg-name="A Prova de Fogo - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94vWXepNu95YNoTSHCEwM212ugY.jpg" group-title="RELIGIOSOS",A Prova de Fogo - 2008
- http://5ce.co:80/movie/Rayan24250/Ray242509/42885.mp4
-#EXTINF:-1 tvg-name="A Última Tentação de Cristo - 1988" tvg-logo="http://urlon.me/Zf4" group-title="RELIGIOSOS",A Última Tentação de Cristo - 1988
- http://5ce.co:80/movie/Rayan24250/Ray242509/43083.mp4
-#EXTINF:-1 tvg-name="A Vida de Jesus Cristo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA3x4zQhwDL7Ir8DSCYfbhbtCDS.jpg" group-title="RELIGIOSOS",A Vida de Jesus Cristo - 2011
- http://5ce.co:80/movie/Rayan24250/Ray242509/123686.mp4
-#EXTINF:-1 tvg-name="A Virada - 2003" tvg-logo="http://urlon.me/ZgY1Z3" group-title="RELIGIOSOS",A Virada - 2003
- http://5ce.co:80/movie/Rayan24250/Ray242509/43079.mp4
-#EXTINF:-1 tvg-name="Amor Incondicional: A História de Oseias - 2012" tvg-logo="http://urlon.me/ZgY1ZU" group-title="RELIGIOSOS",Amor Incondicional: A História de Oseias - 2012
- http://5ce.co:80/movie/Rayan24250/Ray242509/43077.mp4
-#EXTINF:-1 tvg-name="Antes Que Seja Tarde - 2019" tvg-logo="http://urlon.me/ZgY1Z6" group-title="RELIGIOSOS",Antes Que Seja Tarde - 2019
- http://5ce.co:80/movie/Rayan24250/Ray242509/43010.mp4
-#EXTINF:-1 tvg-name="Barrabas - 2013" tvg-logo="http://urlon.me/ZKc" group-title="RELIGIOSOS",Barrabas - 2013
- http://5ce.co:80/movie/Rayan24250/Ray242509/43009.mp4
-#EXTINF:-1 tvg-name="Cartas Para Deus - 2010" tvg-logo="http://urlon.me/ZKt" group-title="RELIGIOSOS",Cartas Para Deus - 2010
- http://5ce.co:80/movie/Rayan24250/Ray242509/43007.mp4
-#EXTINF:-1 tvg-name="Davi e Golias – A Batalha Da Fé - 2016" tvg-logo="http://urlon.me/ZgY1gE" group-title="RELIGIOSOS",Davi e Golias – A Batalha Da Fé - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/43002.mp4
-#EXTINF:-1 tvg-name="Deixados para Trás - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mJhwENHWx6l1N447doXihtfTwd.jpg" group-title="RELIGIOSOS",Deixados para Trás - 2000
- http://5ce.co:80/movie/Rayan24250/Ray242509/43001.mp4
-#EXTINF:-1 tvg-name="Deixados para Trás 2 - Comando Tribulação - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWhr8FcP75eAmfQJyg224eZKC5p.jpg" group-title="RELIGIOSOS",Deixados para Trás 2 - Comando Tribulação - 2002
- http://5ce.co:80/movie/Rayan24250/Ray242509/42880.mp4
-#EXTINF:-1 tvg-name="Deixados para Trás 3 - Mundo em Guerra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6zixyL8rUZExfENtEwLa4YRxCg.jpg" group-title="RELIGIOSOS",Deixados para Trás 3 - Mundo em Guerra - 2005
- http://5ce.co:80/movie/Rayan24250/Ray242509/42878.mp4
-#EXTINF:-1 tvg-name="Deixados Para Tras 4: A Nova Geração - 2016" tvg-logo="http://urlon.me/Zyp" group-title="RELIGIOSOS",Deixados Para Tras 4: A Nova Geração - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42876.mp4
-#EXTINF:-1 tvg-name="Desafiando Gigantes - 2006" tvg-logo="http://urlon.me/ZgYMAR" group-title="RELIGIOSOS",Desafiando Gigantes - 2006
- http://5ce.co:80/movie/Rayan24250/Ray242509/42998.mp4
-#EXTINF:-1 tvg-name="Deus Não Está Morto - 2014" tvg-logo="http://urlon.me/ZgYMAs" group-title="RELIGIOSOS",Deus Não Está Morto - 2014
- http://5ce.co:80/movie/Rayan24250/Ray242509/42994.mp4
-#EXTINF:-1 tvg-name="Deus Não Está Morto 2 - 2016" tvg-logo="http://urlon.me/ZgYMAD" group-title="RELIGIOSOS",Deus Não Está Morto 2 - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42989.mp4
-#EXTINF:-1 tvg-name="Deus Não Esta Morto: O Próximo Capítulo - 2021" tvg-logo="http://5ce.co:80/images/kPLGhukHKy8kbYntAOvHQgztxe4_big.jpg" group-title="RELIGIOSOS",Deus Não Esta Morto: O Próximo Capítulo - 2021
- http://5ce.co:80/movie/Rayan24250/Ray242509/201453.mp4
-#EXTINF:-1 tvg-name="Deus Nao Esta Morto: Uma Luz Na Escuridao - 2018" tvg-logo="http://urlon.me/ZlL" group-title="RELIGIOSOS",Deus Nao Esta Morto: Uma Luz Na Escuridao - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/42986.mp4
-#EXTINF:-1 tvg-name="Em Defesa De Cristo  - 2017" tvg-logo="http://urlon.me/Zla" group-title="RELIGIOSOS",Em Defesa De Cristo  - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/42982.mp4
-#EXTINF:-1 tvg-name="Entre A Vingança E O Perdão - 2015" tvg-logo="http://urlon.me/ZgY1gr" group-title="RELIGIOSOS",Entre A Vingança E O Perdão - 2015
- http://5ce.co:80/movie/Rayan24250/Ray242509/42975.mp4
-#EXTINF:-1 tvg-name="Escrevendo Uma Nova Vida - 2011" tvg-logo="http://5ce.co:80/images/fwy2vWc8GSXtyTuNgK7Z4MST2FU_big.jpg" group-title="RELIGIOSOS",Escrevendo Uma Nova Vida - 2011
- http://5ce.co:80/movie/Rayan24250/Ray242509/42972.mp4
-#EXTINF:-1 tvg-name="Eu & Você, Nós Para Sempre - 2008" tvg-logo="http://urlon.me/Zlq" group-title="RELIGIOSOS",Eu & Você, Nós Para Sempre - 2008
- http://5ce.co:80/movie/Rayan24250/Ray242509/42969.mp4
-#EXTINF:-1 tvg-name="Eu Acredito - 2017" tvg-logo="http://urlon.me/OCz" group-title="RELIGIOSOS",Eu Acredito - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/64994.mp4
-#EXTINF:-1 tvg-name="Jacó - 1994" tvg-logo="https://cineplayers.com/sites/default/files/posters/22623_poster.jpg" group-title="RELIGIOSOS",Jacó - 1994
- http://5ce.co:80/movie/Rayan24250/Ray242509/42967.mp4
-#EXTINF:-1 tvg-name="Jesus - A História do Nascimento - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31gjSyZWNLy6PMRg2JrJsA1RL2u.jpg" group-title="RELIGIOSOS",Jesus - A História do Nascimento - 2006
- http://5ce.co:80/movie/Rayan24250/Ray242509/42934.mp4
-#EXTINF:-1 tvg-name="João de Deus - O Silêncio é uma Prece - 2018" tvg-logo="http://urlon.me/ZgY1ga" group-title="RELIGIOSOS",João de Deus - O Silêncio é uma Prece - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/42956.mp4
-#EXTINF:-1 tvg-name="Jornada Pela Liberdade - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13e5nAa0M7Ui0Kw1LCiI5dFnwT1.jpg" group-title="RELIGIOSOS",Jornada Pela Liberdade - 2006
- http://5ce.co:80/movie/Rayan24250/Ray242509/42964.mp4
-#EXTINF:-1 tvg-name="Jose Do Egito: O Filme - 2016" tvg-logo="http://urlon.me/ZlJ" group-title="RELIGIOSOS",Jose Do Egito: O Filme - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42961.mp4
-#EXTINF:-1 tvg-name="Jose E Maria - 2017" tvg-logo="http://urlon.me/Zld" group-title="RELIGIOSOS",Jose E Maria - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/42958.mp4
-#EXTINF:-1 tvg-name="Lutero - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg" group-title="RELIGIOSOS",Lutero - 2003
- http://5ce.co:80/movie/Rayan24250/Ray242509/42955.mp4
-#EXTINF:-1 tvg-name="Maria Madalena - 2018" tvg-logo="http://urlon.me/Zj4" group-title="RELIGIOSOS",Maria Madalena - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/42953.mp4
-#EXTINF:-1 tvg-name="Milagres De Jesus - O Filme  - 2016" tvg-logo="http://urlon.me/Zjr" group-title="RELIGIOSOS",Milagres De Jesus - O Filme  - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42951.mp4
-#EXTINF:-1 tvg-name="Milagres do Paraíso - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx0r6MPwo2ZQfcr018HLek0u7z3.jpg" group-title="RELIGIOSOS",Milagres do Paraíso - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42949.mp4
-#EXTINF:-1 tvg-name="Nada A Perder - 2018" tvg-logo="http://urlon.me/ZjW" group-title="RELIGIOSOS",Nada A Perder - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/42947.mp4
-#EXTINF:-1 tvg-name="Nada a Perder 2: Não Se Pode Esconder a Verdade - 2019" tvg-logo="http://urlon.me/ZgY1ng" group-title="RELIGIOSOS",Nada a Perder 2: Não Se Pode Esconder a Verdade - 2019
- http://5ce.co:80/movie/Rayan24250/Ray242509/71720.mp4
-#EXTINF:-1 tvg-name="Noé - 2014" tvg-logo="http://urlon.me/ZjV" group-title="RELIGIOSOS",Noé - 2014
- http://5ce.co:80/movie/Rayan24250/Ray242509/42945.mp4
-#EXTINF:-1 tvg-name="Nosso Lar - 2010" tvg-logo="http://urlon.me/ZgYY3I" group-title="RELIGIOSOS",Nosso Lar - 2010
- http://5ce.co:80/movie/Rayan24250/Ray242509/78510.mp4
-#EXTINF:-1 tvg-name="O Céu é de Verdade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63EnKIUOWnBIR9Ox2WPW22TQ0Kn.jpg" group-title="RELIGIOSOS",O Céu é de Verdade - 2014
- http://5ce.co:80/movie/Rayan24250/Ray242509/42944.mp4
-#EXTINF:-1 tvg-name="O Despertar da Fé - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XKVy3GGM079NPX2Gr4M9PNO73R.jpg" group-title="RELIGIOSOS",O Despertar da Fé - 2012
- http://5ce.co:80/movie/Rayan24250/Ray242509/42941.mp4
-#EXTINF:-1 tvg-name="O Evangelho Segundo Joao - 2003" tvg-logo="http://urlon.me/Zj8" group-title="RELIGIOSOS",O Evangelho Segundo Joao - 2003
- http://5ce.co:80/movie/Rayan24250/Ray242509/42939.mp4
-#EXTINF:-1 tvg-name="O Fazendeiro e Deus - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGTKmTYm7PSkMYUV0D3WuIVuspi.jpg" group-title="RELIGIOSOS",O Fazendeiro e Deus - 2006
- http://5ce.co:80/movie/Rayan24250/Ray242509/42938.mp4
-#EXTINF:-1 tvg-name="O Filho de Deus - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dawSGD2qjDGNL29yIF9oW4dICgS.jpg" group-title="RELIGIOSOS",O Filho de Deus - 2014
- http://5ce.co:80/movie/Rayan24250/Ray242509/42926.mp4
-#EXTINF:-1 tvg-name="O Filho do Homem - 2019" tvg-logo="http://urlon.me/OWb" group-title="RELIGIOSOS",O Filho do Homem - 2019
- http://5ce.co:80/movie/Rayan24250/Ray242509/64832.mp4
-#EXTINF:-1 tvg-name="O Jovem Messias - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YRbIclm6OhqzegE4JqNkPtDfJk.jpg" group-title="RELIGIOSOS",O Jovem Messias - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42937.mp4
-#EXTINF:-1 tvg-name="O Livro De Genesis - 2016" tvg-logo="http://urlon.me/Zjq" group-title="RELIGIOSOS",O Livro De Genesis - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42936.mp4
-#EXTINF:-1 tvg-name="O Medalhão Perdido - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oR1FpvRAOfI3WZugCUFzGyUPPhr.jpg" group-title="RELIGIOSOS",O Medalhão Perdido - 2013
- http://5ce.co:80/movie/Rayan24250/Ray242509/42935.mp4
-#EXTINF:-1 tvg-name="O Peregrino - Uma Jornada para o Céu - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9NYlsFMuM1ssJHNc8V8zTew4l.jpg" group-title="RELIGIOSOS",O Peregrino - Uma Jornada para o Céu - 2008
- http://5ce.co:80/movie/Rayan24250/Ray242509/42933.mp4
-#EXTINF:-1 tvg-name="O Príncipe do Egito - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg" group-title="RELIGIOSOS",O Príncipe do Egito - 1998
- http://5ce.co:80/movie/Rayan24250/Ray242509/42932.mp4
-#EXTINF:-1 tvg-name="O Rei dos Reis - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7ZihCBZOVXL827GKUbYiGnWSdX.jpg" group-title="RELIGIOSOS",O Rei dos Reis - 1961
- http://5ce.co:80/movie/Rayan24250/Ray242509/42929.mp4
-#EXTINF:-1 tvg-name="O Soldado De Cristo - 2019" tvg-logo="http://urlon.me/Z8g" group-title="RELIGIOSOS",O Soldado De Cristo - 2019
- http://5ce.co:80/movie/Rayan24250/Ray242509/43086.mp4
-#EXTINF:-1 tvg-name="Onde Está Deus? - 2015" tvg-logo="http://urlon.me/Zj6" group-title="RELIGIOSOS",Onde Está Deus? - 2015
- http://5ce.co:80/movie/Rayan24250/Ray242509/42923.mp4
-#EXTINF:-1 tvg-name="Os Dez Mandamentos: O Filme - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEssXteZnvUfkVEfJi7zVZtHg28.jpg" group-title="RELIGIOSOS",Os Dez Mandamentos: O Filme - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42920.mp4
-#EXTINF:-1 tvg-name="Os Enigmas da Bíblia - 2017" tvg-logo="http://urlon.me/Zq4" group-title="RELIGIOSOS",Os Enigmas da Bíblia - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/42918.mp4
-#EXTINF:-1 tvg-name="Paulo, Apóstolo de Cristo - 2018" tvg-logo="http://5ce.co:80/images/6J8IDXJlURmOwX3KnfYitSr7QbR_big.jpg" group-title="RELIGIOSOS",Paulo, Apóstolo de Cristo - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/169721.mp4
-#EXTINF:-1 tvg-name="Paulo: Apostolo De Cristo - 2018" tvg-logo="http://urlon.me/ZqW" group-title="RELIGIOSOS",Paulo: Apostolo De Cristo - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/42913.mp4
-#EXTINF:-1 tvg-name="Pedro A Redenção - 2016" tvg-logo="http://urlon.me/ZqV" group-title="RELIGIOSOS",Pedro A Redenção - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42911.mp4
-#EXTINF:-1 tvg-name="Policarpo Quaresma, Herói do Brasil - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vezda5Dc53Hv0Cize3rNJAUaL1Y.jpg" group-title="RELIGIOSOS",Policarpo Quaresma, Herói do Brasil - 1998
- http://5ce.co:80/movie/Rayan24250/Ray242509/42910.mp4
-#EXTINF:-1 tvg-name="Quando Tudo Parece Perdido - 2015" tvg-logo="http://urlon.me/Zqc" group-title="RELIGIOSOS",Quando Tudo Parece Perdido - 2015
- http://5ce.co:80/movie/Rayan24250/Ray242509/42908.mp4
-#EXTINF:-1 tvg-name="Quarto de Guerra - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg" group-title="RELIGIOSOS",Quarto de Guerra - 2015
- http://5ce.co:80/movie/Rayan24250/Ray242509/42931.mp4
-#EXTINF:-1 tvg-name="Resgatados Pela Graça - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsXBRuNur2PLFiEAZ23FR9cKAaS.jpg" group-title="RELIGIOSOS",Resgatados Pela Graça - 2013
- http://5ce.co:80/movie/Rayan24250/Ray242509/42905.mp4
-#EXTINF:-1 tvg-name="Ressurreição - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbx72yOS42RSjmayJDBdaP6oC8J.jpg" group-title="RELIGIOSOS",Ressurreição - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/61107.mp4
-#EXTINF:-1 tvg-name="Sansão - 2018" tvg-logo="http://urlon.me/Zq8" group-title="RELIGIOSOS",Sansão - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/42904.mp4
-#EXTINF:-1 tvg-name="Três Histórias, Um Destino - 2012" tvg-logo="http://5ce.co:80/images/ovn5OEysi1c2rqLXLf9KiXGvXe0_big.jpg" group-title="RELIGIOSOS",Três Histórias, Um Destino - 2012
- http://5ce.co:80/movie/Rayan24250/Ray242509/42902.mp4
-#EXTINF:-1 tvg-name="Últimos Dias no Deserto - 2016" tvg-logo="http://urlon.me/Zyo" group-title="RELIGIOSOS",Últimos Dias no Deserto - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42883.mp4
-#EXTINF:-1 tvg-name="Um Encontro Perfeito - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dipJllTqfinmiOIZGaRGmoHUn5R.jpg" group-title="RELIGIOSOS",Um Encontro Perfeito - 2005
- http://5ce.co:80/movie/Rayan24250/Ray242509/42940.mp4
-#EXTINF:-1 tvg-name="Um Lar Verdadeiro - 2013" tvg-logo="http://urlon.me/ZqQ" group-title="RELIGIOSOS",Um Lar Verdadeiro - 2013
- http://5ce.co:80/movie/Rayan24250/Ray242509/42900.mp4
-#EXTINF:-1 tvg-name="Um Novo Plano - 2011" tvg-logo="http://urlon.me/ZqG" group-title="RELIGIOSOS",Um Novo Plano - 2011
- http://5ce.co:80/movie/Rayan24250/Ray242509/42898.mp4
-#EXTINF:-1 tvg-name="Um Outro Encontro - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ5WilRphrBbraCfNdgMSmE8888.jpg" group-title="RELIGIOSOS",Um Outro Encontro - 2007
- http://5ce.co:80/movie/Rayan24250/Ray242509/42897.mp4
-#EXTINF:-1 tvg-name="Uma Batalha de Fé - 2019" tvg-logo="http://urlon.me/ZgYYPK" group-title="RELIGIOSOS",Uma Batalha de Fé - 2019
- http://5ce.co:80/movie/Rayan24250/Ray242509/77552.mp4
-#EXTINF:-1 tvg-name="Uma Jornada de Perdão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J14qm2QDenwImXVVBRbv7mwpRa.jpg" group-title="RELIGIOSOS",Uma Jornada de Perdão - 2018
- http://5ce.co:80/movie/Rayan24250/Ray242509/69703.mp4
-#EXTINF:-1 tvg-name="Uma Prova De Fé - 2015" tvg-logo="http://urlon.me/ZqU" group-title="RELIGIOSOS",Uma Prova De Fé - 2015
- http://5ce.co:80/movie/Rayan24250/Ray242509/42893.mp4
-#EXTINF:-1 tvg-name="Uma Questão de Fé - 2017" tvg-logo="http://urlon.me/ZqX" group-title="RELIGIOSOS",Uma Questão de Fé - 2017
- http://5ce.co:80/movie/Rayan24250/Ray242509/42891.mp4
-#EXTINF:-1 tvg-name="Uma Vida Com Propósito - 2016" tvg-logo="http://urlon.me/Zq5" group-title="RELIGIOSOS",Uma Vida Com Propósito - 2016
- http://5ce.co:80/movie/Rayan24250/Ray242509/42890.mp4
+
+#EXTINF:-1 tvg-name="Canção Nova SD" tvg-logo="http://70.ms/h9" group-title="RELIGIOSOS",Canção Nova SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6630
+#EXTINF:-1 tvg-name="Canção Nova SD²" tvg-logo="http://70.ms/9Y" group-title="RELIGIOSOS",Canção Nova SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10859
+#EXTINF:-1 tvg-name="Canal Rede CNT" tvg-logo="http://70.ms/ZgY3nu" group-title="RELIGIOSOS",Canal Rede CNT
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/80477
+#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="http://70.ms/JZ" group-title="RELIGIOSOS",Gospel Cartoon
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/26440
+#EXTINF:-1 tvg-name="Gospel Movie TV" tvg-logo="http://70.ms/Jg" group-title="RELIGIOSOS",Gospel Movie TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/26439
+#EXTINF:-1 tvg-name="Ideal TV" tvg-logo="http://70.ms/Yn" group-title="RELIGIOSOS",Ideal TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/39681
+#EXTINF:-1 tvg-name="Pai Eterno FHD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100523
+#EXTINF:-1 tvg-name="Pai Eterno HD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100522
+#EXTINF:-1 tvg-name="Pai Eterno SD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100521
+#EXTINF:-1 tvg-name="Rede 21" tvg-logo="https://imgur.com/a36yWU7" group-title="RELIGIOSOS",Rede 21
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/168266
+#EXTINF:-1 tvg-name="Rede Genesis" tvg-logo="https://i.imgur.com/7vgbRng.png" group-title="RELIGIOSOS",Rede Genesis
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180818
+#EXTINF:-1 tvg-name="Rede Gospel FHD" tvg-logo="https://i.imgur.com/hACJvMC.png" group-title="RELIGIOSOS",Rede Gospel FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/97625
+#EXTINF:-1 tvg-name="Rede Gospel FHD²" tvg-logo="https://i.imgur.com/hACJvMC.png" group-title="RELIGIOSOS",Rede Gospel FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100526
+#EXTINF:-1 tvg-name="Rede Mundial FHD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="RELIGIOSOS",Rede Mundial FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/112061
+#EXTINF:-1 tvg-name="Rede Seculo 21" tvg-logo="http://70.ms/ZgY3Wb" group-title="RELIGIOSOS",Rede Seculo 21
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/72468
+#EXTINF:-1 tvg-name="Rede Super" tvg-logo="http://70.ms/Yf" group-title="RELIGIOSOS",Rede Super
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/36315
+#EXTINF:-1 tvg-name="Rede Vida FHD" tvg-logo="http://70.ms/Jo" group-title="RELIGIOSOS",Rede Vida FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/28625
+#EXTINF:-1 tvg-name="Rede Vida FHD²" tvg-logo="http://70.ms/Jo" group-title="RELIGIOSOS",Rede Vida FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100482
+#EXTINF:-1 tvg-name="Rede Vida HD" tvg-logo="http://70.ms/Oi" group-title="RELIGIOSOS",Rede Vida HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10699
+#EXTINF:-1 tvg-name="Rede Vida HD²" tvg-logo="http://70.ms/Oi" group-title="RELIGIOSOS",Rede Vida HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100483
+#EXTINF:-1 tvg-name="Rede Vida SD" tvg-logo="http://70.ms/m" group-title="RELIGIOSOS",Rede Vida SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/68
+#EXTINF:-1 tvg-name="Rede Vida SD²" tvg-logo="http://70.ms/Ot" group-title="RELIGIOSOS",Rede Vida SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10700
+#EXTINF:-1 tvg-name="RIT TV" tvg-logo="http://70.ms/Ow" group-title="RELIGIOSOS",RIT TV
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10698
+#EXTINF:-1 tvg-name="TV Aparecida FHD" tvg-logo="http://70.ms/Od" group-title="RELIGIOSOS",TV Aparecida FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100520
+#EXTINF:-1 tvg-name="TV Aparecida HD" tvg-logo="http://70.ms/Od" group-title="RELIGIOSOS",TV Aparecida HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10662
+#EXTINF:-1 tvg-name="TV Aparecida HD²" tvg-logo="http://70.ms/Od" group-title="RELIGIOSOS",TV Aparecida HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100519
+#EXTINF:-1 tvg-name="TV Aparecida SD" tvg-logo="http://70.ms/u" group-title="RELIGIOSOS",TV Aparecida SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6450
+#EXTINF:-1 tvg-name="TV Aparecida SD²" tvg-logo="http://70.ms/u" group-title="RELIGIOSOS",TV Aparecida SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100518
+#EXTINF:-1 tvg-name="Tv Boa Vontade HD" tvg-logo="http://70.ms/TD" group-title="RELIGIOSOS",Tv Boa Vontade HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/22842
+#EXTINF:-1 tvg-name="Tv Boa Vontade SD" tvg-logo="http://70.ms/TD" group-title="RELIGIOSOS",Tv Boa Vontade SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100524
+#EXTINF:-1 tvg-name="TV Evangelizar" tvg-logo="http://70.ms/TS" group-title="RELIGIOSOS",TV Evangelizar
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/26435
+#EXTINF:-1 tvg-name="TV Gideões" tvg-logo="http://70.ms/TH" group-title="RELIGIOSOS",TV Gideões
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/26432
+#EXTINF:-1 tvg-name="Tv Mundo Maior" tvg-logo="https://i.imgur.com/ZEmMWhV.png" group-title="RELIGIOSOS",Tv Mundo Maior
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180819
+#EXTINF:-1 tvg-name="Tv Novo Tempo FHD" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",Tv Novo Tempo FHD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/35427
+#EXTINF:-1 tvg-name="TV Novo Tempo FHD²" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",TV Novo Tempo FHD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100508
+#EXTINF:-1 tvg-name="Tv Novo Tempo HD" tvg-logo="http://70.ms/hA" group-title="RELIGIOSOS",Tv Novo Tempo HD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/6875
+#EXTINF:-1 tvg-name="TV Novo Tempo HD²" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",TV Novo Tempo HD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100509
+#EXTINF:-1 tvg-name="Tv Novo Tempo SD" tvg-logo="http://70.ms/Or" group-title="RELIGIOSOS",Tv Novo Tempo SD
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/10728
+#EXTINF:-1 tvg-name="TV Novo Tempo SD²" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",TV Novo Tempo SD²
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/100510
+#EXTINF:-1 tvg-name="TV Padre Cicero" tvg-logo="https://imgur.com/9qTdH3a" group-title="RELIGIOSOS",TV Padre Cicero
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/217377
+#EXTINF:-1 tvg-name="Tv Promessas" tvg-logo="https://i.imgur.com/YfJpF9v.png" group-title="RELIGIOSOS",Tv Promessas
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/180807
+#EXTINF:-1 tvg-name="Tv Recomeço" tvg-logo="http://70.ms/ZgY3SK" group-title="RELIGIOSOS",Tv Recomeço
+ http://5ce.co:80/ndplay33719830/21503n38vgj79/82802
 
 #EXTM3U url-tvg="http://grade-de-FÉ | ESPIRITUAIS.xml"
 ############## FÉ | ESPIRITUAIS ################# 
@@ -4752,6 +5272,16 @@ https://stream-33.zeno.fm/fpg8s2gha9quv?zs=ndJRla2jTiCR7WdGog6PuQ
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=BCNf7eQIQmKhA1cYDoHmQw
 #EXTINF:-1 tvg-id="" tvg-name="  Deus é Amor 91.9 FM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="RADIO | GOSPEL",Deus é Amor 91.9 FM
 https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
+
+
+#EXTM3U url-tvg="http://grade-de-FAX | CLIPS.xml"
+############## FAX | CLIPS  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=" Tina Turner: Live in Rio 1988 "  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner: Live in Rio 1988
+https://proxy-12.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SXYZh0rUZhBWvWUth3ykPgc9WOBuuXUwCnN_f-8N-JB8vrAv3oOyRZXkbIeyHy3R7L8pEG4XUsdzSbCs6hkpQwY)/video/779/189/124981977_mp4_h264_aac_2.m3u8#cell=nyc
+#EXTINF:-1 tvg-id="" tvg-name="MÚSICAS TINA TURNER"  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner:MÚSICAS TINA TURNER
+https://proxy-14.nyc.dailymotion.com/sec(ze_zdAyquuHZoAqFx0DMT8Ct0dNwXNCWVU0ENDHoHSq1E5YRdZYxLXAp25v3HhZR0l6YGcg-d37tCD5efKoWUTpbeKlPLBvFslpqZpWiJxA)/video/476/183/519381674_mp4_h264_aac_qhd_1.m3u8#cell=nyc
 
 #EXTM3U url-tvg="http://grade-de-FAX | CLIPS AO VIVO.xml"
 ############## FAX | CLIPS AO VIVO  ################# 
@@ -5093,7 +5623,7 @@ http://cast4.audiostream.com.br:8652/mp3
 http://cast4.audiostream.com.br:8663/mp3
 #EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000"group-title="RADIOS",GRENAL FM
 http://cast4.audiostream.com.br:8649/mp3
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8"group-title="FAX RADIOS |  AO VIVO",IMBÉ FM
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8"group-title="RADIOS",IMBÉ FM
 http://cast4.audiostream.com.br:8660/mp3
 #EXTINF:1 tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png"group-title="RADIOS",LIBERDADE FM
 http://cast4.audiostream.com.br:8655/mp3
@@ -5155,7 +5685,7 @@ http://zoeweb.net:8046/;stream.mp3
 https://paineldj5.com.br:2213/stream
 #EXTINF:1 tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" group-title="RADIOS",Convenção AM Itu
 https://8745.brasilstream.com.br/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png"group-title="RADIOS",-Rádio Olinda ao vivo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png"group-title="RADIOS",Rádio Olinda ao vivo
 http://cast2.hoost.com.br:9158/stream
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="RADIOS",Pagode 90
 https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
@@ -5278,8 +5808,6 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/188
 #EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GERAÇÃO FUNK FM (RADIOS)
 http://meuplay.shop:80/67598237854pw/9875352849pw/191
 
-
-
 ############## DESENHOS ################# 
 
 #EXTM3U url-tvg="http://grade-de-Masha e Urso.xml"
@@ -5288,7 +5816,7 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/191
 
 #EXTINF:-1 tvg-id="" tvg-name=" Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Masha e Urso", Masha e Urso
 http://dns.acaidopara.net:8080/21964291463/1964291463a/12467
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Masha e Urso",[24h] Contos da Masha
+#EXTINF:-1 tvg-id="" tvg-name="24h Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Masha e Urso", 24h Contos da Masha
 http://dns.acaidopara.net:8080/21964291463/1964291463a/12460
 
 #EXTM3U url-tvg="http://grade-de-DISNEY+Willow.xml"
@@ -5325,7 +5853,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/80885.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/80886.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica A Série - 2022 S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lbjZjowIsgLqOibhBp06DC35jdi.jpg" group-title="Série Turma da Mônica",Turma da Mônica A Série - 2022 S01 E08
 http://meuplay.shop:80/series/828474929852/34882748924/80887.mp4
-
 
 #EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
 ############## Infantil Car City ################# 
@@ -5696,7 +6223,7 @@ http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
 ############## Serie Mulher Hulk ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSerie Mulher Hulk" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AhvWtFjxuJexnYM6lCYTNeFCKYZ.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="http://image.tmdb.org/t/p/w300/iTZOuOLeNN54Gm8piWSnLmN265V.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/81530.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E02" tvg-logo="http://image.tmdb.org/t/p/w300/iTZOuOLeNN54Gm8piWSnLmN265V.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E02
 http://meuplay.shop:80/series/828474929852/34882748924/81856.mp4

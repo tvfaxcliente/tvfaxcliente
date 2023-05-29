@@ -6,6 +6,26 @@ http://stream.zeno.fm/pss6v1h6mfhvv
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO E TV |  FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS | RUN TIME.xml "
+ ############## CANAIS | RUN TIME ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | RUN TIME" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS RUN TIME"tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFtbW8ucnVudGltZS50dl9zY3JlZW5fMV8xNjIzMzMyODgyXzAxNw/screen-1.webp?fakeurl=1&type=.webp" group-title="CANAIS | RUM TIME",CANAIS RUN TIME
+https://stream.ads.ottera.tv/cl/230529chqcjqn209oabji50kr0/1280x720_3071200_0_f.m3u8?i=475_4865
+#EXTINF:-1 tvg-id="" tvg-name="TV e Filme"tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg" group-title="CANAIS | RUM TIME",TV e Filme
+https://stream.ads.ottera.tv/cl/230529chqcq39ra6j32342pr60/1280x720_3071200_0_f.m3u8?i=475_2153
+#EXTINF:-1 tvg-id="" tvg-name="AÇÂO"tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_action_bg.jpg" group-title="CANAIS | RUM TIME",AÇÂO
+https://stream.ads.ottera.tv/cl/230529chqcqp3lmhuafumfk54g/1280x720_3071200_0_f.m3u8?i=475_2552
+#EXTINF:-1 tvg-id="" tvg-name="COMÊDIA"tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" group-title="CANAIS | RUM TIME",COMÊDIA
+https://stream.ads.ottera.tv/cl/230529chqcrle52bbt0j3q3ppg/1280x720_3071200_0_f.m3u8?i=475_2553
+#EXTINF:-1 tvg-id="" tvg-name="CRIME"tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crime_16x9_1.jpg" group-title="CANAIS | RUM TIME",CRIME
+https://stream.ads.ottera.tv/cl/230529chqcs2ggv6tvncdo43i0/1280x720_3071200_0_f.m3u8?i=475_4864
+#EXTINF:-1 tvg-id="" tvg-name="Cine Espanto"tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_1.jpg" group-title="CANAIS | RUM TIME",Cine Espanto
+https://stream.ads.ottera.tv/cl/230529chqcsj8bsvi5eh4tasr0/1280x720_3071200_0_f.m3u8?i=475_4865
+#EXTINF:-1 tvg-id="" tvg-name="ROMANCE"tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_16x9_2.jpg" group-title="CANAIS | RUM TIME",ROMANCE
+https://stream.ads.ottera.tv/cl/230529chqct8223ngdit6b42v0/640x360_1126400_3_f.m3u8?i=475_4866
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ABERTOS.xml "
  ############## CANAIS  ABERTOS ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ABERTOS" group-title="
@@ -1952,12 +1972,20 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
 ############## FILMES | TV FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lilo, Lilo, Crocodilo"tvg-logo="https://image.tmdb.org/t/p/w185/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg"group-title="FILMES | TV FAX",Lilo, Lilo, Crocodilo
 https://seig.tv/16/1/663e764362fbc539bad205facfdcf70d/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pinóquio"tvg-logo="https://image.tmdb.org/t/p/w185/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg"group-title="FILMES | TV FAX",Pinóquio
 https://seig.tv/19/1/7ba85cea0f777ff47b36ce05975add22/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://i.ytimg.com/vi/7BEwWgmfJgA/maxresdefault.jpg"group-title="FILMES | TV FAX",O Último Resgate
+https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada: Era Uma Vez"tvg-logo="https://image.tmdb.org/t/p/w185/pfMgyj2afebT8LVrDVYHniDk3XJ.jpg"group-title="FILMES | TV FAX",A Princesa Encantada: Era Uma Vez
+https://seig.tv/19/1/de657f7b5a1eb8ed259401806e2e2334/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas: Entrar para Ganhar"tvg-logo="https://image.tmdb.org/t/p/w185/64BU3QqQEBtt5mJf1FjrCLBzzf5.jpg"group-title="FILMES | TV FAX",As Apimentadas: Entrar para Ganhar
+https://seig.tv/19/1/f1fc04624212bae12f6375292862baaa/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Busca de Groot"tvg-logo="https://image.tmdb.org/t/p/w185/oV3mUWylNaRsBkbul7BGilaxE9k.jpg"group-title="FILMES | TV FAX",A Busca de Groot
 https://seig.tv/16/1/007ddb883fd95bca3a9fb3d332d77894/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Marmaduke"tvg-logo="https://image.tmdb.org/t/p/w185/cyNivzjzniErFkzq45ZEWOKQMgY.jpg"group-title="FILMES | TV FAX",Marmaduke
@@ -4905,6 +4933,14 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_il0564po/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODE1NTk2NTJ9fX1dfQ__&Signature=I2ejIWvzniR44egjKLK2XpvV4XXpKhitfR891~K-hYqlJ1nvSNiUTEdAoEUR2~Z1Eth8C~-uYgRg2wLXkZ0DCSXQrObUWAWWHbwJd4Wo1nQt56DGBS08WiPCJ0GOGruRg2x~dU3jOFuPQjI6u7jaUF8T7ZunGI7dZ0S~U8uf4F3oAUd-IUA7MO90W9W0mEOqpOFlbqm2fnPUjeK4UPQnTNFe0etbri6cF4Rfm9-A2B6ncBzH-rU0GxmYsC~uCIIyGewlv7-R6O-PJj2ATZw2s2P0aE90F1gRcAiXZ9RwTkTjVb5dfoLStcZXVJMGkAlg6cHutp6xqwnEZL0o1gonrQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2015/09/florestaquesemove.jpg" group-title="FILMES | DRAMA RUN",A Floresta que se Move
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_0itnvx2p/v/1/pv/1/ev/9/flavorId/1_e1a8506o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8waXRudngycC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY4MTU2MDEwOH19fV19&Signature=akiLe5SGexL7U2fx42u1odUtS7Qm7K0wB0ejKEt8ljy6BCHerkP~DoSjuqItFm10Sj1hX1iDfSz5gbt2fJ-MCWLMEAtlg3j2uiqmCp8UwYd2Maz0a799QVyPDNDvjMze8znwpvyZ2~~ylcuQiMpqkS8Lb9RM43wHE0L1Fg-wuPj0AbRdYI92hqR7gbdb8KKyyvvG67A5P0oZw0mWFHV3DlrBmo6x05Es7eosMAtUOB5TdlmJ8DeNfzIXdi57iAzvVuE15ANRyW4zgx8sxS5LIo5x1V7nkUA~xlgDuB5RIEemhkaNUtZrfSFpxXFMGZbQPDwAwVneKYZXeaZuy660bg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:-1 tvg-id="" tvg-name="jogo de poder" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_game_changer_thumbnail_16x9_widescreen_bpor_0.jpg" group-title="FILMES | DRAMA RUN",jogo de poder
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_jw74gdem/v/1/pv/1/ev/10/flavorId/1_mo8nbwg8/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9qdzc0Z2RlbS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NTkzMzl9fX1dfQ__&Signature=MN5fyifhB11m~brPlxtorbp9hLDkaMUeTVI0EbGQyyvIZO9lRs6JhocZNbgk1n-gKT-1OEeXxZH0WF5AQyOr5uIpcwJDYFSL0iQrl10rRx2LXOuNqSeg90zU3SJ8Wqg47UU0Z99N9XKHBBt2-PLVd99sBaD8480k0-2dZWjjH-KJYXoFbPb6kJGaRYm-d8XyUzyBp5OpeTUeyI7w9wO5Oc0knVg0lZf~6gXXhi3XruPO3qM9eNY~Y33JzlpSTaUs4L4-5MiIKn~mNi4S1MtYaJ2XID~5ybcfJ-dM8SYZW-zO~dokCuegFJ3dYZLiPI7oH7KkAQ38eP5PvSTTPFPr-g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:-1 tvg-id="" tvg-name="Nada é para sempre" tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/river_runs_through_it_thumbnail_16x9_widescreen_bpor_0.jpg" group-title="FILMES | DRAMA RUN",Nada é para sempre
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_umyilx17/v/1/pv/1/ev/10/flavorId/1_i7ntswsm/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV91bXlpbHgxNy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAwNDJ9fX1dfQ__&Signature=TjkU7xmIt2DNGVr4OQrrBxh5SISYHEBG31U-jbS69rJHeh~gfRZ-pMS1XlcZnUYU8UHYEQXG7tYBdj4rqlHTFXDdfwpe4BJ9gqle8jEnQMFM1-uxxPWMql33KZel-HglM~8v-JmnD2lOOtWwMhIHwTLXqDbGpqKlWUZciZV8lYnrzaQXUqRUv~3MNOiic6elnSDkDi2bZCAXK1DKxnoE8TB44BzHhuCh9ue-3D0XeR8Y9TD1Vzx7rNmbj5ZSbA-GL9LpuOc7Ch0~PcfVosF-KUOgLRyYVT555-MvuH-AZ6zohf3NqkuAwNCc9LsJuauaXMhETCOSRuXospMd9IHtbA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro Relâmpago" tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/carjacked_thumbnail_16x9_widescreen_br.jpg" group-title="FILMES | DRAMA RUN",Sequestro Relâmpago
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_sdgoda4f/v/1/pv/1/ev/11/flavorId/1_q84bikds/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zZGdvZGE0Zi92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAxMjR9fX1dfQ__&Signature=arZ-bQ606FkVfmueMIqINiQZd62aWvn4ZKxDrnTB2PR8FMT7V1RATg4IEhDeCmhn9bD5qvf7aau0unzdKn7A23WCnJ~sL43dV1~38Jhwu1X90SdwdpAXF2fLdPNOxTV6FrVGsSXswRQp1jUBBw~zJ3~a81Svv9nerN7iibSq40H~Wn82bZNcz1Dsa1ihVlAH-wRDfKfQ7iAlvsJ~zyQExDK1w9Po024gjotXTlrNlAursTAnNJ5F4u4Y49~hsRnhTLOGi8d0V4LtvSvX-4YQg5QOFVPxfWfiLInN76nIZPEgQjHbLPBuiNvv3xVLnXwBYV8FUy5iV1KTkhyFPI79og__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Comum" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/an_ordinary_man_thumbnail_16x9_widescreen_br_v2.jpg" group-title="FILMES | DRAMA RUN",Um Homem Comum
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_3orb0xj9/v/1/pv/1/ev/12/flavorId/1_02yyxvfi/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8zb3JiMHhqOS92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAxNzN9fX1dfQ__&Signature=ayz~Xbol71jwGKSiTXkAHvX1OKCqHvgFBSf-tFh7MYwkrgdp9lLNgy1zRolZlM~2lCRN4gAM6ZmIJnqHgTr8M5nAROH1pbGt1v7eAifDGntc-6ClGbPQZVg8p-tUM0XYsMIgab1K~qnmaqPus9q2PyY39iSVYyc98L3DAXL-9AXOKQ7fDRWYJtlaBVasmyo0mxluVaQmSeN5A6Ez8r~y0zQTy~buGRIkQpYOEnDKKtFIlnjcyApp-G8Yjx1IUmmlnxxASoTbCmlDbJ6k30TjblOmiFZGfzApo-sYVbJGFxizcUPrHbIZV-2g5Xmel5gTGyqGKfAu~86qRpEAYalVBQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Drama.xml"
 ############## Filmes: Drama ################# 

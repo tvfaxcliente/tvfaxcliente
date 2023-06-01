@@ -1837,9 +1837,16 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
 ############## FILMES | TV FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10 [ 2023]"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10 [ 2023]
+https://ia802709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
+https://ia802700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre" tvg-logo="https://pobreflix.org/wp-content/uploads/1995/05/iye7Fwd0puLTPwxsuHrL1YczeGu-200x300.jpg" group-title="FILMES | TV FAX",À Espera de Um Milagre
+https://server49.surahusa.one/index2.php?v=cDZBUGJXYkY2MXh1WGx3RVNKbnVIMitKSWNjQllVQjZTRU9sc2VkbWVXdXNZTFFXNEJIQVR6NFZXdk9lRXpsVQ==&t=1685579180&res=360&hash=d53a2810e2388160747ee407834ce12b
+#EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCkbjUvOprnKy4Nq22zBr3K7Xot2UPsugDw&usqp=CAU" group-title="FILMES | TV FAX",À Espera de Um Milagre
+https://ia903409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lilo, Lilo, Crocodilo"tvg-logo="https://image.tmdb.org/t/p/w185/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg"group-title="FILMES | TV FAX",Lilo, Lilo, Crocodilo
 https://seig.tv/16/1/663e764362fbc539bad205facfdcf70d/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pinóquio"tvg-logo="https://image.tmdb.org/t/p/w185/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg"group-title="FILMES | TV FAX",Pinóquio
@@ -5396,23 +5403,23 @@ https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls
 ############## SÉRIES | Tulsa King ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Tulsa King" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/dOe72mwnTFg6ec4gX8szoNgafEr.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2CpHeTMQQJjgIAWXE3VyPeUPmux.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ntW59Upv7ihGxHgYLTQDNYu5y4b.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/jTesVrxg1CkdKYHeQsYDOYDAW2R.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ef8FQKmaxMVyj19JubHl3mgOdIB.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pvsWgF9Q8KEKq1AAFXqt3mx1YB3.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bodFvKO9iKvtdzWG2E4MnBRtpRU.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/CgBMQy7ekyOzhhLO0ZoMv7htJW.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/5kme01g9nQhOwxaLs4corudfpoe.jpg" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | O Incrível Hulk.xml"
@@ -5562,23 +5569,23 @@ http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
 ############## Serie Mulher Hulk ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSerie Mulher Hulk" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="http://image.tmdb.org/t/p/w300/iTZOuOLeNN54Gm8piWSnLmN265V.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/81530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E02" tvg-logo="http://image.tmdb.org/t/p/w300/iTZOuOLeNN54Gm8piWSnLmN265V.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E02
 http://meuplay.shop:80/series/828474929852/34882748924/81856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E03" tvg-logo="http://image.tmdb.org/t/p/w300/m8yN9B7UVnNv15G2F7i8WUgUNiO.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E03
 http://meuplay.shop:80/series/828474929852/34882748924/82010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E04" tvg-logo="http://image.tmdb.org/t/p/w300/tEgjEkcoA7JQyMec0Lpa4SaTKYC.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E04
 http://meuplay.shop:80/series/828474929852/34882748924/82381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E05" tvg-logo="http://image.tmdb.org/t/p/w300/aAsQynnt7PLaEep4knZi4qDaqYR.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E05
 http://meuplay.shop:80/series/828474929852/34882748924/82382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E06" tvg-logo="http://image.tmdb.org/t/p/w300/Au0lAIG4U9b5VxarSZgqsUboRtb.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E06
 http://meuplay.shop:80/series/828474929852/34882748924/82600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E07" tvg-logo="http://image.tmdb.org/t/p/w300/8SnKuRKeAjTjehmKk2xA4S2A3uz.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E07
 http://meuplay.shop:80/series/828474929852/34882748924/82691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E08" tvg-logo="http://image.tmdb.org/t/p/w300/hCmeBsFBqb7pW01RlmyV32oBdAb.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E08
 http://meuplay.shop:80/series/828474929852/34882748924/82749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E09" tvg-logo="http://image.tmdb.org/t/p/w300/lK7eyB70k8NJiQA4pfi68aEDFBv.jpg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E09
 http://meuplay.shop:80/series/828474929852/34882748924/82823.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Menudo.xml"

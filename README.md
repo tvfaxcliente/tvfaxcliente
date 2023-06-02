@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
+https://ia902700.us.archive.org/14/items/video-de-moletom-e-cropped-apresentando-uma-mulher-sorrident/V%C3%ADdeo%20de%20moletom%20e%20cropped%20apresentando%20uma%20mulher%20sorrident.mp4
+
 ############## ALEX RADIO E TV  FAX  #################
 #EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS é Tudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX RADIO E TV |  DEUS é Tudo",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
@@ -7,9 +10,11 @@ http://stream.zeno.fm/pss6v1h6mfhvv
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS | RUN TIME.xml "
- ############## CANAIS | RUN TIME ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | RUN TIME" group-title="
+
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS  RUN TIME.xml "
+ ############## CANAIS  RUN TIME ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  RUN TIME" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS RUN TIME"tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFtbW8ucnVudGltZS50dl9zY3JlZW5fMV8xNjIzMzMyODgyXzAxNw/screen-1.webp?fakeurl=1&type=.webp" group-title="CANAIS | RUM TIME",CANAIS RUN TIME
 https://stream.ads.ottera.tv/cl/230529chqcjqn209oabji50kr0/1280x720_3071200_0_f.m3u8?i=475_4865
@@ -149,9 +154,9 @@ https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="CANAIS | ABERTOS",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais | SBT.xml "
- ############## Canais | SBT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | SBT" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  SBT.xml "
+ ############## Canais  SBT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  SBT" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais | SBT",SBT SP HD+
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16749
@@ -226,9 +231,9 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289005
 #EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Jornal Recife HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Jornal Recife HD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289010
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Record.xml "
- ############## Canais | Record ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Record" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Record.xml "
+ ############## Canais  Record ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Record" group-title="
 
 #EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record Litoral Santos " tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais | Record",Record Litoral Santos 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS"tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="Canais | Record",RECORD NEWS
@@ -362,38 +367,38 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83804
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Vila Real HD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83520
 
-#EXTM3U url-tvg=" http://grade-de-CANAL  Band.xml "
- ############## CANAL  Band ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAL  Band" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais Band.xml "
+ ############## Canais Band ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais Band" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD"tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CANAL | Band",BAND HD
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD"tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="Canais | Band",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band 
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band 4K
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band 4K
 http://pbrz.xyz:80/67531382/36606924/1177
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band Bahia
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band Bahia
 http://pbrz.xyz:80/67531382/36606924/1178
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND CAMPINAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND CAMPINAS FHD
 http://pbrz.xyz:80/67531382/36606924/1179
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SP
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SP
 http://pbrz.xyz:80/67531382/36606924/1192
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SP FHD
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SP FHD
 http://pbrz.xyz:80/67531382/36606924/1193
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SP HD
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SP HD
 http://pbrz.xyz:80/67531382/36606924/1194
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SPORTS FHD
 http://pbrz.xyz:80/67531382/36606924/1195
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SPORTS HD
 http://pbrz.xyz:80/67531382/36606924/1196
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",BAND SPORTS SD
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SPORTS SD
 http://pbrz.xyz:80/67531382/36606924/1197
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAL | Band",Band Sports (H265)
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band Sports (H265)
 http://pbrz.xyz:80/67531382/36606924/1198
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Notícias.xml "
- ############## Canais | Notícias ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Notícias" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Notícias.xml "
+ ############## Canais  Notícias ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Notícias" group-title="
 
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83436
@@ -645,102 +650,9 @@ http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16761
 #EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS | FECHADOS",H2 HD+
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16733
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Documentários.xml "
- ############## Canais | Documentários ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Documentários" group-title="
-
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162809
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD [Alt]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147500
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83540
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162808
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD [Alt]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147499
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/87316
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [Alt]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147503
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83340
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83196
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD [Alt]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147504
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83541
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/87315
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD [Alt]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147505
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD [H265]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83341
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83198
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health HD [Alt]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147506
-#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health SD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83542
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126101
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147507
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD [H265]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID FHD [H265]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83355
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83230
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147508
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID SD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83578
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126102
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD [Alt]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147511
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83379
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83200
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD [Alt]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147512
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162807
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126103
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD [Alt]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147513
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83201
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD [Alt]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147514
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater SD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162806
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126100
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD [Alt]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147515
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83202
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD [Alt]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147516
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo SD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83544
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/87310
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD [Alt]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147517
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83203
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD [Alt]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147518
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162805
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | HBO.xml "
- ############## CANAIS | HBO ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | HBO" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS  HBO.xml "
+ ############## CANAIS  HBO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  HBO" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO+"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO+
 http://15.235.10.31:14411
@@ -799,9 +711,9 @@ http://15.235.10.31:14395
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b9f0809d0a94506609f85aa235fe96d1.png" group-title="CANAIS | HBO",HBO FAMILY HD
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31462
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS | TNT.xml "
- ############## CANAIS | TNT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TNT" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS  TNT.xml "
+ ############## CANAIS  TNT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  TNT" group-title="
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="CANAIS | TNT",TNT FHD
 http://meuplay.shop:80/828474929852/34882748924/785
@@ -838,9 +750,9 @@ http://45.58.126.146:14345
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
 http://45.58.126.146:14341
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Filmes e Séries.xml "
- ############## Canais | Filmes e Séries ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Filmes e Séries" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Séries.xml "
+ ############## Canais  Filmes e Séries ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Séries" group-title="
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
@@ -1033,9 +945,9 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147456
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/162758
 
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Filmes e Séries.xml "
- ############## Canais | Filmes e Séries ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Filmes e Séries" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Séries.xml "
+ ############## Canais  Filmes e Séries ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Séries" group-title="
 
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136802
@@ -1111,17 +1023,17 @@ http://grtsvk.life:80/661282206/318344838/87948
 #EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 6
 http://grtsvk.life:80/661282206/318344838/87949
 
-#EXTM3U url-tvg=" http://grade-de-CANAl  UNIVERSAL.xml "
- ############## CANAl  UNIVERSAL ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAl  UNIVERSAL" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  UNIVERSAL.xml "
+ ############## Canais  UNIVERSAL ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  UNIVERSAL" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD"tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="CANAl | UNIVERSAL", UNIVERSAL TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD"tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="Canais | UNIVERSAL", UNIVERSAL TV FHD
 http://45.58.126.146:14348/universal
-#EXTINF:-1 tvg-id="" tvg-name="universal-studios"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CANAl | UNIVERSAL", studios
+#EXTINF:-1 tvg-id="" tvg-name="universal-studios"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais | UNIVERSAL", studios
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CANAl | UNIVERSAL", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais | UNIVERSAL", STUDIO UNIVERSAL
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="CANAl | UNIVERSAL", CHANNEL FHD H265
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="Canais | UNIVERSAL", CHANNEL FHD H265
 http://meuplay.shop:80/Adminn8/6646885468/301
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  NATIONAL GEOGRAFIC.xml "
@@ -1222,10 +1134,98 @@ http://195.181.163.144:14730/
 #EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
 http://195.181.163.144:14730/
 
-#EXTM3U url-tvg=" http://grade-de-Canais Documentários Discovery.xml "
- ############## Canais Documentários Discovery ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais Documentários Discovery" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Documentários.xml "
+ ############## Canais  Documentários ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Documentários" group-title="
 
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162809
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD [Alt]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147500
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83540
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162808
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD [Alt]" tvg-logo="https://i.imgur.com/UPESEWn.png" group-title="Canais | Documentários",Curta! FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147499
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/87316
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [Alt]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147503
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83340
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83196
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD [Alt]" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147504
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="Canais | Documentários",Discovery Channel SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83541
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/87315
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD [Alt]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147505
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health FHD [H265]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health FHD [H265]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83341
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83198
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health HD [Alt]" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147506
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery Home & Health SD" tvg-logo="https://i.imgur.com/9ot4zIs.png" group-title="Canais | Documentários",Discovery Home & Health SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83542
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126101
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147507
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID FHD [H265]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID FHD [H265]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83355
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83230
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147508
+#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID SD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83578
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126102
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD [Alt]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147511
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83379
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83200
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD [Alt]" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147512
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/IwYMNk0.png" group-title="Canais | Documentários",Discovery Science SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162807
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126103
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater FHD [Alt]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147513
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83201
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD [Alt]" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147514
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater SD" tvg-logo="https://i.imgur.com/qZ8RMRi.png" group-title="Canais | Documentários",Discovery Theater SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162806
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/126100
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD [Alt]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147515
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83202
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD [Alt]" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147516
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo SD" tvg-logo="https://i.imgur.com/G8rKD8z.png" group-title="Canais | Documentários",Discovery Turbo SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83544
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World FHD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/87310
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World FHD [Alt]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World FHD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147517
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World HD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83203
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD [Alt]" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World HD [Alt]
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147518
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/hqugBkC.png" group-title="Canais | Documentários",Discovery World SD
+http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162805
 #EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID HD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83230.m3u8
 #EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="Discovery ID HD [Alt]" tvg-logo="https://i.imgur.com/r5M4mjv.png" group-title="Canais | Documentários",Discovery ID HD [Alt]
@@ -1458,9 +1458,9 @@ http://15.235.10.31:14326
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVLXXa5yyUAmWENJ00CCH7VaFYFTIC0fXR24UQbfa7zc7RhV6XR7TIP2WOmvPR6oYHX4&usqp=CAU" group-title="CANAIS | ESPORTES",FOX SPORT2
 http://15.235.10.31:14326
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Esportes PPV.xml "
- ############## Canais | Esportes PPV ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Esportes PPV" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Esportes PPV.xml "
+ ############## Canais  Esportes PPV ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Esportes PPV" group-title="
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="Prime Esportes 1 FHD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 1 FHD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83449
@@ -1483,9 +1483,9 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83452
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="https://i.imgur.com/wJQh6qs.png" group-title=" Canais | Esportes PPV",Red Bull TV HD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/70206
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES ESPN.xml "
- ############## CANAIS | ESPORTES ESPN ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES ESPN" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES ESPN.xml "
+ ############## CANAIS  ESPORTES ESPN ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES ESPN" group-title="
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="CANAIS | ESPORTES ESPN",ESPN 1 4K
 http://srv.cldplay.net:80/live/820584rohs/67864336899/155420.m3u8
@@ -1554,9 +1554,26 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/147544.m3u8
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Fox Sports Extra SD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="CANAIS | ESPORTES ESPN",Fox Sports Extra SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/162802.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais | FOX Sports 2.xml "
- ############## Canais | FOX Sports 2 ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | FOX Sports 2" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  ESPN - H265.xml "
+ ############## Canais  ESPN - H265 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  ESPN - H265" group-title="
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN - H265",ESPN 1 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/155420.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN - H265",ESPN 3 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151048.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN - H265",ESPN 3 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83384.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN - H265",ESPN 4 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151039.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN - H265",ESPN 4 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83388.m3u8
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [H265]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN - H265",ESPN Extra FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-Canais  FOX Sports 2.xml "
+ ############## Canais  FOX Sports 2 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  FOX Sports 2" group-title="
 
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | FOX Sports 2",FOX Sports 2
 http://15.235.10.31:14326
@@ -1583,9 +1600,9 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/32
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 SD
 http://meuplay.shop:80/67598237854pw/9875352849pw/484
 
-#EXTM3U url-tvg=" http://grade-de-Canais | Libertadores/Sul-Americana.xml "
- ############## Canais | Libertadores/Sul-Americana ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Libertadores/Sul-Americana" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Libertadores/Sul-Americana.xml "
+ ############## Canais  Libertadores/Sul-Americana ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Libertadores/Sul-Americana" group-title="
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156746
@@ -1612,11 +1629,9 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165437
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83714
 
-
-
-#EXTM3U url-tvg=" http://grade-de-Canais | Premiere FC.xml "
- ############## Canais | Premiere FC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Premiere FC" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  Premiere FC.xml "
+ ############## Canais  Premiere FC ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Premiere FC" group-title="
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes 4K
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/151037
@@ -1705,7 +1720,6 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147646
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83607
 
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES TNT.xml "
  ############## CANAIS  ESPORTES TNT ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES TNT" group-title="
@@ -1743,9 +1757,9 @@ http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31034
 #EXTINF:-1 tvg-id="Example" tvg-name="ESPN 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31148
 
-#EXTM3U url-tvg=" http://grade-de-Canais | ESPN/Fox Sports.xml "
- ############## Canais | ESPN/Fox Sports ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN/Fox Sports" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais  ESPN/Fox Sports.xml "
+ ############## Canais  ESPN/Fox Sports ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  ESPN/Fox Sports" group-title="
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN/Fox Sports",ESPN 1 FHD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83809.m3u8
@@ -1816,26 +1830,9 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais | ESPN - H265.xml "
- ############## Canais | ESPN - H265 ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN - H265" group-title="
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN - H265",ESPN 1 4K
-http://srv.cldplay.net:80/live/820584rohs/67864336899/155420.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN - H265",ESPN 3 4K
-http://srv.cldplay.net:80/live/820584rohs/67864336899/151048.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN - H265",ESPN 3 FHD [H265]
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83384.m3u8
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN - H265",ESPN 4 4K
-http://srv.cldplay.net:80/live/820584rohs/67864336899/151039.m3u8
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN - H265",ESPN 4 FHD [H265]
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83388.m3u8
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [H265]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN - H265",ESPN Extra FHD [H265]
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83382.m3u8
-
-#EXTM3U url-tvg="http://grade-de-FILMES | TV FAX.xml"
-############## FILMES | TV FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
+############## FILMES  TV FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10 [ 2023]"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10 [ 2023]
 https://ia802709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.mp4
@@ -1959,25 +1956,20 @@ https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_h
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/271382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sra Harris Vai a Paris (2023))" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RUXwZPgkOXMNlTBCcmYXYrMsNg.jpg" group-title="FILMES | TV FAX",Sra Harris Vai a Paris (2023)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/272463.mp4
-
-#EXTM3U url-tvg="http://grade-de-Filmes: 4K.xml"
-############## Filmes: 4K ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: 4K" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Bela Vingança - 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg" group-title="Filmes: 4K",Bela Vingança - 4K
+#EXTINF:-1 tvg-id="" tvg-name="Bela Vingança - 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg" group-title="FILMES | TV FAX",Bela Vingança - 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alita Anjo de Combate 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg" group-title="Filmes: 4K",Alita Anjo de Combate 4K [HDR]
+#EXTINF:-1 tvg-id="" tvg-name="Alita Anjo de Combate 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg" group-title="FILMES | TV FAX",Alita Anjo de Combate 4K [HDR]
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mula 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" group-title="Filmes: 4K",A Mula 4K
+#EXTINF:-1 tvg-id="" tvg-name="A Mula 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" group-title="FILMES | TV FAX",A Mula 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg" group-title="Filmes: 4K",A Freira 4K
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg" group-title="FILMES | TV FAX",A Freira 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="Filmes: 4K",1917 4K
+#EXTINF:-1 tvg-id="" tvg-name="1917 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="FILMES | TV FAX",1917 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66058.mp4
 
-#EXTM3U url-tvg="http://grade-de-24 Horas | Premium.xml"
-############## 24 Horas | Premium ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Premium" group-title="
+#EXTM3U url-tvg="http://grade-de-24 Horas  Premium.xml"
+############## 24 Horas  Premium ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24 Horas  Premium" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 01" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 01
 http://srv.cldplay.net:80/live/820584rohs/67864336899/152321.m3u8
@@ -2056,9 +2048,9 @@ http://meuplay.shop:80/series/828474929852/34882748924/83952.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Willow S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aOGdTbrbnejZA917t8l4LyONhXd.jpg" group-title="DISNEY+",Willow S01 E04
 http://meuplay.shop:80/series/828474929852/34882748924/83953.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | TURMA DA MÔNICA.xml"
-############## SÉRIES | TURMA DA MÔNICA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | TURMA DA MÔNICA" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES  TURMA DA MÔNICA.xml"
+############## SÉRIES  TURMA DA MÔNICA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  TURMA DA MÔNICA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica - A Série S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWWTyTqXipqGqsGJOZ2T0evyJYQ.jpg" group-title="SÉRIES | TURMA DA MÔNICA",Turma da Mônica - A Série S01 E01
 http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246387.mp4
@@ -2230,6 +2222,17 @@ https://download2391.mediafire.com/2phqz3kmmkggAfYCfjaRhFaL45_qPn6UWd9L9i0F_9vvx
 #EXTINF:-1 tvg-id="" tvg-name="O BICHO VAI PEGAR 3"tvg-logo="https://image.tmdb.org/t/p/w342/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg"group-title="FILMES | INFANTIL CINEMA",O BICHO VAI PEGAR 3
 https://video.wixstatic.com/video/834009_a3ece7d11c0949689f53dda20d7bd8c8/720p/mp4/file.mp4
 
+#EXTM3U url-tvg="http://grade-de-Canais | Infantil.xml"
+############## Canais | Infantil ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Infantil" group-title="
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV FHD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV FHD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147440
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV HD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/162947
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV SD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV SD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147441
+
 #EXTM3U url-tvg="http://grade-de-FILMES  ADOLECENTE CINEMA.xml"
 ############## FILMES  ADOLECENTE CINEMA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  ADOLECENTE CINEMA" group-title="
@@ -2254,17 +2257,6 @@ https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/p
 https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de uma Super Professora"tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="FILMES | ADOLECENTE CINEMA",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
-
-#EXTM3U url-tvg="http://grade-de-Canais | Infantil.xml"
-############## Canais | Infantil ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Infantil" group-title="
-
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV FHD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147440
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/162947
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV SD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147441
 
 #EXTM3U url-tvg="http://grade-de-24HRS DESENHOS.xml"
 ############## 24HRS DESENHOS ################# 
@@ -3100,9 +3092,9 @@ http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
 
-#EXTM3U url-tvg="http://grade-de-"FILMES | LANÇAMENTOS 2023.xml"
-############## "FILMES | LANÇAMENTOS 20233 ################# 
-#EXTINF:-1 tvg-id=" iddocanalde"FILMES | LANÇAMENTOS 2023" group-title="
+#EXTM3U url-tvg="http://grade-de-"FILMES  LANÇAMENTOS 2023.xml"
+############## "FILMES  LANÇAMENTOS 20233 ################# 
+#EXTINF:-1 tvg-id=" iddocanalde"FILMES  LANÇAMENTOS 2023" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="O Estrangulador de Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Estrangulador de Boston (2023)
 http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273742.mp4
@@ -3191,9 +3183,9 @@ http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274084.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Rio do Desejo (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozVXo6PW7lFz3ojWaHodCSpZAB0.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Rio do Desejo (2023) CAM
 http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274079.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES | LANÇAMENTOS CINEMA (2023).xml"
-############## FILMES | LANÇAMENTOS CINEMA (2023) ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS CINEMA (2023)" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES  LANÇAMENTOS CINEMA (2023).xml"
+############## FILMES  LANÇAMENTOS CINEMA (2023) ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES  LANÇAMENTOS CINEMA (2023)" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Na Sua Casa ou na Minha? 4K [Hybrid] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Na Sua Casa ou na Minha? 4K [Hybrid] (2023)
 http://conexaoonline.top:80/movie/1938979949/7742153/314761.mp4
@@ -3362,9 +3354,9 @@ http://conexaoonline.top:80/movie/1938979949/7742153/299909.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Nicarágua: Liberdade Exilada (2023)
 http://conexaoonline.top:80/movie/1938979949/7742153/299911.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES | LANÇAMENTOS CINEMA (2022).xml"
-############## FILMES | LANÇAMENTOS CINEMA (2022) ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | LANÇAMENTOS CINEMA (2022)" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES  LANÇAMENTOS CINEMA (2022).xml"
+############## FILMES  LANÇAMENTOS CINEMA (2022) ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES  LANÇAMENTOS CINEMA (2022)" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Bandido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1EnJdRe9qm3VFEbDXc6PotfDhz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Bandido (2022)
 http://conexaoonline.top:80/movie/5763777789/0312304566/314676.mp4
@@ -3479,9 +3471,9 @@ http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
 http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Top 2022.xml"
-############## Filmes: Top 2022 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Top 2022" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Top 2022.xml"
+############## Filmes Top 2022 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Top 2022" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="O Sol de Amalfi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg" group-title="Filmes: Top 2022",O Sol de Amalfi (2022)
 http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/86235.mp4
@@ -3684,9 +3676,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/269542.mp4
 #EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Top 2022",45 do Segundo Tempo (2022)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262450.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Top.xml"
-############## Filmes: Top ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Top" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Top.xml"
+############## Filmes Top ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Top" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Família Buscapé - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes: Top",A Família Buscapé - 1993
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/164775.mp4
@@ -3785,9 +3777,9 @@ http://srv.cldplay.net:80/movie/820584rohs/67864336899/269545.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aguas Negras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgdmVCaMUAF97wN1oS1qgMQf8GM.jpg" group-title="Filmes: Top",Aguas Negras (2020)
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/178443.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Suspense.xml"
-############## Filmes: Suspense ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Suspense" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Suspense.xml"
+############## Filmes Suspense ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Suspense" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Autópsia - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFiOQDl037qYICAn4RExrwbgCEF.jpg" group-title="Filmes: Suspense",A Autópsia - 2016
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/8292.mp4
@@ -3876,9 +3868,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/258074.mp4
 #EXTINF:-1 tvg-id="" tvg-name="10x10: O Cativeiro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="Filmes: Suspense",10x10: O Cativeiro - 2018
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/173979.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Aventura.xml"
-############## Filmes: Aventura ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Aventura" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Aventura.xml"
+############## Filmes Aventura ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Aventura" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRTu6vaYNZgNtMmVyKTgtVJbCrK.jpg" group-title="Filmes: Aventura",A Bússola de Ouro (2007)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259304.mp4
@@ -3947,9 +3939,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202368.mp4
 #EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Filmes: Aventura",10.000 A.C. - 2008
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162914.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Terror.xml"
-############## Filmes: Terror ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Terror" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Terror.xml"
+############## Filmes Terror ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Terror" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Sereia - Lago Dos Mortos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg" group-title="Filmes: Terror",A Sereia - Lago Dos Mortos - 2018
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175220.mp4
@@ -4138,9 +4130,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/25019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Sedução do Mal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xquTtgZo5SkF63GI2XWuHuK6u78.jpg" group-title="Filmes: Terror",A Sedução do Mal - 2013
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/176131.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Acao.xml"
-############## Filmes: Acao ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Acao" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Acao.xml"
+############## Filmes Acao ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Acao" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="15 Minutos - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NpTxlHcMz5dV9LEBrCcDTegruq.jpg" group-title="Filmes: Acao",15 Minutos - 2001
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/171934.mp4
@@ -4371,9 +4363,9 @@ https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES | AÇÃO CINEMA",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Ficcao Cientifica.xml"
-############## Filmes: Ficcao Cientifica ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Ficcao Cientifica" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Ficcao Cientifica.xml"
+############## Filmes Ficcao Cientifica ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Ficcao Cientifica" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" group-title="Filmes: Ficcao Cientifica",A Batalha do Planeta dos Macacos (1973)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182672.mp4
@@ -4418,9 +4410,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24487.mp4
 #EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisséia no Espaço - 1968" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66cLRuqg7dLXRgvgk427leeZhjd.jpg" group-title="Filmes: Ficcao Cientifica",2001: Uma Odisséia no Espaço - 1968
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/153909.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Romance.xml"
-############## Filmes: Romance ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Romance" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Romance.xml"
+############## Filmes Romance ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Romance" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Titia Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17jx2QfSofvhmzQKC8kai14hINc.jpg" group-title="Filmes: Romance",A Titia Noel (2020)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/194938.mp4
@@ -4489,9 +4481,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175672.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Acompanhante - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OuCrhu0VktCJQbSeuXvWa1o5jw.jpg" group-title="Filmes: Romance",A Acompanhante - 2015
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24553.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Comedia.xml"
-############## Filmes: Comedia ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Comedia" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Comedia.xml"
+############## Filmes Comedia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Comedia" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="DAPHNE E VELMA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg" group-title="Filmes: Comedia",DAPHNE E VELMA (2018)
 http://dns.p2.wtf:80/movie/1n2gga7mbl/ukoiqvixze/183605.mp4
@@ -4672,9 +4664,9 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62661.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Estudante E O Senhor Henri - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JUuHvbwsX93b9h8SJjFDY73EsI.jpg" group-title="Filmes: Comedia",A Estudante E O Senhor Henri - 2015
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24733.mp4
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Faroeste.xml"
-############## Filmes: Faroeste ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Faroeste" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Faroeste.xml"
+############## Filmes Faroeste ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Faroeste" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="A Difícil Vingança - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="Filmes: Faroeste",A Difícil Vingança - 2012
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/146995.mp4
@@ -4772,9 +4764,9 @@ https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_sdg
 #EXTINF:-1 tvg-id="" tvg-name="Um Homem Comum" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/an_ordinary_man_thumbnail_16x9_widescreen_br_v2.jpg" group-title="FILMES | DRAMA RUN",Um Homem Comum
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_3orb0xj9/v/1/pv/1/ev/12/flavorId/1_02yyxvfi/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8zb3JiMHhqOS92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAxNzN9fX1dfQ__&Signature=ayz~Xbol71jwGKSiTXkAHvX1OKCqHvgFBSf-tFh7MYwkrgdp9lLNgy1zRolZlM~2lCRN4gAM6ZmIJnqHgTr8M5nAROH1pbGt1v7eAifDGntc-6ClGbPQZVg8p-tUM0XYsMIgab1K~qnmaqPus9q2PyY39iSVYyc98L3DAXL-9AXOKQ7fDRWYJtlaBVasmyo0mxluVaQmSeN5A6Ez8r~y0zQTy~buGRIkQpYOEnDKKtFIlnjcyApp-G8Yjx1IUmmlnxxASoTbCmlDbJ6k30TjblOmiFZGfzApo-sYVbJGFxizcUPrHbIZV-2g5Xmel5gTGyqGKfAu~86qRpEAYalVBQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Drama.xml"
-############## Filmes: Drama ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Drama" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Drama.xml"
+############## Filmes Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Drama" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="12 Homens e Uma Sentença - 1957" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg" group-title="Filmes: Drama",12 Homens e Uma Sentença - 1957
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148928.mp4
@@ -5063,9 +5055,9 @@ https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls
 #EXTINF:-1 tvg-id="" tvg-name="O Vigilante Mascarado"tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="FILMES | DRAMA CINEMA",O Vigilante Mascarado
 https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Filmes: Star Wars.xml"
-############## Filmes: Star Wars ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Star Wars" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes Star Wars.xml"
+############## Filmes Star Wars ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes Star Wars" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio IV: Uma Nova Esperança - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSNdwFauC1QODm1ntk07wqJV1pf.jpg" group-title="Filmes: Star Wars",Star Wars Episódio IV: Uma Nova Esperança - 1977
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138443.mp4
@@ -5377,9 +5369,9 @@ https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1
 #EXTINF:-1 tvg-name="Tv Recomeço" tvg-logo="http://70.ms/ZgY3SK" group-title="RELIGIOSOS",Tv Recomeço
  http://5ce.co:80/ndplay33719830/21503n38vgj79/82802
 
-#EXTM3U url-tvg="http://grade-de-FÉ | ESPIRITUAIS.xml"
-############## FÉ | ESPIRITUAIS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFÉ | ESPIRITUAIS" group-title="
+#EXTM3U url-tvg="http://grade-de-FÉ  ESPIRITUAIS.xml"
+############## FÉ  ESPIRITUAIS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFÉ  ESPIRITUAIS" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name=" A Fé que Nos Une   "tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",A Fé que Nos Une
 https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
@@ -5398,334 +5390,9 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre  "tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Tulsa King.xml"
-############## SÉRIES | Tulsa King ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Tulsa King" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | O Incrível Hulk.xml"
-############## SÉRIES | O Incrível Hulk ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | O Incrível Hulk" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYlyHD5VmqW4vPq5NiISh2u6DgV.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVohTCD0ftoiDaIVOVHPTehf9L.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHL8mqomWssOwMQ8X9QrtYIcnIY.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ctHmzzwJiK6VhqyTxu3ULwny12.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2f8KO1L2h7qGSYO5jVqO0A9tb8.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1sUhEvgCMGhOt4EaBiXuAx1m5i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG4DrM0YT8ajwwycZu4RRb9e2zu.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muaPkaQ6PFU46fr492PAu5SXnb3.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akbDt4LlQ6oveT6kNGulI5KXh8h.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsDIUUDGUuIwuO4o5MZMYRjJC8i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkynbjeAdNQXRz6SlOwrISNaM2.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyHydlmdxDL5cf0MwtJrIJyH49.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mq0xjgt8oPWdxExzymPUGQVAfR.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHxSxrhrpkRY3nSirF1iYApSL9E.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E13
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E14
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E15
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E16
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E17
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E18
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E19
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E20
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E21
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E22
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E23
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E13
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E14
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E15
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E16
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E17
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E18
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
-
-#EXTM3U url-tvg="http://grade-de- Serie Mulher Hulks.xml"
-############## Serie Mulher Hulk ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSerie Mulher Hulk" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/82010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/82381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/82382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/82600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/82691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/82749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E09
-http://meuplay.shop:80/series/828474929852/34882748924/82823.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Menudo.xml"
-############## SÉRIES | Menudo ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Menudo" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYURp6D12mDV6IUyTowM1bxFTBB.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylYW05fc6hWwFq5hQmXdgorDY2x.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJLd6Hi981MJ5ktiwCoGhCJCkm3.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roweVLPiTsU4Up1JjJGiTtjTexV.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245446.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Resident Evil.xml"
-############## SÉRIES | Resident Evil ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Resident Evil" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYMnznJh6aR4VrMNcUXiq9eAnGK.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm7F2gyhz7CDBh4oaDn7NmrHDKz.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44VOJbDyl3U5JELdY5JsdbMrN5X.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1NsVPARuOq76N2JEIn3dIfRnhv.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k002GgPSujxplw3z6nLNg49rsK1.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAFU2ugbwDiFwH0Lp3DthL7PfTs.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P2AFk1M9KIdJaJbQhsPM8SiDeS.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tX6fMohdG9THNhYCePsYWv9WHU.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246002.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Hanyou No Yashahimeo.xml"
-############## SÉRIES | Hanyou No Yashahime ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Hanyou No Yashahime" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QGFm4jN9iJ8nDqgSyAKhnmAm7i.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFykC4YUaQv4OA0SWjQ8fkNcEmG.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9d4wZIxlMMKkkThykyKfQ3RF0o.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAhFuj11VtiKfWvDgp26y9yRYcY.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJlKeha0YBpTUPtn4zMQ7eUM59R.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsEaof2koXNSx7vnsoM7RLdybRt.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVKHxq2Lfn7PeADGpP6fQd0UTJO.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyxpfHzggruzpdOuk7d9583oIEj.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96Z2ci8L6hYwf3p38qu8oJlwUvy.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kClhS7lyS1u8Ey6XM4MgUcZrGlB.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv9zc3ohCiebLG8xy6Oav0Ixj5j.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eojMEzD8ZDyJqmnzHMUF0VHFCff.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blj2UtgBk7rjcSTLpPAUttwJOQ2.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E13
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqmueh5wXlSxsiBvPFnJkY5nuzN.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E14
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KWTfIoaqAUhzFkTlvLzSCDy7xt.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E15
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZHsspv4bMSkkrFHheB0QXa5Vs6.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E16
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OTCVsEDfdnZ0cHJea0bh8wFoH6.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E17
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oudh7SYXFI3OAFLmkddYLYDTFIb.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E18
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns67lcKJzMwoajIZQl9CkTGR47j.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E19
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMWlDGwImpa0RNSPIcnNQsO9bCy.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E20
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLHLNOQfNAeNFZDOMOkeuWFXFEa.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E21
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2oiiJI3n0092CkIuGXVX7ML4DU.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E22
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXSIPYjT4LLqqDYdBKeyDNcl0Y.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E23
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t8wstk8MSLxKBOHe6Ul8B5KOKE.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E24
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E13
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E14
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E15
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E16
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E17
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E18
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E19
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E20
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E21
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E22
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E23
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E24
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242083.mp4
-
-#EXTM3U url-tvg="http://grade-de-NETFLIX",Henry Danger.xml"
-############## NETFLIX",Henry Danger ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX",Henry Danger" group-title="
+#EXTM3U url-tvg="http://grade-de-NETFLIX Henry Danger.xml"
+############## NETFLIX  Henry Danger ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX Henry Danger" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8CIaWbC1NQnPCtozHCvhnjNENeK.jpg" group-title="NETFLIX",Henry Danger S01 E01
 http://meuplay.shop:80/series/828474929852/34882748924/81647.mp4
@@ -7290,6 +6957,526 @@ http://meuplay.shop:80/series/828474929852/34882748924/86197.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/86198.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1923 S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lYoICloKZuO3BU4JrRgPRartN2c.jpg" group-title="AMAZON PRIME",1923 S01 E06
 http://meuplay.shop:80/series/828474929852/34882748924/86199.mp4
+
+############## SÉRIES  ################# 
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  Tulsa King.xml"
+############## SÉRIES  Tulsa King ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Tulsa King" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  O Incrível Hulk.xml"
+############## SÉRIES  O Incrível Hulk ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  O Incrível Hulk" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYlyHD5VmqW4vPq5NiISh2u6DgV.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVohTCD0ftoiDaIVOVHPTehf9L.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHL8mqomWssOwMQ8X9QrtYIcnIY.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ctHmzzwJiK6VhqyTxu3ULwny12.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2f8KO1L2h7qGSYO5jVqO0A9tb8.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1sUhEvgCMGhOt4EaBiXuAx1m5i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG4DrM0YT8ajwwycZu4RRb9e2zu.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muaPkaQ6PFU46fr492PAu5SXnb3.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akbDt4LlQ6oveT6kNGulI5KXh8h.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsDIUUDGUuIwuO4o5MZMYRjJC8i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkynbjeAdNQXRz6SlOwrISNaM2.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyHydlmdxDL5cf0MwtJrIJyH49.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mq0xjgt8oPWdxExzymPUGQVAfR.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHxSxrhrpkRY3nSirF1iYApSL9E.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E13
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E14
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E15
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E16
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E17
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E18
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E19
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E20
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E21
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E22
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E23
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E13
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E14
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E15
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E16
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E17
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E18
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
+
+#EXTM3U url-tvg="http://grade-de- Serie Mulher Hulks.xml"
+############## Serie Mulher Hulk ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie Mulher Hulk" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
+http://meuplay.shop:80/series/828474929852/34882748924/81530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E02
+http://meuplay.shop:80/series/828474929852/34882748924/81856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E03
+http://meuplay.shop:80/series/828474929852/34882748924/82010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E04
+http://meuplay.shop:80/series/828474929852/34882748924/82381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E05
+http://meuplay.shop:80/series/828474929852/34882748924/82382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E06
+http://meuplay.shop:80/series/828474929852/34882748924/82600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E07
+http://meuplay.shop:80/series/828474929852/34882748924/82691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E08
+http://meuplay.shop:80/series/828474929852/34882748924/82749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E09
+http://meuplay.shop:80/series/828474929852/34882748924/82823.mp4
+
+#EXTM3U url-tvg="http://grade-de- Serie Bob Zoom.xml"
+############## Serie Bob Zoom ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie Bob Zoom" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E01" tvg-logo="http://7online.xyz:8080/images/04d8a4f104a98961738d1567e118ba88.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/247580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E02" tvg-logo="http://7online.xyz:8080/images/a0246edc7514b3d7cc53c74f488616cd.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/247581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E03" tvg-logo="http://7online.xyz:8080/images/17b108e6ec56bc2aef606ec51b0c557c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/247582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E04" tvg-logo="http://7online.xyz:8080/images/c6491d6c147b5a15de579a39a8cf6605.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/247583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E05" tvg-logo="http://7online.xyz:8080/images/c9e1fc1e23d6edb9b5f6d94eedc20ebb.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/247584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E06" tvg-logo="http://7online.xyz:8080/images/aae94128354795c8d3bf8dea8b6bdb01.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/247585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E07" tvg-logo="http://7online.xyz:8080/images/4c18b5526005bc9e243a4013bba65c1c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/247586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E08" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/247587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E09" tvg-logo="http://7online.xyz:8080/images/2073276cfbc04daab0fc890a565344d9.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/247588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E10" tvg-logo="http://7online.xyz:8080/images/5b1d3f34ca8aa214b8a0002068d4a105.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/247589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E11" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/247590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E12" tvg-logo="http://7online.xyz:8080/images/fa1225017f367b5e5de206f3c040b556.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/247591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E13" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/247592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E14" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E14
+http://7go.xyz:8080/series/zogbi11/982451290/247593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E15" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E15
+http://7go.xyz:8080/series/zogbi11/982451290/247594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E16" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E16
+http://7go.xyz:8080/series/zogbi11/982451290/247595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E17" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E17
+http://7go.xyz:8080/series/zogbi11/982451290/247596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E18" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E18
+http://7go.xyz:8080/series/zogbi11/982451290/247597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E19" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E19
+http://7go.xyz:8080/series/zogbi11/982451290/247598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E20" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E20
+http://7go.xyz:8080/series/zogbi11/982451290/247599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E21" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E21
+http://7go.xyz:8080/series/zogbi11/982451290/247600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E22" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E22
+http://7go.xyz:8080/series/zogbi11/982451290/247601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E23" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E23
+http://7go.xyz:8080/series/zogbi11/982451290/247602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E24" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E24
+http://7go.xyz:8080/series/zogbi11/982451290/247603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E25" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E25
+http://7go.xyz:8080/series/zogbi11/982451290/247604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E26" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E26
+http://7go.xyz:8080/series/zogbi11/982451290/247605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E27" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E27
+http://7go.xyz:8080/series/zogbi11/982451290/247606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E28" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E28
+http://7go.xyz:8080/series/zogbi11/982451290/247607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E29" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E29
+http://7go.xyz:8080/series/zogbi11/982451290/247608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E30" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E30
+http://7go.xyz:8080/series/zogbi11/982451290/247609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E31" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E31
+http://7go.xyz:8080/series/zogbi11/982451290/247610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E32" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E32
+http://7go.xyz:8080/series/zogbi11/982451290/247611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E33" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E33
+http://7go.xyz:8080/series/zogbi11/982451290/247612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E34" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E34
+http://7go.xyz:8080/series/zogbi11/982451290/247613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E35" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E35
+http://7go.xyz:8080/series/zogbi11/982451290/247614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E36" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E36
+http://7go.xyz:8080/series/zogbi11/982451290/247615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E01" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/262893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E02" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/262894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E03" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/262895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E04" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/262896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E05" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/262897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E06" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/262898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E07" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/262899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E08" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/262900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E09" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/262901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E10" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/262902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E11" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E11
+http://7go.xyz:8080/series/zogbi11/982451290/262903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E12" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E12
+http://7go.xyz:8080/series/zogbi11/982451290/262904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E13" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E13
+http://7go.xyz:8080/series/zogbi11/982451290/262905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E14" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E14
+http://7go.xyz:8080/series/zogbi11/982451290/262906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E15" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E15
+http://7go.xyz:8080/series/zogbi11/982451290/262907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E16" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E16
+http://7go.xyz:8080/series/zogbi11/982451290/262908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E17" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E17
+http://7go.xyz:8080/series/zogbi11/982451290/262909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E18" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E18
+http://7go.xyz:8080/series/zogbi11/982451290/262910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E19" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E19
+http://7go.xyz:8080/series/zogbi11/982451290/262911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E20" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E20
+http://7go.xyz:8080/series/zogbi11/982451290/262912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E21" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E21
+http://7go.xyz:8080/series/zogbi11/982451290/262913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E22" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E22
+http://7go.xyz:8080/series/zogbi11/982451290/262914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E23" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E23
+http://7go.xyz:8080/series/zogbi11/982451290/262915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E24" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E24
+http://7go.xyz:8080/series/zogbi11/982451290/262916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E25" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E25
+http://7go.xyz:8080/series/zogbi11/982451290/262917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E26" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E26
+http://7go.xyz:8080/series/zogbi11/982451290/262918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E27" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E27
+http://7go.xyz:8080/series/zogbi11/982451290/262919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E28" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E28
+http://7go.xyz:8080/series/zogbi11/982451290/262920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E29" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E29
+http://7go.xyz:8080/series/zogbi11/982451290/262921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E30" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E30
+http://7go.xyz:8080/series/zogbi11/982451290/262922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E31" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E31
+http://7go.xyz:8080/series/zogbi11/982451290/262923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E32" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E32
+http://7go.xyz:8080/series/zogbi11/982451290/262924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E33" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E33
+http://7go.xyz:8080/series/zogbi11/982451290/262925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E34" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E34
+http://7go.xyz:8080/series/zogbi11/982451290/262926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E35" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E35
+http://7go.xyz:8080/series/zogbi11/982451290/262927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E36" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E36
+http://7go.xyz:8080/series/zogbi11/982451290/262928.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  Kung Fu.xml"
+############## SÉRIES  Kung Fu ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Kung Fu" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E01" tvg-logo="http://7online.xyz:8080/images/7816cc0e5876948623e1e7c740edf8e6.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/162372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E02" tvg-logo="http://7online.xyz:8080/images/ef7e134378a8b3e5fa200c1af98e84a0.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/162373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E03" tvg-logo="http://7online.xyz:8080/images/501816e6f6a5e4fd3da51bb54e6247cd.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/162374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E04" tvg-logo="http://7online.xyz:8080/images/2853253633a86f9dcca6d9566d0a2872.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/162375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E05" tvg-logo="http://7online.xyz:8080/images/cc7fb8736ab093d01f7746d1607c273a.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/162376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E06" tvg-logo="http://7online.xyz:8080/images/59aabc43806d968020b203ebc84e030d.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/162377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E07" tvg-logo="http://7online.xyz:8080/images/6106b063cd8ef5529ecc770c0bb7677c.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/162378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E08" tvg-logo="http://7online.xyz:8080/images/daa1e7100445c2872b7bce0e6b7be0c8.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/162379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E09" tvg-logo="http://7online.xyz:8080/images/66eebe51f0f02fa1b21154f67198b461.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/162380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E10" tvg-logo="http://7online.xyz:8080/images/431b239df0974b1cb0d186eced0811da.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/162381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E11" tvg-logo="http://7online.xyz:8080/images/c2575b3a05b788414286888b83ca143b.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/162382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E12" tvg-logo="http://7online.xyz:8080/images/bcf5b8e76a26153593c0734dcda8e734.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/162383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E13" tvg-logo="http://7online.xyz:8080/images/2a52ad1eb0dae5968040a94b38cb82df.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/162384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E01" tvg-logo="http://7online.xyz:8080/images/ea0d18624c933737f56b502e91720107.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/162308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E02" tvg-logo="http://7online.xyz:8080/images/0b662e11807122d4989d5dddb28557ce.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/162309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E03" tvg-logo="http://7online.xyz:8080/images/10719bd39a9d47de9ab31e05dc21b298.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/162310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E04" tvg-logo="http://7online.xyz:8080/images/2e6255fe39438b66c08da3027cc591c9.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/162311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E05" tvg-logo="http://7online.xyz:8080/images/16414dfd5cf66294cdc8c0d7db4ed7cc.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/162312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E06" tvg-logo="http://7online.xyz:8080/images/16414dfd5cf66294cdc8c0d7db4ed7cc.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/162313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E07" tvg-logo="http://7online.xyz:8080/images/16414dfd5cf66294cdc8c0d7db4ed7cc.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/162314.mkv
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  Menudo.xml"
+############## SÉRIES  Menudo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Menudo" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYURp6D12mDV6IUyTowM1bxFTBB.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylYW05fc6hWwFq5hQmXdgorDY2x.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJLd6Hi981MJ5ktiwCoGhCJCkm3.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roweVLPiTsU4Up1JjJGiTtjTexV.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245446.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  Resident Evil.xml"
+############## SÉRIES  Resident Evil ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Resident Evil" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYMnznJh6aR4VrMNcUXiq9eAnGK.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm7F2gyhz7CDBh4oaDn7NmrHDKz.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44VOJbDyl3U5JELdY5JsdbMrN5X.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1NsVPARuOq76N2JEIn3dIfRnhv.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k002GgPSujxplw3z6nLNg49rsK1.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAFU2ugbwDiFwH0Lp3DthL7PfTs.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P2AFk1M9KIdJaJbQhsPM8SiDeS.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Série S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tX6fMohdG9THNhYCePsYWv9WHU.jpg" group-title=" SÉRIES | Resident Evil",Resident Evil: A Série S01 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246002.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  Hanyou No Yashahimeo.xml"
+############## SÉRIES  Hanyou No Yashahime ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Hanyou No Yashahime" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QGFm4jN9iJ8nDqgSyAKhnmAm7i.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFykC4YUaQv4OA0SWjQ8fkNcEmG.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9d4wZIxlMMKkkThykyKfQ3RF0o.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAhFuj11VtiKfWvDgp26y9yRYcY.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJlKeha0YBpTUPtn4zMQ7eUM59R.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsEaof2koXNSx7vnsoM7RLdybRt.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVKHxq2Lfn7PeADGpP6fQd0UTJO.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyxpfHzggruzpdOuk7d9583oIEj.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96Z2ci8L6hYwf3p38qu8oJlwUvy.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kClhS7lyS1u8Ey6XM4MgUcZrGlB.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv9zc3ohCiebLG8xy6Oav0Ixj5j.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eojMEzD8ZDyJqmnzHMUF0VHFCff.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blj2UtgBk7rjcSTLpPAUttwJOQ2.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E13
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqmueh5wXlSxsiBvPFnJkY5nuzN.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E14
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KWTfIoaqAUhzFkTlvLzSCDy7xt.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E15
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZHsspv4bMSkkrFHheB0QXa5Vs6.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E16
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OTCVsEDfdnZ0cHJea0bh8wFoH6.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E17
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oudh7SYXFI3OAFLmkddYLYDTFIb.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E18
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns67lcKJzMwoajIZQl9CkTGR47j.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E19
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMWlDGwImpa0RNSPIcnNQsO9bCy.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E20
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLHLNOQfNAeNFZDOMOkeuWFXFEa.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E21
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2oiiJI3n0092CkIuGXVX7ML4DU.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E22
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXSIPYjT4LLqqDYdBKeyDNcl0Y.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E23
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t8wstk8MSLxKBOHe6Ul8B5KOKE.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S01 E24
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E13
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E14
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E15
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E16
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E17
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E18
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E19
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E20
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E21
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E22
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E23
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanyou No Yashahime: Sengoku Otogizoushi S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8YcgLVnTcI7wtqgvLY1z1oYaJ8.jpg" group-title="SÉRIES | Hanyou No Yashahime",Hanyou No Yashahime: Sengoku Otogizoushi S02 E24
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/242083.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Reality",90 Dias para Casar.xml"
 ############## SÉRIES | Reality",90 Dias para Casar ################# 
@@ -10053,40 +10240,41 @@ https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/m
  ############## traduçao ################ # 
 #EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BERLIN TRADUÇAO ALEX SILVA
-https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -I should have known better
-https://music.wixstatic.com/preview/c634a0_bd81dd16096945288529769194799293-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" group-title="traduçao",-Please Forgive Me PERDOE
-https://music.wixstatic.com/preview/c634a0_10b4b08cda154e84b72c1aa938907e2c-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Chicago - Hard To Say I'm Sorry 
-https://music.wixstatic.com/preview/c634a0_5f9c1128b36348019325d96d741723b7-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Nothing Love Out Of Nothing At All Air Suply
-https://music.wixstatic.com/preview/c634a0_6b5d9f2a9cd54f5d90af41ccf584407f-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Peter Cetera - The Glory Of Love (Gloria do Amor)
-https://music.wixstatic.com/preview/c634a0_897c99843dde4f8faa8a0d80fbc96b8d-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Please Don´t Go - KC & The Sunshine Band
+#EXTINF:-1 tvg-id="BERLIN TRADUÇAO ALEX SILVA" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",BERLIN TRADUÇAO ALEX SILVA
+https://ia902702.us.archive.org/19/items/alex-silva-berlin-traduc-ao-alex-silva/Alex%20Silva%20-%20BERLIN%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="I should have known better" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",I should have known better
+https://ia902701.us.archive.org/10/items/alex-silva-i-should-have-known-better-traduc-ao-alex-silva/Alex%20Silva%20-%20I%20should%20have%20known%20better%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="Chicago - Hard To Say I'm Sorry " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Chicago - Hard To Say I'm Sorry 
+https://ia902702.us.archive.org/9/items/alex-silva-chicago-hard-to-say-im-sorry-traduc-ao-alex-silva/Alex%20Silva%20-%20Chicago%20-%20Hard%20To%20Say%20I%27m%20Sorry%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="Roxette Spending My Time PERDENDO MEU TEMPO" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Roxette Spending My Time PERDENDO MEU TEMPO
+https://ia802707.us.archive.org/19/items/alex-silva-roxette-spending-my-time-perdendo-meu-tempo-traduc-ao-alex-silva/Alex%20Silva%20-%20Roxette%20Spending%20My%20Time%20PERDENDO%20MEU%20TEMPO%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="We Are The World " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",We Are The World 
+https://ia802704.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva/Alex%20Silva%20-%20We%20Are%20The%20World%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="Please Don´t Go - KC & The Sunshine Band" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Please Don´t Go - KC & The Sunshine Band
+https://ia601600.us.archive.org/20/items/alex-silva-please-dont-go-kc-the-sunshine-band-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Don%C2%B4t%20Go%20-%20KC%20%26%20The%20Sunshine%20Band%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-id="BRAY ADAMS HEVEM " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",BRAY ADAMS HEVEM 
+https://ia802703.us.archive.org/33/items/alex-silva-bray-adams-hevem-traduc-ao-alex-silva/Alex%20Silva%20-%20BRAY%20ADAMS%20HEVEM%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="Please Forgive Me PERDOE" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j" group-title="traduçao",Please Forgive Me PERDOE
+https://ia801600.us.archive.org/19/items/alex-silva-please-forgive-me-perdoe-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Forgive%20Me%20PERDOE%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="Rem Everybody Hurts" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Rem Everybody Hurts
+https://ia802702.us.archive.org/21/items/alex-silva-rem-everybody-hurts-traducao-alex-silva/Alex%20Silva%20-%20Rem%20-%20Everybody%20Hurts%20%28tradu%C3%A7ao%20Alex%20Silva.mp4
+#EXTINF:-1 tvg-id="Peter Cetera - The Glory Of Love (Gloria do Amor)" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Peter Cetera - The Glory Of Love (Gloria do Amor)
+https://ia902604.us.archive.org/28/items/alex-silva-peter-cetera-the-glory-of-love-gloria-do-amor-traduc-ao-alex-silva/Alex%20Silva%20-%20Peter%20Cetera%20-%20The%20Glory%20Of%20Love%20%28Gloria%20do%20Amor%29TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-id="Nothing Love Out Of Nothing At All Air Suply" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Nothing Love Out Of Nothing At All Air Suply
+https://ia902606.us.archive.org/35/items/alex-silva-nothing-love-out-of-nothing-at-all-air-suply-traduc-ao-alex-silva/Alex%20Silva%20-%20Nothing%20Love%20Out%20Of%20Nothing%20At%20All%20Air%20Suply%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+
+#EXTINF:-1 tvg-id="Richard Marx - Right Here Waiting" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Richard Marx - Right Here Waiting 
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Roxette Spending My Time PERDENDO MEU TEMPO
+#EXTINF:-1 tvg-id="Dire Straits So FAR Away" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Dire Straits So FAR Away
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-##EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Richard Marx - Right Here Waiting 
+#EXTINF:-1 tvg-id="Aprecie a vida" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Aprecie a vida
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World 
+#EXTINF:-1 tvg-id="Eu Ainda Credito em seus olhos" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Eu Ainda Credito em seus olhos
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BRAY ADAMS HEVEM 
+
+#EXTINF:-1 tvg-id="London London" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",London London
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Dire Straits So FAR Away-
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Aprecie a vida
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Eu Ainda Credito em seus olhos
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Rem - Everybody Hurts
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -London London
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+
 
 #EXTM3U url-tvg="http://grade-de-FAX  CLIPS.xml"
 ############## FAX  CLIPS  ################# 
@@ -10741,3 +10929,101 @@ https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_108
 https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
 https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-voce sabia dessa.xml "
+ ############## voce sabia dessa ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldevoce sabia dessa" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Antigo Império Romano"tvg-logo="https://static.historiadomundo.com.br/conteudo/images/a-cidade-roma-tornou-se-alvo-das-invasoes-barbaras-que-contribuiu-para-queda-imperio-54402bf3c54ef.jpg" group-title="voce sabia dessa",Antigo Império Romano
+https://ia802307.us.archive.org/2/items/roman-empire-part-1_202111/Roman%20Empire%20Part%201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antigo Império Romano"tvg-logo="https://static.historiadomundo.com.br/conteudo/images/a-cidade-roma-tornou-se-alvo-das-invasoes-barbaras-que-contribuiu-para-queda-imperio-54402bf3c54ef.jpg" group-title="voce sabia dessa",Antigo Império Romano
+https://ia802307.us.archive.org/2/items/roman-empire-part-1_202111/Roman%20Empire%20Part%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antigo Império Romano"tvg-logo="https://static.historiadomundo.com.br/conteudo/images/a-cidade-roma-tornou-se-alvo-das-invasoes-barbaras-que-contribuiu-para-queda-imperio-54402bf3c54ef.jpg" group-title="voce sabia dessa",Antigo Império Romano
+https://ia802307.us.archive.org/2/items/roman-empire-part-1_202111/Roman%20Empire%20Part%203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Túmulo Grego Antigo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JVSB8oj9RFjsTZUNx9cBWRD88DuU8C_kGl3bOXEvDFudZAcuI4z42eFVov7pReuJ7DI&usqp=CAU" group-title="voce sabia dessa",Túmulo Grego Antigo
+https://ia803203.us.archive.org/4/items/ancient-greek-tomb/Ancient%20Greek%20Tomb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aristóteles - Filósofo Antigo"tvg-logo="https://s2.glbimg.com/Nrd6e3EZYiJUMwCQRi8Z9MGbhX8=/e.glbimg.com/og/ed/f/original/2016/05/30/aristoteles.jpg" group-title="voce sabia dessa",Aristóteles - Filósofo Antigo
+https://ia801709.us.archive.org/30/items/the-ancients-aristotle/The%20Ancients%20Aristotle.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cirurgia Grega Antiga"tvg-logo="https://www.drkleilton.com.br/images/temp-images/historia4.jpg" group-title="voce sabia dessa",Cirurgia Grega Antiga
+https://ia904507.us.archive.org/30/items/the-pioneering-history-of-ancient-greek-surgery-imperium-odyssey/The%20Pioneering%20History%20Of%20Ancient%20Greek%20Surgery%20%20%20Imperium%20%20%20Odyssey.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drama grego antigo"tvg-logo="https://static.todamateria.com.br/upload/te/at/teatrogrego1.jpg" group-title="voce sabia dessa",Drama grego antigo
+https://ia801707.us.archive.org/13/items/ancient-greece-democrats-1-of-3/Ancient%20Greece%20-%20Democrats%20%281%20of%203%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drama grego antigo"tvg-logo="https://static.todamateria.com.br/upload/te/at/teatrogrego1.jpg" group-title="voce sabia dessa",Drama grego antigo
+https://ia601707.us.archive.org/13/items/ancient-greece-democrats-1-of-3/Ancient%20Greece%20-%20Kings%20%282%20of%203%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drama grego antigo"tvg-logo="https://static.todamateria.com.br/upload/te/at/teatrogrego1.jpg" group-title="voce sabia dessa",Drama grego antigo
+https://ia801707.us.archive.org/13/items/ancient-greece-democrats-1-of-3/Ancient%20Greece%20-%20Romans%20%283%20of%203%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/A%20Walk%20To%20The%20Temple%20of%20Apollo%20_Megara.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Ambience_ASMR%20AC%20Odyssey%20City%20Sounds%2C%20Fountains%20and%20Birds%2C%20for%20relax_study_work%20_%20Two%20Hours%20_.mp4
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Ambient%20Zeus%20Statue%20Ancient%20Greece.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Ancient%20Agora%20of%20Athens%20-%204K%20Guided%20Walk%20with%20History%20Facts%20and%20Top%20Tips.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Ancient%20Athens%20Backstreet%20Garden%20-%20Ambience%20%26%20Music%20-%20Day%20%26%20Night%20-%20Assassin%27s%20Creed%20Odyssey.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Ancient%20Greece%20Ambience%20Laconia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Ancient%20Greek%20Mountains%20Ambient.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Bronze%20in%20Argos%20_%20Ep.%2013%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Democracy%20in%20Athens%20_%20Ep.%206%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Knossos%20_%20Ep.%207%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Mycenae%20_%20Ep.%208%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Sanctuary%20of%20Asklepios%20at%20Epidauros%20_%20Ep.%2026%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20School%20of%20Greece%20-%20Philosphy%20_%20Ep.%2024%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20School%20of%20Greece%20-%20Theater%20_%20Ep.%2025%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20The%20Battle%20of%20Amphipolis%20_%20Ep.%2016%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20The%20Olympic%20Games%20_%20Ep.%2017%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Thermopylae%20_%20Ep.%205%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Urban%20Household%20_%20Ep.%209%20_%20Ubisoft%20%5BNA%5D.mp4https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Discovery%20Tour_%20Wheat%20and%20Agriculture%20_%20Ep.%2030%20_%20Ubisoft%20%5BNA%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassin%27s%20Creed%20Odyssey%20Discovery%20Tour%20-%20Full%20Olympic%20Games%20Tour%20%28AC%20Odyssey%20Discovery%20Tour%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Assassins%20Creed%20Odyssey%20-%20Discovery%20Tour%20-%20Gods.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Beautiful%20Ancient%20Greek%20City%20of%20Korinth%20%5BAssassin%27s%20Creed_%20Odyssey%20-%20Relaxing%20Ambient%20Walking%20Tour%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Discovery%20Tour%20-%20Ancient%20Greece.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Fishing%20Village%20Ambience%20-%20Day%20%26%20Night%20-%20Assassin%27s%20Creed%20Odyssey.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Greek%20Island%20on%20a%20Windy%20Night%E2%80%A2%20Assassin%27s%20Creed%20Odyssey%20Relax%20%28ASMR%29%20%E2%80%A2%20Naxos%20Greece%20%E2%80%A2%20Sleep%20%26%20Relax.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Mountain%20View%20-%20Ancient%20Greece%20Ambience.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Rooftop%20Terrace%20In%20Ancient%20Greece%20_%20Ambience%20%26%20Music%20_%20Day%20%26%20Night%20_%20Assassin%27s%20Creed%20Odyssey.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Sacred%20Lake%20Ambience%20-%20Day%20%26%20Night%20-%20Assassin%27s%20Creed%20Odyssey.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Sanctuary%20of%20Asklepios%20at%20Epidauros.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Athens%20_%20AC_%20Odyssey%20_%20Relaxing%20Game%20Ambience%20%5B%204K%20Ultra%20Max%20Graphics%20%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Elis%20City%20%5B%20Assassin%27s%20Creed_%20Odyssey%20-%204K%20Ultra%20-%20Ambience%20%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Island%20of%20Crete%20%5B%20AC_%20Odyssey%20-%204K%20Ultra%20-%20Relaxing%20Ambience%20%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Lesbos%20Island%20%5B%20Assassin%27s%20Creed_%20Odyssey%20%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Olympia%20%5B%20Assassin%27s%20Creed_%20Odyssey%20%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Sanctuary%20of%20Apollo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20-%20Sanctuary%20of%20Asklepios%20%5B%20Assassin%27s%20Creed_%20Odyssey%20-%204K%20Ultra%20Graphics%20%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20Ancient%20Greece%20City%20of%20Sparta%20_%20Assassin%27s%20Creed_%20Odyssey%20_%204K%20Ultra%20Max%20Graphics.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia601406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20the%20Ancient%20Greece%20-%20The%20Sanctuary%20of%20Delphi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursão de Descoberta da Grécia Antiga"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7imIXhvvFliuNWJOBbhL5lVEwhinu83T2n4kI4FDJUNLalAKCUPj1m9rcirv9aUnMq4&usqp=CAU" group-title="voce sabia dessa",Excursão de Descoberta da Grécia Antiga
+https://ia801406.us.archive.org/35/items/discovery-tour-ancient-greece/Walking%20in%20the%20Ancient%20Greek%20City%20of%20Argos.mp4

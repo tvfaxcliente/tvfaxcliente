@@ -995,7 +995,7 @@ http://grtsvk.life:80/661282206/318344838/139444
 http://grtsvk.life:80/661282206/318344838/136194
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 07" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY CINEMA",CINE SKY 07
 http://grtsvk.life:80/661282206/318344838/116161
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY CINEMAY",CINE SKY CINEMA 8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqb6YMegJulW3QkQRl474O3XeZjlgpEESLnDUFWvncR8QnY_Kr8b0MXmx70yRGi6VM3UPAw__VJOBwIr67w_0kAlMNSHdFePbFU41uYvXIoK8fOhHdKv9L6Izzzobiy6FqhGztEQNdYD7Vox9u4KmrMQm6o0gEdm6Hbr9qDfLZDYf1y3pvdXGuDMyD" group-title="CINE SKY CINEMA",CINE SKY CINEMA 8
 http://grtsvk.life:80/661282206/318344838/136195
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY CINEMA 08" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY CINEMA",CINE SKY 08
 http://grtsvk.life:80/661282206/318344838/139439
@@ -1966,6 +1966,10 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66060.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63068.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1917 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="FILMES | TV FAX",1917 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbido" tvg-logo="https://img.ev01.to/xxrz/250x400/183/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg" group-title="FILMES | TV FAX",Zumbido
+https://eno.dokicloud.one/_v10/9eb6cd864e29f824f065a00cb16e1122a6d336223fa70d13e573bdb65e08ea6f33efdd176988a48aea1f2097b4a9653c2babbd8a268d77aeb521b524196ca12d734348192c391be42ab32b6a19d3c7b721fb72db33a33196bcbf0b3c333dfcc158bebdf39b663a973601e35cbcc0c7043c748892af9e3b5d68e7fe902031a997/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1" tvg-logo="https://img.ev01.to/xxrz/250x400/183/cc/19/cc195d12d1ebc7576601946949aaab8f/cc195d12d1ebc7576601946949aaab8f.jpg" group-title="FILMES | TV FAX",Raquel 1:1
+https://eerht.artdesigncdn.net/_v10/262004f4cae559d6839d2d05962b855489c09417f3f16372c5c534dc6adc75faf9e5b4275b1b7d75b80c8a817167422582b8586a0a8c70b50a9bed38ac0dde6586fb6c745917dda442e8c8dcf7c5181d5752b8c91253fd9861c5caeb6f897e40310f9393c9ebd378c1e3aae95f152b1f4c0aaf9fe3cb169ef926219c11e6b6d7/1080/index.m3u8
 
 #EXTM3U url-tvg="http://grade-de-24 Horas  Premium.xml"
 ############## 24 Horas  Premium ################# 
@@ -10196,6 +10200,25 @@ http://srv.cldplay.net:80/series/820584rohs/67864336899/259745.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Funk.Doc: Popular  Proibido S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1XizO958bYhDeLX9N5xcqxXeNN.jpg" group-title="SÉRIES | GloboPlay",Funk.Doc: Popular  Proibido S01 E05
 http://srv.cldplay.net:80/series/820584rohs/67864336899/259746.mp4
 
+#EXTM3U url-tvg=" http://grade-de-O Grande Assalto ao Banco Central do Brasil.xml "
+############## O Grande Assalto ao Banco Central do Brasil ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeO Grande Assalto ao Banco Central do Brasil" group-title="
+
+#EXTINF:1 tvg-logo="https://img.ev01.to/xxrz/250x400/183/45/f1/45f1b4cdd70697bb8e4a976fb0eb445f/45f1b4cdd70697bb8e4a976fb0eb445f.jpg" group-title="O Grande Assalto ao Banco Central do Brasil",O Grande Assalto ao Banco Central do Brasil - Temporada 1 - Episódio 1: O Crime
+https://eno.dokicloud.one/_v10/4216ed31186322f78fe6fdd45f7d641a05a57ccc38777d8f41bb49acb476b47e5a9ec70c5295d5931da4f3b97d1bc399c8708c699437fb8539b793658026394e078568f20208ae919ae709c350bac2ca589c210321b9b29c87f498560aac35a7e26c9d2869e48f464ccf7d849916ddd82303ffff54ca89ee6235db0daf9da4ee/1080/index.m3u8
+#EXTINF:1 tvg-logo="https://img.ev01.to/xxrz/250x400/183/45/f1/45f1b4cdd70697bb8e4a976fb0eb445f/45f1b4cdd70697bb8e4a976fb0eb445f.jpg" group-title="O Grande Assalto ao Banco Central do Brasil",O Grande Assalto ao Banco Central do Brasil - Temporada 1 - Episódio 2: A Caçada
+https://evif.onthecloudcdn.com/_v10/a02f5096dd0a13a02140f73af473a6612e5ed28bc26a7d4e9b6d2fcfddb314f32914ce6a047e3b79cc83508c29f2b542dea6415466fa398385e016f224a9eb360ac56efae2e5ee155844d300eda013efa87d907c3225f3688355848d381704ac94929ee7c4e5c8dde4d634b481427644db7a9b90ccdb7fa2365030ea1d8f0d3a/1080/index.m3u8
+#EXTINF:1 tvg-logo="https://img.ev01.to/xxrz/250x400/183/45/f1/45f1b4cdd70697bb8e4a976fb0eb445f/45f1b4cdd70697bb8e4a976fb0eb445f.jpg" group-title="O Grande Assalto ao Banco Central do Brasil",O Grande Roubo do Banco Central do Brasil - Temporada 1 - Episódio 3: Dinheiro Amaldiçoado
+https://owt.webarchivecdn.com/_v10/fc969e2571238b1f530c252c50d5383c2cadc39479b06e37c7b9c4ce672d12e28009dba20e41f9672bbb80bfd0f7b4e7ff7834a1e762629636bcd3320d5084a09f961d43c98d27eb8b3f5e73172995d4a46782d867ecb74750c022ee971f5b26d0c536d26856a1d055755d360f4998fc88c79878ad71f026d3cf057ac354e9d1/1080/index.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-Documentarios Racionais MC s.xml "
+############## Documentarios Racionais MC s ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDocumentarios Racionais MC s" group-title="
+
+#EXTINF:1 tvg-logo="https://img.ev01.to/xxrz/250x400/183/d9/46/d946586496042e53152b272ab7c32a53/d946586496042e53152b272ab7c32a53.jpg" group-title="Documentarios Racionais MC s",Racionais MC s: Das Ruas de São Paulo
+https://rouf.magnewscontent.org/_v10/c6e59982b9955e7ad31cde6dd70370736c1b683295b5324e73c403e3feb577d4dbae6bfb1f9032a6dee7e3b0cd2ee9b37ac523164bf8e81d2025b42f9cfee657e5559e7ce10b491d5cf5323013e7af39ae0997a4f055a59142875605f87cbdbb75b7efbdb393295562f54994b53e528948c3d1b9c51dfe7838869e04f817d0b0/1080/index.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
 ############## Documentarios ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeDocumentarios" group-title="
@@ -10262,28 +10285,19 @@ https://ia802702.us.archive.org/21/items/alex-silva-rem-everybody-hurts-traducao
 https://ia902604.us.archive.org/28/items/alex-silva-peter-cetera-the-glory-of-love-gloria-do-amor-traduc-ao-alex-silva/Alex%20Silva%20-%20Peter%20Cetera%20-%20The%20Glory%20Of%20Love%20%28Gloria%20do%20Amor%29TRADU%C3%87AO%20ALEX%20SILVA.mp4
 #EXTINF:-1 tvg-id="Nothing Love Out Of Nothing At All Air Suply" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Nothing Love Out Of Nothing At All Air Suply
 https://ia902606.us.archive.org/35/items/alex-silva-nothing-love-out-of-nothing-at-all-air-suply-traduc-ao-alex-silva/Alex%20Silva%20-%20Nothing%20Love%20Out%20Of%20Nothing%20At%20All%20Air%20Suply%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
-
 #EXTINF:-1 tvg-id="Richard Marx - Right Here Waiting" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Richard Marx - Right Here Waiting 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+https://ia902705.us.archive.org/4/items/alex-silva-richard-marx-right-here-waiting-traduc-ao-alex-silva/Alex%20Silva%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
 #EXTINF:-1 tvg-id="Dire Straits So FAR Away" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Dire Straits So FAR Away
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-id="Aprecie a vida" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Aprecie a vida
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:-1 tvg-id="Eu Ainda Credito em seus olhos" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Eu Ainda Credito em seus olhos
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-
+https://ia902602.us.archive.org/22/items/alex-silva-dire-straits-so-far-away-traducao-alex-silva/Alex%20Silva%20-%20Dire%20Straits%20So%20FAR%20Away-%20Tradu%C3%A7ao%20Alex%20Silva.mp4
+#EXTINF:-1 tvg-id="Tim Moore - Yes Aprecie a vida" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Tim Moore - Yes Aprecie a vida
+https://ia902603.us.archive.org/11/items/tim-moore-yes-traducao/Tim%20Moore%20-%20Yes%20%28tradu%C3%A7%C3%A3o%29%20.mp4
 #EXTINF:-1 tvg-id="London London" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",London London
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-
+https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-por-alex-silva/Alex%20Silva%20-%20RPM%20-%20London%20London%20%28TRADUZIDO%20POR%20ALEX%20SILVA%29.mp4
 
 #EXTM3U url-tvg="http://grade-de-FAX  CLIPS.xml"
 ############## FAX  CLIPS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX  CLIPS" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=" Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136594
-#EXTINF:-1 tvg-id="" tvg-name=" Trio Parada Dura A Última Live - Especial Parrerito" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Trio Parada Dura A Última Live - Especial Parrerito
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136595
 #EXTINF:-1 tvg-id="" tvg-name=" Tina Turner Live in Rio 1988 "  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner Live in Rio 1988
 https://proxy-12.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SXYZh0rUZhBWvWUth3ykPgc9WOBuuXUwCnN_f-8N-JB8vrAv3oOyRZXkbIeyHy3R7L8pEG4XUsdzSbCs6hkpQwY)/video/779/189/124981977_mp4_h264_aac_2.m3u8#cell=nyc
 #EXTINF:-1 tvg-id="" tvg-name=" Tina Turner MÚSICAS TINA TURNER"  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner MÚSICAS TINA TURNER
@@ -10293,6 +10307,10 @@ https://proxy-14.nyc.dailymotion.com/sec(ze_zdAyquuHZoAqFx0DMT8Ct0dNwXNCWVU0ENDH
 ############## FAX | CLIPS AO VIVO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS AO VIVO" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="  Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136594
+#EXTINF:-1 tvg-id="" tvg-name="  Trio Parada Dura A Última Live - Especial Parrerito" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Trio Parada Dura A Última Live - Especial Parrerito
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136595
 #EXTINF:-1 tvg-id="" tvg-name=" Alvorada Sertaneja   "  tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/og.jpg" group-title="FAX | CLIPS AO VIVO",Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TNT   " tvg-logo="https://www.tnt.com/dam/tnt_express_media/en_gb/images/ChoosingTNT/TNT-Logo-edt.png" group-title="FAX | CLIPS AO VIVO",TNT

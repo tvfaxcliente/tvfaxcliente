@@ -367,6 +367,55 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83804
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Vila Real HD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83520
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
+ ############## CANAIS | GLOBO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
+
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
+http://7go.xyz:8080/zogbi11/982451290/18534
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD
+http://7go.xyz:8080/zogbi11/982451290/18545
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
+http://7go.xyz:8080/zogbi11/982451290/18568
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
+http://7go.xyz:8080/zogbi11/982451290/23562
+#EXTINF:-1 tvg-id="globorede.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD
+http://7go.xyz:8080/zogbi11/982451290/29893
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD
+http://7go.xyz:8080/zogbi11/982451290/22155
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD
+http://7go.xyz:8080/zogbi11/982451290/18544
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD
+http://7go.xyz:8080/zogbi11/982451290/22154
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://7go.xyz:8080/zogbi11/982451290/18556
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://7go.xyz:8080/zogbi11/982451290/22171
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://7go.xyz:8080/zogbi11/982451290/109040
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+http://7go.xyz:8080/zogbi11/982451290/18574
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+http://7go.xyz:8080/zogbi11/982451290/64895
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD Max" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD Max
+http://7go.xyz:8080/zogbi11/982451290/54357
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://7go.xyz:8080/zogbi11/982451290/29601
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://7go.xyz:8080/zogbi11/982451290/18533
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://7go.xyz:8080/zogbi11/982451290/22175
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://7go.xyz:8080/zogbi11/982451290/18569
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://7go.xyz:8080/zogbi11/982451290/18558
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://7go.xyz:8080/zogbi11/982451290/29602
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD
+http://7go.xyz:8080/zogbi11/982451290/18576
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD
+http://7go.xyz:8080/zogbi11/982451290/50097
+
 #EXTM3U url-tvg=" http://grade-de-Canais Band.xml "
  ############## Canais Band ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais Band" group-title="
@@ -1834,12 +1883,76 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 ############## FILMES  TV FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
+http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10 [ 2023]"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10 [ 2023]
 https://ia802709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia802700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: As Aventuras de Pedro Malasartes (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg" group-title="FILMES | TV FAX",Mazzaropi: As Aventuras de Pedro Malasartes (1960)
+http://7go.xyz:8080/movie/zogbi11/982451290/50378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="FILMES | TV FAX",A Elefanta do Mágico (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/303951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghosted: Sem Resposta (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg" group-title="FILMES | TV FAX",Ghosted: Sem Resposta (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Piu-Piu (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg" group-title="FILMES | TV FAX",O Rei Piu-Piu (2022)
+http://7go.xyz:8080/movie/zogbi11/982451290/311686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pânico VI (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | TV FAX",Pânico VI (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Rastro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" group-title="FILMES | TV FAX",Sem Rastro (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 for Brady: Quatro Amigas e uma Paixão (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZBOc7sXmK618zujlxaiyLTq2e0.jpg" group-title="FILMES | TV FAX",80 for Brady: Quatro Amigas e uma Paixão (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Infiltrado (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg" group-title="FILMES | TV FAX",Agente Infiltrado (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassin Club (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | TV FAX",Assassin Club (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento em Família (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1vi88La90aTwEtsRMNqXNwtTXn3.jpg" group-title="FILMES | TV FAX",Casamento em Família (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="FILMES | TV FAX",Castelo Rá-Tim-Bum: Reencontro (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo do Amor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg" group-title="FILMES | TV FAX",Jogo do Amor (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg" group-title="FILMES | TV FAX",Peter Pan & Wendy (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tic-Tac: A Maternidade do Mal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg" group-title="FILMES | TV FAX",Tic-Tac: A Maternidade do Mal (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | TV FAXFILMES | TV FAX",Duas Bruxas: A Herança Diabólica (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honra Entre Rebeldes (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | TV FAX",Dungeons & Dragons: Honra Entre Rebeldes (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="FILMES | TV FAX",Era Uma Vez Carnaval (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super-Heróis (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fRHNCety8AHB38OUTBKSfg5fKcY.jpg" group-title="FILMES | TV FAX",Legião dos Super-Heróis (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcista do Papa (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="FILMES | TV FAX",O Exorcista do Papa (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo pela Noiva (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2hdtxPuqCZtEnvfKFeLyrrn9HYM.jpg" group-title="FILMES | TV FAX",Tudo pela Noiva (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/311850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cratera (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg" group-title="FILMES | TV FAX",A Cratera (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Air: A História Por Trás do Logo (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg" group-title="FILMES | TV FAX",Air: A História Por Trás do Logo (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mãe (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VrZJdiSduRuCkFcJlNDM2uaZEr.jpg" group-title="FILMES | TV FAX",A Mãe (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Pecadoras e Uma Mula (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdisHtFOulk0bWGGXrR8DYeBC4.jpg" group-title="FILMES | TV FAX",Duas Pecadoras e Uma Mula (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Pecadoras e Uma Mula (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg" group-title="FILMES | TV FAX",Duas Pecadoras e Uma Mula (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg" group-title="FILMES | TV FAX",Homem-Formiga e a Vespa: Quantumania (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras de um Crime (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg" group-title="FILMES | TV FAX",Sombras de um Crime (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viva o México (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mZWLkJQeVy990LMFGlFJphOaioh.jpg" group-title="FILMES | TV FAX",Viva o México (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Royalteen: Princesa Margrethe (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oWmcC2RENbkdS3BuPor530KzKDc.jpg" group-title="FILMES | TV FAX",Royalteen: Princesa Margrethe (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros - O Filme CAM HD (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg" group-title="FILMES | TV FAX",Super Mario Bros - O Filme CAM HD (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extorsão (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAQvIuLJRFo0LCr0gLQTng9KRco.jpg" group-title="FILMES | TV FAX",A Extorsão (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/312835.mp4
 #EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre" tvg-logo="https://pobreflix.org/wp-content/uploads/1995/05/iye7Fwd0puLTPwxsuHrL1YczeGu-200x300.jpg" group-title="FILMES | TV FAX",À Espera de Um Milagre
 https://server49.surahusa.one/index2.php?v=cDZBUGJXYkY2MXh1WGx3RVNKbnVIMitKSWNjQllVQjZTRU9sc2VkbWVXdXNZTFFXNEJIQVR6NFZXdk9lRXpsVQ==&t=1685579180&res=360&hash=d53a2810e2388160747ee407834ce12b
 #EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCkbjUvOprnKy4Nq22zBr3K7Xot2UPsugDw&usqp=CAU" group-title="FILMES | TV FAX",À Espera de Um Milagre
@@ -3475,6 +3588,381 @@ http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
 http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
 
+#EXTM3U url-tvg="http://grade-de-FILMES | 4K.xml"
+############## FILMES | 4K ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | 4K" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="15h17: Trem Para Paris 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg" group-title="FILMES | 4K",15h17: Trem Para Paris 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i0S4a7g5q35NYE2483H3lSwY0up.jpg" group-title="FILMES | 4K",1917 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abominável 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg" group-title="FILMES | 4K",Abominável 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xp2UO1n3LmeS0sXc7iUtROeeOuY.jpg" group-title="FILMES | 4K",A Casa 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="FILMES | 4K",A Cor Que Caiu do Espaço 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo 4k (1955)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg" group-title="FILMES | 4K",A Dama e o Vagabundo 4k (1955)
+http://7go.xyz:8080/movie/zogbi11/982451290/310416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra - Rumo às Estrelas 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg" group-title="FILMES | 4K",Ad Astra - Rumo às Estrelas 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adoráveis Mulheres 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg" group-title="FILMES | 4K",Adoráveis Mulheres 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" group-title="FILMES | 4K",A Extraordinária Garota Chamada Estrela 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" group-title="FILMES | 4K",A Freira 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" group-title="FILMES | 4K",Aladdin 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altos Negócios 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ngM2zOxhJsYA7g15L3WFRTOgjZ.jpg" group-title="FILMES | 4K",Altos Negócios 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Monstros 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnz5wRqeYKlugGbC7RZxC7DAiED.jpg" group-title="FILMES | 4K",Amor e Monstros 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mula 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" group-title="FILMES | 4K",A Mula 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2: O Filme 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" group-title="FILMES | 4K",Angry Birds 2: O Filme 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zxw7AVr2Eyoy2F4uaraLJmrnfE9.jpg" group-title="FILMES | 4K",Animais Fantásticos: Os Crimes de Grindelwald 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle 3: De Volta para Casa 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg" group-title="FILMES | 4K",Annabelle 3: De Volta para Casa 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna: O Perigo Tem Nome 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" group-title="FILMES | 4K",Anna: O Perigo Tem Nome 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apollo 11 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg" group-title="FILMES | 4K",Apollo 11 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="FILMES | 4K",Aquaman 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl: O Mundo Secreto 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg" group-title="FILMES | 4K",Artemis Fowl: O Mundo Secreto 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras do Dr. Dolittle (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg" group-title="FILMES | 4K",As Aventuras do Dr. Dolittle (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Golpistas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg" group-title="FILMES | 4K",As Golpistas (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg" group-title="FILMES | 4K",As Panteras (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix e o Segredo da Poção Mágica (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg" group-title="FILMES | 4K",Asterix e o Segredo da Poção Mágica (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viúvas 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTql8KyJYqcX49Lmdct7PMCgg63.jpg" group-title="FILMES | 4K",As Viúvas 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" group-title="FILMES | 4K",Até o Último Homem (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/310437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra e o Sangue 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" group-title="FILMES | 4K",A Terra e o Sangue 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Coisa que Ele Queria 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg" group-title="FILMES | 4K",A Última Coisa que Ele Queria 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aves de Rapina (1948)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAP9v4ifxl3h6t9LW4C9diO6sjs.jpg" group-title="FILMES | 4K",Aves de Rapina (1948)
+http://7go.xyz:8080/movie/zogbi11/982451290/310440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em um Ano 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dfmbwqkalJRfYqFSwNhRn4QYK30.jpg" group-title="FILMES | 4K",A Vida em um Ano 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Invisível 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Ia6cQXeJRjnHMBmZx0JF9JSwc.jpg" group-title="FILMES | 4K",A Vida Invisível 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys Para Sempre (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lkWYrzLIclGj56r4NJxuWeisK9R.jpg" group-title="FILMES | 4K",Bad Boys Para Sempre (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" group-title="FILMES | 4K",Batman: O Cavaleiro das Trevas (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/310444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/akAO6r0ZuPB98VwQsN0SGIkE4z.jpg" group-title="FILMES | 4K",Bird Box 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrado Na Klan 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg" group-title="FILMES | 4K",Infiltrado Na Klan 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qWD9E0Wgn8w6nMMutCNFAUiSHrX.jpg" group-title="FILMES | 4K",Blade Runner 2049 (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bliss: Em Busca da Felicidade (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9QiUUOjiW40v3w2R9cY9s90ZfmR.jpg" group-title="FILMES | 4K",Bliss: Em Busca da Felicidade (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg" group-title="FILMES | 4K",Bloodshot (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody: A História de Freddie Mercury 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxgdqcxI216kEoypGbA9BemB7mW.jpg" group-title="FILMES | 4K",Bohemian Rhapsody: A História de Freddie Mercury 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal II 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nIv88OjKOw7tLMTpjAS2HsZZU1X.jpg" group-title="FILMES | 4K",Brahms: Boneco do Mal II 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg" group-title="FILMES | 4K",Bumblebee (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campo do Medo (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" group-title="FILMES | 4K",Campo do Medo (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitã Marvel (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="FILMES | 4K",Capitã Marvel (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gkuvUYCEaPlLtOW1IQ9Db0Xc8nH.jpg" group-title="FILMES | 4K",Cinquenta Tons de Liberdade (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clouds (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg" group-title="FILMES | 4K",Clouds (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="FILMES | 4K",Coffee & Kareem (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com Amor, Simon (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="FILMES | 4K",Com Amor, Simon (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o Seu Dragão 3 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="FILMES | 4K",Como Treinar o Seu Dragão 3 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Consequências (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3j8GWWWS04N5eoKHeyDsTjbqp1.jpg" group-title="FILMES | 4K",Consequências (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convenção das Bruxas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="FILMES | 4K",Convenção das Bruxas (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coringa (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" group-title="FILMES | 4K",Coringa (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="FILMES | 4K",Creed III (2023)
+http://7go.xyz:8080/movie/zogbi11/982451290/310463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="FILMES | 4K",Cruella (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg" group-title="FILMES | 4K",Deadpool 2 (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixe-o Partir (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDVKqWgljauo1Frc1CbdeKr2G8O.jpg" group-title="FILMES | 4K",Deixe-o Partir (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2FRPhsifn044quPVyMtYlnoyZ.jpg" group-title="FILMES | 4K",Desejo de Matar (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destruição Final: O Último Refúgio 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hAUUVBGprFQXaHuhOFDMKELkH4W.jpg" group-title="FILMES | 4K",Destruição Final: O Último Refúgio 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Irmãos: Uma Jornada Fantástica (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg" group-title="FILMES | 4K",Dois Irmãos: Uma Jornada Fantástica (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg" group-title="FILMES | 4K",Doutor Estranho (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/310470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Sono (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/huDLFxqWZkIdlaiRpkEA3YifV64.jpg" group-title="FILMES | 4K",Doutor Sono (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Facas e Segredos (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg" group-title="FILMES | 4K",Entre Facas e Segredos (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estrada Sem Lei (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/57EBMNewtrm5AB2JQp1SH949UMq.jpg" group-title="FILMES | 4K",Estrada Sem Lei (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraordinário 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eB1vhoNrN2oR82fxsHp7vvLgMhz.jpg" group-title="FILMES | 4K",Extraordinário 4k (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ford vs Ferrari (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg" group-title="FILMES | 4K",Ford vs Ferrari (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen II (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uVHishB6G4T6BOnUsV4JgdJXdIz.jpg" group-title="FILMES | 4K",Frozen II (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuja (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="FILMES | 4K",Fuja (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria em Alto Mar (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg" group-title="FILMES | 4K",Fúria em Alto Mar (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla II: Rei dos Monstros (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2umU3r6V4V2gTmSnZJmH61nTorF.jpg" group-title="FILMES | 4K",Godzilla II: Rei dos Monstros (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong 4K (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg" group-title="FILMES | 4K",Godzilla vs. Kong 4K (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goosebumps: Monstros e Arrepios (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d1rkpUr64IY0ARTyWU6MrHJD2Wt.jpg" group-title="FILMES | 4K",Goosebumps: Monstros e Arrepios (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/310481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Green Book: O Guia (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jaosA7NFPYBDueQ3X3SkADN6aS.jpg" group-title="FILMES | 4K",Green Book: O Guia (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia 4k (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sUGYYLTtE4k5T1DBki033J6qAwY.jpg" group-title="FILMES | 4K",Guardiões da Galáxia 4k (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/310483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wgmniaoxuRfA7waV4wpC7zLPEgX.jpg" group-title="FILMES | 4K",Halloween 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Uma História Star Wars (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg" group-title="FILMES | 4K",Han Solo: Uma História Star Wars (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lbaTEneOofwvAyg77R8HbFML2zT.jpg" group-title="FILMES | 4K",Hellboy (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/310486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="FILMES | 4K",Homem-Aranha (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/310487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="FILMES | 4K",Homem-Aranha: De Volta ao Lar (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: No Aranhaverso (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="FILMES | 4K",Homem-Aranha: No Aranhaverso (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="FILMES | 4K",Homem-Formiga e a Vespa (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Artemis (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lDj5AEPO121NJIMZBFXrMs7Y06A.jpg" group-title="FILMES | 4K",Hotel Artemis (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Incríveis 2: Os Super-Heróis 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" group-title="FILMES | 4K",Os Incríveis 2: Os Super-Heróis 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar 4k (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg" group-title="FILMES | 4K",Interestelar 4k (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/310493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão ao Serviço Secreto 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg" group-title="FILMES | 4K",Invasão ao Serviço Secreto 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title="FILMES | 4K",Isi & Ossi 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: Capítulo Dois 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="FILMES | 4K",IT: Capítulo Dois 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogador N° 1 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6rS5kiTCjej8FQFwZdqB3zuyEK8.jpg" group-title="FILMES | 4K",Jogador N° 1 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg" group-title="FILMES | 4K",John Wick 3: Parabellum 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg" group-title="FILMES | 4K",Jojo Rabbit (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="FILMES | 4K",Jumanji (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/310500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Reino Ameaçado (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b3CuByY3v7qz9aq4rayIMeAMemy.jpg" group-title="FILMES | 4K",Jurassic World: Reino Ameaçado (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vida 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bKacW7BlSPHYvklyhSHvJrNl1CO.jpg" group-title="FILMES | 4K",Vida 4k (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geyu6rplpbp7OUeOfB2uRVf1LpG.jpg" group-title="FILMES | 4K",Liga da Justiça (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça de Zack Snyder (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ArWn6gCi61b3b3hclD2L0LOk66k.jpg" group-title="FILMES | 4K",Liga da Justiça de Zack Snyder (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita: Anjo de Combate 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES | 4K",Alita: Anjo de Combate 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Logan (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" group-title="FILMES | 4K",Logan (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucy (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="FILMES | 4K",Lucy (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/310507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iFJ1wdt9jxDnjvf1Nz4AJf5fkuu.jpg" group-title="FILMES | 4K",Malévola (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/310508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquinas Mortais (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="FILMES | 4K",Máquinas Mortais (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megatubarão (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="FILMES | 4K",Megatubarão (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentiras Perigosas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg" group-title="FILMES | 4K",Mentiras Perigosas (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto: Internacional (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" group-title="FILMES | 4K",MIB Homens de Preto: Internacional (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Midway: Batalha em Alto Mar (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg" group-title="FILMES | 4K",Midway: Batalha em Alto Mar (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Millennium: A Garota na Teia de Aranha (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" group-title="FILMES | 4K",Millennium: A Garota na Teia de Aranha (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Efeito Fallout 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dheywKL0VNkd0kmRvUlTxVaHul1.jpg" group-title="FILMES | 4K",Missão: Impossível - Efeito Fallout 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Modo Avião 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" group-title="FILMES | 4K",Modo Avião 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2QhhILPAv7MKFd1q57ssQeEV2su.jpg" group-title="FILMES | 4K",Monster Hunter (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/72I82eKXCadZWEYygV9GkJOQNEq.jpg" group-title="FILMES | 4K",Mulan (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 1984 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" group-title="FILMES | 4K",Mulher-Maravilha 1984 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasce uma Estrela 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d8CNgb0AtZz7CSORffdwODK66iK.jpg" group-title="FILMES | 4K",Nasce uma Estrela 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nomadland 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/589uhtJOujc72fgNl6HcMYJS64D.jpg" group-title="FILMES | 4K",Nomadland 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Olho do Furacão 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKugroGel7UUnM83Kcrn2afPTYB.jpg" group-title="FILMES | 4K",No Olho do Furacão 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nos 4K" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKugroGel7UUnM83Kcrn2afPTYB.jpg" group-title="FILMES | 4K",Nos 4K
+http://7go.xyz:8080/movie/zogbi11/982451290/310523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Banqueiro 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nwcHBtJBbL0ku0Lf3mpTHEwa69y.jpg" group-title="FILMES | 4K",O Banqueiro 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado da Floresta 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg" group-title="FILMES | 4K",O Chamado da Floresta 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Declínio 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg" group-title="FILMES | 4K",O Declínio 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exterminador do Futuro: Gênesis (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/utLd6J4Gn38YynSS0kB0ZXRDFWK.jpg" group-title="FILMES | 4K",O Exterminador do Futuro: Gênesis (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/310527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Ivan 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg" group-title="FILMES | 4K",O Grande Ivan 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 4 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg" group-title="FILMES | 4K",O Grande Mestre 4 (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grinch 4k (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" group-title="FILMES | 4K",O Grinch 4k (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/310530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mapa das Pequenas Coisas Perfeitas 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/djMLMmgVQ3MBEj2vHipBki5d5ol.jpg" group-title="FILMES | 4K",O Mapa das Pequenas Coisas Perfeitas 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino Que Queria Ser Rei 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKIfYhDlVt92kvWRLa0wQy73Pi2.jpg" group-title="FILMES | 4K",O Menino Que Queria Ser Rei 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Relógio na Parede 4k (2018)" tvg-logo="http://i.imgur.com/Ro4egDB.jpg" group-title="FILMES | 4K",O Mistério do Relógio na Parede 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Homem 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" group-title="FILMES | 4K",O Primeiro Homem 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Protetor 2 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" group-title="FILMES | 4K",O Protetor 2 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quebra-Nozes e os Quatro Reinos 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg" group-title="FILMES | 4K",O Quebra-Nozes e os Quatro Reinos 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Leão 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="FILMES | 4K",O Rei Leão 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno de Mary Poppins 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg" group-title="FILMES | 4K",O Retorno de Mary Poppins 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Croods 2: Uma Nova Era 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg" group-title="FILMES | 4K",Os Croods 2: Uma Nova Era 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Novos Mutantes 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg" group-title="FILMES | 4K",Os Novos Mutantes 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Silêncio 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gjKlQJlWtP61ZN4WKbcSVHzjqq8.jpg" group-title="FILMES | 4K",O Som do Silêncio 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9D40jv8pi9uKnrVDPiN3JYYad72.jpg" group-title="FILMES | 4K",Pantera Negra 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tpdtbzeEImp5eT5wmwhVHhbklAk.jpg" group-title="FILMES | 4K",Para Todos os Garotos: P.S. Ainda Amo Você 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdido em Marte 4k (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg" group-title="FILMES | 4K",Perdido em Marte 4k (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/310544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinóquio 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9QmRuFrtxIaqXtz8zI1FV18v16a.jpg" group-title="FILMES | 4K",Pinóquio 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Podres de Ricos 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg" group-title="FILMES | 4K",Podres de Ricos 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Detetive Pikachu 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg" group-title="FILMES | 4K",Pokémon: Detetive Pikachu 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Polar 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2btxGF270fxOeNJInRNnFtZGkAA.jpg" group-title="FILMES | 4K",Polar 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oGYKbHCTOHNfjxXaiq0qPMQlrwc.jpg" group-title="FILMES | 4K",Projeto Gemini 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bhqCvl771uepyt6wbzEiryxEoc.jpg" group-title="FILMES | 4K",Rampage: Destruição Total 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raya e o Último Dragão 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg" group-title="FILMES | 4K",Raya e o Último Dragão 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg" group-title="FILMES | 4K",Robin Hood: A Origem 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogai por Nós 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zduyzcjyahZtP4fGZE6789h04IM.jpg" group-title="FILMES | 4K",Rogai por Nós 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Remorso 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg" group-title="FILMES | 4K",Sem Remorso 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg" group-title="FILMES | 4K",Shazam! 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg" group-title="FILMES | 4K",Sonic: O Filme 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX - A Ascensão Skywalker 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" group-title="FILMES | 4K",Star Wars: Episódio IX - A Ascensão Skywalker 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" group-title="FILMES | 4K",Superação: O Milagre da Fé 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenet 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg" group-title="FILMES | 4K",Tenet 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Te Peguei! 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg" group-title="FILMES | 4K",Te Peguei! 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Pai 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85d7NFk3BnoaJr1NnH3gLl2lRCU.jpg" group-title="FILMES | 4K",Meu Pai 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg" group-title="FILMES | 4K",Thor: Ragnarok 4k (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titanic 4k (1997)" tvg-logo="http://i.imgur.com/PgLfrrP.png" group-title="FILMES | 4K",Titanic 4k (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/310563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Togo 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg" group-title="FILMES | 4K",Togo 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider: A Origem 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg" group-title="FILMES | 4K",Tomb Raider: A Origem 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: O Filme 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" group-title="FILMES | 4K",Tom & Jerry: O Filme 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg" group-title="FILMES | 4K",Toy Story 4 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers 4k (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ev7IMfMXRbddGLVw7xPL2PHpkWR.jpg" group-title="FILMES | 4K",Transformers 4k (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/310568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls 2 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOyZTiybSidipdjtv7xpeO4TZp.jpg" group-title="FILMES | 4K",Trolls 2 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Gota de Esperança 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/43PfIx3oQVsVJIQM6pdCBKTyBNu.jpg" group-title="FILMES | 4K",Uma Gota de Esperança 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Anjo em Minha Vida 4k (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/29lc7HgBCMqFQwYiS34TA8maTfV.jpg" group-title="FILMES | 4K",Um Anjo em Minha Vida 4k (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/310571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Espião Animal 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg" group-title="FILMES | 4K",Um Espião Animal 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Lindo Dia na Vizinhança 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg" group-title="FILMES | 4K",Um Lindo Dia na Vizinhança 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Silencioso 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg" group-title="FILMES | 4K",Um Lugar Silencioso 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Príncipe em Nova York 2 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpXRG5zPUT18IeYvCoC4zOscked.jpg" group-title="FILMES | 4K",Um Príncipe em Nova York 2 4k (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/310575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncle Frank 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u3yozs3oGY0ubwf4cKQKOMWqNx3.jpg" group-title="FILMES | 4K",Uncle Frank 4k (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/310576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valerian e a Cidade dos Mil Planetas 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar9Npj8l5SnxpwAGNkdmObv0VBd.jpg" group-title="FILMES | 4K",Valerian e a Cidade dos Mil Planetas 4k (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes & Furiosos: Hobbs & Shaw 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="FILMES | 4K",Velozes & Furiosos: Hobbs & Shaw 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="FILMES | 4K",Venom 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidro 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg" group-title="FILMES | 4K",Vidro 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" group-title="FILMES | 4K",Vingadores: Guerra Infinita 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="FILMES | 4K",Vingadores: Ultimato 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Boy Rick 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33Gm5AZsg8e7sDvk71oePbE6lhk.jpg" group-title="FILMES | 4K",White Boy Rick 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph: Quebrando a Internet 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg" group-title="FILMES | 4K",WiFi Ralph: Quebrando a Internet 4k (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/310584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolverine: Imortal 4k (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="FILMES | 4K",Wolverine: Imortal 4k (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/310585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg" group-title="FILMES | 4K",Mulher-Maravilha 4k (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/310586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Apocalipse 4k (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg" group-title="FILMES | 4K",X-Men: Apocalipse 4k (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/310587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Dias de um Futuro Esquecido 4k (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg" group-title="FILMES | 4K",X-Men: Dias de um Futuro Esquecido 4k (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/310588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | 4K",X-Men: Fênix Negra 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: O Confronto Final 4k (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg" group-title="FILMES | 4K",X-Men: O Confronto Final 4k (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/310590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: O Filme 4k (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES | 4K",X-Men: O Filme 4k (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/310591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe 4k (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES | 4K",X-Men: Primeira Classe 4k (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/310592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 4k (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rtrd4qieMAhoUshu83Vi1GazM1O.jpg" group-title="FILMES | 4K",X-Men 2 4k (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/310593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | 4K",X-Men: Fênix Negra 4k (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/310594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zumbilândia 4k (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXuFhb5U2FgVq8uu4k3luQVRwLK.jpg" group-title="FILMES | 4K",Zumbilândia 4k (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/310595.mp4
+
 #EXTM3U url-tvg="http://grade-de-Filmes Top 2022.xml"
 ############## Filmes Top 2022 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Top 2022" group-title="
@@ -4667,6 +5155,136 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/3906.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62661.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Estudante E O Senhor Henri - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JUuHvbwsX93b9h8SJjFDY73EsI.jpg" group-title="Filmes: Comedia",A Estudante E O Senhor Henri - 2015
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alfie - O Sedutor (2004)" tvg-logo="http://7online.xyz:8080/images/6e787729f7fddcb3b2f89521746c173b.jpg" group-title="FILMES | COMÉDIA",Alfie - O Sedutor (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/200925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo Veste Prada (2006)" tvg-logo="http://7online.xyz:8080/images/5922ed4bc7e5e17c6707e1ec78eed8ac.jpg" group-title="FILMES | COMÉDIA",O Diabo Veste Prada (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/200926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras no Paraíso (1984)" tvg-logo="http://7online.xyz:8080/images/e618b6a5df9c6f01983245228e5a6a94.jpg" group-title="FILMES | COMÉDIA",Aventuras no Paraíso (1984)
+http://7go.xyz:8080/movie/zogbi11/982451290/202768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divórcio em Las Vegas (2020)" tvg-logo="http://7online.xyz:8080/images/0a36b3ff37f67731ff9940d3c87c7978.jpg" group-title="FILMES | COMÉDIA",Divórcio em Las Vegas (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/202769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Pura Sorte (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZFbRfsSa04TTHzqcEFZtk6YYPe.jpg" group-title="FILMES | COMÉDIA",É Pura Sorte (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/202770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamãe Saiu Com Um Vampiro (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1J75VjStFYoUx5vIT0aPaAxjxiB.jpg" group-title="FILMES | COMÉDIA",Mamãe Saiu Com Um Vampiro (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/202771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Quase Impossível (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/XlUvIMGAv6kVsHKuvx5SrRCZjQ.jpg" group-title="FILMES | COMÉDIA",Missão Quase Impossível (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/202772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean - O Filme (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yoFGuw59e1KPFSwzrQexBL5khMx.jpg" group-title="FILMES | COMÉDIA",Mr. Bean - O Filme (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/202773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem da Casa (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4rno926yEfxscbiNSlvCacwKcaN.jpg" group-title="FILMES | COMÉDIA",O Homem da Casa (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/202774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre dos Jogos 3 (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/btR7CxP5iWLyK9ydSnYXWhbB8eP.jpg" group-title="FILMES | COMÉDIA",O Mestre dos Jogos 3 (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/202775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Morto Vivo (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg" group-title="FILMES | COMÉDIA",O Morto Vivo (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/202776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Portugal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jnJRQ8iSCncMe38339H9BvukkiX.jpg" group-title="FILMES | COMÉDIA",Operação Portugal (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/202917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiras em Apuros (2010)" tvg-logo="http://7online.xyz:8080/images/be68b46d66d6b6b52d75662b7845c90b.jpg" group-title="FILMES | COMÉDIA",Tiras em Apuros (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/202918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Comédia Nada Romântica (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jrvJo2OquBYOguftz3ZFmhaA9jG.jpg" group-title="FILMES | COMÉDIA",Uma Comédia Nada Romântica (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/202919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor de Múmia (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8bH2vI2Ab0ddcHzNVIUBxnmuHU7.jpg" group-title="FILMES | COMÉDIA",Um Amor de Múmia (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/202920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Hóspede do Barulho (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qqJ3gcYFmV29Gq7xT8g5Pj4WaH.jpg" group-title="FILMES | COMÉDIA",Um Hóspede do Barulho (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/202921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vice Versa (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iyBmaAogP8LZirTIE5DQhsbDowx.jpg" group-title="FILMES | COMÉDIA",Vice Versa (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/202922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela é Demais (1999)" tvg-logo="http://7online.xyz:8080/images/53d59639754147367fbf01751f7fd94f.jpg" group-title="FILMES | COMÉDIA",Ela é Demais (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/218033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Lobo Entre Nós (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i17UiQgqHatZxlfaFQsnvPhYhyi.jpg" group-title="FILMES | COMÉDIA",Um Lobo Entre Nós (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/218035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Marinha com Steve Zissou (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w8174pvXapC9rp1vFZdHUtkNfKt.jpg" group-title="FILMES | COMÉDIA",A Vida Marinha com Steve Zissou (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/219013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Príncipe das Mulheres (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AjZ5vL9auNHB813ztz24NiknZf.jpg" group-title="FILMES | COMÉDIA",O Príncipe das Mulheres (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/219014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai Poderoso 2: Tudo ou Nada (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mCOhpT4thaUTPbBvFKYibgpNnCy.jpg" group-title="FILMES | COMÉDIA",Papai Poderoso 2: Tudo ou Nada (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#Alto Realidade (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9TbjIF1p5a3EJXUFzX63Coa2JRM.jpg" group-title="FILMES | COMÉDIA",#Alto Realidade (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/219113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Minutos de Fama (2020)" tvg-logo="http://7online.xyz:8080/images/f364bd7c9ac3b1c20cbb9d31065217d6.jpg" group-title="FILMES | COMÉDIA",2 Minutos de Fama (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/219114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 Latas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="FILMES | COMÉDIA",4 Latas (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/219115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Eu Odeio em Você (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="FILMES | COMÉDIA",10 Coisas Que Eu Odeio em Você (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/219116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg" group-title="FILMES | COMÉDIA",17 Outra Vez (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/219117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Coisas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PWSRATzT9Bu27BhqsIqMp7LcqS.jpg" group-title="FILMES | COMÉDIA",100 Coisas (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/219120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Boa Esposa (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i7gOQmD98OIszcW5PmWkN9w1Nqz.jpg" group-title="FILMES | COMÉDIA",A Boa Esposa (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/219121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caixa de Pandora (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2jjXEF4loxfl6OnPeXhViCWTtim.jpg" group-title="FILMES | COMÉDIA",A Caixa de Pandora (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/219122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i80FjKCtfMKNhH119uoc2E5gDwY.jpg" group-title="FILMES | COMÉDIA",A Casa Caiu (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/219123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu: Um Cassino na Vizinhança (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wylaeJPrbD7o66cralfREtrfeZQ.jpg" group-title="FILMES | COMÉDIA",A Casa Caiu: Um Cassino na Vizinhança (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/219124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa das Coelhinhas (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcyypEkuW1X7RYXzDVrEcDzTReQ.jpg" group-title="FILMES | COMÉDIA",A Casa das Coelhinhas (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/219125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Hóspedes (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kY8t4etF8y0S9TeJE0UdEowBUr0.jpg" group-title="FILMES | COMÉDIA",A Casa de Hóspedes (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/219126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chefa (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jEfzaXdgglZFIkJY7pmiEj1YufE.jpg" group-title="FILMES | COMÉDIA",A Chefa (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/219127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chefinha (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nxHtZ3HNvpbHw1cBqG48VavhEk1.jpg" group-title="FILMES | COMÉDIA",A Chefinha (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/219128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa Não É do Carma (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wIoZVRHq45toPmrUqzJoBGw4gLB.jpg" group-title="FILMES | COMÉDIA",A Culpa Não É do Carma (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/219129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama de Vermelho (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCvGclc8YmOmdoAqjCUda0LnQK.jpg" group-title="FILMES | COMÉDIA",A Dama de Vermelho (1984)
+http://7go.xyz:8080/movie/zogbi11/982451290/219130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="FILMES | COMÉDIA",A Família Noel (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/219131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fita Cassete (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg" group-title="FILMES | COMÉDIA",A Fita Cassete (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fraternidade (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/huR1w4yQe3FPfXNVttpaHdGDEfH.jpg" group-title="FILMES | COMÉDIA",A Fraternidade (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/219133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga dos Avós (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jzNkv5joHj2jd5EFuWWpoxM0CXh.jpg" group-title="FILMES | COMÉDIA",A Fuga dos Avós (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/219134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dancing Queens (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="FILMES | COMÉDIA",Dancing Queens (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Novo Natal? (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mo13I9sQURkQCkGxbNjMSiUkGsI.jpg" group-title="FILMES | COMÉDIA",De Novo Natal? (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esqueceram de Nós (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7tB1l5WcZQ3I9VmGmScniEmf3m.jpg" group-title="FILMES | COMÉDIA",Esqueceram de Nós (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natal Em 8 Bits (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jbk9yoeAVkcpzt49s8Inbnz6iNw.jpg" group-title="FILMES | COMÉDIA",Natal Em 8 Bits (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Jogo do Amor (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aa6cxHyZpbczm4EekCVUHZH7lg0.jpg" group-title="FILMES | COMÉDIA",No Jogo do Amor (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Natal Foi Cancelado (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qi5vnjspWNNxmWNBjq78n07Yink.jpg" group-title="FILMES | COMÉDIA",O Natal Foi Cancelado (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Feliz Natal: O Golpe dos Duendes (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e4ovmSAP2hTG1uARTxIYKi1qlbs.jpg" group-title="FILMES | COMÉDIA",Operação Feliz Natal: O Golpe dos Duendes (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Organizar Direitinho… (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hxJ1wFaUqOq5TmxA751VRJastGV.jpg" group-title="FILMES | COMÉDIA",Se Organizar Direitinho… (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Separados Mas Nem Tanto (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pzqeaZ9326m77y40aSF4eYnMVHm.jpg" group-title="FILMES | COMÉDIA",Separados Mas Nem Tanto (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Esposa de Natal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hjTLVkjJ5fuGpTSNTOTrGYqFtMA.jpg" group-title="FILMES | COMÉDIA",Uma Esposa de Natal (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Crush para o Natal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pv7QI2fQOZIG0QSbHv7Ot65O8YN.jpg" group-title="FILMES | COMÉDIA",Um Crush para o Natal (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/219146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher Nota Mil (1985)" tvg-logo="http://www.themoviedb.org/t/p/w500/moN1YnwlMvkAr7g1lUE3Nyu6kv0.jpg" group-title="FILMES | COMÉDIA",Mulher Nota Mil (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/223608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Open by Christmas (2021)" tvg-logo="http://www.themoviedb.org/t/p/w500/moN1YnwlMvkAr7g1lUE3Nyu6kv0.jpg" group-title="FILMES | COMÉDIA",Open by Christmas (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/223609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino de Ouro (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrJ2OCTtTlcgGJA2PBNgnAi6UB.jpg" group-title="FILMES | COMÉDIA",O Menino de Ouro (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/228576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentiroso (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wNDDbjYIfVktr67PZAXYNQzI0ag.jpg" group-title="FILMES | COMÉDIA",O Mentiroso (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/228577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pai do Ano (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSzFZXfSrszRwqhBmyjWif8Bhm5.jpg" group-title="FILMES | COMÉDIA",Pai do Ano (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/228578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Professor Aloprado (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azBGtGYnSo7t73fum2HS5FkY9rn.jpg" group-title="FILMES | COMÉDIA",O Professor Aloprado (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/228579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Garotos da Minha Vida (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6vywmyIO9DaAgIi2uHuiqsOBta.jpg" group-title="FILMES | COMÉDIA",Os Garotos da Minha Vida (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/228580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai Noel às Avessas (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/PXbXeDysUzIVX2DNMdFFwHdOVq.jpg" group-title="FILMES | COMÉDIA",Papai Noel às Avessas (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/228581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puro-Sangue (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/96ySMoicQSbRzecf4bnJQxz1QmO.jpg" group-title="FILMES | COMÉDIA",Puro-Sangue (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/228582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando Anjos Cantam (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZJ5DUWrVAsPc3GKkliYn4O88Kq.jpg" group-title="FILMES | COMÉDIA",Quando Anjos Cantam (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/228583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quarteto (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vo4pmWqnGXkcLsHPhjikIjZEVSk.jpg" group-title="FILMES | COMÉDIA",O Quarteto (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/228584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Vida Incomoda Muita Gente (2021)" tvg-logo="http://7online.xyz:8080/images/44a9f248c2838926cc2495e59e715b0b.jpg" group-title="FILMES | COMÉDIA",Minha Vida Incomoda Muita Gente (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/237366.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes Faroeste.xml"
 ############## Filmes Faroeste ################# 
@@ -4700,31 +5318,6 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/184296.mp4
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/272912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingança & Castigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg" group-title="Filmes: Faroeste",Vingança & Castigo (2021)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/274952.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES  COLETÂNEA JACKIE CHAN.xml"
-############## FILMES  COLETÂNEA JACKIE CHAN ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETÂNEA JACKIE CHAN" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kung Fu Yoga
-https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",Batalha dos Impérios
-https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mito
-https://play.prod.gcp.vix.services/myth_pt/myth_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Massacre no Bairro Chinês
-https://play.prod.gcp.vix.services/shinjuku-incident_pt/shinjuku-incident_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://dvdfilmes.com.br/wp-content/uploads/2021/11/dvd-p03-158.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Acerto
-https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_720021-MLB20684543096_042016-O.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Em Nome da Lei
-https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Reino Proibido"tvg-logo="https://m.media-amazon.com/images/I/51dqRvZ8lyL._AC_SX342_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Reino Proibido
-https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae42cc07eb3306614e039a9d92d8437ce6cce552c6d21b3ba4891f6802966e._RI_V_TTW_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus
-https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus 2: Operação Condor"tvg-logo="https://i2.wp.com/asiamundi.com.br/wp-content/uploads/2019/03/A-Armadura-de-Deus-2-Operac%CC%A7a%CC%83o-Condor-1991.jpg?fit=1000%2C1500" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus 2: Operação Condor
-https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê
-https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES   ORIENTE.xml"
 ############## FILMES   ORIENTE ################# 
@@ -5081,6 +5674,1043 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138439.mp4
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138442.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX: A Ascensão Skywalker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio IX: A Ascensão Skywalker (2019)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/11570.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA FREDDY KRUEGER.xml"
+############## FILMES | COLETÂNEA FREDDY KRUEGER ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA FREDDY KRUEGER" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 1 (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFwAfcDbpUNceH5zWt5kTFp3WyP.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 1 (1984)
+http://7go.xyz:8080/movie/zogbi11/982451290/50789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2 (1985)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/92/36/19962939.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 2 (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/51612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3 (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 3 (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/50791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4 (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 4 (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/50792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5 (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iocHFXQl11gHks4TWyyqHj2OCZv.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 5 (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/50793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 6 (1991) " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwpg0lkkzGKGxD1EqSCGUOpJVQh.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 6 (1991) 
+http://7go.xyz:8080/movie/zogbi11/982451290/50794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 7 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iEVFm2LfUSfYfuctRWPiBEnberd.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 7 (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/50795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 8 (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nYS9MflAMlMgo5JTNpf3aZntVF5.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 8 (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/50790.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA HARRY POTTER.xml"
+############## FILMES | COLETÂNEA HARRY POTTER ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA HARRY POTTER" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Câmara Secreta (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/312894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Ordem da Fênix (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/312895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Pedra Filosofal (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/312896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 2 (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/312897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 1 (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/312898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2GRZge8h9MNAyqiaR3FWQczARUe.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Cálice de Fogo (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/312899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKNXome5vmnBVQCmpWN8do7Bpa.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Enigma do Príncipe (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/312900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Prisioneiro de Azkaban (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/312901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal 4k (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Pedra Filosofal 4k (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/310403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta 4k (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Câmara Secreta 4k (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/310404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban 4k (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Prisioneiro de Azkaban 4k (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/310405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo 4k (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Cálice de Fogo 4k (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/310406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix 4k (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Ordem da Fênix 4k (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/310407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe 4k (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKNXome5vmnBVQCmpWN8do7Bpa.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Enigma do Príncipe 4k (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/310408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 4k (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ujSo74ZKMSnV1j6dU2QlRqYywI8.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 1 4k (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/310409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 4k (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 2 4k (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/310410.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA DRAGON BALL.xml"
+############## FILMES | COLETÂNEA DRAGON BALL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA DRAGON BALL" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/scvwYMmVLI5aEBX4efEG9ByjeDu.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/296645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Caminho do Poder (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rFEdH9qtmecGInK5pGSfA980K0B.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: A Caminho do Poder (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/296646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Lenda de Shenlong (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: A Lenda de Shenlong (1986)
+http://7go.xyz:8080/movie/zogbi11/982451290/296647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Episódio de Bardock (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/56jXhWYCijKx3tMgAMFmvuWV2FI.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: Episódio de Bardock (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/296648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Uma Aventura Mística (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5Vq24AD4TEFvQjPWOQyQKZTri.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: Uma Aventura Mística (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/296649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball Evolution (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/23PcKOqNdhKeMFzORzQGn5eC44N.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragonball Evolution (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/296650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT: O Legado de um Herói (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2u09FiAuyMdS6EzOi7FH0ULciys.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball GT: O Legado de um Herói (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/296651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tuay76gZt7kOIb806hTzIktsQDT.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Super: Broly (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/296652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Árvore do Poder (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sIdT0MMmpDoiviPw0YSLajj5cHP.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: A Árvore do Poder (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/296653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha dos Deuses (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8ZL7ALPQWqvlg0FPE2fgdXOkR.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: A Batalha dos Deuses (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/296654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha nos Dois Mundos (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: A Batalha nos Dois Mundos (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/296655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Bardock, O Pai de Goku (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TQtQcckcXwkWxcij6JxJiyVXkG.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Bardock, O Pai de Goku (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/296656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Broly o Lendario Super Saiyajin (1993)" tvg-logo="http://i.imgur.com/c1CxB7w.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Broly o Lendario Super Saiyajin (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/296657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/296658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Goku, o Super Saiyajin (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Goku, o Super Saiyajin (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/296659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Ataque do Dragão (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Ataque do Dragão (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/296660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Combate Final - Bio-Broly (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Combate Final - Bio-Broly (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/296661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Homem Mais Forte do Mundo (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/296662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Renascimento de Freeza (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oth0VBziwe25mDzkJ6XzwmUCCDC.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Renascimento de Freeza (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/296663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Resgate de Gohan (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bgSKtVLW8RPSQc4ovtXLrpReCAT.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Resgate de Gohan (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/296664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno de Cooler (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lvlHl1IFBdBfnLA4sgyjdqeyIEU.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Retorno de Cooler (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/296665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno do Guerreiro Lendário (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aVlkvo8FvttSFPuJ7y9QO0jCYMG.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Retorno do Guerreiro Lendário (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/296666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno dos Andróides (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6O0cgVpYbYeiw0kwjY8h93sUuL.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Retorno dos Andróides (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/296667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Uma Nova Fusão (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Uma Nova Fusão (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/296668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Uma Vingança Para Freeza (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Uma Vingança Para Freeza (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/296669.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA DENZEL WASHINGTON.xml"
+############## FILMES | COLETÂNEA DENZEL WASHINGTON ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA DENZEL WASHINGTON" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Tragédia de Macbeth  (2021)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOW4dWoOvGpgj0Pld4sjMGkvK6L.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",A Tragédia de Macbeth  (2021)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vingança  (2004)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Chamas da Vingança  (2004)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filadélfia  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTkuPK66Aw9e8niPr8F7IgXzFU6.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Filadélfia  (1993)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogada Decisiva  (1998)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7OMD0iXpc0ut09YYuRwjt326nr2.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Jogada Decisiva  (1998)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais e Melhores Blues  (1990)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/223W6PWAiYb3BX2rbFvzjbDDIvz.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Mais e Melhores Blues  (1990)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nova York Sitiada  (1998)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uiA5M3ObLhO7haTFXL0I1iZhAOi.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Nova York Sitiada  (1998)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Eli  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Livro de Eli  (2010)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Protetor 2  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Protetor 2  (2018)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dossiê Pelicano  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b7MwjwDa38FCsKh0HIfT2VqtdaA.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Dossiê Pelicano  (1993)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pequenos Vestígios  (2021)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1KNf7qHuce6U39Iygxz9fYRv0ny.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Os Pequenos Vestígios  (2021)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Protegendo o Inimigo  (2012)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A5rFBuNyH5LdZiR20FPYu6fJSfl.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Protegendo o Inimigo  (2012)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempo de Glória  (1989)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mGfE62Tzbwcumt4lgrnnALJsspO.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Tempo de Glória  (1989)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ato de Coragem  (2002)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7dWsdTjfnNi6OAuXZSYYL8UkG9d.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Um Ato de Coragem  (2002)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Limite Entre Nós  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ymzdsNVg0NhXB72nfWHXE2TShq.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Um Limite Entre Nós  (2016)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Virtual (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8JQuPMFQgclIF7jj0TZEDpYaEgY.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Assassino Virtual (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/296716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dose Dupla (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u5X9qjUfIZDmlVJXJ7xJVyyHZFa.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Dose Dupla (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/296717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muito Barulho Por Nada (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMU3oUyaMr1fuCBTpBAxMxAJwCE.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Muito Barulho Por Nada (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/296718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sequestro do Metrô 1 2 3 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFU7CYHAaiOYN7nLCRgw60fIkJR.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Sequestro do Metrô 1 2 3 (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/296719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por um Triz (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c4FI4ROtSovWoz17RJZvJUrEDaU.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Por um Triz (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/296720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possuídos (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7xYrZ3BzABH32vKLNTNDk8n8oEB.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Possuídos (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/296721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coragem Sob Fogo (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/36PYl9U2m58ZNpCvKAeSdD8Zntl.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Coragem Sob Fogo (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/296722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hurricane: O Furacão (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/55v0hmCSU6EwnsCLkWsy9MUVrB1.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Hurricane: O Furacão (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/296723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm X (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Malcolm X (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/296724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roman J. Israel (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ciq2V1G4dj3GLFBfQGY1gqvPcbK.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Roman J. Israel (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/296725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maré Vermelha (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xsUP5CRd100Rl2cwGcADCBQJ571.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Maré Vermelha (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/296726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Anjo em Minha Vida (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/29lc7HgBCMqFQwYiS34TA8maTfV.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Um Anjo em Minha Vida (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/296727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo Veste Azul (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/noFr1oa56dcbMgACpiK3NSMeW3Q.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Diabo Veste Azul (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/296740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob o Domínio do Mal (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2un9WXrDwhcsyhu5Y5VreyFz9Ot.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Sob o Domínio do Mal (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/296741.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA BRINQUEDO ASSASSINO.xml"
+############## FILMES | COLETÂNEA BRINQUEDO ASSASSINO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA BRINQUEDO ASSASSINO" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Chucky (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",A Maldição de Chucky (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/295470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva de Chucky (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e3vZH4CFaz6QImytJ1V9IBD5LFT.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",A Noiva de Chucky (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/295471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ZOwMoz3wCXM6sdMWgZRYWBNlvI.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/295472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lWyPivHZD7M3itErgedllY2Vfu8.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/295473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino 2 (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAA6XeDXsSOTfztEOlXU25leen.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino 2 (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/295474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino 3 (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino 3 (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/295475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Culto de Chucky (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sPwKVpuWmw9OAhs9hgxVf2n3P7Y.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",O Culto de Chucky (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/295476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho de Chucky (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7vVEDLt4rFYTxZRPeRGEv7QbNQ.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",O Filho de Chucky (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/295477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morte por Encomenda (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7MJJOBDlk1f0krmigW25gXXjGH4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Morte por Encomenda (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/296478.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA NICOLAS CAGE.xml"
+############## FILMES | COLETÂNEA NICOLAS CAGE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA NICOLAS CAGE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Con Air: A Rota da Fuga (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yZkSkcXTZhTIfZOSXMkYcnIKne.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Con Air: A Rota da Fuga (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/297580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração Selvagem (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4WjmqlAZ5CatX1nblAWoQSxlBbV.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Coração Selvagem (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/297603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feitiço da Lua (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ablr2IqIxnK6UpNh3ori1Lsr4xM.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Feitiço da Lua (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/297604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peggy Sue, Seu Passado a Espera (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bi4RVMemokr8b0FBqsMsASqot1E.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Peggy Sue, Seu Passado a Espera (1986)
+http://7go.xyz:8080/movie/zogbi11/982451290/297605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Nunca Mais (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b0YuT50odGkaIH4TozEiQ53x5E1.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Arizona Nunca Mais (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/297609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Peso do Talento (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l814mpV0kU3TH3HfZpgKM62zRan.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Peso do Talento (2022)
+http://7go.xyz:8080/movie/zogbi11/982451290/296620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pacto (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ala7fREE1zkHpHLs2aqWvZI6Gcq.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Pacto (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/296479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma História de Vingança (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51W4AML1JKttnOcDVYqFRegwN4O.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Uma História de Vingança (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/296480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adaptação. (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbVczZMHp7nUnXi6na6r0wt3m2v.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Adaptação. (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/296481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua-de-Mel a Três (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9wlE3DYWV3FugLpgtCxTJJ4urJr.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Lua-de-Mel a Três (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/296482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vício Frenético (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9AcjcR5qBVWPnVgtR5fCDU3HVhv.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Vício Frenético (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/296483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida de David Gale (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6t0oHdTRxO2sE1fCJZbyz8Of4ah.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Vida de David Gale (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/296484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escorpião Apaixonado (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTlVYIvWAbYk8lFKM2oCOxE4C94.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Escorpião Apaixonado (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/296485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinta Bruta (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6zW8OKgJKaO5JHzZe6geZd2vpgT.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Tinta Bruta (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/296486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo no Limite (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bQBJTezKYDymTUjrMkyD9ScwzV.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Vivendo no Limite (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/296487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estado de Calamidade (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rOs4ljOxJSi5QkQZNl2hJtqWw4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Estado de Calamidade (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/296488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8mm: Oito Milímetros (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yoFWiOhMvTvGdunXuRhiZMscldV.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",8mm: Oito Milímetros (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/296489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo Inconcebível (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbg0UKmSstQVOSzugekIxoUPoiP.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Desejo Inconcebível (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/296490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos de Serpente (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9pk2i4gtijLxpKUZfwR1GZn0Yer.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Olhos de Serpente (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/296491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate (2012)" tvg-logo="http://i.imgur.com/l4d7Ou4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Resgate (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/296492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reféns (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efX07bLvFpKOcxnE3Dx3t67qeOI.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Reféns (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/296493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue no Gelo (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r4vU0m1u0qA13w80SCz18XPQIhW.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Sangue no Gelo (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/296494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/igeyazOK26e0RSG0uiOYiDWHi1.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",211 - O Grande Assalto  (2018)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Segundos  (2000)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1OUMxMVTPgQCyxB4DzIm63MDgT5.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",60 Segundos  (2000)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Cor Que Caiu do Espaço  (2019)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wMK1SeyE1MgEuemnmqPQeKiyMLQ.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Ilha  (2019)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Face  (1997)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/loR8prjWhkOdufD1rfREpXQsrNJ.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Outra Face  (1997)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rocha  (1996)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/juqEMUcEZDNMo5AowLr0r4NwSSN.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Rocha  (1996)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sacada  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ee5J28ROmg59WqTmA61W1fTKfCT.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Sacada  (2016)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Ajuste de Contas  (2019)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Torres Gêmeas  (2006)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5djg3by4JzaOM4OXmJxHLjXv7mS.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",As Torres Gêmeas  (2006)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caça às Bruxas  (2011)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oNyEYVm295JdZXbRi40XcqjOs7G.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Caça às Bruxas  (2011)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Anjos  (1998)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iUcDXPGWNLqKkFmmcoK3uri6BjE.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Cidade dos Anjos  (1998)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Mundos  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1z1OVCvzdqkgeYZvZCqhznUzYf2.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Entre Mundos  (2018)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria  (2014)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pAZJoPuiKDWoPWHAucF1WWfzDjY.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Fúria  (2014)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Sobre Rodas  (2011)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ysYTf7VEPAtHWDgBMqqfsKWKadF.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Fúria Sobre Rodas  (2011)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens de Coragem  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xImr3Z2Q537XcgPAd16oLh7Dcg7.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Homens de Coragem  (2016)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Predador  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/awFeMJIo2KibIBCrzcsgmcZnMHf.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Instinto Predador  (2019)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jiu Jitsu  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Jiu Jitsu  (2020)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass: Quebrando Tudo  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Lw92onUVD9eg04JltAas5KWkSy.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Kick-Ass: Quebrando Tudo  (2010)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandy: Sede de Vingança  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fSruOTrU6rnEZbAutI7iBNry39y.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Mandy: Sede de Vingança  (2018)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma  (2007)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vVGVlwRrvVgLPE98rwo8jo3QC2b.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Motoqueiro Fantasma  (2007)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 2: Espírito de Vingança  (2011)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxJHiuynVltsIUfGuKg9ZjvXC3r.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Motoqueiro Fantasma 2: Espírito de Vingança  (2011)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe e Pai  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Yr4gZCPGcqx4LskxEe7wlOQm43.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Mãe e Pai  (2018)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Rota do Tráfico  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2TweQ9ZDg8orvgwnNKRq9f4ceiu.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Na Rota do Tráfico  (2019)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Apocalipse  (2014)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/FsBEXPUgnctmwWuWvUIFNplrLI.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Apocalipse  (2014)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espelho  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gF7xD5zASWlPZ2Uf50W2JFw7e3i.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Espelho  (2018)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor das Armas  (2005)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yLxbDZ1h7wbHo7mkyX5AR9hjODe.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Senhor das Armas  (2005)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vidente  (2007)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hF2pgtetdZ1VseXvVcy92s5lf5l.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Vidente  (2007)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pig: A Vingança  (2021)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oTM03kSBfEh3269wyJviHOnvMi8.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Pig: A Vingança  (2021)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presságio  (2009)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sAoT6HbmA3Va15Oa7ecC0XSb0N4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Presságio  (2009)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regresso do Mal  (2015)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah2e9jcm2ySJq6pFvIgIX4KcVvi.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Regresso do Mal  (2015)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem de Família  (2000)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5NhCKNzua21rQYiFNq7t4kUyHv.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Um Homem de Família  (2000)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança ao Anoitecer  (2014)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wCplekYqgvhJzeLV0FVCKmITo0f.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Vingança ao Anoitecer  (2014)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Aprendiz de Feiticeiro  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3S6qfz9lDpJGZygIbeH2Qt6Hwlf.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Aprendiz de Feiticeiro  (2010)*
+http://7go.xyz:8080/movie/zogbi11/982451290/296617.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA JIM CARREY.xml"
+############## FILMES | COLETÂNEA JIM CARREY ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA JIM CARREY" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: Um Detetive Diferente (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcxU6P1Yts1cugEKZg67IBtoh5J.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Ace Ventura: Um Detetive Diferente (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/221484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na África (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ai9kRyLHUIdmvWKHTl4NSi0Ghsw.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Ace Ventura 2: Um Maluco na África (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/221485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Loucuras de Dick & Jane (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5g03eRFOILs4crO6vUCWehdzKto.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",As Loucuras de Dick & Jane (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/221486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes Obscuros (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ6L3pV1yKWqYPGv5WZkJE18s8.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Crimes Obscuros (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/221487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desventuras em Série (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyMKPAG56T8SkiwMrmkkB6Gqmc.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Desventuras em Série (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/221488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Eu Mesmo & Irene (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzoeXKICGubWgdQ0EYRNZceVpPs.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Eu, Eu Mesmo & Irene (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/221489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpista do Ano (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3nWpKhkzWg6TeXLm5J4PQk3aTdo.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Golpista do Ano (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/221490.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Grinch (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Grinch (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/221491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Mágico Burt Wonderstone (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s9YtHivf0wdl8UgifsgecuV7oPZ.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Incrível Mágico Burt Wonderstone (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/221492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Máskara (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zLLC7AldfrYUot7lsw3ePFSs87e.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Máskara (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/221493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentiroso (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9fViD1rsvp95an7PN0oj3dqGIk0.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Mentiroso (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/221494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Show de Truman - O Show da Vida (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbPTCnxQgEsWdetEcPiaKstX7mp.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Show de Truman - O Show da Vida (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/221495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins do Papai (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5CQex1Y1OAidPIhd3HJAxA5PPY.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Os Pinguins do Papai (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/221496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sim Senhor (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vP7CLW9G6HCSwUKVJiEDmRC1eeV.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Sim Senhor (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/221497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Sonic: O Filme (2020)
+http://7go.xyz:8080/movie/zogbi11/982451290/221498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Poderoso (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wcA8udbEqqU5tPzsyqyZCDX6OwI.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Todo Poderoso (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/221499.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA PLANETA DOS MACACOS.xml"
+############## FILMES | COLETÂNEA PLANETA DOS MACACOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA PLANETA DOS MACACOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="http://7online.xyz:8080/images/89e2854df35ad356ff6a435b52f25a17.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",A Batalha do Planeta dos Macacos (1973)
+http://7go.xyz:8080/movie/zogbi11/982451290/222879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",A Conquista do Planeta dos Macacos (1972)
+http://7go.xyz:8080/movie/zogbi11/982451290/222880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta dos Macacos (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bZt5dYtbIZ03apuexPHvjrOI6vI.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",A Fuga do Planeta dos Macacos (1971)
+http://7go.xyz:8080/movie/zogbi11/982451290/222881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Planeta dos Macacos (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3uyXDKSVhE5Ls37NXymvbUiBNgh.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",De Volta ao Planeta dos Macacos (1970)
+http://7go.xyz:8080/movie/zogbi11/982451290/222882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Planeta dos Macacos (1968)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wTYTjSUqdra9WKzp7w2aOwYDosS.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",O Planeta dos Macacos (1968)
+http://7go.xyz:8080/movie/zogbi11/982451290/222883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmv5Q5rjbO2wMveB1UC31prOCKH.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/222884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Guerra (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n336SuXSxpQkrzWJbSAeWFcKWy4.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos: A Guerra (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/222885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Origem (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos: A Origem (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/222886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Confronto (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos: O Confronto (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/222887.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA WILL SMITH.xml"
+############## FILMES | COLETÂNEA WILL SMITH ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA WILL SMITH" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="http://7online.xyz:8080/images/d27dff3fa723b61d04f317980971e541.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Aladdin (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/202832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Procura da Felicidade (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hKIzxWRb391Tu7uXIwYkINs8FQ9.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",À Procura da Felicidade (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/202833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Loucas Aventuras de James West (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQhm5OYC2e0iJcbVTf9QeDLeDD.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",As Loucas Aventuras de James West (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/202834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Oculta (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Beleza Oculta (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/202835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bright (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Bright (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/202836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Suicida (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4UNw4Z105Eke1b4Eb1zldym9R6.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Esquadrão Suicida (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/202837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Robô (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2I8b8SScgbVONX0LCURG8O184Dy.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Eu, Robô (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/202838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golpe Duplo (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kFmz3geXBWtBI5MivEepLcxXdv.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Golpe Duplo (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/202840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hancock (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/anUAnDorLJe0J2o9b0Wh3FTxJ7r.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Hancock (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/202841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hitch: Conselheiro Amoroso (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7a7DIl75TFwkTik69QfZ5798BsO.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Hitch: Conselheiro Amoroso (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/202842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day (1996)" tvg-logo="https://3.bp.blogspot.com/-zV8QVelV32o/WxBf7_wlo3I/AAAAAAAAnE0/4HQJXPYA57cykS_5C77sHcwvPhLdd9b-ACLcBGAs/s1600/Filme-Independence-Day_1996.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Independence Day (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/202843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day: O Ressurgimento (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fpQEX5OrVfI6KftsuqpGTapKYpT.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Independence Day: O Ressurgimento (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/202844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigo do Estado (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Inimigo do Estado (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/202845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lendas da Vida (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nTVLPngFKrGwugB2S4ShzerxzLR.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Lendas da Vida (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/202846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tMhMdsz9KFSh4ZrJQ8KWPksd305.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Os Bad Boys (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/202847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys 2 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Os Bad Boys 2 (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/202848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini (2019)" tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/23/16/16/5129967.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Projeto Gemini (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/202849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Vidas (2008)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/67/04/20157103.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Sete Vidas (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/202850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Entre Gigantes (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n8dQeUiQPs46U9nRSJdMsiXth69.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Um Homem Entre Gigantes (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/202851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Terra (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdYNQ5PKM8UjdgAkPmzbiEbeP3.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Depois da Terra (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/202853.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA JASON STATHAM.xml"
+############## FILMES | COLETÂNEA JASON STATHAM ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA JASON STATHAM" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina (2006)" tvg-logo="http://7online.xyz:8080/images/0fddd86074b4a6d23d747a7dfc637917.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Adrenalina (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/197108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pwRgEGp20c7hlmOvQ92YUjhHUUL.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Adrenalina (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/197109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Que Sabia de Menos (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bft6EuB96z0ureK832edqwAplDS.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",A Espiã Que Sabia de Menos (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/197110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbO2OzFiWt9cEjgZfSOnp75ihGE.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Assassino a Preço Fixo (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/197111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo 2 - A Ressurreição (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uNdYyWMMpEHWsMALjko1QCpAZVM.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Assassino a Preço Fixo 2 - A Ressurreição (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/197112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blitz (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Blitz (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/197113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caos (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wSZYVssIv4kjRJuyimzc1gBJC2e.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Caos (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/197114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carga Explosiva (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/197115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 2 (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carga Explosiva 2 (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/197116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 3 (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carga Explosiva 3 (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/197117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Celular: Um Grito de Socorro (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zd5AwX7hWNcSnceDuT5dAh1mVap.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Celular: Um Grito de Socorro (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/197118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Corrida Mortal (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/197120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Dominó (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Efeito Dominó (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/197121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome do Rei (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbfwKoLtwTAm6SBAli2sfNMrgnV.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Em Nome do Rei (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/197122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas de Marte (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/35Bg0I2aTB1j3Ugcw02y9T5nTQx.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Fantasmas de Marte (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/197123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta Selvagem (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sds4vLBYJVVJCuZFso7YMIS9yGz.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carta Selvagem (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/197124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos, Trapaças e Dois Canos Fumegantes (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4qu5iaezyfO0aaoJZIX54nYLEcN.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Jogos, Trapaças e Dois Canos Fumegantes (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/197125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linha de Frente (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3o0rqlEtF04y4atsc9VaH7DDvCq.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Linha de Frente (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megatubarão (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Megatubarão (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/197127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Código (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",O Código (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/197128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Especialistas (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/60q5ai3Zjc9ujFcCMOvgmp4EWhC.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Os Especialistas (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/197129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parker (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fV3bgxC3rlb02eGb7KlOVysiL7e.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Parker (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Redenção (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m45B2WyGngShxVfn7X0rv5Hn0TO.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Redenção (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revólver (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rzpUAdFdZr8Zoxx0LZrl1da0e15.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Revólver (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/197132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue - O Assassino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68Bu8QIYcpv3XZZkrUoqQFfwfHx.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Rogue - O Assassino (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/197133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snatch: Porcos e Diamantes (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Zl4DRxSv1Lk43kMIHnVoy1UsOK.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Snatch: Porcos e Diamantes (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/197134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Saída de Mestre (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ3kCbJ19LHXtVWuWMpy88mFnSO.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Uma Saída de Mestre (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/197135.mp4
+
+
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA SYLVESTER STALLONE.xml"
+############## FILMES | COLETÂNEA SYLVESTER STALLONE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA SYLVESTER STALLONE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Rocky: Um Lutador (1976)" tvg-logo="http://7go.xyz:8080/images/b89880020ff813905ce3199607c67150.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky: Um Lutador (1976)
+http://7go.xyz:8080/movie/zogbi11/982451290/275772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 2: A Revanche (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7zw9qyckcMnwwXAVkkWVsjgWkJG.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 2: A Revanche (1979)
+http://7go.xyz:8080/movie/zogbi11/982451290/275773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 3: O Desafio Supremo (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ld5nRxC99l082bkcM9tjcB4nuLu.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 3: O Desafio Supremo (1982)
+http://7go.xyz:8080/movie/zogbi11/982451290/275774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 4 (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7vNpJ1EpPWO0smF8NQuGKD6ezgC.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 4 (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/275775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky 5 (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 5 (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/275776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky Balboa (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/275777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou a Lenda (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Eu Sou a Lenda (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/276023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg" group-title="FILMES | COLETÂNEA MONSTROS",Godzilla vs. Kong (2021)
+http://7go.xyz:8080/movie/zogbi11/982451290/276988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daylight (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zScSPfX5V7rBalI6QH71zC2wv75.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Daylight (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/276990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D-Tox (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AdLg3zOxCcyWQYKSK86q20dibq.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",D-Tox (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/276992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falcão: O Campeão dos Campeões (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uEf1CrF8sH3vSXbYIggoinf48ch.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Falcão: O Campeão dos Campeões (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/276994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7R67Xk5JjfGoBo2Z4MV33nfJg2k.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Assassinos (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/197173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Condenação Brutal (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDyEClXTDc13iEXjEZaw6mNb4uy.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Condenação Brutal (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/197175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed 1 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Creed 1 (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/197176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Creed 2 (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/197177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Memória de um Crime (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ht1TuxKV4fMlHdPetWaQdgwiMwT.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Memória de um Crime (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/197181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Demolidor (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2BjAYQNwmdIZF6XQQ2rLOrios1Q.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",O Demolidor (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Juiz (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVLxNo53QniZxxRaYPB3vY7PRFN.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",O Juiz (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/197185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Os Mercenários  (2010)*
+http://7go.xyz:8080/movie/zogbi11/982451290/197186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 2 (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Os Mercenários 2 (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/197187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 3 (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Os Mercenários 3 (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/197188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pare! Senão Mamãe Atira (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yrXGOipP4EKTRrqyVvohTAkKUQj.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Pare! Senão Mamãe Atira (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/197189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo: Até o Fim (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/197190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Programado Para Matar (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dDJ4YOz7baCHH6ZJPut9NcCgNl1.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo: Programado Para Matar (1982)
+http://7go.xyz:8080/movie/zogbi11/982451290/197191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo II - A Missão (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/442nYP16rpQ2bXduWponkvTXJRa.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo II - A Missão (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/197192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8VcaFbhUnYb6R4Nbhk9tXlcP5j1.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo III (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/197193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo IV (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2NbmBzgG1chI3fS31HHfZEEsApw.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo IV (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/197194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8InLtl6o9Wrpn5opSHi9Y6wJ4RS.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rota de Fuga (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2: Hades (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rota de Fuga 2: Hades (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/197203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 3: O Resgate (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wTqlEF01SGo4QONor55zUPxHZGP.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rota de Fuga 3: O Resgate (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/197204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tango & Cash: Os Vingadores (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/deFrMSvzHEhpBxSdKGy1qCul5YC.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Tango & Cash: Os Vingadores (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/197206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oscar: Minha Filha quer Casar (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/widMJZSqK0xEVSnkU8Cj2mJg3YM.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Oscar: Minha Filha quer Casar (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/197207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gRqX1Mw5ozOVUawihiTi91NTWUA.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Ajuste de Contas (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidade (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vMkqEUjOfzKbfosmYAatU3j9cFI.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Alta Velocidade (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/197209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cop Land: Zona Exclusiva  (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/exQb8Fhi0IdJkFkxktgaH69tVMc.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Cop Land: Zona Exclusiva  (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/197210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida da Morte - Ano 2000  (1975)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rYuHDUUxdqulG8Imp96OZfRxoUA.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Corrida da Morte - Ano 2000  (1975)*
+http://7go.xyz:8080/movie/zogbi11/982451290/295440.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA STEVEN SEAGAL.xml"
+############## FILMES | COLETÂNEA STEVEN SEAGAL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA STEVEN SEAGAL" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Arma Perfeita (2016)" tvg-logo="http://7online.xyz:8080/images/ab4a53ba60eeed8efccdbbc60526a00a.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",A Arma Perfeita (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/197211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Força em Alerta (1992)" tvg-logo="http://7online.xyz:8080/images/8a6690ef02fc309906de7bc2ab8f69b2.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",A Força em Alerta (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/197212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Força em Alerta 2 (1995)" tvg-logo="http://7online.xyz:8080/images/74d48bf0b7418a6e4abc2a054f150af3.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",A Força em Alerta 2 (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/197213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Anjo da Morte (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjyIKWyq7wUDvRsfuXra9xiQlJ8.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",O Anjo da Morte (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Justiceiro (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Comando Justiceiro (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/197215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conexão Ásia (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u6TUXvmU7dUC5EbFR7sQVH8EaJT.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Conexão Ásia (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/197216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código de Honra (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pwWTkjLz5J0iYuHydyEvY70eUMV.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Código de Honra (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/197217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Difícil de Matar (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/HO311qbMh7K7PkzNFwTZ5ta961.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Difícil de Matar (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/197218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fim da Linha (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5PJKK0NP3cyoZMmcB8tLeGBgZPU.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Fim da Linha (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/197219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Mortal (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9dNHkE7Cvu1iA71htSdvu2z1v2z.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Fúria Mortal (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/197220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Machete (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Machete (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/197221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marcado para a Morte (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ughBSi4W0TQayPlhoVCxEk9Dn0.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Marcado para a Morte (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/197222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Final (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gxrpqPNp0kIelMYCVOdVAWPUfGD.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Missão Final (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/197223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Momento Crítico  (1996)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a66CzP8LgZPUmkmQag3rKogTC4T.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Momento Crítico  (1996)*
+http://7go.xyz:8080/movie/zogbi11/982451290/197224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nico, Acima da Lei (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7FtAtGBiwLRhco70zlzNMC9cguG.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Nico, Acima da Lei (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/197225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vendedor Chinês (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLQ9Ugvc3DjkZrLFojpgY6OZowr.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",O Vendedor Chinês (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/197227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sniper: Operações Especiais (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Sniper: Operações Especiais (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/197229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Forasteiro  (2003)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/esfi6vzwvq5M6H5OisFvG58mSvt.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",O Forasteiro  (2003)*
+http://7go.xyz:8080/movie/zogbi11/982451290/295441.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES  COLETÂNEA JACKIE CHAN.xml"
+############## FILMES  COLETÂNEA JACKIE CHAN ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETÂNEA JACKIE CHAN" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kung Fu Yoga
+https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",Batalha dos Impérios
+https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mito
+https://play.prod.gcp.vix.services/myth_pt/myth_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Massacre no Bairro Chinês
+https://play.prod.gcp.vix.services/shinjuku-incident_pt/shinjuku-incident_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://dvdfilmes.com.br/wp-content/uploads/2021/11/dvd-p03-158.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Acerto
+https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_720021-MLB20684543096_042016-O.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Em Nome da Lei
+https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Proibido"tvg-logo="https://m.media-amazon.com/images/I/51dqRvZ8lyL._AC_SX342_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Reino Proibido
+https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae42cc07eb3306614e039a9d92d8437ce6cce552c6d21b3ba4891f6802966e._RI_V_TTW_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus
+https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_432p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus 2: Operação Condor"tvg-logo="https://i2.wp.com/asiamundi.com.br/wp-content/uploads/2019/03/A-Armadura-de-Deus-2-Operac%CC%A7a%CC%83o-Condor-1991.jpg?fit=1000%2C1500" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus 2: Operação Condor
+https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê
+https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Agentes Vanguard  (2020)*
+http://7go.xyz:8080/movie/zogbi11/982451290/277876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Fora do Rumo  (2016)*
+http://7go.xyz:8080/movie/zogbi11/982451290/294484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria do Protetor (1985)" tvg-logo="http://7online.xyz:8080/images/647ddf00d2659f017737f432dcdbf734.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Fúria do Protetor (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/196924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto (2004)" tvg-logo="http://7online.xyz:8080/images/d5c2ecaf053c5bce1f3b078299f36457.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Acerto (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/196926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="http://7online.xyz:8080/images/a4084d34b7ce452eba2ca486c77d8241.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Rush (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/196927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Rush 2 (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/196928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Rush 3 (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/196929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mestre Invencível 2 (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/196930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marca do Dragão (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiYMJISu7s3PIqsUkl9gdqoGz9o.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Marca do Dragão (1977)
+http://7go.xyz:8080/movie/zogbi11/982451290/196931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Fúria do Dragão (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Nova Fúria do Dragão (1976)
+http://7go.xyz:8080/movie/zogbi11/982451290/196932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus - Versão Estendida (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus - Versão Estendida (1986)
+http://7go.xyz:8080/movie/zogbi11/982451290/196933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arrebentando em Nova York (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Arrebentando em Nova York (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/196934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Bater ou Correr (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/196935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr em Londres (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVPZumNA50cSePKm56lEZ9G86f4.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Bater ou Correr em Londres (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/196936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter: O Caçador de Encrencas (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",City Hunter: O Caçador de Encrencas (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/196937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Caçador de Sombras (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Contos do Caçador de Sombras (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/196938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detonando em Barcelona (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Detonando em Barcelona (1984)
+http://7go.xyz:8080/movie/zogbi11/982451290/196939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Batalha dos Impérios (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/196940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confronto com o Dragão (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6pT99NwH2DeqOVzlaRknsFkI0VV.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Confronto com o Dragão (1983)
+http://7go.xyz:8080/movie/zogbi11/982451290/196941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragões em Dose Dupla (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jX7HdFkLt4B1yacZJ433Ns32gZq.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Dragões em Dose Dupla (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/196942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragões para Sempre (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Dragões para Sempre (1988)
+http://7go.xyz:8080/movie/zogbi11/982451290/196943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kNy5zuG6lG4rsqYJ1cBZk3F61X1.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Em Nome da Lei (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/196944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espião por Acidente (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Espião por Acidente (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/196945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigo Mortal (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tzz1t8UvSvISZxDxBmEd531nIPg.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Inimigo Mortal (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/196946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Karatê Kid (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/196947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer 2: A Vingança do Dragão (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y8n0XLc7qK4Ro8AGPk6b4sbL7c.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kickboxer 2: A Vingança do Dragão (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/196948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kung Fu Yoga (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/196949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Quase Impossível (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccoL6SB1efI9epaLrqxwHVZ8uKN.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Missão Quase Impossível (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/196950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estrangeiro (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Estrangeiro (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/196951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Desafio (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8sSQVFmKhPq6wuArxY4u6yjNAqf.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Grande Desafio (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/196952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda Costas (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7MCFUhw6quzmhlvl6xJLo4R7AH.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Guarda Costas (1978)
+http://7go.xyz:8080/movie/zogbi11/982451290/196953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Medalhão (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Medalhão (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/196954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mestre Invencível 2 (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/196955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mito (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5x3qlWbPExOh2i1quShN1aL0ta.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mito (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/196956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Condor: Um Kickboxer Muito Louco (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8TzrZsXbDrhfLQjr6nnwTkcQobM.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Operação Condor: Um Kickboxer Muito Louco (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/196957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Zodíaco (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dgG3sfVaLBDEddWjrdeOqj5jHrW.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Operação Zodíaco (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/196958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Templo do Dragão (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8XRuW6Q3c64A03UHfHyudf683iw.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Templo do Dragão (1978)
+http://7go.xyz:8080/movie/zogbi11/982451290/196959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Terno de 2 Bilhões de Dólares (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Terno de 2 Bilhões de Dólares (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/196960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Police Story: A Guerra das Drogas (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKG35nO8lzZTkB7g6EiXjYFjYca.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Police Story: A Guerra das Drogas (1985)
+http://7go.xyz:8080/movie/zogbi11/982451290/196961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro Impacto (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lM4VYfr04LrRYQ32J1IZJg0bHXV.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Primeiro Impacto (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/196962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto China (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uvQadnCrtustVtz49hv3mRpNVZg.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Projeto China (1983)
+http://7go.xyz:8080/movie/zogbi11/982451290/196963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto China 2: A Vingança (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZnRRUGMIW38xbgGMWy6cCAhoC4.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Projeto China 2: A Vingança (1987)
+http://7go.xyz:8080/movie/zogbi11/982451290/196964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Punhos de serpente (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kyWBkI94uT3pmAdbdqdSQ96Qxt9.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Punhos de serpente (1978)
+http://7go.xyz:8080/movie/zogbi11/982451290/196965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Sou Eu? (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Quem Sou Eu? (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/196966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbolt: Ação Sobre Rodas (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f87fY5kuGCKiWJduVXtBWxtJttF.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Thunderbolt: Ação Sobre Rodas (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/196967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpjgDRIgYQTvJE9UPo0WmNKqbz.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/196968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)
+http://7go.xyz:8080/movie/zogbi11/982451290/196969.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA O GRANDE MESTRE.xml"
+############## FILMES | COLETÂNEA O GRANDE MESTRE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA O GRANDE MESTRE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man: Nasce uma Lenda (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZh3zKTC0HHboIRqCQus7OFlgA.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",Ip Man: Nasce uma Lenda (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/221500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man: A Batalha Final (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jbYud3egdO8NzoKBNFBOookYgd.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",Ip Man: A Batalha Final (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/221501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v3pXEOIw5WCEyCLMnYIUVtI5yw9.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/221502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 2 (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2fNhSATobUCukor4pKjT82Tvb.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre 2 (2010)
+http://7go.xyz:8080/movie/zogbi11/982451290/221503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 3 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/24E7IAfZsmQIBVydzw994navV5b.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre 3 (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/221504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 4 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre 4 (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/221505.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA JET-LI.xml"
+############## FILMES | COLETÂNEA JET-LI ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA JET-LI" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="http://7online.xyz:8080/images/7d08bc60e8cc1b43b1f295f5838c559e.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Lenda do Mestre Chinês (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/197136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Máscara da Morte (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufMl2fYWCXX1O0y9t99OA0h1uwT.jpg" group-title="FILMES | COLETÂNEA JET-LI",Máscara da Morte (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/197137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Luta do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33SgNPNjPhdz6AirT25CtVNxS2A.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Luta do Dragão (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/197138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Múmia - Tumba do Imperador Dragão (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/197139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Saga de um Herói (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Última Luta (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pXwc74SrunfnWu78TcjmKKh03M8.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Última Luta (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalha de Honra (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tIC9FGD5L7tAb2JHesVFLySTN7G.jpg" group-title="FILMES | COLETÂNEA JET-LI",Batalha de Honra (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra o Tempo (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiRkNiEijphzmDkS8bR9BMVku8.jpg" group-title="FILMES | COLETÂNEA JET-LI",Contra o Tempo (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/197144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cão de Briga (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg" group-title="FILMES | COLETÂNEA JET-LI",Cão de Briga (2005)
+http://7go.xyz:8080/movie/zogbi11/982451290/197145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dupla em Fúria (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VbkE3ZICUP2WepwOoLhq8u7sTp.jpg" group-title="FILMES | COLETÂNEA JET-LI",Dupla em Fúria (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/197146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Escritura Sagrada (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dg3ZSPkzumoj1dR4PxNsvZKsrSG.jpg" group-title="FILMES | COLETÂNEA JET-LI",Em Busca da Escritura Sagrada (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/197147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Honra (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnGWLacr32mpYO90tiLgOcpdtVN.jpg" group-title="FILMES | COLETÂNEA JET-LI",Em Nome da Honra (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/197148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 2 (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xuRCcjCnHbB7pABUqHQqGPj7qKr.jpg" group-title="FILMES | COLETÂNEA JET-LI",Era Uma Vez na China 2 (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/197149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gBrsCTmOBggTzJkTfBMfx1z8Z6T.jpg" group-title="FILMES | COLETÂNEA JET-LI",Era Uma Vez na China (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/197150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 3 (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8VWlK4vjY0d8kXB1b4BwtwiWRO3.jpg" group-title="FILMES | COLETÂNEA JET-LI",Era Uma Vez na China 3 (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garras de Aço (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pOzmio021Hvew8ogz7Se7y3qAlv.jpg" group-title="FILMES | COLETÂNEA JET-LI",Garras de Aço (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herói (2002)" tvg-logo="https://media.fstatic.com/MsLOmDrxfF2nB1WVDCAAi8G33ig=/290x478/smart/media/movies/covers/2009/03/heroi.jpg" group-title="FILMES | COLETÂNEA JET-LI",Herói (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/197154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitman, O Rei dos Assassinos (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gOXno6cjXYcav9LmvwpbIMedXrO.jpg" group-title="FILMES | COLETÂNEA JET-LI",Hitman, O Rei dos Assassinos (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/197155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lutar ou Morrer (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qH4MIMNOS2lTf4eyQ7XNKaKn1UH.jpg" group-title="FILMES | COLETÂNEA JET-LI",Lutar ou Morrer (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/197156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Máscara Negra (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53tgL9U4WAaln5fAsJN1eMSZvk7.jpg" group-title="FILMES | COLETÂNEA JET-LI",Máscara Negra (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/197157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Dragão (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpGBqX4SG7xNJx4wqLv075KQoQl.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Beijo do Dragão (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/197158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Confronto (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74K8HmqhYv9RE97Buqt8N1NDvo3.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Confronto (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/197159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas em Ação (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJOtGPybhBaMQyaJe0CGmkYBM28.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Guarda-Costas em Ação (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/197160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpWQJEXyksQNLEeKodphLjnyn4N.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Justiceiro (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/197161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro - Dragon Kid (1995)" tvg-logo="https://media.fstatic.com/IpyavQG5teNJyHfCSyLVr-Kee80=/290x478/smart/media/movies/covers/2013/01/3995b182b5fb17838f6a0b1565033a60.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Justiceiro - Dragon Kid (1995)
+http://7go.xyz:8080/movie/zogbi11/982451290/197162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre (1992)" tvg-logo="https://media.fstatic.com/LJt4rSLRWSrXqDzYM3oiAmkpARY=/290x478/smart/media/movies/covers/2010/05/e665e12ae28884e6a7e27d617a862bd5.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Mestre (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/197163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno do Dragão - A Cidade Perdida (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1jjr71GgxsrdfBxio02nKx4q3.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Retorno do Dragão - A Cidade Perdida (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/197165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Senhores da Guerra (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4otfooydG9Pbyl52TYyHF1GeuV.jpg" group-title="FILMES | COLETÂNEA JET-LI",Os Senhores da Guerra (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/197166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 2: As Crianças de Shaolin (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccArk8x6Cv1d6wboIkqUPxudc1A.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Templo de Shaolin 2: As Crianças de Shaolin (1984)
+http://7go.xyz:8080/movie/zogbi11/982451290/197167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Pr671n2kWZwBIDqVedZKqFDbDn.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)
+http://7go.xyz:8080/movie/zogbi11/982451290/197168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXWSVoL3WrzRhjN5AfWY9kXMBWG.jpg" group-title="FILMES | COLETÂNEA JET-LI",Nascido para Vencer (1986)
+http://7go.xyz:8080/movie/zogbi11/982451290/197169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue - O Assassino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68Bu8QIYcpv3XZZkrUoqQFfwfHx.jpg" group-title="FILMES | COLETÂNEA JET-LI",Rogue - O Assassino (2007)
+http://7go.xyz:8080/movie/zogbi11/982451290/197170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romeu Tem Que Morrer (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCuBA58NukJIqx81sD785RGh0i.jpg" group-title="FILMES | COLETÂNEA JET-LI",Romeu Tem Que Morrer (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/197171.mkv
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA BRUCE LEE.xml"
+############## FILMES | COLETÂNEA BRUCE LEE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA BRUCE LEE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragão: A História de Bruce Lee  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/khIy7lbWogcYbSI1oeFOV37D1AB.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Dragão: A História de Bruce Lee  (1993)*
+http://7go.xyz:8080/movie/zogbi11/982451290/295426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
+http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/51104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/51101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Lenda (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fdD3whXbdfHjlcDNt2oEy6jsxjD.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Lenda (1984)
+http://7go.xyz:8080/movie/zogbi11/982451290/51103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Jornada de um Guerreiro (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Jornada de um Guerreiro (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/51102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
+http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/51104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/51101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
+http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Bruce Lee (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Eu Sou Bruce Lee (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/51105.mkv
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA VAN DAMME.xml"
+############## FILMES | COLETÂNEA VAN DAMME ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA VAN DAMME" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Contato Mortal  (1988)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cHOyNRHS89GP8XVpRRuahE3tYIt.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Contato Mortal  (1988)*
+http://7go.xyz:8080/movie/zogbi11/982451290/295425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas (2012)" tvg-logo="http://7online.xyz:8080/images/588200be136080f7993169fae690aad7.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",6 Balas (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/196970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",A Colônia (1997)
+http://7go.xyz:8080/movie/zogbi11/982451290/196971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliança Mortal (2013)" tvg-logo="http://7online.xyz:8080/images/8c0cf599e259e104e9d21512cde5bc65.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Aliança Mortal (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/196972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bem Vindo à Selva (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fJYDJDv3xVs6VbjHHoARjVJf0o.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Bem Vindo à Selva (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/196973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desafio Mortal (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKYvaAj73SVuxDvhuDVqF9FUvVW.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Desafio Mortal (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/196974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duplo Impacto (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJeT2pmnuktgJdMZRbQTlphpXfk.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Duplo Impacto (1991)
+http://7go.xyz:8080/movie/zogbi11/982451290/196975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garantia de Morte (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4VV2lPHXbRgeTsfn0MEfZlKeNi.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Garantia de Morte (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/196976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hell - A Ira Está Solta (2003)" tvg-logo="https://br.web.img3.acsta.net/pictures/210/497/21049768_20131015171558401.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Hell - A Ira Está Solta (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/196977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oE5jvjeav3h9PH0yrCdWgUTxiaN.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Inferno (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/196978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JCVD: A Maior Luta de Sua Vida (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g65MZXhaDrLVPo0uwxhgG6R0so6.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",JCVD: A Maior Luta de Sua Vida (2008)
+http://7go.xyz:8080/movie/zogbi11/982451290/196979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Letais (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vL6kabte9SJvJz6Q7vktDPBZRm0.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Jogos Letais (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/196980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Sujo (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DJ8KOT2t8y8FiLn3hrMyPT9MyS.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Jogo Sujo (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/196981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Retaliação (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yUteP76nVPVqtbxPzW5qDsNoJOI.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Kickboxer: A Retaliação (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/196982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Vingança do Dragão (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gV816EXzpzpcWYW4cplZoSC4yyp.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Kickboxer: A Vingança do Dragão (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/196983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: O Desafio do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Kickboxer: O Desafio do Dragão (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/196984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legionário (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4U03VR1zD6KytEuvcRC7FT7ruBF.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Legionário (1998)
+http://7go.xyz:8080/movie/zogbi11/982451290/196985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leão Branco: O Lutador Sem Lei (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wCr3ffW7YNkFHKESGZVwTjgc8h.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Leão Branco: O Lutador Sem Lei (1990)
+http://7go.xyz:8080/movie/zogbi11/982451290/196986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lukas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Lukas (2018)
+http://7go.xyz:8080/movie/zogbi11/982451290/196987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Alvo (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",O Alvo (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/196988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Dragão Branco 2 (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8z9EIJ7PS94mkkaHYg7DAkpGuic.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",O Grande Dragão Branco 2 (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/196989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhos de Dragão (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOU8xDtY4dcuPnvsefWcuiPoTNn.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Olhos de Dragão (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/196990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Osso Duro (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5NWDhW3dhw5AAK4djY2id7To9.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Osso Duro (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/196991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vingador da Iugoslávia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",O Vingador da Iugoslávia (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/196992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Replicante (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Replicante (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/196993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retroceder Nunca, Render-se Jamais (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7KB0U5KGINqPuE5nmJ6T8YkWh34.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Retroceder Nunca, Render-se Jamais (1986)
+http://7go.xyz:8080/movie/zogbi11/982451290/196994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Risco Máximo (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zZo72jTKFoeUk41S0OgbD2iuk8H.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Risco Máximo (1996)
+http://7go.xyz:8080/movie/zogbi11/982451290/196995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segundo em Comando (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yfClcix0iwBaAsm4QRPbmmFAcYk.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Segundo em Comando (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/196996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal (1992)
+http://7go.xyz:8080/movie/zogbi11/982451290/196997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal: O Retorno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xdqqOJpzvk1rUL7p23N9bKsGTX.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal: O Retorno (1999)
+http://7go.xyz:8080/movie/zogbi11/982451290/196998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: Regeneração (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nUk8EAx72Taxb8ttio1ADFKppmF.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal 3: Regeneração (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/196999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 4: Juízo Final (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dqozo0zRiQ7pSJYnFKux2Js5qV.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal 4: Juízo Final (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/197000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter: A Última Batalha (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7DOPUhlGLxRowC4VFY9n0wQTup.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Street Fighter: A Última Batalha (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/197001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Timecop: O Guardião do Tempo (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9icQABTwqS67xz6GCMaBOzBM1uX.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Timecop: O Guardião do Tempo (1994)
+http://7go.xyz:8080/movie/zogbi11/982451290/197002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vencer ou Morrer (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Vencer ou Morrer (1993)
+http://7go.xyz:8080/movie/zogbi11/982451290/197003.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA O SENHOR DOS ANÉIS.xml"
+############## FILMES | COLETÂNEA O SENHOR DOS ANÉIS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA O SENHOR DOS ANÉIS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei  (2003)*" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis: O Retorno do Rei  (2003)*
+http://7go.xyz:8080/movie/zogbi11/982451290/293634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 3: A Batalha dos Cinco Exércitos (2014)" tvg-logo="http://7online.xyz:8080/images/9c7fec8ef230b7427582245e66890eda.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Hobbit 3: A Batalha dos Cinco Exércitos (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/196198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 2: A Desolação de Smaug (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Hobbit 2: A Desolação de Smaug (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/196199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 1: Uma Jornada Inesperada (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Hobbit 1: Uma Jornada Inesperada (2012)
+http://7go.xyz:8080/movie/zogbi11/982451290/196200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis (1978)
+http://7go.xyz:8080/movie/zogbi11/982451290/196201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 2: As Duas Torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 2: As Duas Torres (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/196202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 1: A Sociedade do Anel (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2MK3i5CsPuWNwMmgS3ntAcOQhRF.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 1: A Sociedade do Anel (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/196203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 3: O Retorno do Rei (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 3: O Retorno do Rei (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/196204.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA X-MEN.xml"
+############## FILMES | COLETÂNEA X-MEN ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA X-MEN" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 1 (2000)
+http://7go.xyz:8080/movie/zogbi11/982451290/50978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tRDvoi7z7B6YdzoRcRQ8LwLA47q.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 2 (2003)
+http://7go.xyz:8080/movie/zogbi11/982451290/50980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 (2006)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 3 (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/50977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 4 (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/50981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 5 (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/50979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 (2014)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 6 (2014)
+http://7go.xyz:8080/movie/zogbi11/982451290/50975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 (2016)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 7 (2016)
+http://7go.xyz:8080/movie/zogbi11/982451290/50974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 8 (2019)
+http://7go.xyz:8080/movie/zogbi11/982451290/50976.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA VELOZES E FURIOSOS.xml"
+############## FILMES | COLETÂNEA VELOZES E FURIOSOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA VELOZES E FURIOSOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/41263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/41261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/41264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 5 - Operação Rio (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 5 - Operação Rio (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/41265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 7 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 7 (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 8 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 8 (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA MAZZAROPI.xml"
+############## FILMES | COLETÂNEA MAZZAROPI ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA MAZZAROPI" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi  (2013)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi  (2013)*
+http://7go.xyz:8080/movie/zogbi11/982451290/292900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Portugal... Minha Saudade (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Portugal... Minha Saudade (1974)
+http://7go.xyz:8080/movie/zogbi11/982451290/50388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Puritano da Rua Augusta (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Puritano da Rua Augusta (1965)
+http://7go.xyz:8080/movie/zogbi11/982451290/50380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)
+http://7go.xyz:8080/movie/zogbi11/982451290/50379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Banda das Velhas Virgens (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u02gmloL181gdA9I53R6dumSHUj.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Banda das Velhas Virgens (1979)
+http://7go.xyz:8080/movie/zogbi11/982451290/29446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Carrocinha (1955)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qe8ma8Gw4LutBUKeXJKDE1O09RX.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Carrocinha (1955)
+http://7go.xyz:8080/movie/zogbi11/982451290/29447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Betão Ronca Ferro (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLP6pCLCNmzVTF003Yax39kmBN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Betão Ronca Ferro (1970)
+http://7go.xyz:8080/movie/zogbi11/982451290/29449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Candinho (1954)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58yc0ICLl9niXmrNP9hujRSs0eZ.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Candinho (1954)
+http://7go.xyz:8080/movie/zogbi11/982451290/29450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Casinha Pequenina (1963)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Casinha Pequenina (1963)
+http://7go.xyz:8080/movie/zogbi11/982451290/29451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chico Fumaça (1956)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chico Fumaça (1956)
+http://7go.xyz:8080/movie/zogbi11/982451290/29452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chofer de Praça (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chofer de Praça (1959)
+http://7go.xyz:8080/movie/zogbi11/982451290/29453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Gato de Madame (1957)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Gato de Madame (1957)
+http://7go.xyz:8080/movie/zogbi11/982451290/29474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Contra o Capeta (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Contra o Capeta (1976)
+http://7go.xyz:8080/movie/zogbi11/982451290/29475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca e Seu Filho Preto (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca e Seu Filho Preto (1978)
+http://7go.xyz:8080/movie/zogbi11/982451290/29476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Tatu (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Tatu (1959)
+http://7go.xyz:8080/movie/zogbi11/982451290/29478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Meu Japão Brasileiro (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Meu Japão Brasileiro (1965)
+http://7go.xyz:8080/movie/zogbi11/982451290/29479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Nadando em Dinheiro (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJq59QFlozLQ73aLMB4olEqHDgY.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Nadando em Dinheiro (1952)
+http://7go.xyz:8080/movie/zogbi11/982451290/29480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: No Paraíso das Solteironas (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b9S2hhHBnmeJhI0jjnttb1bTvEN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: No Paraíso das Solteironas (1969)
+http://7go.xyz:8080/movie/zogbi11/982451290/29481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Cineasta das Platéias (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rAcTZc4bxkcOnhX3hlfiGuH32Q3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Cineasta das Platéias (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/29482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Corintiano (1967)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lY2woblKwOwm5NsgWAE9IhfdfW3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Corintiano (1967)
+http://7go.xyz:8080/movie/zogbi11/982451290/29483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Grande Xerife (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Grande Xerife (1972)
+http://7go.xyz:8080/movie/zogbi11/982451290/29484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Jeca e a Égua Milagrosa (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Jeca e a Égua Milagrosa (1980)
+http://7go.xyz:8080/movie/zogbi11/982451290/29485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Sai da Frente (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p12jJmcYkk4Mr9VTx10i41w9ADn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Sai da Frente (1952)
+http://7go.xyz:8080/movie/zogbi11/982451290/50384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Zé do Periquito (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmG48zTGeHDrhe8nrtGxzM4CLrq.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Zé do Periquito (1960)
+http://7go.xyz:8080/movie/zogbi11/982451290/29488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Um Caipira em Bariloche (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Um Caipira em Bariloche (1973)
+http://7go.xyz:8080/movie/zogbi11/982451290/50387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Uma Pistola Para Djeca (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ektHC3oPm4KQUmzBoFiIcFC8Qb.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Uma Pistola Para Djeca (1969)
+http://7go.xyz:8080/movie/zogbi11/982451290/50386.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA OS TRAPALHÕES.xml"
+############## FILMES | COLETÂNEA OS TRAPALHÕES ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA OS TRAPALHÕES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwlWDaJJ6ZSbukRzAReSwyImTpZ.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/44210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",Aladim e a Lâmpada Maravilhosa (1973)
+http://7go.xyz:8080/movie/zogbi11/982451290/44209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwlWDaJJ6ZSbukRzAReSwyImTpZ.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
+http://7go.xyz:8080/movie/zogbi11/982451290/44210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",Aladim e a Lâmpada Maravilhosa (1973)
+http://7go.xyz:8080/movie/zogbi11/982451290/44209.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES   NACIONAL CINEMA.xml"
 ############## FILMES   NACIONAL CINEMA ################# 
@@ -5657,6 +7287,1754 @@ http://meuplay.shop:80/series/828474929852/34882748924/82226.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/82227.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg" group-title="NETFLIX",Hospital Playlist S02 E12
 http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-SERIES | REALITY SHOWS Largados e Pelados.xml"
+############## SERIES | REALITY SHOWS Largados e Pelados ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | REALITY SHOWS Largados e Pelados" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E01" tvg-logo="http://7online.xyz:8080/images/375ce92164779084194757ef98fb7f73.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E02" tvg-logo="http://7online.xyz:8080/images/ed4518603b2834394093d880a92628ec.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E03" tvg-logo="http://7online.xyz:8080/images/889869a66ce374c7ff110b4bfe5b21c1.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E04" tvg-logo="http://7online.xyz:8080/images/d1e24e67cc1a6fcbf6f28cb224772ace.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E05" tvg-logo="http://7online.xyz:8080/images/2a8c2e14f95999101a4d24619cebbb73.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E06" tvg-logo="http://7online.xyz:8080/images/4bf84f075b2a0fa317b90a4e6be0b91e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E08" tvg-logo="http://7online.xyz:8080/images/7875a5a392ab12a44815bd2c35d9167b.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/231756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/231757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/231758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/231759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/231760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/231761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E14
+http://7go.xyz:8080/series/zogbi11/982451290/231762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E15
+http://7go.xyz:8080/series/zogbi11/982451290/231763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E16
+http://7go.xyz:8080/series/zogbi11/982451290/231764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E17
+http://7go.xyz:8080/series/zogbi11/982451290/231765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E18
+http://7go.xyz:8080/series/zogbi11/982451290/231766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E19
+http://7go.xyz:8080/series/zogbi11/982451290/231767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E20
+http://7go.xyz:8080/series/zogbi11/982451290/231768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E21" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E21
+http://7go.xyz:8080/series/zogbi11/982451290/231769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E22" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E22
+http://7go.xyz:8080/series/zogbi11/982451290/231770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E23" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E23
+http://7go.xyz:8080/series/zogbi11/982451290/231771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E24" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E24
+http://7go.xyz:8080/series/zogbi11/982451290/231772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E25" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E25
+http://7go.xyz:8080/series/zogbi11/982451290/231773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E26" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E26
+http://7go.xyz:8080/series/zogbi11/982451290/231774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E01" tvg-logo="http://7online.xyz:8080/images/3318ed95a20ccaf1ddc4d59033c32bc2.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E02" tvg-logo="http://7online.xyz:8080/images/d3abd41a6c9936ed9f7adacb8b8e46a8.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E03" tvg-logo="http://7online.xyz:8080/images/35eb102174f232774f88da12149db364.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E04" tvg-logo="http://7online.xyz:8080/images/855b205632e0707a4998e4b1d27cc40b.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E05" tvg-logo="http://7online.xyz:8080/images/a36c83c26a652dd8d43c31d5c6109006.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E06" tvg-logo="http://7online.xyz:8080/images/347fb78487e839066676db548342b232.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/231782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/231783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/231784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E11
+http://7go.xyz:8080/series/zogbi11/982451290/231785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E12
+http://7go.xyz:8080/series/zogbi11/982451290/231786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E13
+http://7go.xyz:8080/series/zogbi11/982451290/231787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E14
+http://7go.xyz:8080/series/zogbi11/982451290/231788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E15
+http://7go.xyz:8080/series/zogbi11/982451290/231789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E16
+http://7go.xyz:8080/series/zogbi11/982451290/231790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E17
+http://7go.xyz:8080/series/zogbi11/982451290/231791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E18
+http://7go.xyz:8080/series/zogbi11/982451290/231792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E19
+http://7go.xyz:8080/series/zogbi11/982451290/231793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E20
+http://7go.xyz:8080/series/zogbi11/982451290/231794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E21" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E21
+http://7go.xyz:8080/series/zogbi11/982451290/231795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E22" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E22
+http://7go.xyz:8080/series/zogbi11/982451290/231796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E23" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E23
+http://7go.xyz:8080/series/zogbi11/982451290/231797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E24" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E24
+http://7go.xyz:8080/series/zogbi11/982451290/231798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E25" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E25
+http://7go.xyz:8080/series/zogbi11/982451290/231799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E26" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E26
+http://7go.xyz:8080/series/zogbi11/982451290/231800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E27" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E27
+http://7go.xyz:8080/series/zogbi11/982451290/231801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E28" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E28
+http://7go.xyz:8080/series/zogbi11/982451290/231802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E29" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E29
+http://7go.xyz:8080/series/zogbi11/982451290/231803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E30" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E30
+http://7go.xyz:8080/series/zogbi11/982451290/231804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/231812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/231813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bp0624rAUfLiMxrOERHFLDputGt.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzxxsMTpI7qfxjMNzNAzJ3FxPL.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2oQSsFqvVQwT0Cf1or8wPrNnVQg.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4DC7EQah9EGMTQp3IvGspK3wdZl.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2ivUi3VvqlSRr4WywQpY7bsBi0.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qQtfsst4xBAtzozwrKqetSzW9w6.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/302798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnrvHf7Ba8dgyprYcdKZsWdCcR.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E11
+http://7go.xyz:8080/series/zogbi11/982451290/302799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E10
+http://7go.xyz:8080/series/zogbi11/982451290/302818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E11
+http://7go.xyz:8080/series/zogbi11/982451290/302819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E12
+http://7go.xyz:8080/series/zogbi11/982451290/302820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E10
+http://7go.xyz:8080/series/zogbi11/982451290/302830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E11
+http://7go.xyz:8080/series/zogbi11/982451290/302831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/naAcXIPOYgidgoup7uKI61Sw5oB.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9VMq8pIuDeFe8mTHYwdARpHszRd.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8aOwNhYjoAOwDISNHPUQ53IQvcw.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oT95ISPAuKtRS7q68jiQ6uGGNM4.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fS2xWyc7dtGWVc3fD0cM1oHnaAH.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8WaVApbVAAXTqxz3UFp1borzuO5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2boSATNSuCcsrTmfofNLaidduWx.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3UPTzIj6EZlOvMHVm0H6W2dGIdn.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uxJC9PuL9Zi9rBznMQHSGdWhW9p.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/seNQbNa3eTM9velpEfhhCybo7zi.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E10
+http://7go.xyz:8080/series/zogbi11/982451290/302847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9tV57jyY4WCXV2NwUJd5VBwzidK.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E11
+http://7go.xyz:8080/series/zogbi11/982451290/302848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mzSUulp9e68mAqsPdnVkLvfsgwI.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E12
+http://7go.xyz:8080/series/zogbi11/982451290/302849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/myixTdrJRrf9BI41CQRAbygcVir.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E13
+http://7go.xyz:8080/series/zogbi11/982451290/302850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/SDBkoI9I5zTN0y1cDj8zIq4XAS.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E14
+http://7go.xyz:8080/series/zogbi11/982451290/302851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8NjAyDIOSE7Q5MQkp5Tk611uTd6.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E15
+http://7go.xyz:8080/series/zogbi11/982451290/302852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E10
+http://7go.xyz:8080/series/zogbi11/982451290/302862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E11
+http://7go.xyz:8080/series/zogbi11/982451290/302863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E12
+http://7go.xyz:8080/series/zogbi11/982451290/302864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E13
+http://7go.xyz:8080/series/zogbi11/982451290/302865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E14
+http://7go.xyz:8080/series/zogbi11/982451290/302866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E15
+http://7go.xyz:8080/series/zogbi11/982451290/302867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E16
+http://7go.xyz:8080/series/zogbi11/982451290/302868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E17
+http://7go.xyz:8080/series/zogbi11/982451290/302869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E18
+http://7go.xyz:8080/series/zogbi11/982451290/302870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E19
+http://7go.xyz:8080/series/zogbi11/982451290/302871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E20
+http://7go.xyz:8080/series/zogbi11/982451290/302872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E01
+http://7go.xyz:8080/series/zogbi11/982451290/302873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E02
+http://7go.xyz:8080/series/zogbi11/982451290/302874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E03
+http://7go.xyz:8080/series/zogbi11/982451290/302875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E04
+http://7go.xyz:8080/series/zogbi11/982451290/302876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E05
+http://7go.xyz:8080/series/zogbi11/982451290/302877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E06
+http://7go.xyz:8080/series/zogbi11/982451290/302878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E07
+http://7go.xyz:8080/series/zogbi11/982451290/302879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E08
+http://7go.xyz:8080/series/zogbi11/982451290/302880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E09
+http://7go.xyz:8080/series/zogbi11/982451290/302881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E10
+http://7go.xyz:8080/series/zogbi11/982451290/302882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E11
+http://7go.xyz:8080/series/zogbi11/982451290/302883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E12
+http://7go.xyz:8080/series/zogbi11/982451290/302884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E13
+http://7go.xyz:8080/series/zogbi11/982451290/302885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E14
+http://7go.xyz:8080/series/zogbi11/982451290/302886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E15
+http://7go.xyz:8080/series/zogbi11/982451290/302887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E16
+http://7go.xyz:8080/series/zogbi11/982451290/302888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E17
+http://7go.xyz:8080/series/zogbi11/982451290/302889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E18
+http://7go.xyz:8080/series/zogbi11/982451290/302890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E19
+http://7go.xyz:8080/series/zogbi11/982451290/302891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E20
+http://7go.xyz:8080/series/zogbi11/982451290/302892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E21" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E21
+http://7go.xyz:8080/series/zogbi11/982451290/302893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E22" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E22
+http://7go.xyz:8080/series/zogbi11/982451290/302894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E23" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E23
+http://7go.xyz:8080/series/zogbi11/982451290/302895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E24" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E24
+http://7go.xyz:8080/series/zogbi11/982451290/302896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E25" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E25
+http://7go.xyz:8080/series/zogbi11/982451290/302897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E01" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E02" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E03" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E04" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E05" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E06" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E07" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E08" tvg-logo="http://7online.xyz:8080/images/f9a9f479d9a6b9ef0a815fc401f459d5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/231722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E09" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/231723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E01" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E02" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E03" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E04" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E05" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E06" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E07" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E01" tvg-logo="http://7online.xyz:8080/images/1abfef7697edcafb11010308d9a517ab.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E02" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E03" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E04" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E05" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E06" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E07" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E08" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/231738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/231739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E01" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/158466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E02" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/158467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/158468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/158469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/158470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/158471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/158472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/158473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/158474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/158475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E11" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E11
+http://7go.xyz:8080/series/zogbi11/982451290/158476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E12" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E12
+http://7go.xyz:8080/series/zogbi11/982451290/158477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E13" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E13
+http://7go.xyz:8080/series/zogbi11/982451290/158478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E14" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E14
+http://7go.xyz:8080/series/zogbi11/982451290/158479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E15" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E15
+http://7go.xyz:8080/series/zogbi11/982451290/158480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E16" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E16
+http://7go.xyz:8080/series/zogbi11/982451290/158481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E17" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E17
+http://7go.xyz:8080/series/zogbi11/982451290/158482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E18" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E18
+http://7go.xyz:8080/series/zogbi11/982451290/158483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E19" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E19
+http://7go.xyz:8080/series/zogbi11/982451290/158484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E20" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E20
+http://7go.xyz:8080/series/zogbi11/982451290/158485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E21" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E21
+http://7go.xyz:8080/series/zogbi11/982451290/158486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E22" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E22
+http://7go.xyz:8080/series/zogbi11/982451290/158487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E23" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E23
+http://7go.xyz:8080/series/zogbi11/982451290/158488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E24" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E24
+http://7go.xyz:8080/series/zogbi11/982451290/158489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E25" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E25
+http://7go.xyz:8080/series/zogbi11/982451290/158490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E26" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E26
+http://7go.xyz:8080/series/zogbi11/982451290/158491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E27" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E27
+http://7go.xyz:8080/series/zogbi11/982451290/158492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E28" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E28
+http://7go.xyz:8080/series/zogbi11/982451290/158493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E29" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E29
+http://7go.xyz:8080/series/zogbi11/982451290/158494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E30" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E30
+http://7go.xyz:8080/series/zogbi11/982451290/158495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E31" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E31
+http://7go.xyz:8080/series/zogbi11/982451290/158496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E32" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E32
+http://7go.xyz:8080/series/zogbi11/982451290/158497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S04 E33" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S04 E33
+http://7go.xyz:8080/series/zogbi11/982451290/158498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E01" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/231740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E02" tvg-logo="http://7online.xyz:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/231741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/231742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/231743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/231744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/231745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/231746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/231747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/231748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E01" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E01
+http://7go.xyz:8080/series/zogbi11/982451290/158499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E02" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E02
+http://7go.xyz:8080/series/zogbi11/982451290/158500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E03
+http://7go.xyz:8080/series/zogbi11/982451290/158501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E04
+http://7go.xyz:8080/series/zogbi11/982451290/158502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E05
+http://7go.xyz:8080/series/zogbi11/982451290/158503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E06
+http://7go.xyz:8080/series/zogbi11/982451290/158504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E07
+http://7go.xyz:8080/series/zogbi11/982451290/158505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E08
+http://7go.xyz:8080/series/zogbi11/982451290/158506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E09
+http://7go.xyz:8080/series/zogbi11/982451290/158507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E10
+http://7go.xyz:8080/series/zogbi11/982451290/158508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E11" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E11
+http://7go.xyz:8080/series/zogbi11/982451290/158509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E01" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E01
+http://7go.xyz:8080/series/zogbi11/982451290/158510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E02" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E02
+http://7go.xyz:8080/series/zogbi11/982451290/158511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E03
+http://7go.xyz:8080/series/zogbi11/982451290/158512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E04
+http://7go.xyz:8080/series/zogbi11/982451290/158513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E05
+http://7go.xyz:8080/series/zogbi11/982451290/158514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E06
+http://7go.xyz:8080/series/zogbi11/982451290/158515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E07
+http://7go.xyz:8080/series/zogbi11/982451290/158516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E08
+http://7go.xyz:8080/series/zogbi11/982451290/158517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E09
+http://7go.xyz:8080/series/zogbi11/982451290/158518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E10
+http://7go.xyz:8080/series/zogbi11/982451290/158519.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIES | CLÁSSICOS DA TV Smallville.xml"
+############## SERIES | CLÁSSICOS DA TV Smallville  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | CLÁSSICOS DA TV Smallville" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E01" tvg-logo="http://7online.xyz:8080/images/e814dd073e520564daabfe6ddde6ddeb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E02" tvg-logo="http://7online.xyz:8080/images/bd18b857d03b97b33c2df0b5aea63ea9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E03" tvg-logo="http://7online.xyz:8080/images/4d5f0fd25b889cbf111002b0d0861926.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E04" tvg-logo="http://7online.xyz:8080/images/963f13125cbe115f9c49fd1b41ce5069.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E05" tvg-logo="http://7online.xyz:8080/images/6d05cf4ff7e61da47fff73cd041fb929.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E06" tvg-logo="http://7online.xyz:8080/images/034de689d0e9a6ccc1131b60789d028e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E07" tvg-logo="http://7online.xyz:8080/images/ba06cb1cdf2f202c7266f6894da13429.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E08" tvg-logo="http://7online.xyz:8080/images/87fdd7e5f0ab68d82f5dfae0ff6a2f45.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E09" tvg-logo="http://7online.xyz:8080/images/c892603aa5701f548691c88731f7dccd.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E10" tvg-logo="http://7online.xyz:8080/images/e8c27f6d9b45b5b2e2a4d04300e888ef.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E11" tvg-logo="http://7online.xyz:8080/images/8c95147f71f7dcea124cec1831315127.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E12" tvg-logo="http://7online.xyz:8080/images/e7b311f1cf7a9c5c89299d973d13e913.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E13" tvg-logo="http://7online.xyz:8080/images/268e7fd98c9f52d65f41a998c37771f9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E14" tvg-logo="http://7online.xyz:8080/images/cb1cca0ab73054c43bf4564e7f11173b.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E15" tvg-logo="http://7online.xyz:8080/images/5c3293c9130ffc311305f5e35f7bcf14.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E16" tvg-logo="http://7online.xyz:8080/images/f9f5ada3baf1c95aa46fef6e9d271b5d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E17" tvg-logo="http://7online.xyz:8080/images/621ea038fd8a0574473b3f6a4174ac81.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E18" tvg-logo="http://7online.xyz:8080/images/f42da630e72d15026043f4c4dc0e3402.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E19" tvg-logo="http://7online.xyz:8080/images/b73f879c383b413976f9209a6e8d5b12.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E20" tvg-logo="http://7online.xyz:8080/images/987bc8950cd0c890024a4287aa0b8214.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S01 E21" tvg-logo="http://7online.xyz:8080/images/75bc55587b8f54388e1cc19c8d335fd2.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S01 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E01" tvg-logo="http://7online.xyz:8080/images/eb7033d8563148fced234050fffc0602.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E02" tvg-logo="http://7online.xyz:8080/images/bd89d425f784b40696a647d3394f4f6a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E03" tvg-logo="http://7online.xyz:8080/images/3ff47470611762e37d3fee090c6e24e1.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E04" tvg-logo="http://7online.xyz:8080/images/6bc2905e1078a4d57dd858a3eafcaa07.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E05" tvg-logo="http://7online.xyz:8080/images/55e3f70aca5a853412ac9287ba5257ba.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E06" tvg-logo="http://7online.xyz:8080/images/9c692f6892600071830f27698d2e4500.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E07" tvg-logo="http://7online.xyz:8080/images/2b50f9492aecdc8c6234149479a2877a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E08" tvg-logo="http://7online.xyz:8080/images/816a690dd948f448b09ce38389b27ed2.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E09" tvg-logo="http://7online.xyz:8080/images/759b37a1f257c90183ab58010f577dc4.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E10" tvg-logo="http://7online.xyz:8080/images/742786bb1ac8bf0a87a3e8cf9b3c1ec5.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E11" tvg-logo="http://7online.xyz:8080/images/aab3cde9f3a9abef3cd4853a6154a566.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E12" tvg-logo="http://7online.xyz:8080/images/0c72541f51d339cb5b42a6242e4c31e6.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E13" tvg-logo="http://7online.xyz:8080/images/cd24c362dc6083fc886b8a90332ba08f.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E14" tvg-logo="http://7online.xyz:8080/images/56522afa8055c517772a61d6f9f37a3c.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E15" tvg-logo="http://7online.xyz:8080/images/4aef3214dd1f19467cd203e5542a04a6.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E16" tvg-logo="http://7online.xyz:8080/images/a6ab38299566680f0a47c1e99ae0b024.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E17" tvg-logo="http://7online.xyz:8080/images/d4d9bf82c54102536049d6daf065dfcb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E18" tvg-logo="http://7online.xyz:8080/images/d36a6ffb0af1a069bab4972d04300a64.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E19" tvg-logo="http://7online.xyz:8080/images/b2b618e0f2072c96bd67ee16f78b5ea9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E20" tvg-logo="http://7online.xyz:8080/images/7554fd0062df9df25ad28bb7348de1d0.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E21" tvg-logo="http://7online.xyz:8080/images/896acb93597c9a7c9a342635a980afeb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E22" tvg-logo="http://7online.xyz:8080/images/f8a9745071fcbb5706b182826bc514a5.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E22
+http://7go.xyz:8080/series/zogbi11/982451290/252705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S02 E23" tvg-logo="http://7online.xyz:8080/images/e496990995ed85f524c1bc213eeba627.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S02 E23
+http://7go.xyz:8080/series/zogbi11/982451290/252706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E01" tvg-logo="http://7online.xyz:8080/images/82c1ebad7171746cadded9f73fde107a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E02" tvg-logo="http://7online.xyz:8080/images/d676e90a4d6231a502b876bc2597e823.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E03" tvg-logo="http://7online.xyz:8080/images/ccf3f3bcab9ef475132cbff2e1384c22.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E04" tvg-logo="http://7online.xyz:8080/images/7e424a4e5eaf3534fb0eef617a7ea63d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E05" tvg-logo="http://7online.xyz:8080/images/e7656865d7e26ace8cade2c320babdf8.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E06" tvg-logo="http://7online.xyz:8080/images/cd1a540849dc73de426000b964e63e3e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E07" tvg-logo="http://7online.xyz:8080/images/bddb09302d7e88d71b61f99b43283d9c.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E08" tvg-logo="http://7online.xyz:8080/images/29ddc2d533a264453d8eb2b0da7e935b.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E09" tvg-logo="http://7online.xyz:8080/images/75e6576c00a5bb58f94df6c4b994f463.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E10" tvg-logo="http://7online.xyz:8080/images/a2b6c062998cafb0530d8d0c9b8641f1.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E11" tvg-logo="http://7online.xyz:8080/images/4028446a80f1013fb9e527a86acedf5f.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E12" tvg-logo="http://7online.xyz:8080/images/c60ae99a1f734da8a97469a79ece4c36.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E13" tvg-logo="http://7online.xyz:8080/images/83348fe9f155e3a15c6e3285eff262d1.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E14" tvg-logo="http://7online.xyz:8080/images/c9baaf3faace633d15ed3151a21220d9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E15" tvg-logo="http://7online.xyz:8080/images/1d4ce58495df91c771f00c690fee2869.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E16" tvg-logo="http://7online.xyz:8080/images/c8d43023fa0b1901b1394f1f37b6ece7.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E17" tvg-logo="http://7online.xyz:8080/images/a76301bd0434c6b567ad118db1a7040c.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E18" tvg-logo="http://7online.xyz:8080/images/05b2bec36dc5363aac38920b0aa593f4.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E19" tvg-logo="http://7online.xyz:8080/images/927b5c902f8a06564ef009bfda84ada0.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E20" tvg-logo="http://7online.xyz:8080/images/8ccfe1c4908ccbee5c99aea9d4afcaf3.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E21" tvg-logo="http://7online.xyz:8080/images/c80c539078cbea8a6e8f20b361c8d8f8.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S03 E22" tvg-logo="http://7online.xyz:8080/images/48deb5ed77009b277450b5505c363d8f.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S03 E22
+http://7go.xyz:8080/series/zogbi11/982451290/252728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E01" tvg-logo="http://7online.xyz:8080/images/98cafa6126abd150b4b3a7e34a702b8a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E02" tvg-logo="http://7go.xyz:8080/images/903c9f7e6110800313a5dc52a76d9b36.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E03" tvg-logo="http://7online.xyz:8080/images/9b60861cc33dc1d76d6213205ce72047.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E04" tvg-logo="http://7online.xyz:8080/images/60875f05b7d5b2c9cf6aae650f42de59.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E05" tvg-logo="http://7online.xyz:8080/images/92f8aa471f7172fc7eb96936f9be8ae5.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E06" tvg-logo="http://7online.xyz:8080/images/2a673cad1953ce0887d76498e604ae61.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E07" tvg-logo="http://7online.xyz:8080/images/9b6dc5365806fc4f5d7ad0d3aa5cec24.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E08" tvg-logo="http://7online.xyz:8080/images/eb4e9c8e4f424a65bde5f963b84a20b9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E09" tvg-logo="http://7online.xyz:8080/images/b391dc4ce87176fef6b94f0e0bba4421.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E10" tvg-logo="http://7online.xyz:8080/images/0d67308b6f5b991a6a6cd5af04661626.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E11" tvg-logo="http://7online.xyz:8080/images/31dc7d0fe85e2b25f74d01548b6c4485.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E12" tvg-logo="http://7online.xyz:8080/images/5b97df13ff20e56263fcade43dc265ba.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E13" tvg-logo="http://7online.xyz:8080/images/6ef9a268a2f5727c71448e6dd6edba5e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E14" tvg-logo="http://7online.xyz:8080/images/36eaa0bf2190bb40f5c85ae9fc0e0688.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E15" tvg-logo="http://7online.xyz:8080/images/f9b9532ad29f1f4a4c436363a3c25fef.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E16" tvg-logo="http://7online.xyz:8080/images/8a793c2589593f3e05d04eada70ca794.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E17" tvg-logo="http://7online.xyz:8080/images/72db40146a4c3b7272fa5d6d102d4c51.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E18" tvg-logo="http://7online.xyz:8080/images/a77f5f651757e342988beaa4426df183.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E19" tvg-logo="http://7online.xyz:8080/images/c4c64da92498ac48e45322fcfc8259b8.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E20" tvg-logo="http://7online.xyz:8080/images/7f74e96554552981baf70307570b99c9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E21" tvg-logo="http://7online.xyz:8080/images/566d4b568936d0452d25304222916d1e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S04 E22" tvg-logo="http://7online.xyz:8080/images/8bba24e7b764fadf31a192202cd56e9d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S04 E22
+http://7go.xyz:8080/series/zogbi11/982451290/252750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E01" tvg-logo="http://7online.xyz:8080/images/a75503edfc112c3ec1b0ffe8d6743abd.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E02" tvg-logo="http://7online.xyz:8080/images/4cfb0d20145bc235d6571c1ebc37d44b.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E03" tvg-logo="http://7online.xyz:8080/images/71f5dd5530154b8f6bedf883c3176d79.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E04" tvg-logo="http://7online.xyz:8080/images/e791a59b06f0c3f092ca0366d5a89e79.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E05" tvg-logo="http://7online.xyz:8080/images/480c8f7594db8369adfb68c2360a1f25.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E06" tvg-logo="http://7online.xyz:8080/images/2de9068109ee0959ff054b4a9b310696.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E07" tvg-logo="http://7online.xyz:8080/images/951ea81676b2fb2646b7d75a6edcb3d3.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E08" tvg-logo="http://7online.xyz:8080/images/33541a5bdbd92261cc2a7e2da87efafa.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E09" tvg-logo="http://7online.xyz:8080/images/05950c03a379924ed3002a773b9d1777.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E10" tvg-logo="http://7online.xyz:8080/images/e08f462936af5954b5fc9704d62501c6.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E11" tvg-logo="http://7online.xyz:8080/images/8bcd4946f1d06ccc11a05fa9ea8d47c4.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E12" tvg-logo="http://7online.xyz:8080/images/1bd2494f2a04438a5874228131eab930.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E13" tvg-logo="http://7online.xyz:8080/images/17ec7b7b1448ec4b71e1956cf0607f8a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E14" tvg-logo="http://7online.xyz:8080/images/5534e38a6b5c5bd2e0e5455ff225ce4d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E15" tvg-logo="http://7online.xyz:8080/images/0a4179cac7720351ccb8ae25081436aa.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E16" tvg-logo="http://7online.xyz:8080/images/f94b124d1303e8c1e9f8f0b1c85f3028.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E17" tvg-logo="http://7online.xyz:8080/images/4bfcc21b3d97f018d91a0aa653de5c79.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E18" tvg-logo="http://7online.xyz:8080/images/6c9d505a820b9cc2b8fb5c7f4b8df8dc.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E19" tvg-logo="http://7online.xyz:8080/images/74c7f8bd445de400622eedfba97477a4.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E20" tvg-logo="http://7online.xyz:8080/images/7df3802e7d890d550e122b6dfdd1c2c3.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E21" tvg-logo="http://7online.xyz:8080/images/6a7d71cd6550301b4dfc720c433cfbd3.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S05 E22" tvg-logo="http://7online.xyz:8080/images/93ca3ac18978e12e4f54f4ea3c96148a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S05 E22
+http://7go.xyz:8080/series/zogbi11/982451290/252772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E01" tvg-logo="http://7online.xyz:8080/images/128aaac131d5920d0d9f0bcb19eee940.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E02" tvg-logo="http://7online.xyz:8080/images/c64ec3953a2da11a53e4bf6b56ac66af.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E03" tvg-logo="http://7online.xyz:8080/images/aefae86b1317540a8bd5fe1e6471097e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E04" tvg-logo="http://7online.xyz:8080/images/3bc994f0c007c55f8292ca2a8f30bb6d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E05" tvg-logo="http://7online.xyz:8080/images/d38c6d0ee972cb596cfa83c27f265281.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E06" tvg-logo="http://7online.xyz:8080/images/b1eee180eb4df90d0ab1006e77ef1934.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E07" tvg-logo="http://7online.xyz:8080/images/38ec3081e1c420c7cef3fe5f8f65f648.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E08" tvg-logo="http://7online.xyz:8080/images/43890fb364c2d070d24328ae4ac8abe6.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E09" tvg-logo="http://7online.xyz:8080/images/27781789544c542c54adc1b88bcf4a22.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E10" tvg-logo="http://7online.xyz:8080/images/44bccb579666a282fdc51814f5072b53.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E11" tvg-logo="http://7online.xyz:8080/images/e4cb5b7d2aaa7fe74594b9d989f9e681.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E12" tvg-logo="http://7online.xyz:8080/images/8c845224a8cf6c10ed4b3ab0b693f65a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E13" tvg-logo="http://7online.xyz:8080/images/e0b47097386708aaa83a0329b9c6cdcf.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E14" tvg-logo="http://7online.xyz:8080/images/cf9aaac5fb7572441ef6891ec1f3743d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E15" tvg-logo="http://7online.xyz:8080/images/9d7f643098fca6791b237ce19a8ad127.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E16" tvg-logo="http://7online.xyz:8080/images/9dabbd00a42278f03219c8fb22a8ba96.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E17" tvg-logo="http://7online.xyz:8080/images/de69e3ca4acf1f0d2f1a14df39904c3a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E18" tvg-logo="http://7online.xyz:8080/images/7564106800f1aea3dda86af407299dba.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E19" tvg-logo="http://7online.xyz:8080/images/db0533465ea6c78ee5007f4eeaeb4762.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E20" tvg-logo="http://7online.xyz:8080/images/652dab47a2a3ddfcee33b5bb6533aa73.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E21" tvg-logo="http://7online.xyz:8080/images/fda3b99a9a0c87a02ce0c349fb730f71.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S06 E22" tvg-logo="http://7online.xyz:8080/images/ce755f4de67d9e16e0a928c44d12271d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S06 E22
+http://7go.xyz:8080/series/zogbi11/982451290/252794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E01" tvg-logo="http://7online.xyz:8080/images/71386b4ab42c07e23534e608bdc7640a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E02" tvg-logo="http://7online.xyz:8080/images/e2ed7f5f8b3db5b594f146b8b783b987.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E03" tvg-logo="http://7online.xyz:8080/images/c3e3ae4d351331502bc4ecbfd246b674.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E04" tvg-logo="http://7online.xyz:8080/images/e182ee474f1c9a5fa67729e19e285e28.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E05" tvg-logo="http://7online.xyz:8080/images/3f3d66d5bcaa7cd2200140e88849a653.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E06" tvg-logo="http://7online.xyz:8080/images/cc2de1d0597d53cd036270f001164808.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E07" tvg-logo="http://7online.xyz:8080/images/b7faa1229b0711d40b0dd1e8ee5dc319.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E08" tvg-logo="http://7online.xyz:8080/images/e8b7c2ce7bcf2eeb737c51f8b00a3b3f.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E09" tvg-logo="http://7online.xyz:8080/images/9e7ee06efd68c810f29c071ac8bc8d77.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E10" tvg-logo="http://7online.xyz:8080/images/33bbd272cae1b650fd4cd799f83bd1cd.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E11" tvg-logo="http://7online.xyz:8080/images/69be4afa4df8993488fd56875395d151.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E12" tvg-logo="http://7online.xyz:8080/images/671945bc3885d3c7ec9854cb9ced09fc.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E13" tvg-logo="http://7online.xyz:8080/images/414c5ac0071f0b728dbe6c86d2c0a0dc.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E14" tvg-logo="http://7online.xyz:8080/images/7673f9d6fba7a1e6a4558cba79c7c096.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E15" tvg-logo="http://7online.xyz:8080/images/413d7573e4b32035ebe9a7fcbcd74a73.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E16" tvg-logo="http://7online.xyz:8080/images/34116491489a1cc0b617bd48f48a4875.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E17" tvg-logo="http://7online.xyz:8080/images/2118086fc83c70e231312f676f886455.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E18" tvg-logo="http://7online.xyz:8080/images/8d85efc9b9e8790be89e9fbf91f618b1.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E19" tvg-logo="http://7online.xyz:8080/images/c4aded000085b28aa9fbc146ed419433.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S07 E20" tvg-logo="http://7online.xyz:8080/images/7144606664d793450be52a619ba787d3.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S07 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E01" tvg-logo="http://7online.xyz:8080/images/52534f78751a595943e0c8e9e3df746e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E02" tvg-logo="http://7online.xyz:8080/images/d18516e60ca07502b21c52d0454d6245.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E03" tvg-logo="http://7online.xyz:8080/images/33b676fcf5d4cbf712ba51f6e668621f.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E04" tvg-logo="http://7online.xyz:8080/images/9a0d4700825f9d061f8ccdf93284cab2.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E05" tvg-logo="http://7online.xyz:8080/images/6019768056567557fd3e7cb7a5d3b667.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E06" tvg-logo="http://7online.xyz:8080/images/5f3d9c16088b2898b741eaf23d27c33a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E07" tvg-logo="http://7online.xyz:8080/images/c29fac28bd1d3b45681341b3151a4cfd.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E08" tvg-logo="http://7online.xyz:8080/images/bbe26570bc9b8510741e670f6d3d861a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E09" tvg-logo="http://7online.xyz:8080/images/94cf89ede0e26b7890aa0e734d68d761.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E10" tvg-logo="http://7online.xyz:8080/images/831b03a391e91d1e6b8db1550ca08bbb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E11" tvg-logo="http://7online.xyz:8080/images/29e5c3796e9764bc11c594c36f7faa5c.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E12" tvg-logo="http://7online.xyz:8080/images/ac5d3c29b553f4d47f22fca9f60e9db5.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E13" tvg-logo="http://7online.xyz:8080/images/ae7272e282d3a60d03226f0caccff4c3.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E14" tvg-logo="http://7online.xyz:8080/images/7c5bf1d59fa9e489f7d45b9e22006265.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E15" tvg-logo="http://7online.xyz:8080/images/b53409cd987f9635e196ed4f2e13ea08.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E16" tvg-logo="http://7online.xyz:8080/images/9a0a7833810e8d3fc4fb8c7e21927194.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E17" tvg-logo="http://7online.xyz:8080/images/32a334e9f479a98c6ad9ea68c99824cd.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E18" tvg-logo="http://7online.xyz:8080/images/ce70e193525eae83a04d268d8086dc6b.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E19" tvg-logo="http://7online.xyz:8080/images/65fe420f8031bd76d6444099c7abbcf1.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E20" tvg-logo="http://7online.xyz:8080/images/3cd9e0ed45c0e405df44d95b612a70c6.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E21" tvg-logo="http://7online.xyz:8080/images/744129c1b2d15a9ae7beb24f3ce44f2e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S08 E22" tvg-logo="http://7online.xyz:8080/images/e1c74335cdfdd29567c4d370704e4eb7.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S08 E22
+http://7go.xyz:8080/series/zogbi11/982451290/252836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E01" tvg-logo="http://7online.xyz:8080/images/e2054de3246c958d07605d01ccb7e898.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E02" tvg-logo="http://7online.xyz:8080/images/8302c751be9b8b66c016e3c7a5cf9699.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E03" tvg-logo="http://7online.xyz:8080/images/ccf9e1dd77bb903bddfdda32c6143ac7.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E04" tvg-logo="http://7online.xyz:8080/images/d00ab4a667d0a9eb8b336fa7464dc288.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E05" tvg-logo="http://7online.xyz:8080/images/c82dc0b8daf0326c0871897697526567.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E06" tvg-logo="http://7online.xyz:8080/images/34a5872eedcf48575eb41a9ca277a758.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E07" tvg-logo="http://7online.xyz:8080/images/fc77e9941ac70bc478ef067db839493a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E08" tvg-logo="http://7online.xyz:8080/images/cd5f01217ad41d178ff153509be0cbce.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E09" tvg-logo="http://7online.xyz:8080/images/1bba1364476cdca63417f40031a6e687.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E10" tvg-logo="http://7online.xyz:8080/images/b8f192bf821d6bebe65e3f88011214a7.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E11" tvg-logo="http://7online.xyz:8080/images/e1f936cf6c31aef81ec6965119c27ffc.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E12" tvg-logo="http://7online.xyz:8080/images/9742872db835d3146883d72d09ce6ebd.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E13" tvg-logo="http://7online.xyz:8080/images/5c64c4ae94c81c6c91f09c9041735bfb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E14" tvg-logo="http://7online.xyz:8080/images/ca662dc58389d20385e3453dc7b52526.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E15" tvg-logo="http://7online.xyz:8080/images/da9d8d03f4fb1d6ee4055e6f6c005d42.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E16" tvg-logo="http://7online.xyz:8080/images/6e4cddc9cf94d03e61d337a0e73a722a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E17" tvg-logo="http://7online.xyz:8080/images/15ff222b33de21854fbe234417cf033d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E18" tvg-logo="http://7online.xyz:8080/images/63c9e60d7a22ac52698e423548209bda.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E19" tvg-logo="http://7online.xyz:8080/images/264a7158e4e6980eaf93f1c6963e0dda.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E20" tvg-logo="http://7online.xyz:8080/images/6639db1f2b618b34a6594c14544bb604.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S09 E21" tvg-logo="http://7online.xyz:8080/images/4bb6f0c8dff01d5efd2dd96b37e70e76.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S09 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E01" tvg-logo="http://7online.xyz:8080/images/d96ec493c9c95a8cb5d36dd8ac5340fb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E01
+http://7go.xyz:8080/series/zogbi11/982451290/252858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E02" tvg-logo="http://7online.xyz:8080/images/97ee838f05ce898551b7bb5e8bd2b5bb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E02
+http://7go.xyz:8080/series/zogbi11/982451290/252859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E03" tvg-logo="http://7online.xyz:8080/images/f3ac1f1f2e67e4bad7664103353706cb.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E03
+http://7go.xyz:8080/series/zogbi11/982451290/252860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E04" tvg-logo="http://7online.xyz:8080/images/5ec076693758c06cc27ff2441025bf9e.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E04
+http://7go.xyz:8080/series/zogbi11/982451290/252861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E05" tvg-logo="http://7online.xyz:8080/images/980b8fb6c6092d739b0c4ccf338b0941.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E05
+http://7go.xyz:8080/series/zogbi11/982451290/252862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E06" tvg-logo="http://7online.xyz:8080/images/cfd93272dd3cbd04fe52532c9cc8e565.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E06
+http://7go.xyz:8080/series/zogbi11/982451290/252863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E07" tvg-logo="http://7online.xyz:8080/images/0c83d0fa3aad779f9c6b1d15fbcebb86.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E07
+http://7go.xyz:8080/series/zogbi11/982451290/252864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E08" tvg-logo="http://7online.xyz:8080/images/6433f59b42b54ba2f4e400cd4f82208d.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E08
+http://7go.xyz:8080/series/zogbi11/982451290/252865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E09" tvg-logo="http://7online.xyz:8080/images/d7ae8f50ab04d6105a84db19279c9ff0.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E09
+http://7go.xyz:8080/series/zogbi11/982451290/252866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E10" tvg-logo="http://7online.xyz:8080/images/e9dcbcd9134ce171802e1f40584c1504.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E10
+http://7go.xyz:8080/series/zogbi11/982451290/252867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E11" tvg-logo="http://7online.xyz:8080/images/261e5be574b5e91a8c919ec36de1b47a.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E11
+http://7go.xyz:8080/series/zogbi11/982451290/252868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E12" tvg-logo="http://7online.xyz:8080/images/c20c07ae6dd0d3875a437ed6763d61e9.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E12
+http://7go.xyz:8080/series/zogbi11/982451290/252869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E13" tvg-logo="http://7online.xyz:8080/images/c6e7dae69f18c213e584dace7bb0fab0.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E13
+http://7go.xyz:8080/series/zogbi11/982451290/252870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E14" tvg-logo="http://7online.xyz:8080/images/f1ac7c0e5fb1644d4c89bfd2a736c7f1.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E14
+http://7go.xyz:8080/series/zogbi11/982451290/252871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E15" tvg-logo="http://7online.xyz:8080/images/32953d0d0b7ac5994fb008eb61391371.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E15
+http://7go.xyz:8080/series/zogbi11/982451290/252872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E16" tvg-logo="http://7online.xyz:8080/images/a776b67caf109b255403d46239b7db23.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E16
+http://7go.xyz:8080/series/zogbi11/982451290/252873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E17" tvg-logo="http://7online.xyz:8080/images/34b027af3350d901990d01f072676037.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E17
+http://7go.xyz:8080/series/zogbi11/982451290/252874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E18" tvg-logo="http://7online.xyz:8080/images/a6523cab8d22b35b13e238bb8853f87b.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E18
+http://7go.xyz:8080/series/zogbi11/982451290/252875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E19" tvg-logo="http://7online.xyz:8080/images/b3a16424bee01555633314b8066b6b51.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E19
+http://7go.xyz:8080/series/zogbi11/982451290/252876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E20" tvg-logo="http://7online.xyz:8080/images/c5462c4587d39bcf85ab9ebeb1ebad88.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E20
+http://7go.xyz:8080/series/zogbi11/982451290/252877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E21" tvg-logo="http://7online.xyz:8080/images/270f2634a51659fa262f34a98c9681e2.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E21
+http://7go.xyz:8080/series/zogbi11/982451290/252878.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIES | AMAZON Dr. House.xml"
+############## SERIES | AMAZON Dr. House ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | AMAZON Dr. House" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E01" tvg-logo="http://7online.xyz:8080/images/0d456e58d83bbb93fd330b92eabc6d4a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E02" tvg-logo="http://7online.xyz:8080/images/bbc227ab9906eaff396885816ac9f5a0.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E03" tvg-logo="http://7online.xyz:8080/images/206a8b49f47bf57f628418efee9604ed.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E04" tvg-logo="http://7online.xyz:8080/images/280b5ee4781f8eb29eb38e95822256d3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E05" tvg-logo="http://7online.xyz:8080/images/0bc2ca4d019b75bc6fa0941f9ade0f79.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E06" tvg-logo="http://7online.xyz:8080/images/f3f3f1f0bb718aabe7e62f729c636d68.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E07" tvg-logo="http://7online.xyz:8080/images/fd445f735e71a06bdb184b45a068db01.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E08" tvg-logo="http://7online.xyz:8080/images/e6af1f8faf2a29cc1dad4944e757ac51.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E09" tvg-logo="http://7online.xyz:8080/images/b1286a851fec5cb9677f53a58e13f094.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E10" tvg-logo="http://7online.xyz:8080/images/f6d2ba92266b830c83916a3c6fc40866.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E11" tvg-logo="http://7online.xyz:8080/images/62a0c592c51a3aa57c86131857aab277.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E12" tvg-logo="http://7online.xyz:8080/images/6089f2e57a66a2edb139b49c8f213034.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E13" tvg-logo="http://7online.xyz:8080/images/46fb3cf4927e9712a9ca3e711bc36dbd.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E14" tvg-logo="http://7online.xyz:8080/images/2ec6e0cce509ff30c0572e4aa4974a9f.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E15" tvg-logo="http://7online.xyz:8080/images/9ff1254b89ad435a5634a0fa14bc7245.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E16" tvg-logo="http://7online.xyz:8080/images/1bf953ca72073b800ccb542a0f363b6c.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E17" tvg-logo="http://7online.xyz:8080/images/4bcf3ea68d35492d01d5e18e7b62a044.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E18" tvg-logo="http://7online.xyz:8080/images/fa14a4f1023e137733626c42d499e8ae.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E19" tvg-logo="http://7online.xyz:8080/images/b8d7aa663aaf77312f56cd3de68f9b14.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E20" tvg-logo="http://7online.xyz:8080/images/4ad84cb07e14e2545207b155d24fec26.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E21" tvg-logo="http://7online.xyz:8080/images/2e55e9c830a41332dd27203afe5969ac.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E22" tvg-logo="http://7online.xyz:8080/images/130e95c2e2ccff48e77e8a88a1b8b067.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E22
+http://7go.xyz:8080/series/zogbi11/982451290/235277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E01" tvg-logo="http://7online.xyz:8080/images/4a543ae7950b4c42623d9d5501d8cbe9.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E02" tvg-logo="http://7online.xyz:8080/images/3112d18d991e2481b4b3779ab80ba681.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E03" tvg-logo="http://7online.xyz:8080/images/6df6f8fc06663fb0f1d1ea5e46a7be13.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E04" tvg-logo="http://7online.xyz:8080/images/adfb25df4a73657a04a6b643df275d30.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E05" tvg-logo="http://7online.xyz:8080/images/d14bfd967d8f26060487f4ef2db122a5.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E06" tvg-logo="http://7online.xyz:8080/images/68a4c9feded9222c6c95e14fdf2f877a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E07" tvg-logo="http://7online.xyz:8080/images/1d45b2a6ae3b448985b31d041bdd92ee.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E08" tvg-logo="http://7online.xyz:8080/images/0954fab6af7ebfc78581354cb7c38952.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E09" tvg-logo="http://7online.xyz:8080/images/2cdf4ef01a060a31f55ac6e45100bc2d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E10" tvg-logo="http://7online.xyz:8080/images/7b79ce4c57d8f3f85b18223464674adf.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E11" tvg-logo="http://7online.xyz:8080/images/977d1419b624cd20b21b895763048e2d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E12" tvg-logo="http://7online.xyz:8080/images/471b6857fdd3569dc5a3423c32ab490b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E13" tvg-logo="http://7online.xyz:8080/images/b35231d27f1f3207a382a075b492cd3d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E14" tvg-logo="http://7online.xyz:8080/images/b3a3ff8ddd9415f99ec2c4c525110cf0.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E15" tvg-logo="http://7online.xyz:8080/images/ebff35899f24886d91e7190285f15a02.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E16" tvg-logo="http://7online.xyz:8080/images/1e04a49455de1f2757597ab587e5c4e1.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E17" tvg-logo="http://7online.xyz:8080/images/db0cc1efaf12455e239bf92fe333e7b7.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E18" tvg-logo="http://7online.xyz:8080/images/cf916fa24a2be5709e314618e1069d17.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E19" tvg-logo="http://7online.xyz:8080/images/748311edb232d0b7d7ab27331bc80eac.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E20" tvg-logo="http://7online.xyz:8080/images/287489cd032762aba54f3b158d3e0818.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E21" tvg-logo="http://7online.xyz:8080/images/fbaf037797d3092fa3b9bb5273e61610.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E22" tvg-logo="http://7online.xyz:8080/images/215d7f83ccfb9f882f4d002f6570a1b7.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E22
+http://7go.xyz:8080/series/zogbi11/982451290/235299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E23" tvg-logo="http://7online.xyz:8080/images/9af1e00aa3b43f4809732bc7aeca09e4.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E23
+http://7go.xyz:8080/series/zogbi11/982451290/235300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S02 E24" tvg-logo="http://7online.xyz:8080/images/a8e234556ba56ac4dd90e81906859a47.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S02 E24
+http://7go.xyz:8080/series/zogbi11/982451290/235301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E01" tvg-logo="http://7online.xyz:8080/images/0612656e99331fcda304cc30ff8d1f74.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E02" tvg-logo="http://7online.xyz:8080/images/19b665661da3d30a5a0fac29df9074ef.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E03" tvg-logo="http://7online.xyz:8080/images/e26652d6203274a3de58e09d9ede457b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E04" tvg-logo="http://7online.xyz:8080/images/f1332d1e982c07ff2168a1df45f83859.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E05" tvg-logo="http://7online.xyz:8080/images/287c4ae80638f20fff1d7ea8008ce99d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E06" tvg-logo="http://7online.xyz:8080/images/c371f456241249c81df9836845d9d505.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E07" tvg-logo="http://7online.xyz:8080/images/e2c76df6e9245cd57f4baedf0239213d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E08" tvg-logo="http://7online.xyz:8080/images/5b7de0f22956cb45638b832eee04ae4d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E09" tvg-logo="http://7online.xyz:8080/images/e45ef8c34335bb7c6de031a2cff8dde5.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E10" tvg-logo="http://7online.xyz:8080/images/9f2d1bb76202c2ab8e9a6ca8615f71ad.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E11" tvg-logo="http://7online.xyz:8080/images/2f768c8b3f4a77bfebc90562c5a349aa.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E12" tvg-logo="http://7online.xyz:8080/images/339039bed03e12b96840dd8f1919f407.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E13" tvg-logo="http://7online.xyz:8080/images/392e8a49d536edc8845b325819abdebe.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E14" tvg-logo="http://7online.xyz:8080/images/d6cfe0a26ba870d2fd4500aac858a2f6.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E15" tvg-logo="http://7online.xyz:8080/images/adf5741530cda3413995a7169e0587d4.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E16" tvg-logo="http://7online.xyz:8080/images/8516f03b0f1e8ae430f858348cdb6ab1.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E17" tvg-logo="http://7online.xyz:8080/images/9b3cbe0f674f3616555a1072b814503f.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E18" tvg-logo="http://7online.xyz:8080/images/10dae610858fe7373e6d49553d2b8071.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E19" tvg-logo="http://7online.xyz:8080/images/e22dbfe7ebbd7091039d68bddb6f117c.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E20" tvg-logo="http://7online.xyz:8080/images/aeed9ecc1b8988137c875275031f47e8.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E21" tvg-logo="http://7online.xyz:8080/images/3718f48de3848685ca341c6282b7303d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E22" tvg-logo="http://7online.xyz:8080/images/9a7c305199ac0507bde8e53f7dcb1809.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E22
+http://7go.xyz:8080/series/zogbi11/982451290/235323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S03 E23" tvg-logo="http://7online.xyz:8080/images/8d8774d93fb3ddfe62a77848985be216.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S03 E23
+http://7go.xyz:8080/series/zogbi11/982451290/235324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E01" tvg-logo="http://7online.xyz:8080/images/21bcf134b5e5b184a077bfbc33932b9c.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E02" tvg-logo="http://7online.xyz:8080/images/f1ba1461e877dde16b511979d17b342a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E03" tvg-logo="http://7online.xyz:8080/images/cb438bbde1d22256141c50d3947fc6c8.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E04" tvg-logo="http://7online.xyz:8080/images/f549b7213e2b537a1668ffac8b4cf7e7.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E05" tvg-logo="http://7online.xyz:8080/images/cbaa5be9d5a1e267a1de60b165a6c919.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E06" tvg-logo="http://7online.xyz:8080/images/677dc3e3ca878efc840a215f5041485b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E07" tvg-logo="http://7online.xyz:8080/images/8449070833000d46b1f03a0c673e0eaa.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E08" tvg-logo="http://7online.xyz:8080/images/c524856ad4b30de24c6cdcbfe0b0177d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E09" tvg-logo="http://7online.xyz:8080/images/7a87c74d524bbb36d6e0b6b57cf298fb.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E10" tvg-logo="http://7online.xyz:8080/images/fed90ef5fc7773ab3a5ab774bf0b8289.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E11" tvg-logo="http://7online.xyz:8080/images/b3f336fadb04d52e348f8c3d398e8d97.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E12" tvg-logo="http://7online.xyz:8080/images/bd72bcf98493a64a28ee8818db6110c0.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E13" tvg-logo="http://7online.xyz:8080/images/6b060fd5ad5c1955e197d20ed86220c4.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E14" tvg-logo="http://7online.xyz:8080/images/83325e07e782a336c89312782626d017.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E15" tvg-logo="http://7online.xyz:8080/images/d2fcda36d56ca91b4ec077b5f6055015.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S04 E16" tvg-logo="http://7online.xyz:8080/images/504f502c1ec7b13d6390900f5ff43cef.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S04 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E01" tvg-logo="http://7online.xyz:8080/images/efa7e3add1b490ddf9ad30b4d858da3e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E02" tvg-logo="http://7online.xyz:8080/images/506b560beac89ee2f0b2fe552eaa35d8.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E03" tvg-logo="http://7online.xyz:8080/images/ccbaec66bea71587b502ea80745b0d25.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E04" tvg-logo="http://7online.xyz:8080/images/75f0d17b32b47fe5236fd75fddef1385.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E05" tvg-logo="http://7online.xyz:8080/images/b4a318f9b4156ae889dda97be547e80a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E06" tvg-logo="http://7online.xyz:8080/images/aa0eb3408fd0ddbcef2a0f43f7156a8f.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E07" tvg-logo="http://7online.xyz:8080/images/6c43bd7f838945f8e7d6387ebddbec34.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E08" tvg-logo="http://7online.xyz:8080/images/403a2a909d853de8785c2c78c42b8497.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E09" tvg-logo="http://7online.xyz:8080/images/9a5f9d78919348fbe4e0cc6b60605750.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E10" tvg-logo="http://7online.xyz:8080/images/b30134319cd18491e1cfed612f1e455b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E11" tvg-logo="http://7online.xyz:8080/images/260bb0bee943299d88543088dd13838c.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E12" tvg-logo="http://7online.xyz:8080/images/f2b2cae20131e195c486ec591199f799.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E13" tvg-logo="http://7online.xyz:8080/images/2925bf5c0ed75e48283a2184216998ef.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E14" tvg-logo="http://7online.xyz:8080/images/046cc62c39daced5433ffd49c802d958.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E15" tvg-logo="http://7online.xyz:8080/images/16e93f1c800896e309f901a7417d942e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E16" tvg-logo="http://7online.xyz:8080/images/6100c2bd7ecb4e9aa297ef3433c9d568.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E17" tvg-logo="http://7online.xyz:8080/images/52be1eacd6488ae81cafec2f7962763a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E18" tvg-logo="http://7online.xyz:8080/images/8a9e7cf986f6c38d967603fb6eb45a87.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E19" tvg-logo="http://7online.xyz:8080/images/b4bec563951ca597c21af61d13274331.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E20" tvg-logo="http://7online.xyz:8080/images/a6e50865c7f8e8738fd1ab40ae0feacc.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E21" tvg-logo="http://7online.xyz:8080/images/5de77487ecb595da750376fab534e493.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E22" tvg-logo="http://7online.xyz:8080/images/2af9c5e5d0122428dc2299118f3bf276.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E22
+http://7go.xyz:8080/series/zogbi11/982451290/235384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E23" tvg-logo="http://7online.xyz:8080/images/b84faa5e59ada72bfb34b7942c197686.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E23
+http://7go.xyz:8080/series/zogbi11/982451290/235385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S05 E24" tvg-logo="http://7online.xyz:8080/images/5280b7679dc9dd9031ea128c5d5ea897.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S05 E24
+http://7go.xyz:8080/series/zogbi11/982451290/235386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E01" tvg-logo="http://7online.xyz:8080/images/fb400d60ec13aa56b95caff6e3d087f3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E02" tvg-logo="http://7online.xyz:8080/images/93ee1bcf09b825b140b6b7cc0aef937e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E03" tvg-logo="http://7online.xyz:8080/images/746283c43b4c0cf328d47bf0dbeb6dab.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E04" tvg-logo="http://7online.xyz:8080/images/b3d5ded32ba2a741035eb7f340169cde.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E05" tvg-logo="http://7online.xyz:8080/images/558053bce3e276cbd8d169bbdc56ce5a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E06" tvg-logo="http://7online.xyz:8080/images/67d56065c73319e99bc7bb8e31a1a266.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E07" tvg-logo="http://7online.xyz:8080/images/6da673401f48f344d47fb47e2cd6b05f.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E08" tvg-logo="http://7online.xyz:8080/images/68bbaeab13aab6426d2f0b0ff9bbaced.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E09" tvg-logo="http://7online.xyz:8080/images/b0cceeeec89a25345e2b75ad89ef34f0.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E10" tvg-logo="http://7online.xyz:8080/images/9d18687683ec22ebb02bd23ae3fcd91e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E11" tvg-logo="http://7online.xyz:8080/images/f41e85a11d41415ce40c1e88d7329459.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E12" tvg-logo="http://7online.xyz:8080/images/899a2bca4c1505016e95b6af72052186.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E13" tvg-logo="http://7online.xyz:8080/images/5da42b9602fe6c9db53c7e90813512ff.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E14" tvg-logo="http://7online.xyz:8080/images/484f709ae7f6505aa57f9aab82ad0e80.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E15" tvg-logo="http://7online.xyz:8080/images/9cebc2756490ff1c0ea7e4b926fd933e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E16" tvg-logo="http://7online.xyz:8080/images/2fdbafc65174f462227e3b3b6a4c72f3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E17" tvg-logo="http://7online.xyz:8080/images/fdeea436c05401de358d1878970a5878.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E18" tvg-logo="http://7online.xyz:8080/images/d99e10af2701a94c39af67adde5d6ea3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E19" tvg-logo="http://7online.xyz:8080/images/cbd25787515d19581563f1b70a1ef2bc.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E20" tvg-logo="http://7online.xyz:8080/images/11fb9df7adda6a59b7fb70c9d6aa57c3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S06 E21" tvg-logo="http://7online.xyz:8080/images/867528eb7097ad9ec401e40085cfd113.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S06 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E01" tvg-logo="http://7online.xyz:8080/images/d923c92c31e949a37862f8d4a8e101ed.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E02" tvg-logo="http://7online.xyz:8080/images/e9da84874ff0bdc5913dabe7f21a50a4.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E03" tvg-logo="http://7online.xyz:8080/images/9bbb77b665f15d3ea72e9b91fd8c5897.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E04" tvg-logo="http://7online.xyz:8080/images/10766720bcb13810fe459a69b7e7aa83.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E05" tvg-logo="http://7online.xyz:8080/images/d5e81a9b735ffb76da5e4aaf1ac2fc0d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E06" tvg-logo="http://7online.xyz:8080/images/fb09ec65a9a1ed1959524d90d685f9aa.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E07" tvg-logo="http://7online.xyz:8080/images/e0c114727c6ce98469e7566c14a0f465.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E08" tvg-logo="http://7online.xyz:8080/images/27a40f356ba2de97b2fc0a3c0e09766e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E09" tvg-logo="http://7online.xyz:8080/images/88db5b47f5599a6da0c7ebf93eb5f0d4.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E10" tvg-logo="http://7online.xyz:8080/images/a758d9c8731a408e80e27942d990fae1.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E11" tvg-logo="http://7online.xyz:8080/images/a2ea9bc1e7c727d43f0991f163703932.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E12" tvg-logo="http://7online.xyz:8080/images/6396b85db34fdc72ebc9f99cb7c7219a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E13" tvg-logo="http://7online.xyz:8080/images/8016cae01abd75669f6bf68cf2518765.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E14" tvg-logo="http://7online.xyz:8080/images/d1771f6d41c90f329c8dcce0e83fa9ee.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E15" tvg-logo="http://7online.xyz:8080/images/1eb39726d3c39132374bac968e910032.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E16" tvg-logo="http://7online.xyz:8080/images/1f75d697fae1c697fe83c178096d2b2e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E17" tvg-logo="http://7online.xyz:8080/images/8f0ced7228833e9010449cc0d457c78c.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E18" tvg-logo="http://7online.xyz:8080/images/ebd436c9c87a7800526b008b94744d30.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E19" tvg-logo="http://7online.xyz:8080/images/bfdc9f70e362a9191cb5afefced8f2f5.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E20" tvg-logo="http://7online.xyz:8080/images/dabac88bfb672137b6e51d0865b10e9b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E21" tvg-logo="http://7online.xyz:8080/images/15ee75d59d232cc6068b246c089c6de9.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E22" tvg-logo="http://7online.xyz:8080/images/3d9806f3b5c180b82c63a09b174d232d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E22
+http://7go.xyz:8080/series/zogbi11/982451290/235451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S07 E23" tvg-logo="http://7online.xyz:8080/images/61bd78394b2eadda07bac3b296036e2f.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S07 E23
+http://7go.xyz:8080/series/zogbi11/982451290/235452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E01" tvg-logo="http://7online.xyz:8080/images/3873408110dac7031510c106bc3a9765.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E01
+http://7go.xyz:8080/series/zogbi11/982451290/235475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E02" tvg-logo="http://7online.xyz:8080/images/6d67ea1f407821b5c79913ebc3612362.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E02
+http://7go.xyz:8080/series/zogbi11/982451290/235476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E03" tvg-logo="http://7online.xyz:8080/images/1e686c22a684dac96486c6c8d069268c.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E03
+http://7go.xyz:8080/series/zogbi11/982451290/235477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E04" tvg-logo="http://7online.xyz:8080/images/cc583930b4b8ee57f7729af5d58812d3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E04
+http://7go.xyz:8080/series/zogbi11/982451290/235478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E05" tvg-logo="http://7online.xyz:8080/images/bae5c05d1e23f7a63ff5e16ebbeb95f3.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E05
+http://7go.xyz:8080/series/zogbi11/982451290/235479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E06" tvg-logo="http://7online.xyz:8080/images/dca0b4d61d71d1a17baa87403209617e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E06
+http://7go.xyz:8080/series/zogbi11/982451290/235480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E07" tvg-logo="http://7online.xyz:8080/images/7ced570f8b1c390cd5c39869cc85c08b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E07
+http://7go.xyz:8080/series/zogbi11/982451290/235481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E08" tvg-logo="http://7online.xyz:8080/images/e10c3baa0902219502e3cc13c0b7fb94.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E08
+http://7go.xyz:8080/series/zogbi11/982451290/235482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E09" tvg-logo="http://7online.xyz:8080/images/29da9b322ff9bed328b2c84ae64ef34d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E09
+http://7go.xyz:8080/series/zogbi11/982451290/235483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E10" tvg-logo="http://7online.xyz:8080/images/7c230ab400fc04a1b4ef8a0802ff42d8.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E10
+http://7go.xyz:8080/series/zogbi11/982451290/235484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E11" tvg-logo="http://7online.xyz:8080/images/e37613335c75375ed88b76cbf3f9cac8.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E11
+http://7go.xyz:8080/series/zogbi11/982451290/235485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E12" tvg-logo="http://7online.xyz:8080/images/25933dfd009c1ad20d0563d2cb2e67e6.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E12
+http://7go.xyz:8080/series/zogbi11/982451290/235486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E13" tvg-logo="http://7online.xyz:8080/images/77be9ee5ca58c038535bc8166254e8ff.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E13
+http://7go.xyz:8080/series/zogbi11/982451290/235487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E14" tvg-logo="http://7online.xyz:8080/images/ba225b6f8457f19dcd0fc8fab6884e6a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E14
+http://7go.xyz:8080/series/zogbi11/982451290/235488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E15" tvg-logo="http://7online.xyz:8080/images/5ddea02a06cb2e0effb3141e4b8fbd5d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E15
+http://7go.xyz:8080/series/zogbi11/982451290/235489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E16" tvg-logo="http://7online.xyz:8080/images/06fb11bd5df7ad61c6d346e5f5cc213d.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E16
+http://7go.xyz:8080/series/zogbi11/982451290/235490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E17" tvg-logo="http://7online.xyz:8080/images/72596cb7bef636842439cc39b3803ee2.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E17
+http://7go.xyz:8080/series/zogbi11/982451290/235491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E18" tvg-logo="http://7online.xyz:8080/images/55eb0c3a0c13ef641154de32fbb5d996.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E18
+http://7go.xyz:8080/series/zogbi11/982451290/235492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E19" tvg-logo="http://7online.xyz:8080/images/0f46c83b3cc97b68b2e7e8584a28a9fe.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E19
+http://7go.xyz:8080/series/zogbi11/982451290/235493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E20" tvg-logo="http://7online.xyz:8080/images/b26f21127dc471fc4eedce5b95ae770b.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E20
+http://7go.xyz:8080/series/zogbi11/982451290/235494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E21" tvg-logo="http://7online.xyz:8080/images/f583cbb511b2770a55ec8a05d84f961a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E21
+http://7go.xyz:8080/series/zogbi11/982451290/235495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E22" tvg-logo="http://7online.xyz:8080/images/2b0ae0fcf3aee6f6ea53136ab51c821e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E22
+http://7go.xyz:8080/series/zogbi11/982451290/235496.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIES | NETFLIX Cobra Kai.xml"
+############## SERIES | NETFLIX Cobra Kai ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | NETFLIX Cobra Kai" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E01" tvg-logo="http://7online.xyz:8080/images/e59bd17a6f1f97b3a4f9bb6779eab0a6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E02" tvg-logo="http://7online.xyz:8080/images/205ab171ba0f574d61f5691b92ea69d3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E03" tvg-logo="http://7online.xyz:8080/images/94f4a9298afcb1d8849a6709d3279ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E04" tvg-logo="http://7online.xyz:8080/images/3d90c89db18e57677ade62cec743fba6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E05" tvg-logo="http://7online.xyz:8080/images/11010b574f8b5ad935539b4be8811d34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E06" tvg-logo="http://7online.xyz:8080/images/c8e84b064f7e5fabc32a20bc4feea351.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E07" tvg-logo="http://7online.xyz:8080/images/767460ea1006281df4d5a7aa27c86189.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E08" tvg-logo="http://7online.xyz:8080/images/cb465837b879c6f9914291ac23362cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E09" tvg-logo="http://7online.xyz:8080/images/55bddef2c1e0840e84343653257e0743.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E10" tvg-logo="http://7online.xyz:8080/images/2305c2aefb50ff819608e92175535c3f.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E01" tvg-logo="http://7online.xyz:8080/images/371f6bc49728e56090e0ce05f1427060.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E02" tvg-logo="http://7online.xyz:8080/images/b00ba4576b84f84af17d762faa677e55.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E03" tvg-logo="http://7online.xyz:8080/images/1a943c1d33d8e9d0162c9ba448924db3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E04" tvg-logo="http://7online.xyz:8080/images/87e86ff82e83850b93a09ad1cc367f37.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E05" tvg-logo="http://7online.xyz:8080/images/263d14c68b37dc69767ee0bc8505e719.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E06" tvg-logo="http://7online.xyz:8080/images/cbff08dc7ccabc3312a0845ccb2c1a1e.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E07" tvg-logo="http://7online.xyz:8080/images/9d395ab97f18895dada03492ad82eb5a.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E08" tvg-logo="http://7online.xyz:8080/images/daa9912b1d5a216a5402318517084192.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E09" tvg-logo="http://7online.xyz:8080/images/f4427297dfc820a05503cbb81a9eb1a9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E10" tvg-logo="http://7online.xyz:8080/images/b673adf4dd74f0265fea471d21a217e8.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E01" tvg-logo="http://7online.xyz:8080/images/85bf7e4e63eb97032c33fb662a2dbd34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E02" tvg-logo="http://7online.xyz:8080/images/5336b07ab1c7f9e5293224367a2b95b3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E03" tvg-logo="http://7online.xyz:8080/images/858b1fcfd92027504bd55be1bb72bf9b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E04" tvg-logo="http://7online.xyz:8080/images/cc2f9e972252485e408bf222fdad3722.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E05" tvg-logo="http://7online.xyz:8080/images/3f017aa8aa5928aaa73c8010dc7fde4c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E06" tvg-logo="http://7online.xyz:8080/images/4374453a0742a13c4c828a8a97b50217.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E07" tvg-logo="http://7online.xyz:8080/images/9d9764c7af7a37faefc4048a68ae5b31.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E08" tvg-logo="http://7online.xyz:8080/images/4e6024cbc68b2a7b076fa148145e4227.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E09" tvg-logo="http://7online.xyz:8080/images/d95dba380dfff7201337ebdc256eb638.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E10" tvg-logo="http://7online.xyz:8080/images/734c20ed955b7b41438f74bf3a44a6a0.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E01" tvg-logo="http://7online.xyz:8080/images/8720c451890311f8ce862604a7faac3b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E02" tvg-logo="http://7online.xyz:8080/images/d164f0e7f058db9b87fbe370c2029010.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E03" tvg-logo="http://7online.xyz:8080/images/dd9bbfa84b5e5119aacc5a42da5ecd54.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E04" tvg-logo="http://7online.xyz:8080/images/12df4e84701cdb569300fd43be6e327c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E05" tvg-logo="http://7online.xyz:8080/images/f87382dee6f4a6b16dbac1acef38d510.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E06" tvg-logo="http://7online.xyz:8080/images/47bd926a378861cb150c26d12c501568.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E07" tvg-logo="http://7online.xyz:8080/images/395d583e2eaa4adffc86c7af4e6abf89.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E08" tvg-logo="http://7online.xyz:8080/images/477d9497c8059e3a6c5ceb50991ac4f2.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E09" tvg-logo="http://7online.xyz:8080/images/afc94ae96d7de02e557b464203f6ccdf.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E10" tvg-logo="http://7online.xyz:8080/images/933b4e0019e321c9bba1b9fa76231cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E01" tvg-logo="http://7online.xyz:8080/images/3ea6da1310e43d747801b8c88ee59ef9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/225202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E02" tvg-logo="http://7online.xyz:8080/images/0a5aca2029e39b50b06f2ec6cb8af9c9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/225203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E03" tvg-logo="http://7online.xyz:8080/images/58239103cfc669825c00e2dc6ab9d764.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/225204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E04" tvg-logo="http://7online.xyz:8080/images/042d8cfe5fa9f8c2a84bd60260912099.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/225205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E05" tvg-logo="http://7online.xyz:8080/images/1abc18cdbd8d3dc78120303fc207e2ca.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/225206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E06" tvg-logo="http://7online.xyz:8080/images/04d85d96da42cf26d1cfb88f042250ea.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/225207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E07" tvg-logo="http://7online.xyz:8080/images/51838175a6b5ee2373e53876b08acf93.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/225208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E08" tvg-logo="http://7online.xyz:8080/images/fb070677dd2971dc875f7e3cabaf4d9c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/225209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E09" tvg-logo="http://7online.xyz:8080/images/01996e365e22c0c47854ca525764e727.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/225210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E10" tvg-logo="http://7online.xyz:8080/images/8f5e59f153c0cc5d73b5eb01ce140ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E10
+http://7go.xyz:8080/series/zogbi11/982451290/225211.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIES | AMAZON Chicago Med.xml"
+############## SERIES | AMAZON Chicago Med ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | AMAZON Chicago Med" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E01" tvg-logo="http://7online.xyz:8080/images/1fb4f2c1ad84052d61ca197e43f45177.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E02" tvg-logo="http://7online.xyz:8080/images/98b41078af6fac92c452ae755cee8384.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E03" tvg-logo="http://7online.xyz:8080/images/38027e29539427bfd007ecd35db437e8.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E04" tvg-logo="http://7online.xyz:8080/images/562df63577b56f6f775fd0e889bd99e0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E05" tvg-logo="http://7online.xyz:8080/images/ffda5169aef6dcd1177f66b904276906.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E06" tvg-logo="http://7online.xyz:8080/images/6828e50d1de51d602caf429b33f7253d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E07" tvg-logo="http://7online.xyz:8080/images/b7d8e02ed1549ceb319acd31a2408776.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E08" tvg-logo="http://7online.xyz:8080/images/758a81f1942ff3c31c523bd8e6da1001.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E09" tvg-logo="http://7online.xyz:8080/images/b7bf9e0051e0e7ac3c90a8c306c1279a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E10" tvg-logo="http://7online.xyz:8080/images/a7d3d887469d914653d0378a136671b5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E11" tvg-logo="http://7online.xyz:8080/images/eb024a683ff9d651af921d766ad8dca9.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E12" tvg-logo="http://7online.xyz:8080/images/cf8a1e8a867984c6779a4ec7e9827f77.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E13" tvg-logo="http://7online.xyz:8080/images/8e99aa1089a6272e9206d146245f9d2d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/210597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E14" tvg-logo="http://7online.xyz:8080/images/83857585b72c82f6073598806e5897da.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E15" tvg-logo="http://7online.xyz:8080/images/d998728a3baa95d1a3ef931ea858276f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E16" tvg-logo="http://7online.xyz:8080/images/ba2714d751139d62c36610532acf68d2.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E17" tvg-logo="http://7online.xyz:8080/images/5710b2b757300ea9254a0b03c0ed9eb1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E17
+http://7go.xyz:8080/series/zogbi11/982451290/210601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E18" tvg-logo="http://7online.xyz:8080/images/2313153d1a21ec80b0a224053aa1982d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E18
+http://7go.xyz:8080/series/zogbi11/982451290/210602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E01" tvg-logo="http://7online.xyz:8080/images/218c8e357aab5fc77be556da64cf6a17.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E02" tvg-logo="http://7online.xyz:8080/images/e339b74d5967cb19ac5572b1867629a6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E03" tvg-logo="http://7online.xyz:8080/images/746e4a2058c85dcdf2676a4b4235e949.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E04" tvg-logo="http://7online.xyz:8080/images/55496032714addc952c6f1d2287ab0f9.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E05" tvg-logo="http://7online.xyz:8080/images/cfae64d8f4226f271ae92ced9fa0661a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E06" tvg-logo="http://7online.xyz:8080/images/fcc8c4848f2f7cd15e69179b2fcfc188.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E07" tvg-logo="http://7online.xyz:8080/images/6653e357282fae22c3b3f168c0d3c350.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E08" tvg-logo="http://7online.xyz:8080/images/40da92942c5e781c7641bfeeb2d93a43.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E09" tvg-logo="http://7online.xyz:8080/images/db758a7ff41a95f486a5b666563bc752.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E10" tvg-logo="http://7online.xyz:8080/images/dffcf4c3273817e700356b27d6c50473.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E11" tvg-logo="http://7online.xyz:8080/images/eac2448cefc87829b8aae2339b5ceddc.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E12" tvg-logo="http://7online.xyz:8080/images/d35bfe0bcf11e24ac08fa871a08114d5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E13" tvg-logo="http://7online.xyz:8080/images/50774ca12b87c0d37caaa178b1f2e864.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E13
+http://7go.xyz:8080/series/zogbi11/982451290/210615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E14" tvg-logo="http://7online.xyz:8080/images/c97146c9bd97181172f219358bc7a524.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E15" tvg-logo="http://7online.xyz:8080/images/1d36b01f25b927a252e7cf005a5e2378.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E16" tvg-logo="http://7online.xyz:8080/images/e2b26386490b0aea39bbe2e8afe0d44a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E17" tvg-logo="http://7online.xyz:8080/images/26e46bf8eed54a1b9198f818dc7d416e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E17
+http://7go.xyz:8080/series/zogbi11/982451290/210619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E18" tvg-logo="http://7online.xyz:8080/images/c5ebe84ada2095382aff6dee5aba26c4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E18
+http://7go.xyz:8080/series/zogbi11/982451290/210620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E19" tvg-logo="http://7online.xyz:8080/images/4e8bdb92bb36cd68e13926dc119acdaa.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E19
+http://7go.xyz:8080/series/zogbi11/982451290/210621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E20" tvg-logo="http://7online.xyz:8080/images/6331f4e2b2377dab64e5e4c4e294423a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E20
+http://7go.xyz:8080/series/zogbi11/982451290/210622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E21" tvg-logo="http://7online.xyz:8080/images/64703bd2855e4b010ccccba831726482.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E21
+http://7go.xyz:8080/series/zogbi11/982451290/210623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E22" tvg-logo="http://7online.xyz:8080/images/9c3c7711a9ddbaf6bb3f9732a9b5ce7d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E22
+http://7go.xyz:8080/series/zogbi11/982451290/210624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E01" tvg-logo="http://7online.xyz:8080/images/460457116235cbfbfa4397285b3463c7.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E02" tvg-logo="http://7online.xyz:8080/images/015ed784d77e45c8dc23a57464dea3f3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E03" tvg-logo="http://7online.xyz:8080/images/04fa7878ec3e2604339511d652320da0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E04" tvg-logo="http://7online.xyz:8080/images/823e5c1a44d52e93932270d88b6c4b5e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E05" tvg-logo="http://7online.xyz:8080/images/01f363b8ca82d88b5c5216195d58d620.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E06" tvg-logo="http://7online.xyz:8080/images/9647c3416575e9538c90c0dcaa019bca.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E07" tvg-logo="http://7online.xyz:8080/images/1a5995c63b5de56884e5e231e792bb4f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E08" tvg-logo="http://7online.xyz:8080/images/36a3b40a382200f633f349957d5c611d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E09" tvg-logo="http://7online.xyz:8080/images/87be4ba12b871f200538f415e7c5f229.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E10" tvg-logo="http://7online.xyz:8080/images/2b53b0dc5cb240458edbbd62cf614ab1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E11" tvg-logo="http://7online.xyz:8080/images/e0fa253935dc50850c9cce9cc79f18a1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E12" tvg-logo="http://7online.xyz:8080/images/eb8f5d1d8dd6eaf5f0be80168f1258ac.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E13" tvg-logo="http://7online.xyz:8080/images/964c620da17d363c1c9b0f9a24de729b.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E13
+http://7go.xyz:8080/series/zogbi11/982451290/210637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E14" tvg-logo="http://7online.xyz:8080/images/2b969bf1e5149d379f2884f88f35122a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E15" tvg-logo="http://7online.xyz:8080/images/91108bf1fbe7f0d09465b20dd7042a33.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E16" tvg-logo="http://7online.xyz:8080/images/f92a432978a3c48f335d538794e86ab3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E17" tvg-logo="http://7online.xyz:8080/images/11b92ddc75b096dca3db66fd65285300.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E17
+http://7go.xyz:8080/series/zogbi11/982451290/210641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E18" tvg-logo="http://7online.xyz:8080/images/09c5b62966ad2b3f6cf76e49f48f4774.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E18
+http://7go.xyz:8080/series/zogbi11/982451290/210642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E19" tvg-logo="http://7online.xyz:8080/images/cf7fece050d93bfcaedf2dc166e15657.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E19
+http://7go.xyz:8080/series/zogbi11/982451290/210643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E20" tvg-logo="http://7online.xyz:8080/images/15f0350d9560ccea1673a6d241305d03.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E20
+http://7go.xyz:8080/series/zogbi11/982451290/210644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E01" tvg-logo="http://7online.xyz:8080/images/1cc7ddc83e2856bdc5775f52d4e8aad3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E02" tvg-logo="http://7online.xyz:8080/images/c4e7f9d24dc6114d4437c0cc1fb7b3e6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E03" tvg-logo="http://7online.xyz:8080/images/27f6d4bcce3a5c1f339c3a076450c03c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E04" tvg-logo="http://7online.xyz:8080/images/59125b5d472a8f1cf8ec4ce72487d026.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E05" tvg-logo="http://7online.xyz:8080/images/9cddd1fab9cf0f0308f84168bde82b2a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E06" tvg-logo="http://7online.xyz:8080/images/ff7b5ba5ac03edcfc50901f86d02d875.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E07" tvg-logo="http://7online.xyz:8080/images/73ff181215c8d47e2010a65f26f582b6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E08" tvg-logo="http://7online.xyz:8080/images/e3cecf0acfdb329f40e089423717d4d3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E09" tvg-logo="http://7online.xyz:8080/images/d852df262cffd1b2ed690c6e76bb522c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E10" tvg-logo="http://7online.xyz:8080/images/9c36d3764afe92be1d1666806d7af876.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E11" tvg-logo="http://7online.xyz:8080/images/67cf4d9f1e366f8f537c81207fc937b5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E12" tvg-logo="http://7online.xyz:8080/images/7fd6fa24b7970b98ff6b0be6ff1dcbc0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E13" tvg-logo="http://7online.xyz:8080/images/4502ab00f97c6e96877b75b66f5f2c57.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E13
+http://7go.xyz:8080/series/zogbi11/982451290/210657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E14" tvg-logo="http://7online.xyz:8080/images/5303c938fc6f8457f87cde874ac38cb1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E15" tvg-logo="http://7online.xyz:8080/images/68bf7c3369bf366ff8fd95608e8cc59d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E16" tvg-logo="http://7online.xyz:8080/images/7c85915b9e240b2ae0f795296aba7b64.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E17" tvg-logo="http://7online.xyz:8080/images/c92931ff8a1541a0b6b6b7a7f4540ee8.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E17
+http://7go.xyz:8080/series/zogbi11/982451290/210661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E18" tvg-logo="http://7online.xyz:8080/images/48a0350caa8622d9e82a939674f20eb6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E18
+http://7go.xyz:8080/series/zogbi11/982451290/210662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E19" tvg-logo="http://7online.xyz:8080/images/356af9d40889d2bdf0db67a3e5a458bc.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E19
+http://7go.xyz:8080/series/zogbi11/982451290/210663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E20" tvg-logo="http://7online.xyz:8080/images/176c0e589a3993d181efc20c549e3f5e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E20
+http://7go.xyz:8080/series/zogbi11/982451290/210664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E21" tvg-logo="http://7online.xyz:8080/images/ae43d0f0ef068d5faea50920391e359c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E21
+http://7go.xyz:8080/series/zogbi11/982451290/210665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E22" tvg-logo="http://7online.xyz:8080/images/e55aafd7c6e55fc716ddfe8eb6f25567.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E22
+http://7go.xyz:8080/series/zogbi11/982451290/210666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E01" tvg-logo="http://7online.xyz:8080/images/b535dc69fbb5e3c517ba60187600ab99.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E02" tvg-logo="http://7online.xyz:8080/images/c0aa050b983ff813a4958beafc5e7850.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E03" tvg-logo="http://7online.xyz:8080/images/fe8e6163ed5e82420127eb80f56aa3db.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E04" tvg-logo="http://7online.xyz:8080/images/e6341a09c2b794a0b8a023ba493592dc.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E05" tvg-logo="http://7online.xyz:8080/images/f8cfeaa63fb71ff23b6bd17e7e7946c0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E06" tvg-logo="http://7online.xyz:8080/images/06cfe8bc0186b22f14ea210176807880.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E07" tvg-logo="http://7online.xyz:8080/images/ed2cae01efd24b41266fc34667c09ba2.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E08" tvg-logo="http://7online.xyz:8080/images/1d9b10509678f2b589def85f2d771824.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E09" tvg-logo="http://7online.xyz:8080/images/c09af087e97c1bf4c90018664986f8cb.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E10" tvg-logo="http://7online.xyz:8080/images/5509fe6f54a52a9234f21891e7df70ce.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E11" tvg-logo="http://7online.xyz:8080/images/f31ca969de6ccba0ce0740f98043abca.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E12" tvg-logo="http://7online.xyz:8080/images/c793f7addd73f5f882754777208288ac.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E13" tvg-logo="http://7online.xyz:8080/images/4dbdc667a021497c53da2c4c0a7fe655.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E13
+http://7go.xyz:8080/series/zogbi11/982451290/210679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E14" tvg-logo="http://7online.xyz:8080/images/e6c2b2047bce5c451b98d04003b09547.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E15" tvg-logo="http://7online.xyz:8080/images/2af092a0c2f0e51b8abb72deaede949e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E16" tvg-logo="http://7online.xyz:8080/images/6c7cc54093623145de10652407387014.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E17" tvg-logo="http://7online.xyz:8080/images/f9c56ac37d00e5ae7549dada30f4636e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E17
+http://7go.xyz:8080/series/zogbi11/982451290/210683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E18" tvg-logo="http://7online.xyz:8080/images/ffe2a342286e9f4ab0e22dff9dd0e029.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E18
+http://7go.xyz:8080/series/zogbi11/982451290/210684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E19" tvg-logo="http://7online.xyz:8080/images/125bde9a19156ede817d6bbe805eff7c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E19
+http://7go.xyz:8080/series/zogbi11/982451290/210685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E20" tvg-logo="http://7online.xyz:8080/images/255ee62b1bc7e802367ac275776917c9.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E20
+http://7go.xyz:8080/series/zogbi11/982451290/210686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E01" tvg-logo="http://7online.xyz:8080/images/a8a2406acc37ad262ad53a47cb034415.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E02" tvg-logo="http://7online.xyz:8080/images/85316cbcfbab8c4eb59a1e50bb7baea3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E03" tvg-logo="http://7online.xyz:8080/images/377ce4e64173f07b7a1819b981c17eff.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E04" tvg-logo="http://7online.xyz:8080/images/d57e0f17b4617daead57daaabdbecb1b.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E05" tvg-logo="http://7online.xyz:8080/images/e0daa104ac4f50f97a70591cc1d77d2b.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E06" tvg-logo="http://7online.xyz:8080/images/a7884bc181972c6cf64b02fbde8059e4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E07" tvg-logo="http://7online.xyz:8080/images/75fb14ece3cfbfa2c4294b8847acc1f3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E08" tvg-logo="http://7online.xyz:8080/images/d4a25936fb999caaf376fe2ab4b3643c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E09" tvg-logo="http://7online.xyz:8080/images/6333e8dcc35099277aca9b1fdcbff08a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E10" tvg-logo="http://7online.xyz:8080/images/295b72b1ff835ecfed86f365145c18c6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E11" tvg-logo="http://7online.xyz:8080/images/b9846bf3f29f771d9b56786557c8c9b4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E12" tvg-logo="http://7online.xyz:8080/images/e9c312873125082330d62ea0e4549e4f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E13" tvg-logo="http://7online.xyz:8080/images/11bf7b58146820b8a1e7ce34438c64f7.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E13
+http://7go.xyz:8080/series/zogbi11/982451290/210699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E14" tvg-logo="http://7online.xyz:8080/images/1c7ca4937943c6e67e6cc3d061e0672d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E15" tvg-logo="http://7online.xyz:8080/images/39999626f3e919d8c2913ea399ba62f4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E16" tvg-logo="http://7online.xyz:8080/images/3c96d6661e830e763fc693d6e351dcce.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E01" tvg-logo="http://7online.xyz:8080/images/b0efc018cbb9ff818a2fc8dba53eb0aa.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E01
+http://7go.xyz:8080/series/zogbi11/982451290/210703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E02" tvg-logo="http://7online.xyz:8080/images/e6d842df2719da053cbb75ea2b72cd7f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E02
+http://7go.xyz:8080/series/zogbi11/982451290/210704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E03" tvg-logo="http://7online.xyz:8080/images/2a3475e6256964ed37f016b65bb416a5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E03
+http://7go.xyz:8080/series/zogbi11/982451290/210705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E04" tvg-logo="http://7online.xyz:8080/images/6a465bed685d2c6e33afa63f2ff3dc21.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E04
+http://7go.xyz:8080/series/zogbi11/982451290/210706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E05" tvg-logo="http://7online.xyz:8080/images/8af7651f54d48895d1825e50caee5869.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E05
+http://7go.xyz:8080/series/zogbi11/982451290/210707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E06" tvg-logo="http://7online.xyz:8080/images/9c5650f15f4d1b8e5efa840d536b7bb2.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E06
+http://7go.xyz:8080/series/zogbi11/982451290/210708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E07" tvg-logo="http://7online.xyz:8080/images/463f8fd33ddea12993021c2f86199140.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E07
+http://7go.xyz:8080/series/zogbi11/982451290/210709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E08" tvg-logo="http://7online.xyz:8080/images/757f70e8dbaa44da7ca5809764ab2c6c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E08
+http://7go.xyz:8080/series/zogbi11/982451290/210710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E09" tvg-logo="http://7online.xyz:8080/images/8afb93105eb8eb1438431a4b1c48efb1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E09
+http://7go.xyz:8080/series/zogbi11/982451290/210711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E10" tvg-logo="http://7online.xyz:8080/images/1f86b5346dbac06183bf0487f9fd4788.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E10
+http://7go.xyz:8080/series/zogbi11/982451290/210712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E11" tvg-logo="http://7online.xyz:8080/images/b2f15b9382db986a7d3174bf26214a5e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E11
+http://7go.xyz:8080/series/zogbi11/982451290/210713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E12" tvg-logo="http://7online.xyz:8080/images/20bb471f9a42ef290950dcc49e079866.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E12
+http://7go.xyz:8080/series/zogbi11/982451290/210714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E13" tvg-logo="http://7online.xyz:8080/images/223fad7a61a4efe442f68d9c26f6fb15.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E13
+http://7go.xyz:8080/series/zogbi11/982451290/296644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E14" tvg-logo="http://7online.xyz:8080/images/c4d5693b96e243584c166f74417b45c3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E14
+http://7go.xyz:8080/series/zogbi11/982451290/210716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E15" tvg-logo="http://7online.xyz:8080/images/d08f37f57503c608b8feaf6cec3f3811.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E15
+http://7go.xyz:8080/series/zogbi11/982451290/210717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E16" tvg-logo="http://7online.xyz:8080/images/7a6442abc8abcf916272231edf3348c3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E16
+http://7go.xyz:8080/series/zogbi11/982451290/210718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E17" tvg-logo="http://7online.xyz:8080/images/968564059f8a3526cf5c5b872fa1852f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E17
+http://7go.xyz:8080/series/zogbi11/982451290/210719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E18" tvg-logo="http://7online.xyz:8080/images/3d25b41057635c7e1af93438ef65b80a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E18
+http://7go.xyz:8080/series/zogbi11/982451290/210720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E19" tvg-logo="http://7online.xyz:8080/images/70806d36ed45b7b087d591b08cb5a837.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E19
+http://7go.xyz:8080/series/zogbi11/982451290/210721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E20" tvg-logo="http://7online.xyz:8080/images/37fd7156cccac5d1b89fcbd17016e39f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E20
+http://7go.xyz:8080/series/zogbi11/982451290/210722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E21" tvg-logo="http://7online.xyz:8080/images/ba24e6ddcc58b8efa69a2618ce597635.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E21
+http://7go.xyz:8080/series/zogbi11/982451290/210723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E22" tvg-logo="http://7online.xyz:8080/images/ba1b40bd885270ba41e53668b6c4f41c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E22
+http://7go.xyz:8080/series/zogbi11/982451290/210724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hwZVDbsTX4LPq05uFmqzZtQOac.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E01
+http://7go.xyz:8080/series/zogbi11/982451290/313185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tW2NEKXWfbY9SRoz8NdYn8ba2VM.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E02
+http://7go.xyz:8080/series/zogbi11/982451290/313186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zKfzAkeoss8D8CQcduAWq9DrKkS.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E03
+http://7go.xyz:8080/series/zogbi11/982451290/313187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ksD03IQqlHJc7Y59v8OTvU71eh.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E04
+http://7go.xyz:8080/series/zogbi11/982451290/313188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ffl8vjWhq61blIgiDULlxDjnyP.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E05
+http://7go.xyz:8080/series/zogbi11/982451290/313189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q9EF22yEsrWlZ4vtvuJTnIL4gG.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E06
+http://7go.xyz:8080/series/zogbi11/982451290/313190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t00wIBnuNF0SZQb3EzSjdTQ0Z78.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E07
+http://7go.xyz:8080/series/zogbi11/982451290/313191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zWy2fCODyxbSNtY8e0am5KRd31f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E08
+http://7go.xyz:8080/series/zogbi11/982451290/313192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fFzezYjGrfVNAHpmwwJ20tjijV.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E09
+http://7go.xyz:8080/series/zogbi11/982451290/313193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/riepwGTN0pthBmsIbJRqjGrmVSF.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E10
+http://7go.xyz:8080/series/zogbi11/982451290/313194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bYJmVrD06ZpF3mpzmwk7OHZUO4G.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E11
+http://7go.xyz:8080/series/zogbi11/982451290/313195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ie6WYMU1CaHaAvtUPTXjfFm1hHt.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E12
+http://7go.xyz:8080/series/zogbi11/982451290/313196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ppFsqkFrb6gZyVr5DTPYpUF3cU0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E13
+http://7go.xyz:8080/series/zogbi11/982451290/313197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/inkGktPKmBsiO3hbxgQnCyF0J3Y.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E14
+http://7go.xyz:8080/series/zogbi11/982451290/313198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eizp6THwR1zI5H8DGhJV8acpXro.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E15
+http://7go.xyz:8080/series/zogbi11/982451290/313199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Pg4XPcJX8YMc4rAndDRNJy1Os3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E16
+http://7go.xyz:8080/series/zogbi11/982451290/313200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cIuQ5wsKzxzj3EulSxxAslITXvF.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E17
+http://7go.xyz:8080/series/zogbi11/982451290/313201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S08 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ6SLJspr4sGqKdYxCO55AQCXhY.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S08 E18
+http://7go.xyz:8080/series/zogbi11/982451290/313202.mp4
 
 #EXTM3U url-tvg="http://grade-de-HBO MAX ER Plantão Médico.xml"
 ############## HBO MAX ER Plantão Médico ################# 
@@ -6327,6 +9705,217 @@ http://meuplay.shop:80/series/828474929852/34882748924/77274.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ER: Plantão Médico S15 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iTiZNSLY3Yghecg8ejqjbQ3LNoX.jpg" group-title="HBO MAX",ER: Plantão Médico S15 E23
 http://meuplay.shop:80/series/828474929852/34882748924/77275.mp4
 
+#EXTM3U url-tvg=" http://grade-de-SERIES | HBO / HBO MAX Batwoman.xml "
+ ############## SERIES | HBO / HBO MAX Batwoman ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | HBO / HBO MAX Batwoman" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E01" tvg-logo="http://7online.xyz:8080/images/899f9ceefba4ee0a07ce3a12941f25bd.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/204895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E02" tvg-logo="http://7online.xyz:8080/images/3cfc9eb41ee02a3ec71dce115cb366ac.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/204896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E03" tvg-logo="http://7online.xyz:8080/images/955e9d090f5b893a0abcd501d38ce86f.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/204897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E04" tvg-logo="http://7online.xyz:8080/images/3e709ce55a55496b9b961cfaeea8f7c8.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/204898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E05" tvg-logo="http://7online.xyz:8080/images/3c63dc60b9d9353235be10a6ebbc0c74.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/204899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E06" tvg-logo="http://7online.xyz:8080/images/93c58510adec5a834537927c3a609d0b.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/204900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E07" tvg-logo="http://7online.xyz:8080/images/1c43f6ab88f1367aa10d3edf203c67ee.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/204901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E08" tvg-logo="http://7online.xyz:8080/images/adb42e1e2ee6cdb6c725b974b5e9c879.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/204902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E09" tvg-logo="http://7online.xyz:8080/images/7252c36a53405911a2d38dfa3e0d6c25.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/204903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E10" tvg-logo="http://7online.xyz:8080/images/9f55d8b3f2a99c37ad6245305ae48e4b.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/204904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E11" tvg-logo="http://7online.xyz:8080/images/b9aea3de0a5010cc224f3589b843b344.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E11
+http://7go.xyz:8080/series/zogbi11/982451290/204905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E12" tvg-logo="http://7online.xyz:8080/images/d87a987f0417aabd3e035525b1ab1325.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E12
+http://7go.xyz:8080/series/zogbi11/982451290/204906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E13" tvg-logo="http://7online.xyz:8080/images/d98f22002115ac75dab878e05784a458.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E13
+http://7go.xyz:8080/series/zogbi11/982451290/204907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E14" tvg-logo="http://7online.xyz:8080/images/8d894731115e194ff6c5dd930881b453.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E14
+http://7go.xyz:8080/series/zogbi11/982451290/204908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E15" tvg-logo="http://7online.xyz:8080/images/fe2a72a3ed6472c3140ee39d788844c7.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E15
+http://7go.xyz:8080/series/zogbi11/982451290/204909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E16" tvg-logo="http://7online.xyz:8080/images/204d03c772f8c1eeb6a5fb8c1d5a3689.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E16
+http://7go.xyz:8080/series/zogbi11/982451290/204910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E17" tvg-logo="http://7online.xyz:8080/images/ee1a4e3b145bf23919de2cd870b2432f.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E17
+http://7go.xyz:8080/series/zogbi11/982451290/204911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E18" tvg-logo="http://7online.xyz:8080/images/fb29fee9d4bc95006ff3f23f59e6812f.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E18
+http://7go.xyz:8080/series/zogbi11/982451290/204912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E19" tvg-logo="http://7online.xyz:8080/images/9bb77c1295c67be71d18ea4e28fc9f9e.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E19
+http://7go.xyz:8080/series/zogbi11/982451290/204913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E20" tvg-logo="http://7online.xyz:8080/images/b7ebe4e78280caf8ef722af6381852ba.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E20
+http://7go.xyz:8080/series/zogbi11/982451290/204914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E01" tvg-logo="http://7online.xyz:8080/images/1321213f91be31a3a35546cc1ea6d6c4.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/204915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E02" tvg-logo="http://7online.xyz:8080/images/e18d3deeed90eb78878034ffe67a3fac.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/204916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E03" tvg-logo="http://7online.xyz:8080/images/23965d800bb9ef1ecf4469568ca21a7c.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/204917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E04" tvg-logo="http://7online.xyz:8080/images/bcbca86c29fce0d49da576d3a2eaaac5.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/204918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E05" tvg-logo="http://7online.xyz:8080/images/d2f0d776d263aab199a464549f3e95f1.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/204919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E06" tvg-logo="http://7online.xyz:8080/images/d8a4ecf47ddeb66df40f338995242998.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/204920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E07" tvg-logo="http://7online.xyz:8080/images/fee6e4564b7c1fd317c010f25eb838c3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/204921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E08" tvg-logo="http://7online.xyz:8080/images/f4ca896d0fe229afde82c74937a94ae4.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/204922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E09" tvg-logo="http://7online.xyz:8080/images/f6bb3bdbe738f926c796638381aeed82.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/204923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E10" tvg-logo="http://7online.xyz:8080/images/e89efa47d8b80fd2da8ba87de38a92f9.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/204924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E11" tvg-logo="http://7online.xyz:8080/images/0f86eabbf9ad51991ca42f113c4d2363.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E11
+http://7go.xyz:8080/series/zogbi11/982451290/204925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E12" tvg-logo="http://7online.xyz:8080/images/bacdbfac23ddbdf0354cb9a7ead22ea8.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E12
+http://7go.xyz:8080/series/zogbi11/982451290/204926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E13" tvg-logo="http://7online.xyz:8080/images/3530aef108fcab55d18a871f22e834c2.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E13
+http://7go.xyz:8080/series/zogbi11/982451290/204927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E14" tvg-logo="http://7online.xyz:8080/images/fcf7e192da5ec7c890583f8f71d695fc.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E14
+http://7go.xyz:8080/series/zogbi11/982451290/204928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E15" tvg-logo="http://7online.xyz:8080/images/ee961b425db07205884d603b365750ee.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E15
+http://7go.xyz:8080/series/zogbi11/982451290/204929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E16" tvg-logo="http://7online.xyz:8080/images/cb0eb4e389fd901cb407b3a7964a5560.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E16
+http://7go.xyz:8080/series/zogbi11/982451290/204930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E17" tvg-logo="http://7online.xyz:8080/images/a99a421d6bfafde4790e24bb4c798a30.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E17
+http://7go.xyz:8080/series/zogbi11/982451290/204931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E18" tvg-logo="http://7online.xyz:8080/images/c6376fe7300fff8da3b796ace780f7a3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E18
+http://7go.xyz:8080/series/zogbi11/982451290/204932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E01" tvg-logo="http://7online.xyz:8080/images/03f817689b7f76334e33c889bbea4001.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/108285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E02" tvg-logo="http://7online.xyz:8080/images/4b17a339bb81a11ea7a35e926329eecd.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/108286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E03" tvg-logo="http://7online.xyz:8080/images/de6d5dd9b0ee984b4ddb2cf8bf10ae29.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/108287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E04" tvg-logo="http://7online.xyz:8080/images/b8179edea2f657e70205e514bd623ff5.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/108288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E05" tvg-logo="http://7online.xyz:8080/images/27117346c4a10c607f251eabff02d680.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/108289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E06" tvg-logo="http://7online.xyz:8080/images/9ac00fdc30f13221109d5691d391a087.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/108290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E07" tvg-logo="http://7online.xyz:8080/images/5f0e313fa3d921540125d6745c2073b3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/108291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E08" tvg-logo="http://7online.xyz:8080/images/87e95e7f4aa8b893c312d08123339d69.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/203674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E09" tvg-logo="http://7online.xyz:8080/images/928fe3e3aa1f53f0681780e7c67e64a7.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/203675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E10" tvg-logo="http://7online.xyz:8080/images/d81eef5e9704bf9962abb21fcf8ad726.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/203676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E11" tvg-logo="http://7online.xyz:8080/images/af4232b59107444cea555d527ce59bae.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E11
+http://7go.xyz:8080/series/zogbi11/982451290/203677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E12" tvg-logo="http://7online.xyz:8080/images/ce1f7da8b27768bdf0d6c092b7ff285a.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E12
+http://7go.xyz:8080/series/zogbi11/982451290/203678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E13" tvg-logo="http://7online.xyz:8080/images/b8da7017922e59e6611a8127e6fdc974.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E13
+http://7go.xyz:8080/series/zogbi11/982451290/203679.mkv
+
+#EXTM3U url-tvg=" http://grade-de-SERIES | A&E.xml "
+ ############## SERIES | A&E ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | A&E" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E01" tvg-logo="http://7online.xyz:8080/images/072f659e59668ce49a7c8939026305ec.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/125528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E02" tvg-logo="http://7online.xyz:8080/images/2e0aaaee1eca3a31a939459c051a1adb.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/125529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E03" tvg-logo="http://7online.xyz:8080/images/229ba50f4ff7483f00ccfd1fe46c6c4c.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/125530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E04" tvg-logo="http://7online.xyz:8080/images/d8f44559f275d31764a35808a3a3b282.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/125531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E05" tvg-logo="http://7online.xyz:8080/images/7c90cdc4d8a0c097d11e517af9dfb1c3.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/125532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E06" tvg-logo="http://7online.xyz:8080/images/857954dfe77c10037452350237183345.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/125533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E07" tvg-logo="http://7online.xyz:8080/images/b790c983405d405cf364a1054d0f97a2.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/125534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E08" tvg-logo="http://7online.xyz:8080/images/019d1394e5a4ad7f635f0426bd07dae9.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/125535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E09" tvg-logo="http://7online.xyz:8080/images/7bf66a65f113ebbe6c2ffc542efa9c64.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/125536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S01 E10" tvg-logo="http://7online.xyz:8080/images/e3637fec8b17f7381017bb2988961af2.jpg" group-title="SERIES | A&E",Motel Bates (2013) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/125537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E01" tvg-logo="http://7online.xyz:8080/images/9760a61818116d3abd528e014b284cc5.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/125538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E02" tvg-logo="http://7online.xyz:8080/images/d20ef1e29cb8b8553565819ee59473fc.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/125539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E03" tvg-logo="http://7online.xyz:8080/images/6522a8bb0d42e55fc976bf92f47f046c.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/125540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E04" tvg-logo="http://7online.xyz:8080/images/331540d363a46c0f36e1f898bb81a66b.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/125541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E05" tvg-logo="http://7online.xyz:8080/images/bbadf513636b948540b403ca79aacaa6.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/125542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E06" tvg-logo="http://7online.xyz:8080/images/e830554eea83e69f5e9dd3ae46c97970.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/125543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E07" tvg-logo="http://7online.xyz:8080/images/b354a18fba552c9fcab7dc57420cb30e.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/125544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E08" tvg-logo="http://7online.xyz:8080/images/df8dcc0a8ac15fb0866f0962b55e9fc4.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/125545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E09" tvg-logo="http://7online.xyz:8080/images/4865e571e4f5d6d0ae3e7bbedce5a92b.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/125546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S02 E10" tvg-logo="http://7online.xyz:8080/images/70a5a3cef4b07ff4558c0af47d9efd19.jpg" group-title="SERIES | A&E",Motel Bates (2013) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/125547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E01" tvg-logo="http://7online.xyz:8080/images/04be0c61e36496edded13487f21900f1.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/125548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E02" tvg-logo="http://7online.xyz:8080/images/bc37557732f3a498a42895264a4a5821.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/125549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E03" tvg-logo="http://7online.xyz:8080/images/a8a54b65fb9de0cf9a94fcb95de310a4.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/125550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E04" tvg-logo="http://7online.xyz:8080/images/ae5f4073148a721966cbefbc0e7a0394.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/125551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E05" tvg-logo="http://7online.xyz:8080/images/e9a03182f656e2030f1564907a892e36.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/125552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E06" tvg-logo="http://7online.xyz:8080/images/c69ccfba89541793d135b4f43143a123.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/125553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E07" tvg-logo="http://7online.xyz:8080/images/6ddec7f01d165be9a9d0c97187cf4b0a.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/125554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E08" tvg-logo="http://7online.xyz:8080/images/240a75b81f74eeb165e2d8a7203c76c4.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/125555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E09" tvg-logo="http://7online.xyz:8080/images/838e3e72fd6b6d6d0edac629e36c164c.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/125556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S03 E10" tvg-logo="http://7online.xyz:8080/images/1d73bb7b3e8a1fdb282291b16fef682c.jpg" group-title="SERIES | A&E",Motel Bates (2013) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/125557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E01" tvg-logo="http://7online.xyz:8080/images/5c4354f22ff4cf3cbec4a23097e80779.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/125664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E02" tvg-logo="http://7online.xyz:8080/images/232de21aedd3c7061a90e4f751a305e9.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/125665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E03" tvg-logo="http://7online.xyz:8080/images/233df4265737d98cf0e57e142f5e95bf.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/125666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E04" tvg-logo="http://7online.xyz:8080/images/758eb22d2a8356e911566c515385f2d5.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/125667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E05" tvg-logo="http://7online.xyz:8080/images/c7ca749be426c8b7932edfe0305bc7ed.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/125668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E06" tvg-logo="http://7online.xyz:8080/images/ce26c52e2f857734cbd96ed33f0f77d6.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/125669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E07" tvg-logo="http://7online.xyz:8080/images/66528d948f2431186d9b5edf6a5307bc.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/125670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E08" tvg-logo="http://7online.xyz:8080/images/6e169ff72d3de78177a0f66874f8553d.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/125671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E09" tvg-logo="http://7online.xyz:8080/images/a2dc4754fe636ade2f3bf3698f1f1dac.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/125672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S04 E10" tvg-logo="http://7online.xyz:8080/images/ee09a439c7b8ea9356c157e39749438a.jpg" group-title="SERIES | A&E",Motel Bates (2013) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/125673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E01" tvg-logo="http://7online.xyz:8080/images/f0acb4e3645acb86c781e3f490b553fa.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/125674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E02" tvg-logo="http://7online.xyz:8080/images/ff40101156d295addee8f5142e15c77c.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/125675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E03" tvg-logo="http://7online.xyz:8080/images/77a4b5c7b6d239857b759e0480e7fc4b.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/125676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E04" tvg-logo="http://7online.xyz:8080/images/343b8054b02965212b4278d560cf0eac.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/125677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E05" tvg-logo="http://7online.xyz:8080/images/8009a40310001e70eb81f0434c9ba60d.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/125678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E06" tvg-logo="http://7online.xyz:8080/images/b9fbc6d7c870c1294dba914d495572cd.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/125679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E07" tvg-logo="http://7online.xyz:8080/images/c73f8198e2a59be1f223b9c86879411c.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/125680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E08" tvg-logo="http://7online.xyz:8080/images/eff025d44f62c5b01ce66f2eafbae142.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/125681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E09" tvg-logo="http://7online.xyz:8080/images/49bd6a81d7e20bee4936934f3621028b.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/125682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E10" tvg-logo="http://7online.xyz:8080/images/810b4bf2e7a3f68f38a6030fe4396eb3.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E10
+http://7go.xyz:8080/series/zogbi11/982451290/125683.mkv
 
 #EXTM3U url-tvg=" http://grade-de-STAR+ Arquivo.xml "
  ############## STAR+ Arquivo ############## ### 
@@ -10297,6 +13886,7 @@ https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-
 #EXTM3U url-tvg="http://grade-de-FAX  CLIPS.xml"
 ############## FAX  CLIPS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX  CLIPS" group-title="
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" Tina Turner Live in Rio 1988 "  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner Live in Rio 1988
 https://proxy-12.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SXYZh0rUZhBWvWUth3ykPgc9WOBuuXUwCnN_f-8N-JB8vrAv3oOyRZXkbIeyHy3R7L8pEG4XUsdzSbCs6hkpQwY)/video/779/189/124981977_mp4_h264_aac_2.m3u8#cell=nyc

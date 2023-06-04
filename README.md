@@ -1885,8 +1885,14 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10 [ 2023]"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10 [ 2023]
+#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
 https://ia802709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.mp4
+
+#EXTINF:-1 tvg-id="CINESKY3" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda Para Sempre" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Pantera Negra: Wakanda Para Sempre
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
+
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia802700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
@@ -1919,7 +1925,7 @@ http://7go.xyz:8080/movie/zogbi11/982451290/311820.mp4
 http://7go.xyz:8080/movie/zogbi11/982451290/311821.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tic-Tac: A Maternidade do Mal (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg" group-title="FILMES | TV FAX",Tic-Tac: A Maternidade do Mal (2023)
 http://7go.xyz:8080/movie/zogbi11/982451290/311822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | TV FAXFILMES | TV FAX",Duas Bruxas: A Herança Diabólica (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | TV FAX",Duas Bruxas: A Herança Diabólica (2023)
 http://7go.xyz:8080/movie/zogbi11/982451290/311845.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honra Entre Rebeldes (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ivt7lJm3J5Mqybdh59m09eksV.jpg" group-title="FILMES | TV FAX",Dungeons & Dragons: Honra Entre Rebeldes (2023)
 http://7go.xyz:8080/movie/zogbi11/982451290/311846.mp4
@@ -2292,8 +2298,6 @@ https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_
 ############## FILMES  INFANTIL CINEMA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  INFANTIL CINEMA" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="O PRESENTE DE NATAL DE ANGELA"tvg-logo="https://image.tmdb.org/t/p/w342/eu747ko823mktL3ygo7ohdZznP7.jpg"group-title="FILMES | INFANTIL CINEMA",O PRESENTE DE NATAL DE ANGELA 
-https://video.wixstatic.com/video/834009_4ab69ea3ec754208913be6be057e36d3/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agente Mirim"tvg-id="https://imagens.ebc.com.br/RAZnjCXPVV4KFuv6wnG3r0APh7I=/365x0/smart/https://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/agente_mirim_cartaz.jpg?itok=CfgJjlTW" group-title="FILMES | INFANTIL CINEMA",Agente Mirim
 https://play.prod.gcp.vix.services/ace-the-case_pt/ace-the-case_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="3 Porquinhos e um Bebê"tvg-id="https://i.ytimg.com/vi/K7hPlWWoVCw/maxresdefault.jpg" group-title="FILMES | INFANTIL CINEMA",3 Porquinhos e um Bebê
@@ -2334,8 +2338,6 @@ https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUNDO KIDS SD"tvg-logo="https://media.tenor.com/ebDsb4OasR8AAAAM/mundokidsigarape.gif"group-title="FILMES | INFANTIL CINEMA",MUNDO KIDS SD
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UMA FLORESTA MUITO LOUCA"tvg-logo="https://image.tmdb.org/t/p/w342/w0IgQuk4NMBp2il1WvcZhJQkRB1.jpg"group-title="FILMES | INFANTIL CINEMA",UMA FLORESTA MUITO LOUCA
-https://download2391.mediafire.com/2phqz3kmmkggAfYCfjaRhFaL45_qPn6UWd9L9i0F_9vvxwo7pRjd_d4wapwW5ripGfPGva5NFOhK3HAJhQKoLSIYNZrc/ba1bqgplcjvw07a/Uma.Floresta.Muito.Louca-HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O BICHO VAI PEGAR 3"tvg-logo="https://image.tmdb.org/t/p/w342/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg"group-title="FILMES | INFANTIL CINEMA",O BICHO VAI PEGAR 3
 https://video.wixstatic.com/video/834009_a3ece7d11c0949689f53dda20d7bd8c8/720p/mp4/file.mp4
 
@@ -3209,97 +3211,6 @@ http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
 
-#EXTM3U url-tvg="http://grade-de-"FILMES  LANÇAMENTOS 2023.xml"
-############## "FILMES  LANÇAMENTOS 20233 ################# 
-#EXTINF:-1 tvg-id=" iddocanalde"FILMES  LANÇAMENTOS 2023" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Estrangulador de Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Estrangulador de Boston (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Rei das Sombras (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yka6u5dbx1vWoMrNIHHutluaepp.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Som do Caos (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Profecia do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Profecia do Mal (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Elefanta do Mágico (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pornhub: Sexo Bilionário (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9ooWLtS4LEsSBCUvaFkrrxqiH.jpg" group-title="FILMES | LANÇAMENTOS 2023",Pornhub: Sexo Bilionário (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Já Era Hora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg" group-title="FILMES | LANÇAMENTOS 2023",Já Era Hora (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tangos, Tequilas e Algumas Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg" group-title="FILMES | LANÇAMENTOS 2023",Tangos, Tequilas e Algumas Mentiras (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Jogada de Chang (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="FILMES | LANÇAMENTOS 2023",Luther: O Cair da Noite (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="FILMES | LANÇAMENTOS 2023",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Duas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVAIWPnW0K99abLLbkCBZ00jwX8.jpg" group-title="FILMES | LANÇAMENTOS 2023",Um Amor para Duas (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/272987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="FILMES | LANÇAMENTOS 2023",Volte Sempre! (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esta Noite, Você Dorme Comigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="FILMES | LANÇAMENTOS 2023",Esta Noite, Você Dorme Comigo (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Regra 34 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhfHqvpIzxQoXhmpUhn03g8EzFS.jpg" group-title="FILMES | LANÇAMENTOS 2023",Regra 34 (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/273746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="FILMES | LANÇAMENTOS 2023",Tetris (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Muti: Rituais Mortais (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="FILMES | LANÇAMENTOS 2023",Muti: Rituais Mortais (2023) CAM
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="FILMES | LANÇAMENTOS 2023",Creed III (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquema de Risco: Operação Fortune (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg" group-title="FILMES | LANÇAMENTOS 2023",Esquema de Risco: Operação Fortune (2023) CAM
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Horror Chega a Gotham City (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg" group-title="FILMES | LANÇAMENTOS 2023",Batman: O Horror Chega a Gotham City (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh: Sangue e Mel (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJZagdWBtpDUpCKHzrVwJRMKJL6.jpg" group-title="FILMES | LANÇAMENTOS 2023",Ursinho Pooh: Sangue e Mel (2023) CAM
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmfGIGm5SzcBynum9roCNSAzoyD.jpg" group-title="FILMES | LANÇAMENTOS 2023",As Múmias e o Anel Perdido (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desapega! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg" group-title="FILMES | LANÇAMENTOS 2023",Desapega! (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fé nas Alturas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg" group-title="FILMES | LANÇAMENTOS 2023",Fé nas Alturas (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batem à Porta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg" group-title="FILMES | LANÇAMENTOS 2023",Batem à Porta (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vício Perfeito (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg" group-title="FILMES | LANÇAMENTOS 2023",Vício Perfeito (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roubo pelos Ares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="FILMES | LANÇAMENTOS 2023",Roubo pelos Ares (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="FILMES | LANÇAMENTOS 2023",Shazam! Fúria dos Deuses (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Baleia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16CaH2Dz9XPMfjIBidaBk8tvIwH.jpg" group-title="FILMES | LANÇAMENTOS 2023",A Baleia (2022)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg" group-title="FILMES | LANÇAMENTOS 2023",65: Ameaça Pré-Histórica (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ah, Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg" group-title="FILMES | LANÇAMENTOS 2023",Ah, Belinda (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="FILMES | LANÇAMENTOS 2023",Meu Amigo Lutcha (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olavo Tem Razão - O Filme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23znVCWbJ5HgthMzVxGHhz4PxYe.jpg" group-title="FILMES | LANÇAMENTOS 2023",Olavo Tem Razão - O Filme (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Reis da Rua Mulberry: Que Reine o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg" group-title="FILMES | LANÇAMENTOS 2023",Os Reis da Rua Mulberry: Que Reine o Amor (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Breaking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg" group-title="FILMES | LANÇAMENTOS 2023",Breaking (2022)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tinnitus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="FILMES | LANÇAMENTOS 2023",Tinnitus (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acústico MTV: Manu Gavassi canta Fruto Proibido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDwd883WiKc5UmEQBSyeStuCasz.jpg" group-title="FILMES | LANÇAMENTOS 2023",Acústico MTV: Manu Gavassi canta Fruto Proibido (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" group-title="FILMES | LANÇAMENTOS 2023",Raquel 1:1 (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="FILMES | LANÇAMENTOS 2023",Kill Boksoon (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Situación (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKoRcmGj9KXB3ZKEfYxsDmI6Uqv.jpg" group-title="FILMES | LANÇAMENTOS 2023",La Situación (2023) CAM
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mistério em Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="FILMES | LANÇAMENTOS 2023",Mistério em Paris (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Pacto de Amizade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="FILMES | LANÇAMENTOS 2023",Um Pacto de Amizade (2023)
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rio do Desejo (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozVXo6PW7lFz3ojWaHodCSpZAB0.jpg" group-title="FILMES | LANÇAMENTOS 2023",O Rio do Desejo (2023) CAM
-http://gameplay.p2sweb.me:80/movie/6393bdodn/63839bbp/274079.mp4
-
 #EXTM3U url-tvg="http://grade-de-FILMES  LANÇAMENTOS CINEMA (2023).xml"
 ############## FILMES  LANÇAMENTOS CINEMA (2023) ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  LANÇAMENTOS CINEMA (2023)" group-title="
@@ -3471,497 +3382,310 @@ http://conexaoonline.top:80/movie/1938979949/7742153/299909.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nicarágua: Liberdade Exilada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Nicarágua: Liberdade Exilada (2023)
 http://conexaoonline.top:80/movie/1938979949/7742153/299911.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES  LANÇAMENTOS CINEMA (2022).xml"
-############## FILMES  LANÇAMENTOS CINEMA (2022) ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  LANÇAMENTOS CINEMA (2022)" group-title="
+#EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2022.xml"
+############## Filmes: Lancamentos 2022 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Lancamentos 2022" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Bandido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1EnJdRe9qm3VFEbDXc6PotfDhz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Bandido (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúrias Femininas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRJIqsE3JnP92HOXpmch1EJQ0xq.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Fúrias Femininas (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Misteriosa Tumba de Tutancâmon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx3UBNjbmxCrHZWve7Jz3sEnggB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Misteriosa Tumba de Tutancâmon (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Repente 70 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",De Repente 70 (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invisíveis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0nV5qELvg4tmwiq6DbajlBjrmP.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Invisíveis (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arca das Girafas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Arca das Girafas (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Acampamento de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MaMhd0PNKmKnwSVOyuaBMuP76e.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Acampamento de Natal (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Decisão de Partir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EhQAZKtiOOVcMgIsrix87ZUl4M.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Decisão de Partir (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gemini: O Planeta Sombrio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Gemini: O Planeta Sombrio (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Ninjas da Rua de Baixo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot1VMbD7ACFh47LP8G2f67GejV5.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Os Ninjas da Rua de Baixo (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querida Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hGzrqIe24f7DyD3YD5U9qUdLHX.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Querida Alice (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassin Club (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Assassin Club (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Inesperado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq3bh4aq5c3U0xAqMWXeDRnypCE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor Inesperado (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Madrasta (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Você Vai Lembrar Meu Nome (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjZ8fmIRR4RDHSRsvobspaY1mi9.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Você Vai Lembrar Meu Nome (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Encontro Mais Longo de Todos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzusJE1LqhG06S92IdPYlTu8N1p.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Encontro Mais Longo de Todos (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oferenda ao Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Oferenda ao Demônio (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Filho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diSCVAovDgGGk5QJzmU0rPXoPRB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Um Filho (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TÁR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",TÁR (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxZg6CWOmMXXGOhlkEHj10kAdPO.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Minha Família Perfeita (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Code Name Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YLv9S84WyPZ5uxty989Duhzi5u.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Code Name Banshee (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Amor dá Voltas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fynvbvRZzkIWa2Q8h9Gg5w6FgzD.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Amor dá Voltas (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrosão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Corrosão (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crime Imperfeito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdaGFN94V9VSfmP0AzFcRN1Sqly.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Crime Imperfeito (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor em Tempos de Polarização (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KL3ewJAgjoXrThUBJfQadGq6B.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Amor em Tempos de Polarização (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/314683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2pnVAILnqSXGEWzIEEH3kxkiPB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Duas Bruxas: A Herança Diabólica (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dias de Desejo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihkJjmIPwno6uDF6njWcCwbL8a6.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Dias de Desejo (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros: D’Artagnan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm0pfF0HSLsSpFlhGCmR6Bhl8EE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Os Três Mosqueteiros: D’Artagnan (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Serial Kelly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHmlTaUrrMdh0m9vG5ApNwIWIPd.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Serial Kelly (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei Piu-Piu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Rei Piu-Piu (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte do Demônio: A Ascensão (2023) [CAM]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Morte do Demônio: A Ascensão (2023) [CAM]
-http://conexaoonline.top:80/movie/5763777789/0312304566/315848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tudo de Novo, Mais Uma Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ8nXd8L4aVNExq0RKjyl1EtA7A.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tudo de Novo, Mais Uma Vez (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quasimodo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRitoZ1fVLhUsK7bzu84lJQMg1g.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Quasimodo (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Perigoso: Vítimas da Herança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWFcCb6UEnToFC7p2PnoNZhF7Fv.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Jogo Perigoso: Vítimas da Herança (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guia de Viagem para o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nhTfuDkks0MZgx0gncPvz1L59p.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Guia de Viagem para o Amor (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghosted: Sem Resposta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Ghosted: Sem Resposta (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Encurralados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnSqnhE3DwfvgxaGeqp3QC4VjoE.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Encurralados (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gigi & Nate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Gigi & Nate (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHnGwA8V0QDtjicbGkdLw2Af1Vq.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Castelo Rá-Tim-Bum: Reencontro (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luther: O Cair da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Luther: O Cair da Noite (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tudo pela Noiva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hdtxPuqCZtEnvfKFeLyrrn9HYM.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Tudo pela Noiva (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drácula – Ele Ainda Está Vivo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nbw6eAYOhYEjI1wODekAG6svZF.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Drácula – Ele Ainda Está Vivo (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/numZOhSuBd3qzJyjQ49wlBNOqce.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Raquel 1:1 (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Os Anos Me Deixaram (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3njsXDhwRJOjvl461mhMxQoru9j.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Como Os Anos Me Deixaram (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs9thnvpkf6HCx2lJZlY5YaLQ7s.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mauricinho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Grande Mauricinho (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas Numa Fria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QDkxzuZ1klmF3OYYM10xaMFIfu.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Quatro Amigas Numa Fria (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Rastro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ZNSvplELOkVZKPXElMwdapIr4.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Sem Rastro (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpfoBxeLIgLIGN0YFwnny34ZE1K.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Sick (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/315830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maior que o Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTgQrVSIhjT1wRQGIRr9JhvUjx.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Maior que o Mundo (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volte Sempre! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Volte Sempre! (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Uma Ilha Bem Distante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",Em Uma Ilha Bem Distante (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Tigre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Menino e o Tigre (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 For Brady: Quatro Amigas e Uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",80 For Brady: Quatro Amigas e Uma Paixão (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",O Mistério de Ozarks (2022)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jogada de Chang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" group-title="FILMES | LANÇAMENTOS CINEMA",A Jogada de Chang (2023)
-http://conexaoonline.top:80/movie/5763777789/0312304566/309449.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | 4K.xml"
-############## FILMES | 4K ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | 4K" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="15h17: Trem Para Paris 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg" group-title="FILMES | 4K",15h17: Trem Para Paris 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i0S4a7g5q35NYE2483H3lSwY0up.jpg" group-title="FILMES | 4K",1917 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abominável 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg" group-title="FILMES | 4K",Abominável 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xp2UO1n3LmeS0sXc7iUtROeeOuY.jpg" group-title="FILMES | 4K",A Casa 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="FILMES | 4K",A Cor Que Caiu do Espaço 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo 4k (1955)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg" group-title="FILMES | 4K",A Dama e o Vagabundo 4k (1955)
-http://7go.xyz:8080/movie/zogbi11/982451290/310416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ad Astra - Rumo às Estrelas 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg" group-title="FILMES | 4K",Ad Astra - Rumo às Estrelas 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adoráveis Mulheres 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg" group-title="FILMES | 4K",Adoráveis Mulheres 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" group-title="FILMES | 4K",A Extraordinária Garota Chamada Estrela 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" group-title="FILMES | 4K",A Freira 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" group-title="FILMES | 4K",Aladdin 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Altos Negócios 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ngM2zOxhJsYA7g15L3WFRTOgjZ.jpg" group-title="FILMES | 4K",Altos Negócios 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Monstros 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnz5wRqeYKlugGbC7RZxC7DAiED.jpg" group-title="FILMES | 4K",Amor e Monstros 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mula 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" group-title="FILMES | 4K",A Mula 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2: O Filme 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" group-title="FILMES | 4K",Angry Birds 2: O Filme 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zxw7AVr2Eyoy2F4uaraLJmrnfE9.jpg" group-title="FILMES | 4K",Animais Fantásticos: Os Crimes de Grindelwald 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Annabelle 3: De Volta para Casa 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg" group-title="FILMES | 4K",Annabelle 3: De Volta para Casa 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anna: O Perigo Tem Nome 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" group-title="FILMES | 4K",Anna: O Perigo Tem Nome 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apollo 11 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg" group-title="FILMES | 4K",Apollo 11 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="FILMES | 4K",Aquaman 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl: O Mundo Secreto 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg" group-title="FILMES | 4K",Artemis Fowl: O Mundo Secreto 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras do Dr. Dolittle (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg" group-title="FILMES | 4K",As Aventuras do Dr. Dolittle (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Golpistas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg" group-title="FILMES | 4K",As Golpistas (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg" group-title="FILMES | 4K",As Panteras (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asterix e o Segredo da Poção Mágica (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg" group-title="FILMES | 4K",Asterix e o Segredo da Poção Mágica (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Viúvas 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTql8KyJYqcX49Lmdct7PMCgg63.jpg" group-title="FILMES | 4K",As Viúvas 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até o Último Homem (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" group-title="FILMES | 4K",Até o Último Homem (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/310437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Terra e o Sangue 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" group-title="FILMES | 4K",A Terra e o Sangue 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Coisa que Ele Queria 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg" group-title="FILMES | 4K",A Última Coisa que Ele Queria 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aves de Rapina (1948)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAP9v4ifxl3h6t9LW4C9diO6sjs.jpg" group-title="FILMES | 4K",Aves de Rapina (1948)
-http://7go.xyz:8080/movie/zogbi11/982451290/310440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida em um Ano 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dfmbwqkalJRfYqFSwNhRn4QYK30.jpg" group-title="FILMES | 4K",A Vida em um Ano 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Invisível 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Ia6cQXeJRjnHMBmZx0JF9JSwc.jpg" group-title="FILMES | 4K",A Vida Invisível 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys Para Sempre (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lkWYrzLIclGj56r4NJxuWeisK9R.jpg" group-title="FILMES | 4K",Bad Boys Para Sempre (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" group-title="FILMES | 4K",Batman: O Cavaleiro das Trevas (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/310444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bird Box 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/akAO6r0ZuPB98VwQsN0SGIkE4z.jpg" group-title="FILMES | 4K",Bird Box 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Infiltrado Na Klan 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg" group-title="FILMES | 4K",Infiltrado Na Klan 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qWD9E0Wgn8w6nMMutCNFAUiSHrX.jpg" group-title="FILMES | 4K",Blade Runner 2049 (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bliss: Em Busca da Felicidade (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9QiUUOjiW40v3w2R9cY9s90ZfmR.jpg" group-title="FILMES | 4K",Bliss: Em Busca da Felicidade (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg" group-title="FILMES | 4K",Bloodshot (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody: A História de Freddie Mercury 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxgdqcxI216kEoypGbA9BemB7mW.jpg" group-title="FILMES | 4K",Bohemian Rhapsody: A História de Freddie Mercury 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal II 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nIv88OjKOw7tLMTpjAS2HsZZU1X.jpg" group-title="FILMES | 4K",Brahms: Boneco do Mal II 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg" group-title="FILMES | 4K",Bumblebee (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Campo do Medo (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" group-title="FILMES | 4K",Campo do Medo (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitã Marvel (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="FILMES | 4K",Capitã Marvel (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gkuvUYCEaPlLtOW1IQ9Db0Xc8nH.jpg" group-title="FILMES | 4K",Cinquenta Tons de Liberdade (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Clouds (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg" group-title="FILMES | 4K",Clouds (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="FILMES | 4K",Coffee & Kareem (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com Amor, Simon (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="FILMES | 4K",Com Amor, Simon (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o Seu Dragão 3 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="FILMES | 4K",Como Treinar o Seu Dragão 3 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Consequências (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3j8GWWWS04N5eoKHeyDsTjbqp1.jpg" group-title="FILMES | 4K",Consequências (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Convenção das Bruxas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="FILMES | 4K",Convenção das Bruxas (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coringa (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" group-title="FILMES | 4K",Coringa (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="FILMES | 4K",Creed III (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/310463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="FILMES | 4K",Cruella (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg" group-title="FILMES | 4K",Deadpool 2 (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deixe-o Partir (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDVKqWgljauo1Frc1CbdeKr2G8O.jpg" group-title="FILMES | 4K",Deixe-o Partir (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2FRPhsifn044quPVyMtYlnoyZ.jpg" group-title="FILMES | 4K",Desejo de Matar (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destruição Final: O Último Refúgio 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hAUUVBGprFQXaHuhOFDMKELkH4W.jpg" group-title="FILMES | 4K",Destruição Final: O Último Refúgio 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Irmãos: Uma Jornada Fantástica (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg" group-title="FILMES | 4K",Dois Irmãos: Uma Jornada Fantástica (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg" group-title="FILMES | 4K",Doutor Estranho (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/310470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Sono (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/huDLFxqWZkIdlaiRpkEA3YifV64.jpg" group-title="FILMES | 4K",Doutor Sono (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entre Facas e Segredos (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg" group-title="FILMES | 4K",Entre Facas e Segredos (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estrada Sem Lei (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/57EBMNewtrm5AB2JQp1SH949UMq.jpg" group-title="FILMES | 4K",Estrada Sem Lei (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extraordinário 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eB1vhoNrN2oR82fxsHp7vvLgMhz.jpg" group-title="FILMES | 4K",Extraordinário 4k (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ford vs Ferrari (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg" group-title="FILMES | 4K",Ford vs Ferrari (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Frozen II (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uVHishB6G4T6BOnUsV4JgdJXdIz.jpg" group-title="FILMES | 4K",Frozen II (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fuja (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="FILMES | 4K",Fuja (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria em Alto Mar (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg" group-title="FILMES | 4K",Fúria em Alto Mar (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla II: Rei dos Monstros (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2umU3r6V4V2gTmSnZJmH61nTorF.jpg" group-title="FILMES | 4K",Godzilla II: Rei dos Monstros (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong 4K (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg" group-title="FILMES | 4K",Godzilla vs. Kong 4K (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Goosebumps: Monstros e Arrepios (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d1rkpUr64IY0ARTyWU6MrHJD2Wt.jpg" group-title="FILMES | 4K",Goosebumps: Monstros e Arrepios (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/310481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Green Book: O Guia (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jaosA7NFPYBDueQ3X3SkADN6aS.jpg" group-title="FILMES | 4K",Green Book: O Guia (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia 4k (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sUGYYLTtE4k5T1DBki033J6qAwY.jpg" group-title="FILMES | 4K",Guardiões da Galáxia 4k (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/310483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Halloween 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wgmniaoxuRfA7waV4wpC7zLPEgX.jpg" group-title="FILMES | 4K",Halloween 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Uma História Star Wars (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg" group-title="FILMES | 4K",Han Solo: Uma História Star Wars (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lbaTEneOofwvAyg77R8HbFML2zT.jpg" group-title="FILMES | 4K",Hellboy (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/310486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="FILMES | 4K",Homem-Aranha (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/310487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="FILMES | 4K",Homem-Aranha: De Volta ao Lar (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: No Aranhaverso (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="FILMES | 4K",Homem-Aranha: No Aranhaverso (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="FILMES | 4K",Homem-Formiga e a Vespa (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hotel Artemis (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lDj5AEPO121NJIMZBFXrMs7Y06A.jpg" group-title="FILMES | 4K",Hotel Artemis (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Incríveis 2: Os Super-Heróis 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y3EEb7o6NxK0pl0WsOswCos663y.jpg" group-title="FILMES | 4K",Os Incríveis 2: Os Super-Heróis 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interestelar 4k (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg" group-title="FILMES | 4K",Interestelar 4k (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/310493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Invasão ao Serviço Secreto 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg" group-title="FILMES | 4K",Invasão ao Serviço Secreto 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title="FILMES | 4K",Isi & Ossi 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="IT: Capítulo Dois 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="FILMES | 4K",IT: Capítulo Dois 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogador N° 1 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6rS5kiTCjej8FQFwZdqB3zuyEK8.jpg" group-title="FILMES | 4K",Jogador N° 1 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg" group-title="FILMES | 4K",John Wick 3: Parabellum 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg" group-title="FILMES | 4K",Jojo Rabbit (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="FILMES | 4K",Jumanji (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/310500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Reino Ameaçado (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b3CuByY3v7qz9aq4rayIMeAMemy.jpg" group-title="FILMES | 4K",Jurassic World: Reino Ameaçado (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vida 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bKacW7BlSPHYvklyhSHvJrNl1CO.jpg" group-title="FILMES | 4K",Vida 4k (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geyu6rplpbp7OUeOfB2uRVf1LpG.jpg" group-title="FILMES | 4K",Liga da Justiça (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça de Zack Snyder (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ArWn6gCi61b3b3hclD2L0LOk66k.jpg" group-title="FILMES | 4K",Liga da Justiça de Zack Snyder (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alita: Anjo de Combate 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES | 4K",Alita: Anjo de Combate 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Logan (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" group-title="FILMES | 4K",Logan (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucy (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="FILMES | 4K",Lucy (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/310507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malévola (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iFJ1wdt9jxDnjvf1Nz4AJf5fkuu.jpg" group-title="FILMES | 4K",Malévola (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/310508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquinas Mortais (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="FILMES | 4K",Máquinas Mortais (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Megatubarão (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="FILMES | 4K",Megatubarão (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mentiras Perigosas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg" group-title="FILMES | 4K",Mentiras Perigosas (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto: Internacional (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" group-title="FILMES | 4K",MIB Homens de Preto: Internacional (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Midway: Batalha em Alto Mar (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg" group-title="FILMES | 4K",Midway: Batalha em Alto Mar (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Millennium: A Garota na Teia de Aranha (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" group-title="FILMES | 4K",Millennium: A Garota na Teia de Aranha (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Efeito Fallout 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dheywKL0VNkd0kmRvUlTxVaHul1.jpg" group-title="FILMES | 4K",Missão: Impossível - Efeito Fallout 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Modo Avião 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" group-title="FILMES | 4K",Modo Avião 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2QhhILPAv7MKFd1q57ssQeEV2su.jpg" group-title="FILMES | 4K",Monster Hunter (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/72I82eKXCadZWEYygV9GkJOQNEq.jpg" group-title="FILMES | 4K",Mulan (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 1984 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" group-title="FILMES | 4K",Mulher-Maravilha 1984 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nasce uma Estrela 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d8CNgb0AtZz7CSORffdwODK66iK.jpg" group-title="FILMES | 4K",Nasce uma Estrela 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nomadland 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/589uhtJOujc72fgNl6HcMYJS64D.jpg" group-title="FILMES | 4K",Nomadland 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Olho do Furacão 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKugroGel7UUnM83Kcrn2afPTYB.jpg" group-title="FILMES | 4K",No Olho do Furacão 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nos 4K" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKugroGel7UUnM83Kcrn2afPTYB.jpg" group-title="FILMES | 4K",Nos 4K
-http://7go.xyz:8080/movie/zogbi11/982451290/310523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Banqueiro 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nwcHBtJBbL0ku0Lf3mpTHEwa69y.jpg" group-title="FILMES | 4K",O Banqueiro 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Chamado da Floresta 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg" group-title="FILMES | 4K",O Chamado da Floresta 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Declínio 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg" group-title="FILMES | 4K",O Declínio 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Exterminador do Futuro: Gênesis (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/utLd6J4Gn38YynSS0kB0ZXRDFWK.jpg" group-title="FILMES | 4K",O Exterminador do Futuro: Gênesis (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/310527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Ivan 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg" group-title="FILMES | 4K",O Grande Ivan 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 4 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg" group-title="FILMES | 4K",O Grande Mestre 4 (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grinch 4k (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" group-title="FILMES | 4K",O Grinch 4k (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/310530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mapa das Pequenas Coisas Perfeitas 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/djMLMmgVQ3MBEj2vHipBki5d5ol.jpg" group-title="FILMES | 4K",O Mapa das Pequenas Coisas Perfeitas 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino Que Queria Ser Rei 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKIfYhDlVt92kvWRLa0wQy73Pi2.jpg" group-title="FILMES | 4K",O Menino Que Queria Ser Rei 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Relógio na Parede 4k (2018)" tvg-logo="http://i.imgur.com/Ro4egDB.jpg" group-title="FILMES | 4K",O Mistério do Relógio na Parede 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Homem 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" group-title="FILMES | 4K",O Primeiro Homem 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Protetor 2 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" group-title="FILMES | 4K",O Protetor 2 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Quebra-Nozes e os Quatro Reinos 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg" group-title="FILMES | 4K",O Quebra-Nozes e os Quatro Reinos 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei Leão 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="FILMES | 4K",O Rei Leão 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Retorno de Mary Poppins 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg" group-title="FILMES | 4K",O Retorno de Mary Poppins 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Croods 2: Uma Nova Era 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg" group-title="FILMES | 4K",Os Croods 2: Uma Nova Era 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Novos Mutantes 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg" group-title="FILMES | 4K",Os Novos Mutantes 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Som do Silêncio 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gjKlQJlWtP61ZN4WKbcSVHzjqq8.jpg" group-title="FILMES | 4K",O Som do Silêncio 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9D40jv8pi9uKnrVDPiN3JYYad72.jpg" group-title="FILMES | 4K",Pantera Negra 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tpdtbzeEImp5eT5wmwhVHhbklAk.jpg" group-title="FILMES | 4K",Para Todos os Garotos: P.S. Ainda Amo Você 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perdido em Marte 4k (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg" group-title="FILMES | 4K",Perdido em Marte 4k (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/310544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pinóquio 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9QmRuFrtxIaqXtz8zI1FV18v16a.jpg" group-title="FILMES | 4K",Pinóquio 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Podres de Ricos 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg" group-title="FILMES | 4K",Podres de Ricos 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Detetive Pikachu 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg" group-title="FILMES | 4K",Pokémon: Detetive Pikachu 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Polar 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2btxGF270fxOeNJInRNnFtZGkAA.jpg" group-title="FILMES | 4K",Polar 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oGYKbHCTOHNfjxXaiq0qPMQlrwc.jpg" group-title="FILMES | 4K",Projeto Gemini 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bhqCvl771uepyt6wbzEiryxEoc.jpg" group-title="FILMES | 4K",Rampage: Destruição Total 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raya e o Último Dragão 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg" group-title="FILMES | 4K",Raya e o Último Dragão 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg" group-title="FILMES | 4K",Robin Hood: A Origem 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rogai por Nós 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zduyzcjyahZtP4fGZE6789h04IM.jpg" group-title="FILMES | 4K",Rogai por Nós 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Remorso 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg" group-title="FILMES | 4K",Sem Remorso 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg" group-title="FILMES | 4K",Shazam! 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg" group-title="FILMES | 4K",Sonic: O Filme 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX - A Ascensão Skywalker 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" group-title="FILMES | 4K",Star Wars: Episódio IX - A Ascensão Skywalker 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" group-title="FILMES | 4K",Superação: O Milagre da Fé 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tenet 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg" group-title="FILMES | 4K",Tenet 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Te Peguei! 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg" group-title="FILMES | 4K",Te Peguei! 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Pai 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85d7NFk3BnoaJr1NnH3gLl2lRCU.jpg" group-title="FILMES | 4K",Meu Pai 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg" group-title="FILMES | 4K",Thor: Ragnarok 4k (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Titanic 4k (1997)" tvg-logo="http://i.imgur.com/PgLfrrP.png" group-title="FILMES | 4K",Titanic 4k (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/310563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Togo 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg" group-title="FILMES | 4K",Togo 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider: A Origem 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg" group-title="FILMES | 4K",Tomb Raider: A Origem 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry: O Filme 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" group-title="FILMES | 4K",Tom & Jerry: O Filme 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg" group-title="FILMES | 4K",Toy Story 4 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transformers 4k (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ev7IMfMXRbddGLVw7xPL2PHpkWR.jpg" group-title="FILMES | 4K",Transformers 4k (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/310568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trolls 2 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOyZTiybSidipdjtv7xpeO4TZp.jpg" group-title="FILMES | 4K",Trolls 2 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Gota de Esperança 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/43PfIx3oQVsVJIQM6pdCBKTyBNu.jpg" group-title="FILMES | 4K",Uma Gota de Esperança 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Anjo em Minha Vida 4k (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/29lc7HgBCMqFQwYiS34TA8maTfV.jpg" group-title="FILMES | 4K",Um Anjo em Minha Vida 4k (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/310571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Espião Animal 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg" group-title="FILMES | 4K",Um Espião Animal 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Lindo Dia na Vizinhança 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg" group-title="FILMES | 4K",Um Lindo Dia na Vizinhança 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Silencioso 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg" group-title="FILMES | 4K",Um Lugar Silencioso 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Príncipe em Nova York 2 4k (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpXRG5zPUT18IeYvCoC4zOscked.jpg" group-title="FILMES | 4K",Um Príncipe em Nova York 2 4k (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/310575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uncle Frank 4k (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u3yozs3oGY0ubwf4cKQKOMWqNx3.jpg" group-title="FILMES | 4K",Uncle Frank 4k (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/310576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valerian e a Cidade dos Mil Planetas 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar9Npj8l5SnxpwAGNkdmObv0VBd.jpg" group-title="FILMES | 4K",Valerian e a Cidade dos Mil Planetas 4k (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes & Furiosos: Hobbs & Shaw 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="FILMES | 4K",Velozes & Furiosos: Hobbs & Shaw 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="FILMES | 4K",Venom 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vidro 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg" group-title="FILMES | 4K",Vidro 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" group-title="FILMES | 4K",Vingadores: Guerra Infinita 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="FILMES | 4K",Vingadores: Ultimato 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="White Boy Rick 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33Gm5AZsg8e7sDvk71oePbE6lhk.jpg" group-title="FILMES | 4K",White Boy Rick 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph: Quebrando a Internet 4k (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg" group-title="FILMES | 4K",WiFi Ralph: Quebrando a Internet 4k (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/310584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wolverine: Imortal 4k (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="FILMES | 4K",Wolverine: Imortal 4k (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/310585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 4k (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg" group-title="FILMES | 4K",Mulher-Maravilha 4k (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/310586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Apocalipse 4k (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg" group-title="FILMES | 4K",X-Men: Apocalipse 4k (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/310587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Dias de um Futuro Esquecido 4k (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg" group-title="FILMES | 4K",X-Men: Dias de um Futuro Esquecido 4k (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/310588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | 4K",X-Men: Fênix Negra 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: O Confronto Final 4k (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg" group-title="FILMES | 4K",X-Men: O Confronto Final 4k (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/310590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: O Filme 4k (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES | 4K",X-Men: O Filme 4k (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/310591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe 4k (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES | 4K",X-Men: Primeira Classe 4k (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/310592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 4k (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rtrd4qieMAhoUshu83Vi1GazM1O.jpg" group-title="FILMES | 4K",X-Men 2 4k (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/310593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fênix Negra 4k (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | 4K",X-Men: Fênix Negra 4k (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/310594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zumbilândia 4k (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXuFhb5U2FgVq8uu4k3luQVRwLK.jpg" group-title="FILMES | 4K",Zumbilândia 4k (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/310595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Lancamentos 2022",A Caminho do Verão (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/230568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Lancamentos 2022",A Camisa Mais Pesada do Mundo (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Lancamentos 2022",A Bravura de Molly (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Lancamentos 2022",A Bolha (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Lancamentos 2022",9 Dias Acordado (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Lancamentos 2022",45 do Segundo Tempo (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Lancamentos 2022",365 Dias Finais (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/273711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#Comvocê: Volume 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="Filmes: Lancamentos 2022",#Comvocê: Volume 2 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="Filmes: Lancamentos 2022",#PartiuFama: Cancelado no Amor (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Lancamentos 2022",13: O Musical (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Lancamentos 2022",14 Cartas de Amor (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="Filmes: Lancamentos 2022",100 Medos (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Lancamentos 2022",365 Dias: Hoje (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Lancamentos 2022",A Fera (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Lancamentos 2022",A Família Noel 2 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Lancamentos 2022",A Família Perfeita (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/231581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Lancamentos 2022",A Face Oculta do Feminismo (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/230973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Lancamentos 2022",A Face Oculta do Feminismo (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Lancamentos 2022",A Estação da Alegria (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/257935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Lancamentos 2022",A Espera de Liz (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Lancamentos 2022",A Escola do Bem e do Mal (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Lancamentos 2022",A Era do Gelo: As Aventuras de Buck (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/201946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Lancamentos 2022",A Dupla Explosiva (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cozinheira Curiosa: Receita Assassina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg" group-title="Filmes: Lancamentos 2022",A Cozinheira Curiosa: Receita Assassina (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Lancamentos 2022",A Civil (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg" group-title="Filmes: Lancamentos 2022",A Casa da Morte (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/269276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Lancamentos 2022",A Fera do Mar (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/245485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Lancamentos 2022",A Filha do Rei (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/195630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="Filmes: Lancamentos 2022",A Maldição de Bridge Hollow (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg" group-title="Filmes: Lancamentos 2022",A Maldição (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="Filmes: Lancamentos 2022",A Madrasta (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="Filmes: Lancamentos 2022",A Luz do Demônio (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/269277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="Filmes: Lancamentos 2022",A Luta de uma Vida (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga de Monstros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg" group-title="Filmes: Lancamentos 2022",A Liga de Monstros (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/203818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Assassinatos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AXzOkcdlAgVqtA7wUyxm4dwxGq.jpg" group-title="Filmes: Lancamentos 2022",A Lista de Assassinatos (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Lancamentos 2022",A Lenda do Cavaleiro Negro (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Lancamentos 2022",A Lenda de Lantern’s Lane (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Befana: O Início (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg" group-title="Filmes: Lancamentos 2022",A Lenda da Befana: O Início (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg" group-title="Filmes: Lancamentos 2022",A Lei (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="Filmes: Lancamentos 2022",A Jaula (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Lancamentos 2022",A Ira de Deus (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/241816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão - Ocupação Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="Filmes: Lancamentos 2022",A Invasão - Ocupação Alienígena (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/237616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Lancamentos 2022",A Hora do Desespero (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Lancamentos 2022",A Gestora (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/252176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Lancamentos 2022",A Garota da Foto (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/245448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Lancamentos 2022",A Floresta Do Escalpe (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg" group-title="Filmes: Lancamentos 2022",A Princesa (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/244149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira-Dama do Estado Islâmico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg" group-title="Filmes: Lancamentos 2022",A Primeira-Dama do Estado Islâmico (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Porta ao Lado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Afw9DcdGLNsMHal2GkvJviLjdm.jpg" group-title="Filmes: Lancamentos 2022",A Porta ao Lado (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Oitava Cláusula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tc8eMFAX2SDC1TRu987qFQy8Cl.jpg" group-title="Filmes: Lancamentos 2022",A Oitava Cláusula (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/229533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Novata (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgdsGk8Oo7bwhVBtg43pM3hbM5.jpg" group-title="Filmes: Lancamentos 2022",A Novata (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="Filmes: Lancamentos 2022",A Mulher Rei (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="Filmes: Lancamentos 2022",A Máquina Infernal (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina que Acredita em Milagres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="Filmes: Lancamentos 2022",A Menina que Acredita em Milagres (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/199144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="Filmes: Lancamentos 2022",A Matriarca (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matéria Noturna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg" group-title="Filmes: Lancamentos 2022",A Matéria Noturna (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/237617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="Filmes: Lancamentos 2022",A Megera Domada (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição: Despertar dos Mortos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg" group-title="Filmes: Lancamentos 2022",A Maldição: Despertar dos Mortos (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/267799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="Filmes: Lancamentos 2023",A Maldição do Quarto 203 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/273712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Rose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="Filmes: Lancamentos 2022",A Maldição de Rose (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Intergaláctico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm77tBJy28DA1DzP7qExKOPWsEL.jpg" group-title="Filmes: Lancamentos 2022",Acampamento Intergaláctico (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="Filmes: Lancamentos 2022",Abracadabra 2 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="About Fate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fabZkaVHYJ67KbZx7oFoitauX34.jpg" group-title="Filmes: Lancamentos 2022",About Fate (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abercrombie & Fitch: Ascensão e Queda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Zi3lyy7hOw2VGeLJ0A813oSGis.jpg" group-title="Filmes: Lancamentos 2022",Abercrombie & Fitch: Ascensão e Queda (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/229408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo o Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j96pQXRWtfaP6EfGZw600f8Ofxm.jpg" group-title="Filmes: Lancamentos 2022",Abaixo o Rei (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRNZ6aNoYWJcpt5xsVzy36lFHL6.jpg" group-title="Filmes: Lancamentos 2022",Abandonada (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/269545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Vítima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg" group-title="Filmes: Lancamentos 2022",A Última Vítima (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Vítima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg" group-title="Filmes: Lancamentos 2022",A Última Vítima (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Coisa que Mary Viu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVFwfzPXfUcRI3mpb6rSX1LYtMj.jpg" group-title="Filmes: Lancamentos 2022",A Última Coisa que Mary Viu (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila dos Suicídios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg" group-title="Filmes: Lancamentos 2022",A Vila dos Suicídios (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida é Agora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neKaddWZOH6elKQRjI49avgSGfY.jpg" group-title="Filmes: Lancamentos 2022",A Vida é Agora (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/238191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg" group-title="Filmes: Lancamentos 2022",A Verdadeira História do Roubo do Século (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem de Pedro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAeRtuhOYLCslGRkbfJlf1XaJ29.jpg" group-title="Filmes: Lancamentos 2022",A Viagem de Pedro (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ursa Polar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg" group-title="Filmes: Lancamentos 2022",A Ursa Polar (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/231582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ursa Polar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg" group-title="Filmes: Lancamentos 2022",A Ursa Polar (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="Filmes: Lancamentos 2022",A Ressurreição de Jesus (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda (2022)" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThhjAv6Y9BKKrJyczESuQQwW7MSBJbWuWtUiN3e5MgEv5op-ZF" group-title="Filmes: Lancamentos 2022",A Queda (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/255049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Filmes: Lancamentos 2022",A Profissional (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/201922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Lancamentos 2022",A Princesa da Yakuza (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Depois (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg" group-title="Filmes: Lancamentos 2022",A Vida Depois (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/201923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida de Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qkl34olpFVM9nAuYeveO6uKpaA.jpg" group-title="Filmes: Lancamentos 2022",A Vida de Togo (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Eletrizante de Louis Wain (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lihTkVk0yoS6wZTLBYqsAkKbpsz.jpg" group-title="Filmes: Lancamentos 2022",A Vida Eletrizante de Louis Wain (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/206072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Accidentally in Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv3tn1a00EgyoOjeBwqfZQps5nr.jpg" group-title="Filmes: Lancamentos 2022",Accidentally in Love (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/267800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acelerando Para O Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNDLdLXMoM9cKmMsKsMyN2JXYQ.jpg" group-title="Filmes: Lancamentos 2022",Acelerando Para O Amor (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/245459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarração do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yTpx1nE5PM8DhVxWVIq4ikKZc2.jpg" group-title="Filmes: Lancamentos 2022",Amarração do Amor (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/195491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ambulância: Um Dia de Crime (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg" group-title="Filmes: Lancamentos 2022",Ambulância: Um Dia de Crime (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/235841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ameaça A Bordo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg" group-title="Filmes: Lancamentos 2022",Ameaça A Bordo (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niRzmV9YdeJvNTQxeEXfSFPm1Sr.jpg" group-title="Filmes: Lancamentos 2022",Amado (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Realidade (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9ib5aHPM4DV2V8tePev0F6HzkZ.jpg" group-title="Filmes: Lancamentos 2022",Além da Realidade (2016)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvorada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVlNL8j0qr5ImAGuiEqviAJhFGd.jpg" group-title="Filmes: Lancamentos 2022",Alvorada (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alucinação Fatal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e0eblwQS11J5ZBb5PNoigCKWGB.jpg" group-title="Filmes: Lancamentos 2022",Alucinação Fatal (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/180468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alienígenas: Contatos Imediatos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WAkQR9REgAyhG9E3DZGIgzYL4L.jpg" group-title="Filmes: Lancamentos 2022",Alienígenas: Contatos Imediatos (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice no Mundo da Internet (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TFbrqLvB6eCXSbe208SUVzAyBd.jpg" group-title="Filmes: Lancamentos 2022",Alice no Mundo da Internet (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="Filmes: Lancamentos 2022",Alice (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Algo Azul (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRUsslzgohSMwjJFBMZasUC0jlb.jpg" group-title="Filmes: Lancamentos 2022",Algo Azul (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alemão 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlVjsMZ5nAlIMUDZztTmxOT73Sw.jpg" group-title="Filmes: Lancamentos 2022",Alemão 2 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/241900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aileen Wuornos: Mente Assassina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JqtbHj6TecZzC6JEbgTLFrYCto.jpg" group-title="Filmes: Lancamentos 2022",Aileen Wuornos: Mente Assassina (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ainbo: A Guerreira da Amazônia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGkmm8YB1HzM3GaQ3FBv1NTwWxS.jpg" group-title="Filmes: Lancamentos 2022",Ainbo: A Guerreira da Amazônia (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/195564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ainda Estou Aqui (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg" group-title="Filmes: Lancamentos 2022",Ainda Estou Aqui (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agência Secreta de Controle de Magias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B3Xz48iyIh9ejffVtfCxwzTO7n.jpg" group-title="Filmes: Lancamentos 2022",Agência Secreta de Controle de Magias (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/153987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Oculto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" group-title="Filmes: Lancamentos 2022",Agente Oculto (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente das Sombras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w12S7LKkabx7pddQzsR3PY30m.jpg" group-title="Filmes: Lancamentos 2022",Agente das Sombras (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After: Depois do Desencontro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg" group-title="Filmes: Lancamentos 2022",After: Depois do Desencontro (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/204372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After: Depois da Promessa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lflvA9oQ3sTfiVttvjSbf6lS9X5.jpg" group-title="Filmes: Lancamentos 2022",After: Depois da Promessa (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adão Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="Filmes: Lancamentos 2022",Adão Negro (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Máxima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPxslVHIse0DNIbUHpHbFAnJ9Gd.jpg" group-title="Filmes: Lancamentos 2022",Adrenalina Máxima (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/255940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Air Force One: A Nova Fortaleza Voadora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Xn244COn8pmSAQC1BmdwCK20tX.jpg" group-title="Filmes: Lancamentos 2022",Air Force One: A Nova Fortaleza Voadora (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aníkúlápó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="Filmes: Lancamentos 2022",Aníkúlápó (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANNE: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch6G66SUe80YWEvTFe6mAKAwmdt.jpg" group-title="Filmes: Lancamentos 2022",ANNE: O Filme (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/202681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjo da Minha Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9FINZQYODQRKKHagLdzsLdS7go.jpg" group-title="Filmes: Lancamentos 2022",Anjo da Minha Vida (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos Uma História Natural (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxONX7C2sIpyj9bRfprdeFgKCs.jpg" group-title="Filmes: Lancamentos 2022",Animais Fantásticos Uma História Natural (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/220478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andre Matos - Maestro do Rock (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCVPgES70N2Vl8iMNeWm5EQ2Pt5.jpg" group-title="Filmes: Lancamentos 2022",Andre Matos - Maestro do Rock (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WaHDLUB8p03Cd6pYGnW4jZDYVX.jpg" group-title="Filmes: Lancamentos 2022",Amor² (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/257486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Proibido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJEqEuzv2aj455iHoc6zvTYspez.jpg" group-title="Filmes: Lancamentos 2022",Amor Proibido (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Verona (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg" group-title="Filmes: Lancamentos 2022",Amor em Verona (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/254806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Com Fetiche (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQaZZ0CFfCmBv5H5Mk11agRZzl2.jpg" group-title="Filmes: Lancamentos 2022",Amor Com Fetiche (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Artificial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soTOyI7d5vAWSNKv4XonEo0rn5p.jpg" group-title="Filmes: Lancamentos 2022",Amor Artificial (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/203447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor  Gelato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qXCNa3w1rOZ4w7VXivVxXK4s0l.jpg" group-title="Filmes: Lancamentos 2022",Amor  Gelato (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/242374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Toda Prova (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhSnhxf4OjYeyyvxFPPPpeae7LU.jpg" group-title="Filmes: Lancamentos 2022",Amor a Toda Prova (2002)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor de Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg" group-title="Filmes: Lancamentos 2022",Amor de Redenção (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/257938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="Filmes: Lancamentos 2022",Amsterdam (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Fotos Vazadas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuBXTItPyXQC9FIKwiT2ZV4476a.jpg" group-title="Filmes: Lancamentos 2022",As Fotos Vazadas (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/198452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Faces da Verdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPrySz5s1lqmw6DAnNWUMr5142Q.jpg" group-title="Filmes: Lancamentos 2022",As Faces da Verdade (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/272449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Confissões de Félix Krull: Cavalheiro de Indústria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inIWJnx0vuJCiXBt4DxnbgSBwQ.jpg" group-title="Filmes: Lancamentos 2022",As Confissões de Félix Krull: Cavalheiro de Indústria (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tadeo e a Tábua de Esmeralda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KADuZT3KwmCYIrmarPuGyGTriw.jpg" group-title="Filmes: Lancamentos 2022",As Aventuras de Tadeo e a Tábua de Esmeralda (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Gulliver (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEOsByOxmcY5VexXTwqLs9fygYA.jpg" group-title="Filmes: Lancamentos 2022",As Aventuras de Gulliver (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Agentes 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg" group-title="Filmes: Lancamentos 2022",As Agentes 355 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/216811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arte Negra - Na Ausência da Luz (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCynX6gndPnxZ9owCv88j4qQ8Vd.jpg" group-title="Filmes: Lancamentos 2022",Arte Negra - Na Ausência da Luz (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/202890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arremessando Alto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg" group-title="Filmes: Lancamentos 2022",Arremessando Alto (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/239758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPzZu5hmNoS3X00ewINA9zQlfGp.jpg" group-title="Filmes: Lancamentos 2022",Armadilha Explosiva (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/252178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ardente Paciência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plSUrCv17GRqFph7qSKfhT0jwcH.jpg" group-title="Filmes: Lancamentos 2022",Ardente Paciência (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ardente Paciência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plSUrCv17GRqFph7qSKfhT0jwcH.jpg" group-title="Filmes: Lancamentos 2022",Ardente Paciência (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aranhas de Papel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31dpLgUEsF4F4UgH7D3iAqYxteU.jpg" group-title="Filmes: Lancamentos 2022",Aranhas de Papel (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apresentando, Nate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGDKEbrblKMXrHOgPO0w7tDsbzV.jpg" group-title="Filmes: Lancamentos 2022",Apresentando, Nate (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apollo 10 e Meio: Aventura na Era Espacial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg" group-title="Filmes: Lancamentos 2022",Apollo 10 e Meio: Aventura na Era Espacial (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ao Leste das Montanhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Oj2hUfkpiq4qLeQE6k4V2Xv4Is.jpg" group-title="Filmes: Lancamentos 2022",Ao Leste das Montanhas (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ao 3 Dia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmr2q3ZcQ8pqSUxUkekcRbpuAz.jpg" group-title="Filmes: Lancamentos 2022",Ao 3 Dia (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="Filmes: Lancamentos 2022",Argentina, 1985 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="Filmes: Lancamentos 2022",Argentina, 1985 (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Garotas de Cristal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAmpIPhtvsgWVoMG1ta0DS1tftd.jpg" group-title="Filmes: Lancamentos 2022",As Garotas de Cristal (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assento Quente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtT84i2E1URJCyAkaoPxl6Ttke.jpg" group-title="Filmes: Lancamentos 2022",Assento Quente (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/252179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" group-title="Filmes: Lancamentos 2022",Assassino Sem Rastro (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/244064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto na Paulista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg" group-title="Filmes: Lancamentos 2022",Assalto na Paulista (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asking For It (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg" group-title="Filmes: Lancamentos 2022",Asking For It (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Verdades (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5N0BjQGUDTXIQixVBPnNZG618k.jpg" group-title="Filmes: Lancamentos 2022",As Verdades (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Verdades (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/of9YFiZW10xZ6sxeImLl1r7M9XQ.jpg" group-title="Filmes: Lancamentos 2022",As Verdades (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Trambiqueiras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldo9MFJ2bmA5qKd4sbjUUzJUUa8.jpg" group-title="Filmes: Lancamentos 2022",As Trambiqueiras (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/216160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg" group-title="Filmes: Lancamentos 2022",As Nadadoras (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Linhas Tortas de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7xCXKYkuFxx6UglVbSFaBmrwcO.jpg" group-title="Filmes: Lancamentos 2022",As Linhas Tortas de Deus (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266743.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes Top 2022.xml"
 ############## Filmes Top 2022 ################# 
@@ -5155,136 +4879,6 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/3906.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/62661.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Estudante E O Senhor Henri - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JUuHvbwsX93b9h8SJjFDY73EsI.jpg" group-title="Filmes: Comedia",A Estudante E O Senhor Henri - 2015
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alfie - O Sedutor (2004)" tvg-logo="http://7online.xyz:8080/images/6e787729f7fddcb3b2f89521746c173b.jpg" group-title="FILMES | COMÉDIA",Alfie - O Sedutor (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/200925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Diabo Veste Prada (2006)" tvg-logo="http://7online.xyz:8080/images/5922ed4bc7e5e17c6707e1ec78eed8ac.jpg" group-title="FILMES | COMÉDIA",O Diabo Veste Prada (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/200926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aventuras no Paraíso (1984)" tvg-logo="http://7online.xyz:8080/images/e618b6a5df9c6f01983245228e5a6a94.jpg" group-title="FILMES | COMÉDIA",Aventuras no Paraíso (1984)
-http://7go.xyz:8080/movie/zogbi11/982451290/202768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Divórcio em Las Vegas (2020)" tvg-logo="http://7online.xyz:8080/images/0a36b3ff37f67731ff9940d3c87c7978.jpg" group-title="FILMES | COMÉDIA",Divórcio em Las Vegas (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/202769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="É Pura Sorte (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZFbRfsSa04TTHzqcEFZtk6YYPe.jpg" group-title="FILMES | COMÉDIA",É Pura Sorte (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/202770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mamãe Saiu Com Um Vampiro (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1J75VjStFYoUx5vIT0aPaAxjxiB.jpg" group-title="FILMES | COMÉDIA",Mamãe Saiu Com Um Vampiro (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/202771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Quase Impossível (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/XlUvIMGAv6kVsHKuvx5SrRCZjQ.jpg" group-title="FILMES | COMÉDIA",Missão Quase Impossível (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/202772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean - O Filme (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yoFGuw59e1KPFSwzrQexBL5khMx.jpg" group-title="FILMES | COMÉDIA",Mr. Bean - O Filme (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/202773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem da Casa (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4rno926yEfxscbiNSlvCacwKcaN.jpg" group-title="FILMES | COMÉDIA",O Homem da Casa (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/202774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre dos Jogos 3 (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/btR7CxP5iWLyK9ydSnYXWhbB8eP.jpg" group-title="FILMES | COMÉDIA",O Mestre dos Jogos 3 (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/202775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Morto Vivo (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg" group-title="FILMES | COMÉDIA",O Morto Vivo (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/202776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Portugal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jnJRQ8iSCncMe38339H9BvukkiX.jpg" group-title="FILMES | COMÉDIA",Operação Portugal (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/202917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tiras em Apuros (2010)" tvg-logo="http://7online.xyz:8080/images/be68b46d66d6b6b52d75662b7845c90b.jpg" group-title="FILMES | COMÉDIA",Tiras em Apuros (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/202918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Comédia Nada Romântica (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jrvJo2OquBYOguftz3ZFmhaA9jG.jpg" group-title="FILMES | COMÉDIA",Uma Comédia Nada Romântica (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/202919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Amor de Múmia (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8bH2vI2Ab0ddcHzNVIUBxnmuHU7.jpg" group-title="FILMES | COMÉDIA",Um Amor de Múmia (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/202920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Hóspede do Barulho (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qqJ3gcYFmV29Gq7xT8g5Pj4WaH.jpg" group-title="FILMES | COMÉDIA",Um Hóspede do Barulho (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/202921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vice Versa (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iyBmaAogP8LZirTIE5DQhsbDowx.jpg" group-title="FILMES | COMÉDIA",Vice Versa (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/202922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ela é Demais (1999)" tvg-logo="http://7online.xyz:8080/images/53d59639754147367fbf01751f7fd94f.jpg" group-title="FILMES | COMÉDIA",Ela é Demais (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/218033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Um Lobo Entre Nós (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i17UiQgqHatZxlfaFQsnvPhYhyi.jpg" group-title="FILMES | COMÉDIA",Um Lobo Entre Nós (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/218035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Marinha com Steve Zissou (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w8174pvXapC9rp1vFZdHUtkNfKt.jpg" group-title="FILMES | COMÉDIA",A Vida Marinha com Steve Zissou (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/219013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Príncipe das Mulheres (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6AjZ5vL9auNHB813ztz24NiknZf.jpg" group-title="FILMES | COMÉDIA",O Príncipe das Mulheres (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/219014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Papai Poderoso 2: Tudo ou Nada (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mCOhpT4thaUTPbBvFKYibgpNnCy.jpg" group-title="FILMES | COMÉDIA",Papai Poderoso 2: Tudo ou Nada (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Alto Realidade (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9TbjIF1p5a3EJXUFzX63Coa2JRM.jpg" group-title="FILMES | COMÉDIA",#Alto Realidade (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/219113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Minutos de Fama (2020)" tvg-logo="http://7online.xyz:8080/images/f364bd7c9ac3b1c20cbb9d31065217d6.jpg" group-title="FILMES | COMÉDIA",2 Minutos de Fama (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/219114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4 Latas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="FILMES | COMÉDIA",4 Latas (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/219115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Eu Odeio em Você (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="FILMES | COMÉDIA",10 Coisas Que Eu Odeio em Você (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/219116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1nYYLgmwm4yK29ircaEGKXwXNj3.jpg" group-title="FILMES | COMÉDIA",17 Outra Vez (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/219117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Coisas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PWSRATzT9Bu27BhqsIqMp7LcqS.jpg" group-title="FILMES | COMÉDIA",100 Coisas (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/219120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Boa Esposa (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i7gOQmD98OIszcW5PmWkN9w1Nqz.jpg" group-title="FILMES | COMÉDIA",A Boa Esposa (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/219121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caixa de Pandora (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2jjXEF4loxfl6OnPeXhViCWTtim.jpg" group-title="FILMES | COMÉDIA",A Caixa de Pandora (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/219122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i80FjKCtfMKNhH119uoc2E5gDwY.jpg" group-title="FILMES | COMÉDIA",A Casa Caiu (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/219123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu: Um Cassino na Vizinhança (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wylaeJPrbD7o66cralfREtrfeZQ.jpg" group-title="FILMES | COMÉDIA",A Casa Caiu: Um Cassino na Vizinhança (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/219124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa das Coelhinhas (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcyypEkuW1X7RYXzDVrEcDzTReQ.jpg" group-title="FILMES | COMÉDIA",A Casa das Coelhinhas (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/219125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa de Hóspedes (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kY8t4etF8y0S9TeJE0UdEowBUr0.jpg" group-title="FILMES | COMÉDIA",A Casa de Hóspedes (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/219126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chefa (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jEfzaXdgglZFIkJY7pmiEj1YufE.jpg" group-title="FILMES | COMÉDIA",A Chefa (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/219127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chefinha (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nxHtZ3HNvpbHw1cBqG48VavhEk1.jpg" group-title="FILMES | COMÉDIA",A Chefinha (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/219128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa Não É do Carma (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wIoZVRHq45toPmrUqzJoBGw4gLB.jpg" group-title="FILMES | COMÉDIA",A Culpa Não É do Carma (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/219129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama de Vermelho (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCvGclc8YmOmdoAqjCUda0LnQK.jpg" group-title="FILMES | COMÉDIA",A Dama de Vermelho (1984)
-http://7go.xyz:8080/movie/zogbi11/982451290/219130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="FILMES | COMÉDIA",A Família Noel (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/219131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fita Cassete (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg" group-title="FILMES | COMÉDIA",A Fita Cassete (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fraternidade (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/huR1w4yQe3FPfXNVttpaHdGDEfH.jpg" group-title="FILMES | COMÉDIA",A Fraternidade (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/219133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga dos Avós (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jzNkv5joHj2jd5EFuWWpoxM0CXh.jpg" group-title="FILMES | COMÉDIA",A Fuga dos Avós (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/219134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dancing Queens (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="FILMES | COMÉDIA",Dancing Queens (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Novo Natal? (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mo13I9sQURkQCkGxbNjMSiUkGsI.jpg" group-title="FILMES | COMÉDIA",De Novo Natal? (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esqueceram de Nós (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7tB1l5WcZQ3I9VmGmScniEmf3m.jpg" group-title="FILMES | COMÉDIA",Esqueceram de Nós (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natal Em 8 Bits (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jbk9yoeAVkcpzt49s8Inbnz6iNw.jpg" group-title="FILMES | COMÉDIA",Natal Em 8 Bits (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No Jogo do Amor (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aa6cxHyZpbczm4EekCVUHZH7lg0.jpg" group-title="FILMES | COMÉDIA",No Jogo do Amor (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Natal Foi Cancelado (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qi5vnjspWNNxmWNBjq78n07Yink.jpg" group-title="FILMES | COMÉDIA",O Natal Foi Cancelado (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Feliz Natal: O Golpe dos Duendes (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e4ovmSAP2hTG1uARTxIYKi1qlbs.jpg" group-title="FILMES | COMÉDIA",Operação Feliz Natal: O Golpe dos Duendes (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Organizar Direitinho… (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hxJ1wFaUqOq5TmxA751VRJastGV.jpg" group-title="FILMES | COMÉDIA",Se Organizar Direitinho… (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Separados Mas Nem Tanto (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pzqeaZ9326m77y40aSF4eYnMVHm.jpg" group-title="FILMES | COMÉDIA",Separados Mas Nem Tanto (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Esposa de Natal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hjTLVkjJ5fuGpTSNTOTrGYqFtMA.jpg" group-title="FILMES | COMÉDIA",Uma Esposa de Natal (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Crush para o Natal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pv7QI2fQOZIG0QSbHv7Ot65O8YN.jpg" group-title="FILMES | COMÉDIA",Um Crush para o Natal (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/219146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher Nota Mil (1985)" tvg-logo="http://www.themoviedb.org/t/p/w500/moN1YnwlMvkAr7g1lUE3Nyu6kv0.jpg" group-title="FILMES | COMÉDIA",Mulher Nota Mil (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/223608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Open by Christmas (2021)" tvg-logo="http://www.themoviedb.org/t/p/w500/moN1YnwlMvkAr7g1lUE3Nyu6kv0.jpg" group-title="FILMES | COMÉDIA",Open by Christmas (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/223609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino de Ouro (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrJ2OCTtTlcgGJA2PBNgnAi6UB.jpg" group-title="FILMES | COMÉDIA",O Menino de Ouro (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/228576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentiroso (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wNDDbjYIfVktr67PZAXYNQzI0ag.jpg" group-title="FILMES | COMÉDIA",O Mentiroso (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/228577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pai do Ano (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSzFZXfSrszRwqhBmyjWif8Bhm5.jpg" group-title="FILMES | COMÉDIA",Pai do Ano (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/228578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Professor Aloprado (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azBGtGYnSo7t73fum2HS5FkY9rn.jpg" group-title="FILMES | COMÉDIA",O Professor Aloprado (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/228579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Garotos da Minha Vida (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6vywmyIO9DaAgIi2uHuiqsOBta.jpg" group-title="FILMES | COMÉDIA",Os Garotos da Minha Vida (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/228580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Papai Noel às Avessas (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/PXbXeDysUzIVX2DNMdFFwHdOVq.jpg" group-title="FILMES | COMÉDIA",Papai Noel às Avessas (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/228581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Puro-Sangue (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/96ySMoicQSbRzecf4bnJQxz1QmO.jpg" group-title="FILMES | COMÉDIA",Puro-Sangue (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/228582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quando Anjos Cantam (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZJ5DUWrVAsPc3GKkliYn4O88Kq.jpg" group-title="FILMES | COMÉDIA",Quando Anjos Cantam (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/228583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Quarteto (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vo4pmWqnGXkcLsHPhjikIjZEVSk.jpg" group-title="FILMES | COMÉDIA",O Quarteto (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/228584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minha Vida Incomoda Muita Gente (2021)" tvg-logo="http://7online.xyz:8080/images/44a9f248c2838926cc2495e59e715b0b.jpg" group-title="FILMES | COMÉDIA",Minha Vida Incomoda Muita Gente (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/237366.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes Faroeste.xml"
 ############## Filmes Faroeste ################# 
@@ -5675,603 +5269,6 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138442.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX: A Ascensão Skywalker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio IX: A Ascensão Skywalker (2019)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/11570.mp4
 
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA FREDDY KRUEGER.xml"
-############## FILMES | COLETÂNEA FREDDY KRUEGER ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA FREDDY KRUEGER" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 1 (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFwAfcDbpUNceH5zWt5kTFp3WyP.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 1 (1984)
-http://7go.xyz:8080/movie/zogbi11/982451290/50789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2 (1985)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/92/36/19962939.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 2 (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/51612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3 (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 3 (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/50791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4 (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 4 (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/50792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5 (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iocHFXQl11gHks4TWyyqHj2OCZv.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 5 (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/50793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 6 (1991) " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwpg0lkkzGKGxD1EqSCGUOpJVQh.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 6 (1991) 
-http://7go.xyz:8080/movie/zogbi11/982451290/50794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 7 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iEVFm2LfUSfYfuctRWPiBEnberd.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 7 (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/50795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 8 (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nYS9MflAMlMgo5JTNpf3aZntVF5.jpg" group-title="FILMES | COLETÂNEA FREDDY KRUEGER",A Hora do Pesadelo 8 (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/50790.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA HARRY POTTER.xml"
-############## FILMES | COLETÂNEA HARRY POTTER ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA HARRY POTTER" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Câmara Secreta (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/312894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Ordem da Fênix (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/312895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Pedra Filosofal (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/312896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 2 (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/312897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 1 (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/312898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2GRZge8h9MNAyqiaR3FWQczARUe.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Cálice de Fogo (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/312899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKNXome5vmnBVQCmpWN8do7Bpa.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Enigma do Príncipe (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/312900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Prisioneiro de Azkaban (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/312901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal 4k (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Pedra Filosofal 4k (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/310403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta 4k (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Câmara Secreta 4k (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/310404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban 4k (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Prisioneiro de Azkaban 4k (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/310405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo 4k (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Cálice de Fogo 4k (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/310406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix 4k (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e a Ordem da Fênix 4k (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/310407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe 4k (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKNXome5vmnBVQCmpWN8do7Bpa.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e o Enigma do Príncipe 4k (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/310408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 4k (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ujSo74ZKMSnV1j6dU2QlRqYywI8.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 1 4k (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/310409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 4k (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 2 4k (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/310410.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA DRAGON BALL.xml"
-############## FILMES | COLETÂNEA DRAGON BALL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA DRAGON BALL" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/scvwYMmVLI5aEBX4efEG9ByjeDu.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/296645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Caminho do Poder (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rFEdH9qtmecGInK5pGSfA980K0B.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: A Caminho do Poder (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/296646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Lenda de Shenlong (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: A Lenda de Shenlong (1986)
-http://7go.xyz:8080/movie/zogbi11/982451290/296647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Episódio de Bardock (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/56jXhWYCijKx3tMgAMFmvuWV2FI.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: Episódio de Bardock (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/296648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Uma Aventura Mística (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5Vq24AD4TEFvQjPWOQyQKZTri.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball: Uma Aventura Mística (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/296649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragonball Evolution (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/23PcKOqNdhKeMFzORzQGn5eC44N.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragonball Evolution (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/296650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT: O Legado de um Herói (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2u09FiAuyMdS6EzOi7FH0ULciys.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball GT: O Legado de um Herói (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/296651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tuay76gZt7kOIb806hTzIktsQDT.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Super: Broly (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/296652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Árvore do Poder (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sIdT0MMmpDoiviPw0YSLajj5cHP.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: A Árvore do Poder (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/296653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha dos Deuses (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8ZL7ALPQWqvlg0FPE2fgdXOkR.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: A Batalha dos Deuses (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/296654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha nos Dois Mundos (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: A Batalha nos Dois Mundos (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/296655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Bardock, O Pai de Goku (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/TQtQcckcXwkWxcij6JxJiyVXkG.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Bardock, O Pai de Goku (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/296656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Broly o Lendario Super Saiyajin (1993)" tvg-logo="http://i.imgur.com/c1CxB7w.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Broly o Lendario Super Saiyajin (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/296657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/296658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Goku, o Super Saiyajin (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Goku, o Super Saiyajin (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/296659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Ataque do Dragão (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Ataque do Dragão (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/296660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Combate Final - Bio-Broly (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Combate Final - Bio-Broly (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/296661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Homem Mais Forte do Mundo (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/296662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Renascimento de Freeza (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oth0VBziwe25mDzkJ6XzwmUCCDC.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Renascimento de Freeza (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/296663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Resgate de Gohan (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bgSKtVLW8RPSQc4ovtXLrpReCAT.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Resgate de Gohan (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/296664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno de Cooler (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lvlHl1IFBdBfnLA4sgyjdqeyIEU.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Retorno de Cooler (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/296665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno do Guerreiro Lendário (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aVlkvo8FvttSFPuJ7y9QO0jCYMG.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Retorno do Guerreiro Lendário (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/296666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno dos Andróides (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6O0cgVpYbYeiw0kwjY8h93sUuL.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: O Retorno dos Andróides (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/296667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Uma Nova Fusão (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Uma Nova Fusão (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/296668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Uma Vingança Para Freeza (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg" group-title="FILMES | COLETÂNEA DRAGON BALL",Dragon Ball Z: Uma Vingança Para Freeza (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/296669.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA DENZEL WASHINGTON.xml"
-############## FILMES | COLETÂNEA DENZEL WASHINGTON ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA DENZEL WASHINGTON" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Tragédia de Macbeth  (2021)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOW4dWoOvGpgj0Pld4sjMGkvK6L.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",A Tragédia de Macbeth  (2021)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vingança  (2004)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Chamas da Vingança  (2004)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Filadélfia  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTkuPK66Aw9e8niPr8F7IgXzFU6.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Filadélfia  (1993)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogada Decisiva  (1998)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7OMD0iXpc0ut09YYuRwjt326nr2.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Jogada Decisiva  (1998)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais e Melhores Blues  (1990)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/223W6PWAiYb3BX2rbFvzjbDDIvz.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Mais e Melhores Blues  (1990)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nova York Sitiada  (1998)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uiA5M3ObLhO7haTFXL0I1iZhAOi.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Nova York Sitiada  (1998)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Livro de Eli  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Livro de Eli  (2010)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Protetor 2  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Protetor 2  (2018)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Dossiê Pelicano  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b7MwjwDa38FCsKh0HIfT2VqtdaA.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Dossiê Pelicano  (1993)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Pequenos Vestígios  (2021)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1KNf7qHuce6U39Iygxz9fYRv0ny.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Os Pequenos Vestígios  (2021)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Protegendo o Inimigo  (2012)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A5rFBuNyH5LdZiR20FPYu6fJSfl.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Protegendo o Inimigo  (2012)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tempo de Glória  (1989)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mGfE62Tzbwcumt4lgrnnALJsspO.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Tempo de Glória  (1989)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Ato de Coragem  (2002)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7dWsdTjfnNi6OAuXZSYYL8UkG9d.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Um Ato de Coragem  (2002)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Limite Entre Nós  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ymzdsNVg0NhXB72nfWHXE2TShq.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Um Limite Entre Nós  (2016)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino Virtual (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8JQuPMFQgclIF7jj0TZEDpYaEgY.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Assassino Virtual (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/296716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dose Dupla (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u5X9qjUfIZDmlVJXJ7xJVyyHZFa.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Dose Dupla (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/296717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Muito Barulho Por Nada (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMU3oUyaMr1fuCBTpBAxMxAJwCE.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Muito Barulho Por Nada (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/296718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Sequestro do Metrô 1 2 3 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFU7CYHAaiOYN7nLCRgw60fIkJR.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Sequestro do Metrô 1 2 3 (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/296719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Por um Triz (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c4FI4ROtSovWoz17RJZvJUrEDaU.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Por um Triz (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/296720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Possuídos (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7xYrZ3BzABH32vKLNTNDk8n8oEB.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Possuídos (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/296721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coragem Sob Fogo (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/36PYl9U2m58ZNpCvKAeSdD8Zntl.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Coragem Sob Fogo (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/296722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hurricane: O Furacão (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/55v0hmCSU6EwnsCLkWsy9MUVrB1.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Hurricane: O Furacão (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/296723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm X (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ttcqfFRLsGxStkTd5YjfMD2uKv0.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Malcolm X (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/296724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roman J. Israel (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ciq2V1G4dj3GLFBfQGY1gqvPcbK.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Roman J. Israel (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/296725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maré Vermelha (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xsUP5CRd100Rl2cwGcADCBQJ571.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Maré Vermelha (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/296726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Anjo em Minha Vida (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/29lc7HgBCMqFQwYiS34TA8maTfV.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Um Anjo em Minha Vida (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/296727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Diabo Veste Azul (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/noFr1oa56dcbMgACpiK3NSMeW3Q.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",O Diabo Veste Azul (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/296740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sob o Domínio do Mal (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2un9WXrDwhcsyhu5Y5VreyFz9Ot.jpg" group-title="FILMES | COLETÂNEA DENZEL WASHINGTON",Sob o Domínio do Mal (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/296741.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA BRINQUEDO ASSASSINO.xml"
-############## FILMES | COLETÂNEA BRINQUEDO ASSASSINO ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA BRINQUEDO ASSASSINO" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Chucky (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",A Maldição de Chucky (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/295470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noiva de Chucky (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e3vZH4CFaz6QImytJ1V9IBD5LFT.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",A Noiva de Chucky (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/295471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ZOwMoz3wCXM6sdMWgZRYWBNlvI.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/295472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lWyPivHZD7M3itErgedllY2Vfu8.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/295473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino 2 (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAA6XeDXsSOTfztEOlXU25leen.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino 2 (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/295474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino 3 (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",Brinquedo Assassino 3 (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/295475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Culto de Chucky (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sPwKVpuWmw9OAhs9hgxVf2n3P7Y.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",O Culto de Chucky (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/295476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Filho de Chucky (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7vVEDLt4rFYTxZRPeRGEv7QbNQ.jpg" group-title="FILMES | COLETÂNEA BRINQUEDO ASSASSINO",O Filho de Chucky (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/295477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Morte por Encomenda (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7MJJOBDlk1f0krmigW25gXXjGH4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Morte por Encomenda (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/296478.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA NICOLAS CAGE.xml"
-############## FILMES | COLETÂNEA NICOLAS CAGE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA NICOLAS CAGE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Con Air: A Rota da Fuga (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yZkSkcXTZhTIfZOSXMkYcnIKne.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Con Air: A Rota da Fuga (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/297580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coração Selvagem (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4WjmqlAZ5CatX1nblAWoQSxlBbV.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Coração Selvagem (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/297603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feitiço da Lua (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ablr2IqIxnK6UpNh3ori1Lsr4xM.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Feitiço da Lua (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/297604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peggy Sue, Seu Passado a Espera (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bi4RVMemokr8b0FBqsMsASqot1E.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Peggy Sue, Seu Passado a Espera (1986)
-http://7go.xyz:8080/movie/zogbi11/982451290/297605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Nunca Mais (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b0YuT50odGkaIH4TozEiQ53x5E1.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Arizona Nunca Mais (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/297609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Peso do Talento (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l814mpV0kU3TH3HfZpgKM62zRan.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Peso do Talento (2022)
-http://7go.xyz:8080/movie/zogbi11/982451290/296620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pacto (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ala7fREE1zkHpHLs2aqWvZI6Gcq.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Pacto (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/296479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma História de Vingança (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51W4AML1JKttnOcDVYqFRegwN4O.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Uma História de Vingança (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/296480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adaptação. (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbVczZMHp7nUnXi6na6r0wt3m2v.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Adaptação. (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/296481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lua-de-Mel a Três (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9wlE3DYWV3FugLpgtCxTJJ4urJr.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Lua-de-Mel a Três (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/296482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vício Frenético (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9AcjcR5qBVWPnVgtR5fCDU3HVhv.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Vício Frenético (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/296483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida de David Gale (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6t0oHdTRxO2sE1fCJZbyz8Of4ah.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Vida de David Gale (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/296484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escorpião Apaixonado (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTlVYIvWAbYk8lFKM2oCOxE4C94.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Escorpião Apaixonado (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/296485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tinta Bruta (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6zW8OKgJKaO5JHzZe6geZd2vpgT.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Tinta Bruta (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/296486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vivendo no Limite (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bQBJTezKYDymTUjrMkyD9ScwzV.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Vivendo no Limite (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/296487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estado de Calamidade (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rOs4ljOxJSi5QkQZNl2hJtqWw4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Estado de Calamidade (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/296488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="8mm: Oito Milímetros (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yoFWiOhMvTvGdunXuRhiZMscldV.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",8mm: Oito Milímetros (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/296489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desejo Inconcebível (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbg0UKmSstQVOSzugekIxoUPoiP.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Desejo Inconcebível (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/296490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olhos de Serpente (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9pk2i4gtijLxpKUZfwR1GZn0Yer.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Olhos de Serpente (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/296491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Resgate (2012)" tvg-logo="http://i.imgur.com/l4d7Ou4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Resgate (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/296492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reféns (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efX07bLvFpKOcxnE3Dx3t67qeOI.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Reféns (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/296493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sangue no Gelo (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r4vU0m1u0qA13w80SCz18XPQIhW.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Sangue no Gelo (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/296494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/igeyazOK26e0RSG0uiOYiDWHi1.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",211 - O Grande Assalto  (2018)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="60 Segundos  (2000)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1OUMxMVTPgQCyxB4DzIm63MDgT5.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",60 Segundos  (2000)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Cor Que Caiu do Espaço  (2019)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ilha  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wMK1SeyE1MgEuemnmqPQeKiyMLQ.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Ilha  (2019)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Face  (1997)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/loR8prjWhkOdufD1rfREpXQsrNJ.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Outra Face  (1997)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Rocha  (1996)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/juqEMUcEZDNMo5AowLr0r4NwSSN.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Rocha  (1996)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Sacada  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ee5J28ROmg59WqTmA61W1fTKfCT.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",A Sacada  (2016)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azlbmSi6K8pVY2jGZmfCZxxlSQb.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Ajuste de Contas  (2019)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Torres Gêmeas  (2006)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5djg3by4JzaOM4OXmJxHLjXv7mS.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",As Torres Gêmeas  (2006)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caça às Bruxas  (2011)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oNyEYVm295JdZXbRi40XcqjOs7G.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Caça às Bruxas  (2011)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Anjos  (1998)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iUcDXPGWNLqKkFmmcoK3uri6BjE.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Cidade dos Anjos  (1998)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Entre Mundos  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1z1OVCvzdqkgeYZvZCqhznUzYf2.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Entre Mundos  (2018)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria  (2014)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pAZJoPuiKDWoPWHAucF1WWfzDjY.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Fúria  (2014)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria Sobre Rodas  (2011)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ysYTf7VEPAtHWDgBMqqfsKWKadF.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Fúria Sobre Rodas  (2011)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homens de Coragem  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xImr3Z2Q537XcgPAd16oLh7Dcg7.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Homens de Coragem  (2016)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Instinto Predador  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/awFeMJIo2KibIBCrzcsgmcZnMHf.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Instinto Predador  (2019)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jiu Jitsu  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Jiu Jitsu  (2020)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass: Quebrando Tudo  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Lw92onUVD9eg04JltAas5KWkSy.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Kick-Ass: Quebrando Tudo  (2010)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mandy: Sede de Vingança  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fSruOTrU6rnEZbAutI7iBNry39y.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Mandy: Sede de Vingança  (2018)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma  (2007)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vVGVlwRrvVgLPE98rwo8jo3QC2b.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Motoqueiro Fantasma  (2007)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 2: Espírito de Vingança  (2011)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxJHiuynVltsIUfGuKg9ZjvXC3r.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Motoqueiro Fantasma 2: Espírito de Vingança  (2011)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mãe e Pai  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Yr4gZCPGcqx4LskxEe7wlOQm43.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Mãe e Pai  (2018)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Na Rota do Tráfico  (2019)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2TweQ9ZDg8orvgwnNKRq9f4ceiu.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Na Rota do Tráfico  (2019)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Apocalipse  (2014)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/FsBEXPUgnctmwWuWvUIFNplrLI.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Apocalipse  (2014)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Espelho  (2018)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gF7xD5zASWlPZ2Uf50W2JFw7e3i.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Espelho  (2018)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor das Armas  (2005)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yLxbDZ1h7wbHo7mkyX5AR9hjODe.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Senhor das Armas  (2005)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vidente  (2007)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hF2pgtetdZ1VseXvVcy92s5lf5l.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Vidente  (2007)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pig: A Vingança  (2021)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oTM03kSBfEh3269wyJviHOnvMi8.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Pig: A Vingança  (2021)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Presságio  (2009)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sAoT6HbmA3Va15Oa7ecC0XSb0N4.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Presságio  (2009)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Regresso do Mal  (2015)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah2e9jcm2ySJq6pFvIgIX4KcVvi.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Regresso do Mal  (2015)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Homem de Família  (2000)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5NhCKNzua21rQYiFNq7t4kUyHv.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Um Homem de Família  (2000)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingança ao Anoitecer  (2014)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wCplekYqgvhJzeLV0FVCKmITo0f.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",Vingança ao Anoitecer  (2014)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Aprendiz de Feiticeiro  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3S6qfz9lDpJGZygIbeH2Qt6Hwlf.jpg" group-title="FILMES | COLETÂNEA NICOLAS CAGE",O Aprendiz de Feiticeiro  (2010)*
-http://7go.xyz:8080/movie/zogbi11/982451290/296617.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA JIM CARREY.xml"
-############## FILMES | COLETÂNEA JIM CARREY ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA JIM CARREY" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: Um Detetive Diferente (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcxU6P1Yts1cugEKZg67IBtoh5J.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Ace Ventura: Um Detetive Diferente (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/221484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na África (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ai9kRyLHUIdmvWKHTl4NSi0Ghsw.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Ace Ventura 2: Um Maluco na África (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/221485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Loucuras de Dick & Jane (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5g03eRFOILs4crO6vUCWehdzKto.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",As Loucuras de Dick & Jane (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/221486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crimes Obscuros (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ6L3pV1yKWqYPGv5WZkJE18s8.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Crimes Obscuros (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/221487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desventuras em Série (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyMKPAG56T8SkiwMrmkkB6Gqmc.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Desventuras em Série (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/221488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu, Eu Mesmo & Irene (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzoeXKICGubWgdQ0EYRNZceVpPs.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Eu, Eu Mesmo & Irene (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/221489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Golpista do Ano (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3nWpKhkzWg6TeXLm5J4PQk3aTdo.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Golpista do Ano (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/221490.avi
-#EXTINF:-1 tvg-id="" tvg-name="O Grinch (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Grinch (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/221491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Mágico Burt Wonderstone (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s9YtHivf0wdl8UgifsgecuV7oPZ.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Incrível Mágico Burt Wonderstone (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/221492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Máskara (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zLLC7AldfrYUot7lsw3ePFSs87e.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Máskara (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/221493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentiroso (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9fViD1rsvp95an7PN0oj3dqGIk0.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Mentiroso (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/221494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Show de Truman - O Show da Vida (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbPTCnxQgEsWdetEcPiaKstX7mp.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",O Show de Truman - O Show da Vida (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/221495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins do Papai (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5CQex1Y1OAidPIhd3HJAxA5PPY.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Os Pinguins do Papai (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/221496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sim Senhor (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vP7CLW9G6HCSwUKVJiEDmRC1eeV.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Sim Senhor (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/221497.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Sonic: O Filme (2020)
-http://7go.xyz:8080/movie/zogbi11/982451290/221498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Todo Poderoso (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wcA8udbEqqU5tPzsyqyZCDX6OwI.jpg" group-title="FILMES | COLETÂNEA JIM CARREY",Todo Poderoso (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/221499.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA PLANETA DOS MACACOS.xml"
-############## FILMES | COLETÂNEA PLANETA DOS MACACOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA PLANETA DOS MACACOS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="http://7online.xyz:8080/images/89e2854df35ad356ff6a435b52f25a17.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",A Batalha do Planeta dos Macacos (1973)
-http://7go.xyz:8080/movie/zogbi11/982451290/222879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",A Conquista do Planeta dos Macacos (1972)
-http://7go.xyz:8080/movie/zogbi11/982451290/222880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta dos Macacos (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bZt5dYtbIZ03apuexPHvjrOI6vI.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",A Fuga do Planeta dos Macacos (1971)
-http://7go.xyz:8080/movie/zogbi11/982451290/222881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Planeta dos Macacos (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3uyXDKSVhE5Ls37NXymvbUiBNgh.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",De Volta ao Planeta dos Macacos (1970)
-http://7go.xyz:8080/movie/zogbi11/982451290/222882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Planeta dos Macacos (1968)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wTYTjSUqdra9WKzp7w2aOwYDosS.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",O Planeta dos Macacos (1968)
-http://7go.xyz:8080/movie/zogbi11/982451290/222883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmv5Q5rjbO2wMveB1UC31prOCKH.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/222884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Guerra (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n336SuXSxpQkrzWJbSAeWFcKWy4.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos: A Guerra (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/222885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Origem (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos: A Origem (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/222886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Confronto (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="FILMES | COLETÂNEA PLANETA DOS MACACOS",Planeta dos Macacos: O Confronto (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/222887.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA WILL SMITH.xml"
-############## FILMES | COLETÂNEA WILL SMITH ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA WILL SMITH" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="http://7online.xyz:8080/images/d27dff3fa723b61d04f317980971e541.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Aladdin (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/202832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Procura da Felicidade (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hKIzxWRb391Tu7uXIwYkINs8FQ9.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",À Procura da Felicidade (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/202833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Loucas Aventuras de James West (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQhm5OYC2e0iJcbVTf9QeDLeDD.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",As Loucas Aventuras de James West (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/202834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Oculta (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Beleza Oculta (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/202835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bright (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Bright (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/202836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Suicida (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4UNw4Z105Eke1b4Eb1zldym9R6.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Esquadrão Suicida (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/202837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu, Robô (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2I8b8SScgbVONX0LCURG8O184Dy.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Eu, Robô (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/202838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Golpe Duplo (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7kFmz3geXBWtBI5MivEepLcxXdv.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Golpe Duplo (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/202840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hancock (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/anUAnDorLJe0J2o9b0Wh3FTxJ7r.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Hancock (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/202841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hitch: Conselheiro Amoroso (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7a7DIl75TFwkTik69QfZ5798BsO.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Hitch: Conselheiro Amoroso (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/202842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Independence Day (1996)" tvg-logo="https://3.bp.blogspot.com/-zV8QVelV32o/WxBf7_wlo3I/AAAAAAAAnE0/4HQJXPYA57cykS_5C77sHcwvPhLdd9b-ACLcBGAs/s1600/Filme-Independence-Day_1996.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Independence Day (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/202843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Independence Day: O Ressurgimento (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fpQEX5OrVfI6KftsuqpGTapKYpT.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Independence Day: O Ressurgimento (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/202844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inimigo do Estado (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Inimigo do Estado (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/202845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lendas da Vida (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nTVLPngFKrGwugB2S4ShzerxzLR.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Lendas da Vida (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/202846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tMhMdsz9KFSh4ZrJQ8KWPksd305.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Os Bad Boys (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/202847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys 2 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Os Bad Boys 2 (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/202848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini (2019)" tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/23/16/16/5129967.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Projeto Gemini (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/202849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sete Vidas (2008)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/67/04/20157103.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Sete Vidas (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/202850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Um Homem Entre Gigantes (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n8dQeUiQPs46U9nRSJdMsiXth69.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Um Homem Entre Gigantes (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/202851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Depois da Terra (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdYNQ5PKM8UjdgAkPmzbiEbeP3.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Depois da Terra (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/202853.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA JASON STATHAM.xml"
-############## FILMES | COLETÂNEA JASON STATHAM ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA JASON STATHAM" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina (2006)" tvg-logo="http://7online.xyz:8080/images/0fddd86074b4a6d23d747a7dfc637917.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Adrenalina (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/197108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pwRgEGp20c7hlmOvQ92YUjhHUUL.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Adrenalina (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/197109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espiã Que Sabia de Menos (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bft6EuB96z0ureK832edqwAplDS.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",A Espiã Que Sabia de Menos (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/197110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbO2OzFiWt9cEjgZfSOnp75ihGE.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Assassino a Preço Fixo (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/197111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino a Preço Fixo 2 - A Ressurreição (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uNdYyWMMpEHWsMALjko1QCpAZVM.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Assassino a Preço Fixo 2 - A Ressurreição (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/197112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blitz (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Blitz (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/197113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Caos (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wSZYVssIv4kjRJuyimzc1gBJC2e.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Caos (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/197114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carga Explosiva (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/197115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 2 (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nNMJ8d5ZUTFxwP00DqxhqczB8z.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carga Explosiva 2 (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/197116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 3 (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carga Explosiva 3 (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/197117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Celular: Um Grito de Socorro (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zd5AwX7hWNcSnceDuT5dAh1mVap.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Celular: Um Grito de Socorro (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/197118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Corrida Mortal (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/197120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Efeito Dominó (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Efeito Dominó (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/197121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome do Rei (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbfwKoLtwTAm6SBAli2sfNMrgnV.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Em Nome do Rei (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/197122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasmas de Marte (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/35Bg0I2aTB1j3Ugcw02y9T5nTQx.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Fantasmas de Marte (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/197123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carta Selvagem (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sds4vLBYJVVJCuZFso7YMIS9yGz.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Carta Selvagem (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/197124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogos, Trapaças e Dois Canos Fumegantes (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4qu5iaezyfO0aaoJZIX54nYLEcN.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Jogos, Trapaças e Dois Canos Fumegantes (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/197125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Linha de Frente (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3o0rqlEtF04y4atsc9VaH7DDvCq.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Linha de Frente (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Megatubarão (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Megatubarão (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/197127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Código (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",O Código (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/197128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Especialistas (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/60q5ai3Zjc9ujFcCMOvgmp4EWhC.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Os Especialistas (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/197129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Parker (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fV3bgxC3rlb02eGb7KlOVysiL7e.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Parker (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Redenção (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m45B2WyGngShxVfn7X0rv5Hn0TO.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Redenção (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Revólver (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rzpUAdFdZr8Zoxx0LZrl1da0e15.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Revólver (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/197132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rogue - O Assassino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68Bu8QIYcpv3XZZkrUoqQFfwfHx.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Rogue - O Assassino (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/197133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Snatch: Porcos e Diamantes (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Zl4DRxSv1Lk43kMIHnVoy1UsOK.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Snatch: Porcos e Diamantes (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/197134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Saída de Mestre (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ3kCbJ19LHXtVWuWMpy88mFnSO.jpg" group-title="FILMES | COLETÂNEA JASON STATHAM",Uma Saída de Mestre (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/197135.mp4
-
-
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA SYLVESTER STALLONE.xml"
-############## FILMES | COLETÂNEA SYLVESTER STALLONE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA SYLVESTER STALLONE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Rocky: Um Lutador (1976)" tvg-logo="http://7go.xyz:8080/images/b89880020ff813905ce3199607c67150.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky: Um Lutador (1976)
-http://7go.xyz:8080/movie/zogbi11/982451290/275772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 2: A Revanche (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7zw9qyckcMnwwXAVkkWVsjgWkJG.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 2: A Revanche (1979)
-http://7go.xyz:8080/movie/zogbi11/982451290/275773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 3: O Desafio Supremo (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ld5nRxC99l082bkcM9tjcB4nuLu.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 3: O Desafio Supremo (1982)
-http://7go.xyz:8080/movie/zogbi11/982451290/275774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 4 (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7vNpJ1EpPWO0smF8NQuGKD6ezgC.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 4 (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/275775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 5 (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky 5 (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/275776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rocky Balboa (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/275777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Sou a Lenda (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="FILMES | COLETÂNEA WILL SMITH",Eu Sou a Lenda (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/276023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg" group-title="FILMES | COLETÂNEA MONSTROS",Godzilla vs. Kong (2021)
-http://7go.xyz:8080/movie/zogbi11/982451290/276988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daylight (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zScSPfX5V7rBalI6QH71zC2wv75.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Daylight (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/276990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="D-Tox (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AdLg3zOxCcyWQYKSK86q20dibq.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",D-Tox (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/276992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falcão: O Campeão dos Campeões (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uEf1CrF8sH3vSXbYIggoinf48ch.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Falcão: O Campeão dos Campeões (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/276994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassinos (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7R67Xk5JjfGoBo2Z4MV33nfJg2k.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Assassinos (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/197173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Condenação Brutal (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fDyEClXTDc13iEXjEZaw6mNb4uy.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Condenação Brutal (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/197175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Creed 1 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Creed 1 (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/197176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Creed 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Creed 2 (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/197177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Memória de um Crime (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ht1TuxKV4fMlHdPetWaQdgwiMwT.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Memória de um Crime (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/197181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Demolidor (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2BjAYQNwmdIZF6XQQ2rLOrios1Q.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",O Demolidor (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Juiz (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVLxNo53QniZxxRaYPB3vY7PRFN.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",O Juiz (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/197185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários  (2010)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Os Mercenários  (2010)*
-http://7go.xyz:8080/movie/zogbi11/982451290/197186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 2 (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Os Mercenários 2 (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/197187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Mercenários 3 (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Os Mercenários 3 (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/197188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pare! Senão Mamãe Atira (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yrXGOipP4EKTRrqyVvohTAkKUQj.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Pare! Senão Mamãe Atira (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/197189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo: Até o Fim (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/197190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo: Programado Para Matar (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dDJ4YOz7baCHH6ZJPut9NcCgNl1.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo: Programado Para Matar (1982)
-http://7go.xyz:8080/movie/zogbi11/982451290/197191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo II - A Missão (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/442nYP16rpQ2bXduWponkvTXJRa.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo II - A Missão (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/197192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8VcaFbhUnYb6R4Nbhk9tXlcP5j1.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo III (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/197193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo IV (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2NbmBzgG1chI3fS31HHfZEEsApw.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rambo IV (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/197194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8InLtl6o9Wrpn5opSHi9Y6wJ4RS.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rota de Fuga (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2: Hades (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rota de Fuga 2: Hades (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/197203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 3: O Resgate (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wTqlEF01SGo4QONor55zUPxHZGP.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Rota de Fuga 3: O Resgate (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/197204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tango & Cash: Os Vingadores (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/deFrMSvzHEhpBxSdKGy1qCul5YC.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Tango & Cash: Os Vingadores (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/197206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oscar: Minha Filha quer Casar (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/widMJZSqK0xEVSnkU8Cj2mJg3YM.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Oscar: Minha Filha quer Casar (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/197207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ajuste de Contas (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gRqX1Mw5ozOVUawihiTi91NTWUA.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Ajuste de Contas (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidade (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vMkqEUjOfzKbfosmYAatU3j9cFI.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Alta Velocidade (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/197209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cop Land: Zona Exclusiva  (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/exQb8Fhi0IdJkFkxktgaH69tVMc.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Cop Land: Zona Exclusiva  (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/197210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corrida da Morte - Ano 2000  (1975)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rYuHDUUxdqulG8Imp96OZfRxoUA.jpg" group-title="FILMES | COLETÂNEA SYLVESTER STALLONE",Corrida da Morte - Ano 2000  (1975)*
-http://7go.xyz:8080/movie/zogbi11/982451290/295440.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA STEVEN SEAGAL.xml"
-############## FILMES | COLETÂNEA STEVEN SEAGAL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA STEVEN SEAGAL" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arma Perfeita (2016)" tvg-logo="http://7online.xyz:8080/images/ab4a53ba60eeed8efccdbbc60526a00a.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",A Arma Perfeita (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/197211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Força em Alerta (1992)" tvg-logo="http://7online.xyz:8080/images/8a6690ef02fc309906de7bc2ab8f69b2.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",A Força em Alerta (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/197212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Força em Alerta 2 (1995)" tvg-logo="http://7online.xyz:8080/images/74d48bf0b7418a6e4abc2a054f150af3.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",A Força em Alerta 2 (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/197213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Anjo da Morte (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjyIKWyq7wUDvRsfuXra9xiQlJ8.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",O Anjo da Morte (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Comando Justiceiro (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Comando Justiceiro (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/197215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conexão Ásia (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u6TUXvmU7dUC5EbFR7sQVH8EaJT.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Conexão Ásia (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/197216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Código de Honra (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pwWTkjLz5J0iYuHydyEvY70eUMV.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Código de Honra (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/197217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Difícil de Matar (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/HO311qbMh7K7PkzNFwTZ5ta961.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Difícil de Matar (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/197218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fim da Linha (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5PJKK0NP3cyoZMmcB8tLeGBgZPU.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Fim da Linha (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/197219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fúria Mortal (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9dNHkE7Cvu1iA71htSdvu2z1v2z.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Fúria Mortal (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/197220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Machete (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Machete (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/197221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Marcado para a Morte (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ughBSi4W0TQayPlhoVCxEk9Dn0.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Marcado para a Morte (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/197222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Final (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gxrpqPNp0kIelMYCVOdVAWPUfGD.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Missão Final (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/197223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Momento Crítico  (1996)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a66CzP8LgZPUmkmQag3rKogTC4T.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Momento Crítico  (1996)*
-http://7go.xyz:8080/movie/zogbi11/982451290/197224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nico, Acima da Lei (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7FtAtGBiwLRhco70zlzNMC9cguG.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Nico, Acima da Lei (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/197225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vendedor Chinês (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLQ9Ugvc3DjkZrLFojpgY6OZowr.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",O Vendedor Chinês (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/197227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sniper: Operações Especiais (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mdzK6VzX0NYDvYvMw5Gy8ojHtgB.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",Sniper: Operações Especiais (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/197229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Forasteiro  (2003)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/esfi6vzwvq5M6H5OisFvG58mSvt.jpg" group-title="FILMES | COLETÂNEA STEVEN SEAGAL",O Forasteiro  (2003)*
-http://7go.xyz:8080/movie/zogbi11/982451290/295441.mp4
-
 #EXTM3U url-tvg="http://grade-de-FILMES  COLETÂNEA JACKIE CHAN.xml"
 ############## FILMES  COLETÂNEA JACKIE CHAN ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETÂNEA JACKIE CHAN" group-title="
@@ -6296,6 +5293,7 @@ https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1
 https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Agentes Vanguard  (2020)*
 http://7go.xyz:8080/movie/zogbi11/982451290/277876.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Fora do Rumo  (2016)*
@@ -6506,6 +5504,37 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Eu Sou Bruce Lee (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Eu Sou Bruce Lee (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/51105.mkv
 
+#EXTM3U url-tvg="http://grade-de-Filmes 007.xml"
+############## Filmes 007 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes 007" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra Spectre - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="Filmes 007",007 Contra Spectre - 2015
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Filmes 007",007: Cassino Royale (2006)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/181840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra a Chantagem Atômica - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="Filmes 007",007: Contra a Chantagem Atômica - 1965
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra Goldfinger - 1964" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg" group-title="Filmes 007",007: Contra Goldfinger - 1964
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra o Foguete da Morte - 1979" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLIklqHcFZzRKi2mJjRfiI50lzJ.jpg" group-title="Filmes 007",007: Contra o Foguete da Morte - 1979
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra o Satânico Dr. No - 1962" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UJTUYIyXqHMvcVa9YFj1aQiZTm.jpg" group-title="Filmes 007",007: Contra o Satânico Dr. No - 1962
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Nunca Mais Outra Vez - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uULahg7URW4DjPq0fANgHEw1uHC.jpg" group-title="Filmes 007",007: Nunca Mais Outra Vez - 1983
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: O Espião Que Me Amava - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZss61yM6uKT2KU1aGX7W8ElsPE.jpg" group-title="Filmes 007",007: O Espião Que Me Amava - 1977
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="Filmes 007",007: Operação Skyfall - 2012
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Os Diamantes São Eternos - 1971" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0UhYapEWDcrgDgKvRKHZMyv4z6.jpg" group-title="Filmes 007",007: Os Diamantes São Eternos - 1971
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="Filmes 007",007: Quantum of Solace - 2008
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="Filmes 007",007: Sem Tempo para Morrer (2021)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/198450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Um Novo Dia para Morrer - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg" group-title="Filmes 007",007: Um Novo Dia para Morrer - 2002
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24422.mp4
+
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA VAN DAMME.xml"
 ############## FILMES | COLETÂNEA VAN DAMME ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA VAN DAMME" group-title="
@@ -6629,6 +5658,8 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50976.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/41263.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Velozes  Furiosos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="FILMES | COLETÂNEA VELOZES E FURIOSOS", Velozes  Furiosos - 2003
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/156579.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
 http://7go.xyz:8080/movie/zogbi11/982451290/41261.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
@@ -6838,6 +5869,145 @@ https://seig.tv/11/1/89b84379788d01ea06fc7dc1867aa09c/720p/720p.m3u8
 
 #EXTINF:1 tvg-logo="https://m.media-amazon.com/images/I/61qFB+qgWVL._AC_SX522_.jpg" group-title="FAX AUTISMO",Rain Man  Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um “beneficiário” tinha herdado três milhões de dólares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irmão Raymond (Dustin Hoffman), cuja existência ele desconhecia. Autista, Raymond é capaz de calcular problemas matemáticos com grande velocidade e precisão. Charlie sequestra o irmão da instituição onde ele está internado para levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois entenderão o significado de serem irmãos.
 https://sg.wptute.com/videoplayback/SjlzYS9FMHVJSCt6UWRabGpONFJZNDhDWXBhWk1NZTl5T3RyTGFDZ2JLczFpdFFRWnVkL3lQa1BXbDhaa09VSG9TK2FTSjMxazRwRHVpN0lLQ1BPakE9PQ,,/original/?token=a2hha2NwR3hGNTltbVYrMlltRGVBQi8xbUl4RDhQRWpJZHdSOXEzYzIxbjFVN1BLaTRvcmpkS2tpL0JRdXRwY3VsMzFxSGw5Qm0zdnp1RDR2b0VqS0E9PQ,,
+
+#EXTM3U url-tvg="http://grade-de-CANAIS | PLUTO TV.xml"
+############## CANAIS | PLUTO TV ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | PLUTO TV" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - A vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - A vida moderna de Rocko
+http://7go.xyz:8080/zogbi11/982451290/124049
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Anime
+http://7go.xyz:8080/zogbi11/982451290/116572
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Anime Ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Anime Ação
+http://7go.xyz:8080/zogbi11/982451290/116573
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - As  Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - As  Pistas de Blue
+http://7go.xyz:8080/zogbi11/982451290/124071
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - As Aventuras de Jackie Chan" tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - As Aventuras de Jackie Chan
+http://7go.xyz:8080/zogbi11/982451290/124093
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - BET" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - BET
+http://7go.xyz:8080/zogbi11/982451290/116605
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - BET Being Mary Jane" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - BET Being Mary Jane
+http://7go.xyz:8080/zogbi11/982451290/116604
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Clássicos
+http://7go.xyz:8080/zogbi11/982451290/116574
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Comédia
+http://7go.xyz:8080/zogbi11/982451290/116575
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Drama
+http://7go.xyz:8080/zogbi11/982451290/116576
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Família
+http://7go.xyz:8080/zogbi11/982451290/116577
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Romance
+http://7go.xyz:8080/zogbi11/982451290/116578
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Sucessos
+http://7go.xyz:8080/zogbi11/982451290/116579
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Cine Terror
+http://7go.xyz:8080/zogbi11/982451290/116580
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Comedy Central" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Comedy Central
+http://7go.xyz:8080/zogbi11/982451290/116606
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Comédia" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Comédia
+http://7go.xyz:8080/zogbi11/982451290/116581
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Comédia FailArmy" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Comédia FailArmy
+http://7go.xyz:8080/zogbi11/982451290/123898
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Estilo de Vida
+http://7go.xyz:8080/zogbi11/982451290/116582
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Euronews Português" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Euronews Português
+http://7go.xyz:8080/zogbi11/982451290/124113
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Fashionbox" tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil-1024x1024.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Fashionbox
+http://7go.xyz:8080/zogbi11/982451290/116583
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Fashionstream" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Fashionstream
+http://7go.xyz:8080/zogbi11/982451290/123956
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Filmes Ação
+http://7go.xyz:8080/zogbi11/982451290/116584
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Filmes Nacionais
+http://7go.xyz:8080/zogbi11/982451290/116585
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Filmes Suspense
+http://7go.xyz:8080/zogbi11/982451290/116621
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - FUEL TV
+http://7go.xyz:8080/zogbi11/982451290/124107
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Guia de Canais" tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil-1024x1024.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Guia de Canais
+http://7go.xyz:8080/zogbi11/982451290/116620
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Infantil Babyfirst" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Infantil Babyfirst
+http://7go.xyz:8080/zogbi11/982451290/123897
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Investigação
+http://7go.xyz:8080/zogbi11/982451290/116586
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Jeannie é um Gênio" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Jeannie é um Gênio
+http://7go.xyz:8080/zogbi11/982451290/116619
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Jovem Pan" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Jovem Pan
+http://7go.xyz:8080/zogbi11/982451290/116607
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Junior" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Junior
+http://7go.xyz:8080/zogbi11/982451290/116587
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Kenan & Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Kenan & Kel
+http://7go.xyz:8080/zogbi11/982451290/124082
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - MasterChef" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - MasterChef
+http://7go.xyz:8080/zogbi11/982451290/116611
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Minha Obsessão Favorita" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Minha Obsessão Favorita
+http://7go.xyz:8080/zogbi11/982451290/124112
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - MTV" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - MTV
+http://7go.xyz:8080/zogbi11/982451290/116608
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - MTV Are you the One?" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - MTV Are you the One?
+http://7go.xyz:8080/zogbi11/982451290/116609
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - MTV Biggest Pop
+http://7go.xyz:8080/zogbi11/982451290/116610
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - MTV Com o Ex" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - MTV Com o Ex
+http://7go.xyz:8080/zogbi11/982451290/124130
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - MTV Spankin' New
+http://7go.xyz:8080/zogbi11/982451290/116612
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Naruto
+http://7go.xyz:8080/zogbi11/982451290/116613
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Nick Clássicos" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Nick Clássicos
+http://7go.xyz:8080/zogbi11/982451290/116614
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Nick Jr. Club
+http://7go.xyz:8080/zogbi11/982451290/116598
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Nick Teen
+http://7go.xyz:8080/zogbi11/982451290/116599
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Nosey Escândalos" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Nosey Escândalos
+http://7go.xyz:8080/zogbi11/982451290/116601
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - O Encantador de Cães
+http://7go.xyz:8080/zogbi11/982451290/116602
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - O Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - O Reino Infantil
+http://7go.xyz:8080/zogbi11/982451290/116603
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Paisagens por Stingray" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Paisagens por Stingray
+http://7go.xyz:8080/zogbi11/982451290/116592
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Paramount+" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Paramount+
+http://7go.xyz:8080/zogbi11/982451290/116570
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - PBR RidePass
+http://7go.xyz:8080/zogbi11/982451290/125420
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - People are Awesome" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - People are Awesome
+http://7go.xyz:8080/zogbi11/982451290/116571
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - PLUTO TV Shows por Stingray" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - PLUTO TV Shows por Stingray
+http://7go.xyz:8080/zogbi11/982451290/116595
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - PLUTO TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - PLUTO TV Séries
+http://7go.xyz:8080/zogbi11/982451290/116596
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Porta dos Fundos" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Porta dos Fundos
+http://7go.xyz:8080/zogbi11/982451290/116615
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - RECORD NEWS
+http://7go.xyz:8080/zogbi11/982451290/116593
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Retrô" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Retrô
+http://7go.xyz:8080/zogbi11/982451290/116594
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Tastemade" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Tastemade
+http://7go.xyz:8080/zogbi11/982451290/116616
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - The Pet Collective
+http://7go.xyz:8080/zogbi11/982451290/123935
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Tokusato
+http://7go.xyz:8080/zogbi11/982451290/116617
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Turma da Mônica " tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Turma da Mônica 
+http://7go.xyz:8080/zogbi11/982451290/124070
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - TV Karaokê por Stingray
+http://7go.xyz:8080/zogbi11/982451290/116588
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - TV Kids
+http://7go.xyz:8080/zogbi11/982451290/116589
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - TV Mistérios" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - TV Mistérios
+http://7go.xyz:8080/zogbi11/982451290/116590
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - TV Natureza
+http://7go.xyz:8080/zogbi11/982451290/116591
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Vida Real" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Vida Real
+http://7go.xyz:8080/zogbi11/982451290/116597
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Younger" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Younger
+http://7go.xyz:8080/zogbi11/982451290/124106
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV¹ - Filmon 360 Experimental" tvg-logo="https://www.mauriciowebart.com.br/wp-content/uploads/2020/08/pluto-tv-brasil-1024x1024.png" group-title="CANAIS | PLUTO TV",PLUTO TV¹ - Filmon 360 Experimental
+http://7go.xyz:8080/zogbi11/982451290/116622
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Comedy Central South ParK" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Comedy Central South ParK
+http://7go.xyz:8080/zogbi11/982451290/116623
 
 #EXTM3U url-tvg="http://grade-de-plutotv.xml"
 ############## plutotv ################# 
@@ -7287,7 +6457,6 @@ http://meuplay.shop:80/series/828474929852/34882748924/82226.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/82227.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg" group-title="NETFLIX",Hospital Playlist S02 E12
 http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
-
 
 #EXTM3U url-tvg="http://grade-de-SERIES | REALITY SHOWS Largados e Pelados.xml"
 ############## SERIES | REALITY SHOWS Largados e Pelados ################# 
@@ -13887,6 +13056,71 @@ https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-
 ############## FAX  CLIPS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX  CLIPS" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS",Bruno e Marrone [Live 16-05-2020]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133620
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS",Bruno e Marrone [Live 3 sem propagandas]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133624
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS",Bruno e Marrone [Live 4 sem propagandas]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133621
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156621
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136196
+
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Aqui em Casa 1]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136201
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Aqui em Casa 2]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136202
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Aqui na Fazenda]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136198
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Drive-In Na Terra]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136200
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Fun Live]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136199
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Workshow]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136197
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://rd1.com.br/wp-content/uploads/2022/07/20220724-marilia-mendonca-750x422.jpg" group-title="FAX | CLIPS",Marilia Mendonça [Lado B]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136206
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://s2.glbimg.com/WXdTEhT98phmn7iYZNHd63hfs7c=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2022/C/c/B375dFTqOqIUB5z44fnQ/2020-01-22-marilia-mendonca.jpeg" group-title="FAX | CLIPS",Marilia Mendonça [Live Local]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136205
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://s2.glbimg.com/Uyey5sIbDtJsueoI29cAAr7vt4k=/top/e.glbimg.com/og/ed/f/original/2019/07/02/6.jpg" group-title="FAX | CLIPS",Marilia Mendonça [Todos os Cantos]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136204
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.pinimg.com/736x/4a/12/d1/4a12d1804c7f080e0ed1d3dd2e8ac870.jpg" group-title="FAX | CLIPS",Marilia Mendonça [Workshow]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136203
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo e Eduardo Costa [Cabaré]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136589
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136592
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo e Zé Felipe [Pai e Filho]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136590
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo [Canto, Bebo e Choro]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136591
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Jorge e Mateus [Na Praia Hotel]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136193
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Jorge e Mateus [Pelo Amor de Deus]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136194
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Jorge e Mateus [Sunset]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136195
+#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="FAX | CLIPS",Henrique e Juliano [Live Liberdade Provisória]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133623
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Buteco em BH]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136189
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Buteco Em Casa 1]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136192
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Embaixador no Agronegócio]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136188
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Especial São João]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136191
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Festa do Peão Barretos]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136190
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [YouTube Music]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136187
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.imgur.com/KgxuZMT.png" group-title="FAX | CLIPS",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133628
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Eduardo Costa [Aqui em Uberlândia]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136588
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Eduardo Costa [Especial Dia dos Namorados]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136587
 
 #EXTINF:-1 tvg-id="" tvg-name=" Tina Turner Live in Rio 1988 "  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner Live in Rio 1988
 https://proxy-12.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SXYZh0rUZhBWvWUth3ykPgc9WOBuuXUwCnN_f-8N-JB8vrAv3oOyRZXkbIeyHy3R7L8pEG4XUsdzSbCs6hkpQwY)/video/779/189/124981977_mp4_h264_aac_2.m3u8#cell=nyc
@@ -14481,6 +13715,152 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/180
 http://meuplay.shop:80/67598237854pw/9875352849pw/188
 #EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GERAÇÃO FUNK FM (RADIOS)
 http://meuplay.shop:80/67598237854pw/9875352849pw/191
+
+#EXTM3U url-tvg="http://grade-de-Rádios.xml"
+############## Rádios ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRádios" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Rock To You" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rock To You
+http://apkwuv.xyz:80/cristina2021/graniptv2005/141040
+#EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Edmonton CHEDAM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143730
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Cidade das Águas 101.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Cidade das Águas 101.3 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33439
+#EXTINF:-1 tvg-id="" tvg-name="Flash Disco Dance 80" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Flash Disco Dance 80
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33438
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Dance Music Anos 2000" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Dance Music Anos 2000
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33441
+#EXTINF:-1 tvg-id="" tvg-name="Axe Brasil Web Rádio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Axe Brasil Web Rádio
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33442
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Bossa Nova Brazil" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Bossa Nova Brazil
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33444
+#EXTINF:-1 tvg-id="" tvg-name="DJ Red Web Rádio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",DJ Red Web Rádio
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33447
+#EXTINF:-1 tvg-id="" tvg-name="Vibe Eletro Hits" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Vibe Eletro Hits
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33448
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Máxima 87.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Máxima 87.9 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33450
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gold 94.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Gold 94.7 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33451
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Brasil Hits" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Brasil Hits
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33452
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Dance Forever" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Dance Forever
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33453
+#EXTINF:-1 tvg-id="" tvg-name="Rádio BSide Lounge" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio BSide Lounge
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33455
+#EXTINF:-1 tvg-id="" tvg-name="Black In Love Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Black In Love Radio
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33456
+#EXTINF:-1 tvg-id="" tvg-name="Heavy Metal Ears Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Heavy Metal Ears Radio
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33457
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Novidades Na Mídia" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Novidades Na Mídia
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33459
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Reggae Brasil" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Reggae Brasil
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33460
+#EXTINF:-1 tvg-id="" tvg-name="89 FM Rádio Rock" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",89 FM Rádio Rock
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33461
+#EXTINF:-1 tvg-id="" tvg-name="Radioweb Sertaneja Raiz Só Modão" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Radioweb Sertaneja Raiz Só Modão
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33463
+#EXTINF:-1 tvg-id="" tvg-name="Teen Stars FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Teen Stars FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33440
+#EXTINF:-1 tvg-id="" tvg-name="House Brazil Radio Show" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",House Brazil Radio Show
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33464
+#EXTINF:-1 tvg-id="" tvg-name="Rádio 92 FM GO" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio 92 FM GO
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33465
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 94.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Antena 1 94.7 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33466
+#EXTINF:-1 tvg-id="" tvg-name="Soul One" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Soul One
+http://apkwuv.xyz:80/cristina2021/graniptv2005/33467
+#EXTINF:-1 tvg-id="" tvg-name="SP: energia 97" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: energia 97
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140287
+#EXTINF:-1 tvg-id="" tvg-name="SP: Rádio Antena 1 FM 94.7" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Antena 1 FM 94.7
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87716
+#EXTINF:-1 tvg-id="" tvg-name="SP: Rádio Arena  FM 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Arena  FM 106
+http://apkwuv.xyz:80/cristina2021/graniptv2005/89537
+#EXTINF:-1 tvg-id="" tvg-name="SP: Rádio Metropolitana FM 98.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Metropolitana FM 98.5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140290
+#EXTINF:-1 tvg-id="" tvg-name="Web Radio - Arena 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio - Arena 106
+http://apkwuv.xyz:80/cristina2021/graniptv2005/81096
+#EXTINF:-1 tvg-id="" tvg-name="Web Radio - Arena 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio - Arena 106
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87715
+#EXTINF:-1 tvg-id="" tvg-name="Web Radio Jesus a Luz do Mundo" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio Jesus a Luz do Mundo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133444
+
+#EXTM3U url-tvg="http://grade-de-RITMOS.xml"
+############## RITMOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRITMOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ 98.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Globo RJ 98.1 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149370
+#EXTINF:-1 tvg-id="" tvg-name="Band Vale 102.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="FM",Band Vale 102.9 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152603
+#EXTINF:-1 tvg-id="" tvg-name="Plus Rádio Fortaleza" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Plus Rádio Fortaleza
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149368
+#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi 96.5 FM RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio14215_1562877228.jpg" group-title="FM",Super Rádio Tupi 96.5 FM RJ
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126907
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Transamérica 100.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Transamérica 100.1 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149371
+#EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia 100.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio FM O Dia 100.5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149377
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube 105.5 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Clube 105.5 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149375
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Mix 106.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Mix 106.3 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149369
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hot 107 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Hot 107 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149376
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Nativa 94.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="FM",Rádio Nativa 94.3 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149372
+#EXTINF:-1 tvg-id="" tvg-name="Radio 90's Alternative" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio 90's Alternative
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137147
+#EXTINF:-1 tvg-id="" tvg-name="Radio Arena" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="FM",Radio Arena
+http://apkwuv.xyz:80/cristina2021/graniptv2005/89536
+#EXTINF:-1 tvg-id="" tvg-name="Radio Awesome 80's" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Awesome 80's
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137146
+#EXTINF:-1 tvg-id="" tvg-name="Radio Beatles" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Beatles
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126906
+#EXTINF:-1 tvg-id="" tvg-name="Radio Buzz" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Buzz
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137148
+#EXTINF:-1 tvg-id="" tvg-name="Radio Classic Buzz" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Classic Buzz
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137149
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hair Bands" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Hair Bands
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137151
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hard Rock" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Hard Rock
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137150
+#EXTINF:-1 tvg-id="" tvg-name="Terra" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Terra
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126904
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Lupa 1 FM 94.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Lupa 1 FM 94.5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/149378
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Liberdade 92.9 FM BH" tvg-logo="https://img.radios.com.br/radio/lg/radio13590_1661519400.jpeg" group-title="FM",Rádio Liberdade 92.9 FM BH
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126609
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Nova Geração FM SP" tvg-logo="https://img.radios.com.br/radio/lg/radio32447_1623949598.png" group-title="FM",Rádio Nova Geração FM SP
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126903
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Kboing 100.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio29604_1653915617.jpg" group-title="FM",Rádio Kboing 100.3 FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/126905
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Alvorada 94.9 FM BH" tvg-logo="https://img.radios.com.br/radio/lg/radio9172_1439401369.jpg" group-title="FM",Rádio Alvorada 94.9 FM BH
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137140
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits 99.7 FM Macaé RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio80135_1638811575.png" group-title="FM",Rádio Hits 99.7 FM Macaé RJ
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137141
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antenna 1 107.1 FM Itália" tvg-logo="https://img.radios.com.br/radio/lg/radio11927_1583262188.jpg" group-title="INTERNACIONAIS",Radio Antenna 1 107.1 FM Itália
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137142
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Nativa 95.3 FM SP" tvg-logo="https://img.radios.com.br/radio/lg/radio14040_1526481130.jpg" group-title="FM",Rádio Nativa 95.3 FM SP
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137143
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Fla RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio195257_1644619391.jpeg" group-title="RITMOS",Rádio Fla RJ
+http://apkwuv.xyz:80/cristina2021/graniptv2005/137144
+#EXTINF:-1 tvg-id="" tvg-name="Fita Cassete" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Fita Cassete
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162553
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gospel Life" tvg-logo="https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg" group-title="RITMOS",Radio Gospel Life
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162552
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 Lite FM 103.7 RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio15456_1610635889.png" group-title="FM",Rádio Antena 1 Lite FM 103.7 RJ
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162551
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Sinai Web Gospel SP" tvg-logo="https://img.radios.com.br/radio/lg/radio22540_1474915941.jpg" group-title="RITMOS",Rádio Sinai Web Gospel SP
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162550
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Nova Sertaneja 95.3 FM MG" tvg-logo="https://img.radios.com.br/radio/lg/radio14180_1519906564.jpg" group-title="FM",Rádio Nova Sertaneja 95.3 FM MG
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152599
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Canção Nova 89.1 FM SP" tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="FM",Rádio Canção Nova 89.1 FM SP
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152600
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Campinas" tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RITMOS",Rádio Gospel Campinas
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
+#EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
 
 #EXTM3U url-tvg="http://grade-de-RADIO | GOSPEL.xml"
 ############## RADIO | GOSPEL ################# 

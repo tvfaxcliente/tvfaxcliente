@@ -1,16 +1,25 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
+https://ia902601.us.archive.org/14/items/new-creative-video-2/New%20creative%20video%20%282%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
 https://ia902700.us.archive.org/14/items/video-de-moletom-e-cropped-apresentando-uma-mulher-sorrident/V%C3%ADdeo%20de%20moletom%20e%20cropped%20apresentando%20uma%20mulher%20sorrident.mp4
 
-############## ALEX RADIO E TV  FAX  #################
-#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS é Tudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX RADIO E TV |  DEUS é Tudo",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
+#EXTM3U url-tvg=" http://grade-de-ALEX RADIO FAX GOSPEL.xml "
+ ############## ALEX RADIO FAX GOSPEL ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeALEX RADIO FAX GOSPEL" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS é Tudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX RADIO FAX GOSPEL",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
-#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO E TV |  FAX",FAX Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX RADIO FAX GOSPEL ",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
+https://stream.zeno.fm/6kd62srxdi5tv
+
+#EXTM3U url-tvg=" http://grade-de-ALEX RADIO FAX .xml "
+ ############## ALEX RADIO FAX  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeALEX RADIO FAX " group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
-
-
-
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  RUN TIME.xml "
  ############## CANAIS  RUN TIME ############## ### 
@@ -1426,86 +1435,20 @@ http://meuplay.shop:80/828474929852/34882748924/550
  ############## CANAIS  ESPORTES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqbhc3wqAoWPzxWVS18gbJ5WiWTRhuTPgCj_lSudBrdMTf0cf9aZtYfIuqHNoCAnxHX0&usqp=CAU" group-title="CANAIS | ESPORTES",TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | ESPORTES",TNT Sports 5 WEW Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_icsbqY9JDUiP6uSUMESL9nJutw-58_L5Rw5ASb5zriXE56zLDRooWmtlFShabHnIXo&usqp=CAU" group-title="CANAIS | ESPORTES", SPACE
-http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE EXTVLCOPT"tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg" group-title="CANAIS | ESPORTES",ESPORTE EXTVLCOPT
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3UHD"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="CANAIS | ESPORTES", SPORTV 3UHD
-http://51.159.54.153:14417
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3UHD"tvg-logo="https://p16-va.topbuzzcdn.com/img/tos-maliva-v-0cbf1b-us/8f201cec964a47b9a6e1f655c4ada397~tplv-shrink:720:0.gif" group-title="CANAIS | ESPORTES",SPORTV2
-http://23.237.10.66:16180/sportv2
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-http://meuplay.shop:80/Adminn8/6646885468/768
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS H265" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS H265
-http://meuplay.shop:80/Adminn8/6646885468/215
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://meuplay.shop:80/Adminn8/6646885468/5
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD " tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD 
-http://meuplay.shop:80/Adminn8/6646885468/452
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 02 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | ESPORTES",UFC FIGHT 02 HD¹
-http://7go.xyz:8080/03xp0h/bk0kvq/300040
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD²" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | ESPORTES",UFC FIGHT PASS HD²
-http://7go.xyz:8080/03xp0h/bk0kvq/293070
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate 4K" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate 4K
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate 4K" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate 4K
 http://srv.cldplay.net:80/live/820584rohs/67864336899/151035.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate FHD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83821.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate FHD [Alt]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD [Alt]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147471.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate FHD [H265]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83376.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate HD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate HD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83194.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate HD [Alt]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate HD [Alt]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147472.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate SD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83538.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-http://meuplay.shop:80/Adminn8/6646885468/784
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE H265" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | ESPORTES",COMBATE H265
-http://meuplay.shop:80/Adminn8/6646885468/222
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://ccdnblck.xyz:80/images/b7bd64e2ba0016809276c61cbebdb20d.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://meuplay.shop:80/Adminn8/6646885468/10
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://meuplay.shop:80/Adminn8/6646885468/461
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV2"tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="CANAIS | ESPORTES",COMBATE
-http://209.222.97.92:16493/
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
-http://7go.xyz:8080/03xp0h/bk0kvq/22656
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Channel"tvg-logo="https://yt3.googleusercontent.com/zS6DTgBHEbToNDH5ef-HaxZ_bDDurbfI1O3pVEVn1T8LOsL1oL2wPizNU6U6juhsDSY98eD7jBI=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTES",Alpha Channel 
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="All Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_yIdh6qaJJ1Azob_BJ56H-2LWgtuzvOHH6ucsmLl8FLAf5mMXKiuFu66W-MDUKrfd-A&usqp=CAU" group-title="CANAIS | ESPORTES",All Sports 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="All Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_yIdh6qaJJ1Azob_BJ56H-2LWgtuzvOHH6ucsmLl8FLAf5mMXKiuFu66W-MDUKrfd-A&usqp=CAU" group-title="CANAIS | ESPORTES",All Sports 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="CANAIS | ESPORTES", SPORTV
-http://51.159.54.153:14411/
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3UHD"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="CANAIS | ESPORTES", SPORTV 3UHD
-http://51.159.54.153:14417
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 UHD"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 2 UHD
-http://23.237.10.66:16180/
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 2
-http://23.237.10.66:16180/
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 UHD"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 2 UHD
-http://51.159.54.153:14417/SporTV2
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 3
-http://51.159.54.153:14417/
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM"tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" group-title="CANAIS | ESPORTES",FOX SPORTS PREMIUM
-http://ac.ntvlatino.com:8080/moises21/moises22/1126417
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS"tvg-logo="https://dplnews.com/wp-content/uploads/2022/06/dplnews_claro-sport_dn200622-696x381.png" group-title="CANAIS | ESPORTES",CLARO SPORTS
-http://ac.ntvlatino.com:8080/moises21/moises22/12011
-#EXTINF:-1 tvg-id="" tvg-name="ESPN"tvg-logo="https://cdn.dribbble.com/users/68746/screenshots/3708060/_main4.gif" group-title="CANAIS | ESPORTES",ESPN 
-http://89.38.96.234:14525/
-#EXTINF:-1 tvg-id="" tvg-name="FOX  SPORTS"tvg-logo="https://www.gifs-animados.net/original/foxsports.gif" group-title="CANAIS | ESPORTES",FOX  SPORTS
-http://ac.ntvlatino.com:8080/moises21/moises22/3267
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT2"tvg-logo="http://25.media.tumblr.com/ee28425809248296129f16e0c03cbe1d/tumblr_mrzcbyozOb1sdqx19o1_400.gif" group-title="CANAIS | ESPORTES",FOX SPORT2
-http://15.235.10.31:14326
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVLXXa5yyUAmWENJ00CCH7VaFYFTIC0fXR24UQbfa7zc7RhV6XR7TIP2WOmvPR6oYHX4&usqp=CAU" group-title="CANAIS | ESPORTES",FOX SPORT2
-http://15.235.10.31:14326
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Esportes PPV.xml "
  ############## Canais  Esportes PPV ############## ### 
@@ -1531,6 +1474,30 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83790
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83452
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="https://i.imgur.com/wJQh6qs.png" group-title=" Canais | Esportes PPV",Red Bull TV HD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/70206
+#EXTINF:-1 tvg-id="Agro+" tvg-name="Prime Esportes 1 HD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 1 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83795
+#EXTINF:-1 tvg-id="Like" tvg-name="Prime Esportes 1 SD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 1 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83334
+#EXTINF:-1 tvg-id="SescTV" tvg-name="Prime Esportes 2 FHD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 2 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83348
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Prime Esportes 2 HD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 2 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83773
+#EXTINF:-1 tvg-id="Agro+" tvg-name="Prime Esportes 2 SD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 2 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83347
+#EXTINF:-1 tvg-id="CAMPEONATO CARIOCA 1" tvg-name="Prime Esportes 3 FHD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 3 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/169534
+#EXTINF:-1 tvg-id="AXN" tvg-name="Prime Esportes 3 HD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 3 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83790
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="Prime Esportes 3 SD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 3 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83452
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 1 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83716
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 2 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83717
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="TV NSports 3 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 3 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/169539
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 4 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 4 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/272
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES ESPN.xml "
  ############## CANAIS  ESPORTES ESPN ############## ### 
@@ -1654,34 +1621,120 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/484
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Libertadores/Sul-Americana" group-title="
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156746
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156746.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83866
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83866.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/122541
+http://srv.cldplay.net:80/live/820584rohs/67864336899/122541.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83706
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83706.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83869
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83869.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83705
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83705.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83712
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83712.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL Paramount+ 3 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/86706
+http://srv.cldplay.net:80/live/820584rohs/67864336899/86706.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL Paramount+ 3 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83711
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83711.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83715
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83715.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165437
+http://srv.cldplay.net:80/live/820584rohs/67864336899/165437.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83714
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83714.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Premiere FC.xml "
  ############## Canais  Premiere FC ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Premiere FC" group-title="
 
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
+http://apkwuv.xyz:80/cristina2021/graniptv2005/151037
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83813
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147633
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83405
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83251
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147634
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83601
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87323
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147635
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 2 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83406
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83245
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147636
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83602
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87321
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147637
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 3 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83407
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83246
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147638
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83603
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87320
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147639
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83408
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83247
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147640
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83604
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152926
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147641
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 5 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83409
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83248
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147642
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83605
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87319
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147643
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 6 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83410
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83249
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147644
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83606
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/87318
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147645
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 7 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83411
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83250
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147646
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83607
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes 4K
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/151037
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
@@ -1769,10 +1822,65 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147646
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83607
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS  ESPORTES TNT.xml "
- ############## CANAIS  ESPORTES TNT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES TNT" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | SporTV.xml "
+ ############## Canais | SporTV ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | SporTV" group-title="
 
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83814
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147688
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [H265]" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="Canais | SporTV",SporTV 1 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83416
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83257
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147689
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83623
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83815
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147684
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | 4K - H265",SporTV 2 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83414
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83255
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147685
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83624
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83816
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147686
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83415
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83256
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147687
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83625
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES.xml "
+ ############## CANAIS | ESPORTES ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES" group-title="
+
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/139108
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147625
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [H265]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83404
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83243
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147626
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83596
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 1" tvg-logo="https://i.imgur.com/u1MD3Fl.png" group-title="CANAIS | ESPORTES",OneFootball 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/139472
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV FHD
 http://meuplay.shop:80/828474929852/34882748924/776
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV H265
@@ -1886,7 +1994,7 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
-https://ia802709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.mp4
+https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.ia.mp4
 
 #EXTINF:-1 tvg-id="CINESKY3" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
@@ -1894,7 +2002,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
 
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
-https://ia802700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.mp4
+https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: As Aventuras de Pedro Malasartes (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg" group-title="FILMES | TV FAX",Mazzaropi: As Aventuras de Pedro Malasartes (1960)
@@ -3210,6 +3318,39 @@ http://grtsvk.life:80/661282206/318344838/30009
 http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
+
+#EXTM3U url-tvg="http://grade-de-Filme O Gordo e o Magro.xml"
+############## Filme O Gordo e o Magro  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilme O Gordo e o Magro" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://thumbs.gfycat.com/PerkyUnrealisticArgentineruddyduck-size_restricted.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802707.us.archive.org/27/items/o-gordo-e-o-magro-um-nobre-pancada-1940-480p/O%20Gordo%20e%20o%20Magro%20%20Um%20Nobre%20Pancada%201940_480p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://i.gifer.com/U2Ph.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902609.us.archive.org/14/items/videoplayback-1_20230606/videoplayback%20%281%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://i.pinimg.com/originals/25/e9/b9/25e9b9338a68df4d5e9729cf6b48b9a8.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802708.us.archive.org/32/items/videoplayback-2_20230606/videoplayback%20%282%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://media.tenor.com/0b76sMZMU70AAAAd/laurel-and.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902600.us.archive.org/27/items/videoplayback-3_20230606/videoplayback%20%283%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://i.makeagif.com/media/5-22-2015/v6Qg7L.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902609.us.archive.org/27/items/videoplayback-4_20230606/videoplayback%20%284%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://i.pinimg.com/originals/43/3b/12/433b120d39e82b5f401d01130142b833.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902709.us.archive.org/11/items/videoplayback-5_20230606/videoplayback%20%285%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://thumbs.gfycat.com/CraftyShrillIaerismetalmark-size_restricted.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802601.us.archive.org/26/items/videoplayback-6_202306/videoplayback%20%286%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://26.media.tumblr.com/tumblr_ly8lfarRnr1qmfv8io4_r1_250.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902608.us.archive.org/24/items/videoplayback-7_202306/videoplayback%20%287%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://i.pinimg.com/originals/c4/0b/c2/c40bc209fdcc5fc8c283612d3283ec02.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802602.us.archive.org/2/items/videoplayback-8_20230606/videoplayback%20%288%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://27.media.tumblr.com/tumblr_luvkuhkTFu1qhgzjro2_250.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802600.us.archive.org/15/items/videoplayback-9_202306/videoplayback%20%289%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://24.media.tumblr.com/tumblr_ly8lfarRnr1qmfv8io5_r1_250.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902604.us.archive.org/27/items/videoplayback-10_20230606/videoplayback%20%2810%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://colorindoahistoriadedivinopolis.files.wordpress.com/2020/07/6c720c3ce7c83af3995a29a673f61996.gif?w=346" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802601.us.archive.org/2/items/videoplayback-11_202306/videoplayback%20%2811%29.mp4?cnt=0
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://24.media.tumblr.com/tumblr_ly8lfarRnr1qmfv8io5_r1_250.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia802601.us.archive.org/2/items/videoplayback-11_202306/videoplayback%20%2811%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://media.tenor.com/0b76sMZMU70AAAAd/laurel-and.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
+https://ia902602.us.archive.org/31/items/videoplayback-12_202306/videoplayback%20%2812%29.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES  LANÇAMENTOS CINEMA (2023).xml"
 ############## FILMES  LANÇAMENTOS CINEMA (2023) ################# 
@@ -13022,114 +13163,177 @@ https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/m
 #EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
 
 #EXTINF:-1 tvg-id="BERLIN TRADUÇAO ALEX SILVA" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",BERLIN TRADUÇAO ALEX SILVA
-https://ia902702.us.archive.org/19/items/alex-silva-berlin-traduc-ao-alex-silva/Alex%20Silva%20-%20BERLIN%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia902702.us.archive.org/19/items/alex-silva-berlin-traduc-ao-alex-silva/Alex%20Silva%20-%20BERLIN%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="I should have known better" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",I should have known better
-https://ia902701.us.archive.org/10/items/alex-silva-i-should-have-known-better-traduc-ao-alex-silva/Alex%20Silva%20-%20I%20should%20have%20known%20better%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia802701.us.archive.org/10/items/alex-silva-i-should-have-known-better-traduc-ao-alex-silva/Alex%20Silva%20-%20I%20should%20have%20known%20better%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Chicago - Hard To Say I'm Sorry " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Chicago - Hard To Say I'm Sorry 
-https://ia902702.us.archive.org/9/items/alex-silva-chicago-hard-to-say-im-sorry-traduc-ao-alex-silva/Alex%20Silva%20-%20Chicago%20-%20Hard%20To%20Say%20I%27m%20Sorry%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia802702.us.archive.org/9/items/alex-silva-chicago-hard-to-say-im-sorry-traduc-ao-alex-silva/Alex%20Silva%20-%20Chicago%20-%20Hard%20To%20Say%20I%27m%20Sorry%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Roxette Spending My Time PERDENDO MEU TEMPO" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Roxette Spending My Time PERDENDO MEU TEMPO
-https://ia802707.us.archive.org/19/items/alex-silva-roxette-spending-my-time-perdendo-meu-tempo-traduc-ao-alex-silva/Alex%20Silva%20-%20Roxette%20Spending%20My%20Time%20PERDENDO%20MEU%20TEMPO%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia902707.us.archive.org/19/items/alex-silva-roxette-spending-my-time-perdendo-meu-tempo-traduc-ao-alex-silva/Alex%20Silva%20-%20Roxette%20Spending%20My%20Time%20PERDENDO%20MEU%20TEMPO%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="We Are The World " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",We Are The World 
-https://ia802704.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva/Alex%20Silva%20-%20We%20Are%20The%20World%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia902704.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva/Alex%20Silva%20-%20We%20Are%20The%20World%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Please Don´t Go - KC & The Sunshine Band" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Please Don´t Go - KC & The Sunshine Band
 https://ia601600.us.archive.org/20/items/alex-silva-please-dont-go-kc-the-sunshine-band-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Don%C2%B4t%20Go%20-%20KC%20%26%20The%20Sunshine%20Band%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="BRAY ADAMS HEVEM " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",BRAY ADAMS HEVEM 
-https://ia802703.us.archive.org/33/items/alex-silva-bray-adams-hevem-traduc-ao-alex-silva/Alex%20Silva%20-%20BRAY%20ADAMS%20HEVEM%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia802703.us.archive.org/33/items/alex-silva-bray-adams-hevem-traduc-ao-alex-silva/Alex%20Silva%20-%20BRAY%20ADAMS%20HEVEM%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Please Forgive Me PERDOE" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j" group-title="traduçao",Please Forgive Me PERDOE
-https://ia801600.us.archive.org/19/items/alex-silva-please-forgive-me-perdoe-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Forgive%20Me%20PERDOE%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia601600.us.archive.org/19/items/alex-silva-please-forgive-me-perdoe-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Forgive%20Me%20PERDOE%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Rem Everybody Hurts" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Rem Everybody Hurts
-https://ia802702.us.archive.org/21/items/alex-silva-rem-everybody-hurts-traducao-alex-silva/Alex%20Silva%20-%20Rem%20-%20Everybody%20Hurts%20%28tradu%C3%A7ao%20Alex%20Silva.mp4
+https://ia802702.us.archive.org/21/items/alex-silva-rem-everybody-hurts-traducao-alex-silva/Alex%20Silva%20-%20Rem%20-%20Everybody%20Hurts%20%28tradu%C3%A7ao%20Alex%20Silva.ia.mp4
 #EXTINF:-1 tvg-id="Peter Cetera - The Glory Of Love (Gloria do Amor)" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Peter Cetera - The Glory Of Love (Gloria do Amor)
-https://ia902604.us.archive.org/28/items/alex-silva-peter-cetera-the-glory-of-love-gloria-do-amor-traduc-ao-alex-silva/Alex%20Silva%20-%20Peter%20Cetera%20-%20The%20Glory%20Of%20Love%20%28Gloria%20do%20Amor%29TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia902604.us.archive.org/28/items/alex-silva-peter-cetera-the-glory-of-love-gloria-do-amor-traduc-ao-alex-silva/Alex%20Silva%20-%20Peter%20Cetera%20-%20The%20Glory%20Of%20Love%20%28Gloria%20do%20Amor%29TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Nothing Love Out Of Nothing At All Air Suply" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Nothing Love Out Of Nothing At All Air Suply
-https://ia902606.us.archive.org/35/items/alex-silva-nothing-love-out-of-nothing-at-all-air-suply-traduc-ao-alex-silva/Alex%20Silva%20-%20Nothing%20Love%20Out%20Of%20Nothing%20At%20All%20Air%20Suply%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia802606.us.archive.org/35/items/alex-silva-nothing-love-out-of-nothing-at-all-air-suply-traduc-ao-alex-silva/Alex%20Silva%20-%20Nothing%20Love%20Out%20Of%20Nothing%20At%20All%20Air%20Suply%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
 #EXTINF:-1 tvg-id="Richard Marx - Right Here Waiting" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Richard Marx - Right Here Waiting 
-https://ia902705.us.archive.org/4/items/alex-silva-richard-marx-right-here-waiting-traduc-ao-alex-silva/Alex%20Silva%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+https://ia802705.us.archive.org/4/items/alex-silva-richard-marx-right-here-waiting-traduc-ao-alex-silva/Alex%20Silva%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
 #EXTINF:-1 tvg-id="Dire Straits So FAR Away" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Dire Straits So FAR Away
-https://ia902602.us.archive.org/22/items/alex-silva-dire-straits-so-far-away-traducao-alex-silva/Alex%20Silva%20-%20Dire%20Straits%20So%20FAR%20Away-%20Tradu%C3%A7ao%20Alex%20Silva.mp4
+https://ia802602.us.archive.org/22/items/alex-silva-dire-straits-so-far-away-traducao-alex-silva/Alex%20Silva%20-%20Dire%20Straits%20So%20FAR%20Away-%20Tradu%C3%A7ao%20Alex%20Silva.ia.mp4
 #EXTINF:-1 tvg-id="Tim Moore - Yes Aprecie a vida" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Tim Moore - Yes Aprecie a vida
-https://ia902603.us.archive.org/11/items/tim-moore-yes-traducao/Tim%20Moore%20-%20Yes%20%28tradu%C3%A7%C3%A3o%29%20.mp4
+https://ia802603.us.archive.org/11/items/tim-moore-yes-traducao/Tim%20Moore%20-%20Yes%20%28tradu%C3%A7%C3%A3o%29%20.ia.mp4
 #EXTINF:-1 tvg-id="London London" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",London London
-https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-por-alex-silva/Alex%20Silva%20-%20RPM%20-%20London%20London%20%28TRADUZIDO%20POR%20ALEX%20SILVA%29.mp4
+https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-por-alex-silva/Alex%20Silva%20-%20RPM%20-%20London%20London%20%28TRADUZIDO%20POR%20ALEX%20SILVA%29.ia.mp4
 
 #EXTM3U url-tvg="http://grade-de-FAX  CLIPS.xml"
 ############## FAX  CLIPS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX  CLIPS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS",Bruno e Marrone [Live 16-05-2020]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133620
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS",Bruno e Marrone [Live 3 sem propagandas]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133624
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS",Bruno e Marrone [Live 4 sem propagandas]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136196
-
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Aqui em Casa 1]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136201
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Aqui em Casa 2]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136202
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Aqui na Fazenda]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136198
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Drive-In Na Terra]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136200
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Fun Live]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136199
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Maiara e Maraisa [Workshow]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136197
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://rd1.com.br/wp-content/uploads/2022/07/20220724-marilia-mendonca-750x422.jpg" group-title="FAX | CLIPS",Marilia Mendonça [Lado B]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136206
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://s2.glbimg.com/WXdTEhT98phmn7iYZNHd63hfs7c=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2022/C/c/B375dFTqOqIUB5z44fnQ/2020-01-22-marilia-mendonca.jpeg" group-title="FAX | CLIPS",Marilia Mendonça [Live Local]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136205
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://s2.glbimg.com/Uyey5sIbDtJsueoI29cAAr7vt4k=/top/e.glbimg.com/og/ed/f/original/2019/07/02/6.jpg" group-title="FAX | CLIPS",Marilia Mendonça [Todos os Cantos]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136204
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.pinimg.com/736x/4a/12/d1/4a12d1804c7f080e0ed1d3dd2e8ac870.jpg" group-title="FAX | CLIPS",Marilia Mendonça [Workshow]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136203
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo e Eduardo Costa [Cabaré]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136589
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136592
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo e Zé Felipe [Pai e Filho]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136590
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Leonardo [Canto, Bebo e Choro]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136591
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Jorge e Mateus [Na Praia Hotel]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136193
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Jorge e Mateus [Pelo Amor de Deus]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136194
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Jorge e Mateus [Sunset]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136195
-#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="FAX | CLIPS",Henrique e Juliano [Live Liberdade Provisória]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133623
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Buteco em BH]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136189
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Buteco Em Casa 1]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136192
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Embaixador no Agronegócio]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136188
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Especial São João]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136191
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [Festa do Peão Barretos]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136190
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Gusttavo Lima [YouTube Music]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136187
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.imgur.com/KgxuZMT.png" group-title="FAX | CLIPS",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133628
-#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Eduardo Costa [Aqui em Uberlândia]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136588
-#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS",Eduardo Costa [Especial Dia dos Namorados]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136587
 
 #EXTINF:-1 tvg-id="" tvg-name=" Tina Turner Live in Rio 1988 "  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner Live in Rio 1988
 https://proxy-12.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SXYZh0rUZhBWvWUth3ykPgc9WOBuuXUwCnN_f-8N-JB8vrAv3oOyRZXkbIeyHy3R7L8pEG4XUsdzSbCs6hkpQwY)/video/779/189/124981977_mp4_h264_aac_2.m3u8#cell=nyc
 #EXTINF:-1 tvg-id="" tvg-name=" Tina Turner MÚSICAS TINA TURNER"  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner MÚSICAS TINA TURNER
 https://proxy-14.nyc.dailymotion.com/sec(ze_zdAyquuHZoAqFx0DMT8Ct0dNwXNCWVU0ENDHoHSq1E5YRdZYxLXAp25v3HhZR0l6YGcg-d37tCD5efKoWUTpbeKlPLBvFslpqZpWiJxA)/video/476/183/519381674_mp4_h264_aac_qhd_1.m3u8#cell=nyc
 
+
 #EXTM3U url-tvg="http://grade-de-FAX | CLIPS AO VIVO.xml"
 ############## FAX | CLIPS AO VIVO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS AO VIVO" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 16-05-2020]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133620
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 3 sem propagandas]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133624
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 4 sem propagandas]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133621
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156621
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136196
+
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 1]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136201
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 2]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136202
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui na Fazenda]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136198
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Drive-In Na Terra]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136200
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Fun Live]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136199
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Workshow]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136197
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://rd1.com.br/wp-content/uploads/2022/07/20220724-marilia-mendonca-750x422.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Lado B]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136206
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://s2.glbimg.com/WXdTEhT98phmn7iYZNHd63hfs7c=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2022/C/c/B375dFTqOqIUB5z44fnQ/2020-01-22-marilia-mendonca.jpeg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Live Local]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136205
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://s2.glbimg.com/Uyey5sIbDtJsueoI29cAAr7vt4k=/top/e.glbimg.com/og/ed/f/original/2019/07/02/6.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Todos os Cantos]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136204
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.pinimg.com/736x/4a/12/d1/4a12d1804c7f080e0ed1d3dd2e8ac870.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Workshow]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136203
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Eduardo Costa [Cabaré]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136589
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136592
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Zé Felipe [Pai e Filho]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136590
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo [Canto, Bebo e Choro]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136591
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Na Praia Hotel]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136193
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Pelo Amor de Deus]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136194
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Sunset]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136195
+#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="FAX | CLIPS AO VIVO",Henrique e Juliano [Live Liberdade Provisória]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133623
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco em BH]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136189
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco Em Casa 1]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136192
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Embaixador no Agronegócio]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136188
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Especial São João]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136191
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Festa do Peão Barretos]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136190
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [YouTube Music]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136187
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.imgur.com/KgxuZMT.png" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/133628
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Eduardo Costa [Aqui em Uberlândia]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136588
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Eduardo Costa [Especial Dia dos Namorados]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136587
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco em BH]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136189
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco Em Casa 1]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136192
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Embaixador no Agronegócio]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136188
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Especial São João]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136191
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Festa do Peão Barretos]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136190
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [YouTube Music]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136187
+#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.ytimg.com/vi/AbmAL3UZNuo/maxresdefault.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133628
+#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://static.portaldacidade.com/unsafe/https://s3.amazonaws.com/fozdoiguacu.portaldacidade.com/img/news/2022-03/henrique-juliano-e-a-primeira-atracao-oficialmente-confirmada-na-fespop-2022-623522eb899a4.jpeg" group-title="FAX | CLIPS AO VIVO",Henrique e Juliano [Live Liberdade Provisória]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133623
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://rd1.com.br/wp-content/uploads/2018/03/20180312-leonardo-eduardo.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Eduardo Costa [Cabaré]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136589
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://diaonline.ig.com.br/aproveite/wp-content/uploads/2020/10/leonardo-faz-live-com-luiza-e-maurilio-em-uberlandia.jpeg" group-title="FAX | CLIPS AO VIVO",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136592
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2022/02/09134325/Design-sem-nome-29-9.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Zé Felipe [Pai e Filho]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136590
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://yt3.googleusercontent.com/agSMbnaXNAu-wzw4rG9bIV8GFC-Toqo8sfxe33rVQrLKlcar6qoZo2Ac1kkaXnKIMpJV_UFxgg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX | CLIPS AO VIVO",Leonardo [Canto, Bebo e Choro]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136591
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.uai.com.br/5v-EpPGzoArbMSD2OYk8ieghn20=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/06/10/287313/maiara-e-maraisa-_1_105069.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 1]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136201
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.uai.com.br/5v-EpPGzoArbMSD2OYk8ieghn20=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/06/10/287313/maiara-e-maraisa-_1_105069.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 2]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136202
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.uai.com.br/5v-EpPGzoArbMSD2OYk8ieghn20=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/06/10/287313/maiara-e-maraisa-_1_105069.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui na Fazenda]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136198
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.uai.com.br/5v-EpPGzoArbMSD2OYk8ieghn20=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/06/10/287313/maiara-e-maraisa-_1_105069.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Drive-In Na Terra]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136200
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.uai.com.br/5v-EpPGzoArbMSD2OYk8ieghn20=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/06/10/287313/maiara-e-maraisa-_1_105069.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Fun Live]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136199
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.uai.com.br/5v-EpPGzoArbMSD2OYk8ieghn20=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/06/10/287313/maiara-e-maraisa-_1_105069.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Workshow]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136197
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://www.cartacapital.com.br/wp-content/uploads/2021/11/pluralmusica.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Lado B]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136206
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://www.cartacapital.com.br/wp-content/uploads/2021/11/pluralmusica.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Live Local]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136205
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://www.cartacapital.com.br/wp-content/uploads/2021/11/pluralmusica.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Todos os Cantos]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136204
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://www.cartacapital.com.br/wp-content/uploads/2021/11/pluralmusica.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Workshow]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136203
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://yt3.googleusercontent.com/zoNkI8dLceGJRe_l7gwP8X36aMoeZG8R2Xreuiikgw17IMimt19XaAvenXvesXOpn8CqPqte4g=s900-c-k-c0x00ffffff-no-rj" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Na Praia Hotel]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136193
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://yt3.googleusercontent.com/zoNkI8dLceGJRe_l7gwP8X36aMoeZG8R2Xreuiikgw17IMimt19XaAvenXvesXOpn8CqPqte4g=s900-c-k-c0x00ffffff-no-rj" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Pelo Amor de Deus]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136194
+#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",https://yt3.googleusercontent.com/zoNkI8dLceGJRe_l7gwP8X36aMoeZG8R2Xreuiikgw17IMimt19XaAvenXvesXOpn8CqPqte4g=s900-c-k-c0x00ffffff-no-rj [Sunset]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136195
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barretão]" tvg-logo="https://valenews.com.br/wp-content/uploads/2022/11/ShowZeNeto-e-Cristiano04112022divulgacao-3.jpg" group-title="FAX | CLIPS AO VIVO",Zé Neto e Cristiano [Live Barretão]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133627
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barzinho Aleatório]" tvg-logo="https://valenews.com.br/wp-content/uploads/2022/11/ShowZeNeto-e-Cristiano04112022divulgacao-3.jpg" group-title="FAX | CLIPS AO VIVO",Zé Neto e Cristiano [Live Barzinho Aleatório]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133625
+#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Dia da Cerveja]" tvg-logo="https://valenews.com.br/wp-content/uploads/2022/11/ShowZeNeto-e-Cristiano04112022divulgacao-3.jpg" group-title="FAX | CLIPS AO VIVO",Zé Neto e Cristiano [Live Dia da Cerveja]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133626
+#EXTINF:-1 tvg-id="" tvg-name="Wesley Safadão e Raça Negra [Skol Sunset]" tvg-logo="https://poltronavip.com/wp-content/uploads/2020/05/Wesley-Safad%C3%A3o-e-Ra%C3%A7a-Negra.jpg" group-title="FAX | CLIPS AO VIVO",Wesley Safadão e Raça Negra [Skol Sunset]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136182
+#EXTINF:-1 tvg-id="" tvg-name="Xand Avião e os Barões da Pisadinha [Live Oficial]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVhk_V4zTiwq6PqxsbTmWJjpGf_sgxQq-QAMEXsNLmVe_VYO499GGWyPizEETjCTi6FGs&usqp=CAU" group-title="FAX | CLIPS AO VIVO",Xand Avião e os Barões da Pisadinha [Live Oficial]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136181
 
 #EXTINF:-1 tvg-id="" tvg-name="  Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136594
@@ -13301,66 +13505,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" tvmax   "  tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/3f875c3fc74f0b3a0b73ac11ac425a46/374000-multimedia-canales-tv-mundo-panama-tvmax.gif"group-title="FAX | CLIPS AO VIVO",tvmax
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco em BH]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136189
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco Em Casa 1]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136192
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Embaixador no Agronegócio]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136188
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Especial São João]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136191
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Festa do Peão Barretos]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136190
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [YouTube Music]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136187
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.imgur.com/KgxuZMT.png" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133628
-#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="FAX | CLIPS AO VIVO",Henrique e Juliano [Live Liberdade Provisória]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133623
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Eduardo Costa [Cabaré]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136589
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136592
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Zé Felipe [Pai e Filho]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136590
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo [Canto, Bebo e Choro]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136591
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 1]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136201
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 2]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136202
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui na Fazenda]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136198
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Drive-In Na Terra]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136200
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Fun Live]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136199
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Workshow]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136197
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Lado B]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136206
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Live Local]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136205
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Todos os Cantos]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136204
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Workshow]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136203
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Na Praia Hotel]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136193
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Pelo Amor de Deus]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136194
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Sunset]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136195
-#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barretão]" tvg-logo="https://i.imgur.com/o3ZyWuF.jpg" group-title="FAX | CLIPS AO VIVO",Zé Neto e Cristiano [Live Barretão]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133627
-#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Barzinho Aleatório]" tvg-logo="https://i.imgur.com/o3ZyWuF.jpg" group-title="FAX | CLIPS AO VIVO",Zé Neto e Cristiano [Live Barzinho Aleatório]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133625
-#EXTINF:-1 tvg-id="" tvg-name="Zé Neto e Cristiano [Live Dia da Cerveja]" tvg-logo="https://i.imgur.com/o3ZyWuF.jpg" group-title="FAX | CLIPS AO VIVO",Zé Neto e Cristiano [Live Dia da Cerveja]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133626
-#EXTINF:-1 tvg-id="" tvg-name="Wesley Safadão e Raça Negra [Skol Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Wesley Safadão e Raça Negra [Skol Sunset]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136182
-#EXTINF:-1 tvg-id="" tvg-name="Xand Avião e os Barões da Pisadinha [Live Oficial]" tvg-logo="https://i.imgur.com/14Np9Lb.png" group-title="FAX | CLIPS AO VIVO",Xand Avião e os Barões da Pisadinha [Live Oficial]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136181
 
 #EXTM3U url-tvg="http://grade-de-RADIOS.xml"
 ############## RADIOS  ################# 

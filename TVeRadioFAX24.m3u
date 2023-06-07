@@ -3513,16 +3513,9 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/153993.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/153994.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Tamers
 http://srv.cldplay.net:80/live/820584rohs/67864336899/153995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="24 Horas | Desenhos",[24H] A Guarda do Leão
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="24 Horas | Desenhos",[24H] A Mansão Foster
-http://srv.cldplay.net:80/live/820584rohs/67864336899/544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Roda do Ônibus" tvg-logo="https://i.imgur.com/GneRQPV.jpg" group-title="24 Horas | Desenhos",[24H] A Roda do Ônibus
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin" tvg-logo="https://i.imgur.com/KbTJCL3.png" group-title="24 Horas | Desenhos",[24H] Aladdin
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="24 Horas | Desenhos",[24H] Angry Birds
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83702.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="24 Horas | Desenhos",[24H] Apenas um Show
 http://srv.cldplay.net:80/live/820584rohs/67864336899/62978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 01
@@ -3920,6 +3913,117 @@ https://ia802601.us.archive.org/2/items/videoplayback-11_202306/videoplayback%20
 https://ia802601.us.archive.org/2/items/videoplayback-11_202306/videoplayback%20%2811%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://media.tenor.com/0b76sMZMU70AAAAd/laurel-and.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
 https://ia902602.us.archive.org/31/items/videoplayback-12_202306/videoplayback%20%2812%29.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes | Lançamentos 2023.xml"
+############## Filmes | Lançamentos 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes | Lançamentos 2023" group-title="
+
+#EXTINF:-1 tvg-name="Rye Lane: Um Amor Inesperado 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljqrimXtkF47gSKcDyVLZ03ctYG.jpg" group-title="Filmes | Lançamentos 2023",Rye Lane: Um Amor Inesperado 4K (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777602.mp4
+#EXTINF:-1 tvg-name="Luther: O Cair da Noite 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" group-title="Filmes | Lançamentos 2023",Luther: O Cair da Noite 4K (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777609.mp4
+#EXTINF:-1 tvg-name="Perdido em Marte 4K (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg" group-title="Filmes | Lançamentos 2023",Perdido em Marte 4K (2015)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777600.mp4
+#EXTINF:-1 tvg-name="Sharper: Uma Vida de Trapaças 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="Filmes | Lançamentos 2023",Sharper: Uma Vida de Trapaças 4K (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777610.mp4
+#EXTINF:-1 tvg-name="Tinnitus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="Filmes | Lançamentos 2023",Tinnitus (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777085.mp4
+#EXTINF:-1 tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="Filmes | Lançamentos 2023",Kill Boksoon (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776729.mp4
+#EXTINF:-1 tvg-name="Amy’s Fucket List [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lFMnotILTWriXPoEhTIuVRNPr.jpg" group-title="Filmes | Lançamentos 2023",Amy’s Fucket List [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776728.mp4
+#EXTINF:-1 tvg-name="Raquel 1:1 [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" group-title="Filmes | Lançamentos 2023",Raquel 1:1 [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776741.mp4
+#EXTINF:-1 tvg-name="O Rio do Desejo [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozVXo6PW7lFz3ojWaHodCSpZAB0.jpg" group-title="Filmes | Lançamentos 2023",O Rio do Desejo [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776742.mp4
+#EXTINF:-1 tvg-name="Rock Dog: Uma Batida Animal [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d51u9NZZohYUaTLqBdzF9IYcc6B.jpg" group-title="Filmes | Lançamentos 2023",Rock Dog: Uma Batida Animal [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776743.mp4
+#EXTINF:-1 tvg-name="Mistério em Paris 4k (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="Filmes | Lançamentos 2023",Mistério em Paris 4k (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777618.mp4
+#EXTINF:-1 tvg-name="Creed III [4K] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="Filmes | Lançamentos 2023",Creed III [4K] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776300.mp4
+#EXTINF:-1 tvg-name="Um Pacto de Amizade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="Filmes | Lançamentos 2023",Um Pacto de Amizade (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776301.mp4
+#EXTINF:-1 tvg-name="Batman: A Perdição Chegou a Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg" group-title="Filmes | Lançamentos 2023",Batman: A Perdição Chegou a Gotham (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776302.mp4
+#EXTINF:-1 tvg-name="Fé nas Alturas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg" group-title="Filmes | Lançamentos 2023",Fé nas Alturas (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775724.mp4
+#EXTINF:-1 tvg-name="Mistério em Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" group-title="Filmes | Lançamentos 2023",Mistério em Paris (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776148.mp4
+#EXTINF:-1 tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="Filmes | Lançamentos 2023",Tetris (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776149.mp4
+#EXTINF:-1 tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" group-title="Filmes | Lançamentos 2023",Creed III (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776150.mp4
+#EXTINF:-1 tvg-name="The Girl Who Escaped: The Kara Robinson Story [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg" group-title="Filmes | Lançamentos 2023",The Girl Who Escaped: The Kara Robinson Story [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776191.mp4
+#EXTINF:-1 tvg-name="À la belle étoile [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAhOA2t1ZnfpbSn9981F1HfwucH.jpg" group-title="Filmes | Lançamentos 2023",À la belle étoile [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776193.mp4
+#EXTINF:-1 tvg-name="Lollapalooza Brasil 2023 (2023)" tvg-logo="https://i.ibb.co/VxgYbL5/20230308145041-20221103175855-20220804130610-lolla-1-1.jpg" group-title="Filmes | Lançamentos 2023",Lollapalooza Brasil 2023 (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775483.mp4
+#EXTINF:-1 tvg-name="The Paramedic Who Stalked Me [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5o0Df9u4wboUCPgXTZpdNko92G.jpg" group-title="Filmes | Lançamentos 2023",The Paramedic Who Stalked Me [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775426.mp4
+#EXTINF:-1 tvg-name="O Urso do Pó Branco [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCULfWcKxjzYD2NweXkBdEzeLFC.jpg" group-title="Filmes | Lançamentos 2023",O Urso do Pó Branco [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775164.mp4
+#EXTINF:-1 tvg-name="Roubo pelos Ares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="Filmes | Lançamentos 2023",Roubo pelos Ares (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775161.mp4
+#EXTINF:-1 tvg-name="Why Can't My Life Be a Rom-Com? [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023a",Why Can't My Life Be a Rom-Com? [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775165.mp4
+#EXTINF:-1 tvg-name="The Donor Party [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" group-title="Filmes | Lançamentos 2023",The Donor Party [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775023.mp4
+#EXTINF:-1 tvg-name="Here Love Lies [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9T6RD2i3aI8PXjGEcj07xTQetcs.jpg" group-title="Filmes | Lançamentos 2023",Here Love Lies [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775019.mp4
+#EXTINF:-1 tvg-name="Her Affair to Die For [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y1BMHtomCuZ9cUtD0NTTmqppT1.jpg" group-title="Filmes | Lançamentos 2023",Her Affair to Die For [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775020.mp4
+#EXTINF:-1 tvg-name="La Syndicaliste [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJPNeOmNVbGXZWCe81dwreJz3vp.jpg" group-title="Filmes | Lançamentos 2023",La Syndicaliste [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775025.mp4
+#EXTINF:-1 tvg-name="Muti: Rituais Mortais [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="Filmes | Lançamentos 2023",Muti: Rituais Mortais [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775024.mp4
+#EXTINF:-1 tvg-name="Royal Rendezvous [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93f71drYfVjZvqP0EsGVMRvF5Ab.jpg" group-title="Filmes | Lançamentos 2023",Royal Rendezvous [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775027.mp4
+#EXTINF:-1 tvg-name="Les Choses simples [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm4D555GnwAuOQHipk7ENHUcXAi.jpg" group-title="Filmes | Lançamentos 2023",Les Choses simples [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775167.mp4
+#EXTINF:-1 tvg-name="Berbalas Kejam [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAURXrTu3UdefEUqpqMpBU33Iq9.jpg" group-title="Filmes | Lançamentos 2023",Berbalas Kejam [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775168.mp4
+#EXTINF:-1 tvg-name="Hunt Her, Kill Her [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p06MGXRHJhbFkMu3ey2mGxqWtfU.jpg" group-title="Filmes | Lançamentos 2023",Hunt Her, Kill Her [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775169.mp4
+#EXTINF:-1 tvg-name="Black Girl Missing [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UE6GTjuinT4zDrBxSFRo0wbjt.jpg" group-title="Filmes | Lançamentos 2023",Black Girl Missing [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775171.mp4
+#EXTINF:-1 tvg-name="Battle for Saipan [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg" group-title="Filmes | Lançamentos 2023",Battle for Saipan [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775172.mp4
+#EXTINF:-1 tvg-name="Ursinho Pooh: Sangue e Mel [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzPK6fJgQL0FeKeYkciZzjyOL.jpg" group-title="Filmes | Lançamentos 2023",Ursinho Pooh: Sangue e Mel [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775174.mp4
+#EXTINF:-1 tvg-name="O Convento [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="Filmes | Lançamentos 2023",O Convento [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775175.mp4
+#EXTINF:-1 tvg-name="As Múmias e o Anel Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmfGIGm5SzcBynum9roCNSAzoyD.jpg" group-title="Filmes | Lançamentos 2023",As Múmias e o Anel Perdido (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775349.mp4
+#EXTINF:-1 tvg-name="Um Pacto de Amizade 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="Filmes | Lançamentos 2023",Um Pacto de Amizade 4K (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777591.mp4
+#EXTINF:-1 tvg-name="Batman: A Perdição Chegou a Gotham 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg" group-title="Filmes | Lançamentos 2023",Batman: A Perdição Chegou a Gotham 4K (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777590.mp4
+#EXTINF:-1 tvg-name="Tetris 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="Filmes | Lançamentos 2023",Tetris 4K (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777580.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="Filmes | Lançamentos 2023",Meu Amigo Lutcha (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777629.mp4
+#EXTINF:-1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam! Fúria dos Deuses (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777630.mp4
+#EXTINF:-1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam! Fúria dos Deuses (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777630.mp4
+#EXTINF:-1 tvg-name="Rainhas em Fuga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="Filmes | Lançamentos 2023",Rainhas em Fuga (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778857.mp4
+#EXTINF:-1 tvg-name="Assombrosas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwdK2tzASFRaL2lFPU6Pd4Nqno4.jpg" group-title="Filmes | Lançamentos 2023",Assombrosas (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778858.mp4
+#EXTINF:-1 tvg-name="Corrosão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg" group-title="Filmes | Lançamentos 2023",Corrosão (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778859.mp4
+#EXTINF:-1 tvg-name="O Ultimo Reino: Sete Reis Devem Morrer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="Filmes | Lançamentos 2023",O Ultimo Reino: Sete Reis Devem Morrer (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778657.mp4
+#EXTINF:-1 tvg-name="Spinning Out of Control [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu8ywf6b2A4k0CFQeHRykdO5Bcr.jpg" group-title="Filmes | Lançamentos 2023",Spinning Out of Control [CINEMA] (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778395.mp4
+#EXTINF:-1 tvg-name="Fome de Sucesso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56uuOLbLHTUM3xxUKm16IjAULaf.jpg" group-title="Filmes | Lançamentos 2023",Fome de Sucesso (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778382.mp4
+#EXTINF:-1 tvg-name="Ah, Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg" group-title="Filmes | Lançamentos 2023",Ah, Belinda (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778031.mp4
+#EXTINF:-1 tvg-name="Os Reis da Rua Mulberry: Que Reine o Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg" group-title="Filmes | Lançamentos 2023",Os Reis da Rua Mulberry: Que Reine o Amor (2023)
+http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778001.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2022.xml"
 ############## Filmes: Lancamentos 2022 ################# 

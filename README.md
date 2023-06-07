@@ -5,14 +5,21 @@ https://ia902601.us.archive.org/14/items/new-creative-video-2/New%20creative%20v
 #EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
 https://ia902700.us.archive.org/14/items/video-de-moletom-e-cropped-apresentando-uma-mulher-sorrident/V%C3%ADdeo%20de%20moletom%20e%20cropped%20apresentando%20uma%20mulher%20sorrident.mp4
 
-#EXTM3U url-tvg=" http://grade-de-ALEX RADIO FAX GOSPEL.xml "
- ############## ALEX RADIO FAX GOSPEL ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeALEX RADIO FAX GOSPEL" group-title="
+#EXTM3U url-tvg=" http://grade-de-ALEX Radio DEUS é Tudo.xml "
+ ############## ALEX Radio DEUS é Tudo ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeALEX Radio DEUS é Tudo" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS é Tudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX RADIO FAX GOSPEL",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio DEUS é Tudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX Radio DEUS é Tudo",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
-#EXTINF:-1 tvg-id="" tvg-name=" Rádio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX RADIO FAX GOSPEL ",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
-https://stream.zeno.fm/6kd62srxdi5tv
+
+#EXTM3U url-tvg=" http://grade-de-ALEX Rádio FAX Deus Sempre Presente.xml "
+ ############## ALEX Rádio FAX Deus Sempre Presente ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeALEX Rádio FAX Deus Sempre Presente" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=" ALEX Rádio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
+http://stream.zeno.fm/uhoa45pks0vvv
+#EXTINF:-1 tvg-id="" tvg-name=" ALEX Rádio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
+http://stream.zeno.fm/uhoa45pks0vvv.m3u
 
 #EXTM3U url-tvg=" http://grade-de-ALEX RADIO FAX .xml "
  ############## ALEX RADIO FAX  ############## ### 
@@ -20,6 +27,70 @@ https://stream.zeno.fm/6kd62srxdi5tv
 
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS  SP.xml "
+ ############## CANAIS  SP ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  SP" group-title="
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS  SP",RECORD SP
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://tinyurl.com/u9csbt" group-title="CANAIS  SP",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAIS  SP",BAND SP
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UIF3_P1vaND2Q_CfMz0ei0NQJwMTRIIO6BS-mNkTHO2)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="" tvg-name="Cultura"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCe6sALcrknc5El__mTiHVXavEi9JDSzZBbR4GOx6OX4POw5qmzIGGhsnkWjmBb9wIWD90HAGhSKnFgzn56uzWvjBK_dVGuQJ6H3qvjrlnyJt-YWbm2PYKsozxnyBvfhVCf1EYLQt7fs6naQYHpk518Wmo5XwHfuUWBs3xQ1t95Cn1jdjNj5qzQAAE/s200/TV%20CULTURA.jpg" group-title="CANAIS  SP",Cultura
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1759726468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-EI40ClsWnOAoX8J7BBmRnSD1306vo3J8m5x8Ljiich6K-_MwI_-Bwo59ftJ9F0Db8p3ehW47D6HeNA_YBRSIaFmqUGNBWsT5oPENJJmmEzt3NVQvw8XA0CPHBn9kaUTanWmQH8QIWo6t8-MSdM-WePbO4hxJIUTQMi1YO0ETGkNZh4aMpXka34Ba/s200/REDE%20TV!.jpg" group-title="CANAIS  SP",Rede TV
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiHhE8IOF64IexJl-gdzT3XZlPA3D05WBPQZtYnSuoXTYgAiCQp4GyEVKRie84XaPzxHiMnQkVzpiHGoSdSDKle555B1a8hhhMfgPCv2WdeB0Y7Zpf4TL10jzwSdlYgyfe8qVRaIvzRSmh3D2I7CbHD0322EO_bfqLBlc_FtHfqF_2ydKRhmd9CHl/s200/CLASSIQUE%20TV.jpg" group-title="CANAIS  SP",Classique TV
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w776821197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids Mais"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqYErXjEoAOsbKdrQOLBWhgSr-linqOljJ23MXgctACjTo0YHPS1DhgToiJxdMtXokyT3Cq7WR7U3NguwQ_-fwVj6reoLCbpIdiwe2nC2RZR2uCwd-o4q6L9YFaHKra_SYkZxA-JBLZ2qEXvG8TeLBY0acISmdlIc4UZuac6naHpdkGapTfdKG-Ph/s200/TV%20KIDMAIS.jpg" group-title="CANAIS  SP",Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Cei"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkyXxQfyjjaakQqZWXV9tUxMRXnH6no5sriTF3mlpbJmTv_8xE_WsG8GgDmUGvK0209Qpn_orNrEv71x1JEXlVCvg23YaLc5Qt4NOMoSbZV99R1R8b-R1cNJYitgjmjY3ZsHUuTVWfr3sMOPoLJh6CMWjFeOdeFUGFFwoYKBshEfp_n2l8UxRueNO/s200/TV%20CEI.jpg" group-title="CANAIS  SP",Tv Cei
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tela Viva TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6ZyyBGDUfyiaLVyIGGjMdnvfTQKhsH7n01owVYww8KvZMjUDcgWyvdPtv-PaDqKSEwBShbvOId_KPf9smR6_y7FWuBh1LPrlzFnRMVW5IiIEwJiOObUMFEfP7ntmxtkWmmgr41AifvJafrYu3UazXPssYFLSs4W-DdrQ2ttpm0J35z27IFe6yI3G/s200/TELA%20VIVA%20TV.jpg" group-title="CANAIS  SP",Tela Viva TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Clássicos"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1JUoH3yLT9oybMvYIiKW4Yt5fpOJAb_uFhVE0UqEpzbXzRaRyLM4UGZSf0Oktpw3VITV5dVnh409zJQ-w8NXbhMmuwsjZM7KW87vg5YxGrdiXr_QGGkJjCHZh-ZbNgzYN_oNViMH6MtfayKhgGvxVTzRskiTUwFz9sN33aU91oHFZBa0DBU2Cm-Vy/s200/TV%20CL%C3%81SSICOS.jpg" group-title="CANAIS  SP",TV Clássicos
+https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasi"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Znm5e8SHvvjI4nYojACNK7MpoNvPV3PRwIf5KQdAYnkyt9CiwOhXhHO3TZI81HAzirGNzDA0pbDSiG9ynXpGemMkWPVU4rHgJHW35tlyGda-rbpx_Vul57UejNWYRrY27X3eod40UClLdIW5P8hcKqbP3QWk9o4y0NS7dhdx1x5fB9sdbMc6SLzb/s200/REDE%20BRASIL.jpg" group-title="CANAIS  SP",Rede Brasi
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fora Tédio TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNIzWk8ywBk72ZylPljIGJIGG20n3f9uwPyH285veUsxNvy9DI4_IlhDHsEyERCGZyUcP2a3H4qOBYrY50genE5vm5xja6VSYKi4stAMVqIS0t93O90ef1EzmAmCEo6PH9V9bUqpV_IBtVx8WcCO8E6CwgimCnC8vAIyZfpESgkYLYNQOQ3a8i2pD_/s200/FORA%20T%C3%89DIO%20TV.jpg" group-title="CANAIS  SP",Fora Tédio TV
+https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w216375565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiipCqLmoiLK7SD2AYrPKnZmOdzekAusfc1-TdC7nDpb2STlKAxFqWfWQsN46odv0DG5loC77bm6ThT5gIud2T-8yDpUJadmkm5cAOA-xlNriANAxD87XsmuFjjUeXlMnIn6y8vthy1VwHarqW1mgLGlLVv-p-i_uPLBJgjiMHN2mESzv4m-oy-ZxLo/s200/TV%20GAZETA.jpg" group-title="CANAIS  SP",TV GAZETA
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaves"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDHXCb-Hps2JPR3XKP0ZbqEY6ayOu8W6SExAEAXnHP4htp_6N9VhO0RSKZO7ISVvuBAXJsEhnrOSbiuvIs2b015wNS7TaLErcMctOfoaj0yarG2iQ4YiqcojKlUxGbBJ_t_mXLa_8zAYgz8IN_FKxUKPuExdwi5Bak5LMrjH8gLfuTOWCQIJDOiDio/s200/TV%20CHAVES.jpg" group-title="CANAIS  SP",Chaves
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CqUFfcm9_ljlpYFDUPJEx_nuSpJqmLEkZC5MYS5JEF1EmdWt_FOZBEmn54N3kFjWWRZ4MtEzBoDPNMY6nOLxoFY4i3L7OTvkYRcR3_wYXX4YJKBtbTru8K0Ile6VuhmNxrTcey7JIDXJuzXGJ9FriQ1--MBdtNbh6wZTAfyQrhsrDvMLCeREFZoH5mDYQblQ-oTTKVTNd0N5dYcrS-t9UizuXYbz1oyPfGmZeQi0iv6E0KQ_fdn9ZFDniDhB-d-OWs2kPcuz0sy1Xjd80xrYAeqfTqOcT6ZrILhFGTAPAZ5rOeGw8e8vb5L8qHWfoi9rwV0cFDn5MyFl0vDvGxzjzYhcrfCEVwI4TIL3tdApL5L30scz93wR78cdVOfpH9bbYvzxBLholnC1EGuieWE334jxjiD3sXOUxeVxaM1TmjboH652mfKGfbUjq0v8q9EFL_mJGNkyGVVid6dBRCMPfyHe4HSnJaXODvE1YQ-KkcUjuyr4I3hl-WCz3YdzT8Pt_CAVj0_Lq14hvD1CgDp7wt5HToBUrZzML2t8NxTEM3l5VqxpkP4Nd1IyRSdSIGcLQlrQ0taKZvWGsJz9GxiTF_d-hnVrY5J0_mKcy8k0tWtHCz2wQON7JeyQCZgBOAesLJMSE2tjEDM-iOutRJT0LrD6x7GGt1w5vEKUVHmFtmrgoAirfMKTT4s0zeJ1amWFqA7994IDnoiRgfddzQx48qinDkK98ugF6EeQLu-oOr4x9xZzsBCPXBdJDM3ojbFkPheaL0kS0eXedpRWruOYzndNM76ML9JIfPcracJwlNWCaSjQrlGqFlHl9ZvoYExRyqOyzCvzBqYsFFWpjLSzVBTibljCHSouGdu4fJNiWO-O3dPZKVkLdDSGtEalYY_JCYiqlc3PQOAaDIc0B1oeK9M4ALHBtCABKgl1cy1lYXN0LTEwlQU.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS CINE.xml "
+ ############## CANAIS CINE ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS CINE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Ação 24 Horas"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzr6gc7FMtusa4J_yCg_fpby7zSGjjjxIYTnJGl42l-z1U6rUuWbg9G-z5YUXHxiEMI2k&usqp=CAU" group-title="CANAIS CINE",Cine Ação 24 Horas
+https://server101.online/filme-acao/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=0b5f90eccdab272af23782724faa3ccf8b0f2987-b00a17871806e2d8efb35ff1ffe2327a-1686160135-1686152935
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24 Horas"tvg-logo="https://tv0800.com/wp-content/uploads/2022/07/filme-drama.webp" group-title="CANAIS CINE",Cine Drama 24 Horas
+https://server101.online/filme-drama/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=9e2eb3c099bbbe2e067b9bb9373a64acae10da7e-4e3f3179135dc854519ee4ad33c4b704-1686152360-1686145160
+#EXTINF:-1 tvg-id="" tvg-name="Cine Paixão 24 Horas"tvg-logo="https://pipocanamadrugada.com.br/site/wp-content/uploads/2018/03/Todo-Dia.jpg" group-title="CANAIS CINE",Cine Paixão 24 Horas
+https://server101.online/filme-romance/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=3f496965ddf65c5563e276bb614a9677d60783d9-7c50332e9c5ee0a99528b1124a760bd9-1686160405-1686153205
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia Romântica"tvg-logo="https://5coisas.org/wp-content/uploads/2023/05/Fotos-curiosidades-filmes-comedia.webp" group-title="CANAIS CINE",Cine Comédia Romântica
+https://server101.online/filme-comedia-romance/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=9a44cd24f39af59a1decf391603ad59c8da3ad2f-06002ab7f3c76675f4da3d1237dd2256-1686160522-1686153322
+#EXTINF:-1 tvg-id="" tvg-name="Cine Adrenalina"tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="CANAIS CINE",Cine Adrenalina
+https://server101.online/tv-adrenalina/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=bed936127d7b70d908f3a30cb23519ebcb95ae02-5285bde49aa138ca91aab56cb979dd88-1686160635-1686153435
+#EXTINF:-1 tvg-id="" tvg-name="Cine Nacionais 24 Horas"tvg-logo="https://img.7segundos.com.br/JrlkvNMkuWopSDIGLFHOloGo32M=/1200x630/smart/s3.7segundos.com.br/uploads/imagens/hora-cinema.jpg" group-title="CANAIS CINE",Cine Nacionais 24 Horas
+https://server101.online/filme-nacionais/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=0aa002df129be4cd6f38289ee1ee7175d90d4a08-6f398cd0dc3ffba6230ba505b75ca224-1686160715-1686153515
+#EXTINF:-1 tvg-id="" tvg-name="Cine Suspense 24 Horas"tvg-logo="https://tv0800.com/wp-content/uploads/2022/05/filmes-suspense.webp" group-title="CANAIS CINE",Cine Suspense 24 Horas
+https://server101.online/filme-suspense/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=d367b58a25ad3b80ef711842b6e06ffb17422a53-01116b943b91c2596953bbcd57be9a21-1686160842-1686153642
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV"tvg-logo="https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY" group-title="CANAIS CINE",Rakuten TV
+https://rakuten-family-14-pt.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats: Os Anjinhos"tvg-logo="https://sm.ign.com/ign_br/screenshot/default/rugrats_wc8s.gif" group-title="CANAIS CINE",Rugrats: Os Anjinhos
+https://server101.online/rugrats/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=97e73d8d9a106a64b19361eae1beea9b41ae00d1-519d6fc0ee8d4f30edc7ade5d3d600bd-1686161138-1686153938
+#EXTINF:-1 tvg-id="" tvg-name="Death Note"tvg-logo="https://i.gifer.com/Jjm.gif" group-title="CANAIS CINE",Death Note
+https://server101.online/death-note/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=bdd8248fdd88124ea423ccbc02642583c9e46047-86da4fd8fccd5b8e640e99f3632e48b4-1686161294-1686154094
+#EXTINF:-1 tvg-id="" tvg-name="Jeannie é um Gênio"tvg-logo="https://media.tenor.com/G6tFV3FNcvEAAAAM/genie-as-you-wish.gif" group-title="CANAIS CINE",Jeannie é um Gênio
+https://server101.online/jeannie-e-um-genio/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=1d75564d6a142606c4fc73d5569555dd8e2e1dac-cf66d47c43c1298a699961796789c7d6-1686161489-1686154289
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja"tvg-logo="https://i.pinimg.com/originals/6e/9b/b6/6e9bb6bc8ea7c57f5ecc54e0a9ea58c4.gif" group-title="CANAIS CINE",Bob Esponja
+https://server101.online/bob/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=7dcff038ab59bacfaa76fe5a3115a4d9dc83067f-453453b2712ec7b13f699137151bdac3-1686161536-1686154336
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Clássicos TV Ao Vivo"tvg-logo="https://i.pinimg.com/originals/94/eb/a5/94eba51764348119037ca92ab202784f.gif" group-title="CANAIS CINE",Desenhos Clássicos TV Ao Vivo
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1368450056.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  RUN TIME.xml "
  ############## CANAIS  RUN TIME ############## ### 

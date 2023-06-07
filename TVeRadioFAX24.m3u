@@ -167,214 +167,75 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
  ############## Canais  SBT ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  SBT" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais | SBT",SBT SP HD+
-http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16749
-#EXTINF:-1 tvg-id="" tvg-name="SBT Rede Massa"tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="Canais | SBT",SBT Rede Massa 
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT 4K
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169533
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Amazonas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Amazonas FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289012
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Brasília FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Brasília FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165431
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Brasília HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Brasília HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83474
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147676
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147677
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Interior HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Interior HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169525
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Itapoan FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Itapoan FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162772
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Itapoan HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Itapoan HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162781
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Para HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Para HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289001
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Piaui HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Piaui HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289011
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Rede Massa HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Rede Massa HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162848
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Riberão Preto HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Riberão Preto HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289004
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RJ FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83517
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RJ HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83513
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RJ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RJ SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165438
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RN HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289002
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RS FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162797
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RS HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162798
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT RS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT RS SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/163268
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SCC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT SCC HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289003
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT Serra Dourada HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT Serra Dourada HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289006
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT SP 4K
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/151040
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT SP FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/140653
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT SP HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83476
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT SP SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169523
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT São Luis Maranhão HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT São Luis Maranhão HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289007
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Alterosa MG FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Alterosa MG FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83495
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Alterosa MG HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Alterosa MG HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/142101
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Alterosa MG SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Alterosa MG SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/283909
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Aratu Bahia HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289008
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Difusora Caxias HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Difusora Caxias HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289009
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Jangadeiro Ceará FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Jangadeiro Ceará FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289005
-#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT TV Jornal Recife HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | SBT",SBT TV Jornal Recife HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/289010
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - 4K" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - 4K
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/54298
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83669
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - h265²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83668
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT BRASILIA - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT CEARA JANGADEIRO - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT CEARA JANGADEIRO - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320210
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GOIAS" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT GOIAS
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138773130
+#EXTINF:-1 tvg-id="" tvg-name="SBT MARANHAO" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT MARANHAO
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781366
+#EXTINF:-1 tvg-id="" tvg-name="SBT MINAS - FHD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT MINAS - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774683
+#EXTINF:-1 tvg-id="" tvg-name="SBT MT - FHD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT MT - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774684
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT PARA -HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT PARANÁ
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
+#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT RECIFE TV JORNAL - H264
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
+#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT REDE MASSA
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT RJ - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/156203
+#EXTINF:-1 tvg-id="" tvg-name="SBT RN - FHD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT RN - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138775362
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT RS - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385279
+#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT SC - H264
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT SP - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT SP - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Record.xml "
  ############## Canais  Record ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Record" group-title="
 
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record Litoral Santos " tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais | Record",Record Litoral Santos 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS"tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="Canais | Record",RECORD NEWS
-http://15.235.10.31:14351/
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS"tvg-logo="https://media.tenor.com/heCJgKY3p8YAAAAC/noticia-preocupante-sp-record.gif" group-title="Canais | Record",RECORD NEWS
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" tvg-id="RecordNews.br" group-title="Canais | Record",Record News 
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record News"tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="Canais | Record",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record BA Itapoan FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162665
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record BA Itapoan HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/163692
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record BA Itapoan HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147650
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record BA Itapoan SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169528
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Belém FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Belém FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162769
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Belém HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Belém HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83469
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Belém SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Belém SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162768
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Brasília FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165428
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Brasília HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/157301
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Brasília HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169518
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Brasília SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Brasília SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162765
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Cabralia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Cabralia FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147669
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Cabralia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Cabralia HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/164593
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Campinas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Campinas FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/157300
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Campinas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Campinas HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162764
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Campinas SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Campinas SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/157298
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record FHD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147655
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Goias FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162766
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Goias HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83252
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Goias HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147656
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Goias SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Goias SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162767
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147667
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Interior SP FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162669
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Interior SP HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162670
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Litoral Vale do Parnaíba FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Litoral Vale do Parnaíba FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162668
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Litoral Vale do Parnaíba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Litoral Vale do Parnaíba HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162667
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Manaus HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Manaus HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83465
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Manaus SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Manaus SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147668
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Minas FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147652
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Minas HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/169517
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Minas HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147660
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Minas SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Minas SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152650
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/139116
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83309
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News SD" tvg-logo="https://i.imgur.com/vNlHLKc.png" group-title="Canais | Notícias",Record News SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83612
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Paranaíba de Uberlândia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Paranaíba de Uberlândia FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/247611
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Paranaíba de Uberlândia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Paranaíba de Uberlândia HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162762
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RIC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RIC HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83796
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Rio Preto FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Rio Preto FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83678
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Rio Preto HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Rio Preto HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162666
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162969
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/157157
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147664
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/163031
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RS FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165435
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RS HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147665
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RS SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162770
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SIC TV Rondônia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SIC TV Rondônia FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83696
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SIC TV Rondônia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SIC TV Rondônia HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162763
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SicTV RO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SicTV RO HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/163608
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://i.imgur.com/LzwVYs3.png" group-title="Canais | Record",Record SP 4K
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/151036
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/162663
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD [H265]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83430
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83468
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147658
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83613
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP SD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147657
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Cidade Ceará FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Cidade Ceará FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/288606
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV MT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV MT HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83496
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Vila Real FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83804
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Vila Real HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83520
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82875
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82879
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82874
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - HD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82878
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82873
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="RECORDTV RECIFE" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RECIFE
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774700
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RIO GRANDE DO NORTE" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RIO GRANDE DO NORTE
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/13875003
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RJ - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/156144
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RJ - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/123675
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RJ - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/132816
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RS - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/87574
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
  ############## CANAIS | GLOBO ############## ### 

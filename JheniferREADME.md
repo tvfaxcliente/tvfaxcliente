@@ -2758,15 +2758,6 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/123180
 
 ############## DESENHOS ################# 
 
-#EXTM3U url-tvg="http://grade-de-Masha e Urso.xml"
-############## Masha e Urso ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeMasha e Urso" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" Masha e Urso" tvg-logo="https://imgur.com/nH4ZjJj.jpg" group-title="Masha e Urso", Masha e Urso
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12467
-#EXTINF:-1 tvg-id="" tvg-name="24h Contos da Masha" tvg-logo="https://imgur.com/eYYOa2i.jpg" group-title="Masha e Urso", 24h Contos da Masha
-http://dns.acaidopara.net:8080/21964291463/1964291463a/12460
-
 #EXTM3U url-tvg="http://grade-de-DISNEY+Willow.xml"
 ############## DISNEY+Willow ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeDISNEY+Willow" group-title="
@@ -2800,6 +2791,7 @@ http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246392.mp4
 http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica - A Série S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbjZjowIsgLqOibhBp06DC35jdi.jpg" group-title="SÉRIES | TURMA DA MÔNICA",Turma da Mônica - A Série S01 E08
 http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/246394.mp4
+
 
 #EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
 ############## Infantil Car City ################# 
@@ -3445,9 +3437,6 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/153993.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/153994.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Tamers
 http://srv.cldplay.net:80/live/820584rohs/67864336899/153995.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="24 Horas | Desenhos",[24H] Apenas um Show
 http://srv.cldplay.net:80/live/820584rohs/67864336899/62978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 01
@@ -3898,7 +3887,7 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775426.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775164.mp4
 #EXTINF:-1 tvg-name="Roubo pelos Ares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="Filmes | Lançamentos 2023",Roubo pelos Ares (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775161.mp4
-#EXTINF:-1 tvg-name="Why Can't My Life Be a Rom-Com? [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023a",Why Can't My Life Be a Rom-Com? [CINEMA] (2023)
+#EXTINF:-1 tvg-name="Why Can't My Life Be a Rom-Com? [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023",Why Can't My Life Be a Rom-Com? [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775165.mp4
 #EXTINF:-1 tvg-name="The Donor Party [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" group-title="Filmes | Lançamentos 2023",The Donor Party [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775023.mp4
@@ -4266,14 +4255,6 @@ http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266743.mp4
 ############## Filmes Top 2022 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Top 2022" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="O Sol de Amalfi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg" group-title="Filmes: Top 2022",O Sol de Amalfi (2022)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/86235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Resgate de Ruby (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvhYsuo1tsPkfFzYljCKjCkxL1T.jpg" group-title="Filmes: Top 2022",O Resgate de Ruby (2022)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/73716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg" group-title="Filmes: Top 2022",O Projeto Adam (2022)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/72359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Peso do Talento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KahLgGArTECtUJWN9ACGR6l1S.jpg" group-title="Filmes: Top 2022",O Peso do Talento (2022)
-http://dns.acaidopara.net:8080/movie/21964291463/1964291463a/83637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Top 2022",A Lenda de Lantern’s Lane (2022)
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/260827.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Top 2022",A Ira de Deus (2022)
@@ -4475,8 +4456,6 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/262450.mp4
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/164775.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/24589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="Filmes: Top",A Bela e a Fera (1991)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/214692.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om96D2NF9w4UyrprQ882DrTFBol.jpg" group-title="Filmes: Top",A Bela e a Fera (2014)
 http://srv.cldplay.net:80/movie/820584rohs/67864336899/284495.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" group-title="Filmes: Top",A Bela e a Fera (2017)
@@ -5513,23 +5492,6 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-8/play_v1_hls_1080p.m
 #EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Emboscada"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Emboscada
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-FILMES  DRAMA RUN.xml"
-############## FILMES  DRAMA RUN ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  DRAMA RUN" group-title="
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f6a15c807ce43001305d5c5/screenshot16_9.jpg?fill=blur&fit=fill&fm=jpg&h=540&q=70&w=960&auto=&ixlib=react-9.1.5" group-title="FILMES | DRAMA RUN",O Vigilante Mascarado
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_il0564po/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODE1NTk2NTJ9fX1dfQ__&Signature=I2ejIWvzniR44egjKLK2XpvV4XXpKhitfR891~K-hYqlJ1nvSNiUTEdAoEUR2~Z1Eth8C~-uYgRg2wLXkZ0DCSXQrObUWAWWHbwJd4Wo1nQt56DGBS08WiPCJ0GOGruRg2x~dU3jOFuPQjI6u7jaUF8T7ZunGI7dZ0S~U8uf4F3oAUd-IUA7MO90W9W0mEOqpOFlbqm2fnPUjeK4UPQnTNFe0etbri6cF4Rfm9-A2B6ncBzH-rU0GxmYsC~uCIIyGewlv7-R6O-PJj2ATZw2s2P0aE90F1gRcAiXZ9RwTkTjVb5dfoLStcZXVJMGkAlg6cHutp6xqwnEZL0o1gonrQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2015/09/florestaquesemove.jpg" group-title="FILMES | DRAMA RUN",A Floresta que se Move
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_0itnvx2p/v/1/pv/1/ev/9/flavorId/1_e1a8506o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8waXRudngycC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY4MTU2MDEwOH19fV19&Signature=akiLe5SGexL7U2fx42u1odUtS7Qm7K0wB0ejKEt8ljy6BCHerkP~DoSjuqItFm10Sj1hX1iDfSz5gbt2fJ-MCWLMEAtlg3j2uiqmCp8UwYd2Maz0a799QVyPDNDvjMze8znwpvyZ2~~ylcuQiMpqkS8Lb9RM43wHE0L1Fg-wuPj0AbRdYI92hqR7gbdb8KKyyvvG67A5P0oZw0mWFHV3DlrBmo6x05Es7eosMAtUOB5TdlmJ8DeNfzIXdi57iAzvVuE15ANRyW4zgx8sxS5LIo5x1V7nkUA~xlgDuB5RIEemhkaNUtZrfSFpxXFMGZbQPDwAwVneKYZXeaZuy660bg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="jogo de poder" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_game_changer_thumbnail_16x9_widescreen_bpor_0.jpg" group-title="FILMES | DRAMA RUN",jogo de poder
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_jw74gdem/v/1/pv/1/ev/10/flavorId/1_mo8nbwg8/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9qdzc0Z2RlbS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NTkzMzl9fX1dfQ__&Signature=MN5fyifhB11m~brPlxtorbp9hLDkaMUeTVI0EbGQyyvIZO9lRs6JhocZNbgk1n-gKT-1OEeXxZH0WF5AQyOr5uIpcwJDYFSL0iQrl10rRx2LXOuNqSeg90zU3SJ8Wqg47UU0Z99N9XKHBBt2-PLVd99sBaD8480k0-2dZWjjH-KJYXoFbPb6kJGaRYm-d8XyUzyBp5OpeTUeyI7w9wO5Oc0knVg0lZf~6gXXhi3XruPO3qM9eNY~Y33JzlpSTaUs4L4-5MiIKn~mNi4S1MtYaJ2XID~5ybcfJ-dM8SYZW-zO~dokCuegFJ3dYZLiPI7oH7KkAQ38eP5PvSTTPFPr-g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="Nada é para sempre" tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/river_runs_through_it_thumbnail_16x9_widescreen_bpor_0.jpg" group-title="FILMES | DRAMA RUN",Nada é para sempre
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_umyilx17/v/1/pv/1/ev/10/flavorId/1_i7ntswsm/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV91bXlpbHgxNy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAwNDJ9fX1dfQ__&Signature=TjkU7xmIt2DNGVr4OQrrBxh5SISYHEBG31U-jbS69rJHeh~gfRZ-pMS1XlcZnUYU8UHYEQXG7tYBdj4rqlHTFXDdfwpe4BJ9gqle8jEnQMFM1-uxxPWMql33KZel-HglM~8v-JmnD2lOOtWwMhIHwTLXqDbGpqKlWUZciZV8lYnrzaQXUqRUv~3MNOiic6elnSDkDi2bZCAXK1DKxnoE8TB44BzHhuCh9ue-3D0XeR8Y9TD1Vzx7rNmbj5ZSbA-GL9LpuOc7Ch0~PcfVosF-KUOgLRyYVT555-MvuH-AZ6zohf3NqkuAwNCc9LsJuauaXMhETCOSRuXospMd9IHtbA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="Sequestro Relâmpago" tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/carjacked_thumbnail_16x9_widescreen_br.jpg" group-title="FILMES | DRAMA RUN",Sequestro Relâmpago
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_sdgoda4f/v/1/pv/1/ev/11/flavorId/1_q84bikds/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zZGdvZGE0Zi92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAxMjR9fX1dfQ__&Signature=arZ-bQ606FkVfmueMIqINiQZd62aWvn4ZKxDrnTB2PR8FMT7V1RATg4IEhDeCmhn9bD5qvf7aau0unzdKn7A23WCnJ~sL43dV1~38Jhwu1X90SdwdpAXF2fLdPNOxTV6FrVGsSXswRQp1jUBBw~zJ3~a81Svv9nerN7iibSq40H~Wn82bZNcz1Dsa1ihVlAH-wRDfKfQ7iAlvsJ~zyQExDK1w9Po024gjotXTlrNlAursTAnNJ5F4u4Y49~hsRnhTLOGi8d0V4LtvSvX-4YQg5QOFVPxfWfiLInN76nIZPEgQjHbLPBuiNvv3xVLnXwBYV8FUy5iV1KTkhyFPI79og__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:-1 tvg-id="" tvg-name="Um Homem Comum" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/an_ordinary_man_thumbnail_16x9_widescreen_br_v2.jpg" group-title="FILMES | DRAMA RUN",Um Homem Comum
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_3orb0xj9/v/1/pv/1/ev/12/flavorId/1_02yyxvfi/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8zb3JiMHhqOS92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODU0NjAxNzN9fX1dfQ__&Signature=ayz~Xbol71jwGKSiTXkAHvX1OKCqHvgFBSf-tFh7MYwkrgdp9lLNgy1zRolZlM~2lCRN4gAM6ZmIJnqHgTr8M5nAROH1pbGt1v7eAifDGntc-6ClGbPQZVg8p-tUM0XYsMIgab1K~qnmaqPus9q2PyY39iSVYyc98L3DAXL-9AXOKQ7fDRWYJtlaBVasmyo0mxluVaQmSeN5A6Ez8r~y0zQTy~buGRIkQpYOEnDKKtFIlnjcyApp-G8Yjx1IUmmlnxxASoTbCmlDbJ6k30TjblOmiFZGfzApo-sYVbJGFxizcUPrHbIZV-2g5Xmel5gTGyqGKfAu~86qRpEAYalVBQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
 #EXTM3U url-tvg="http://grade-de-Filmes Drama.xml"
 ############## Filmes Drama ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Drama" group-title="
@@ -6415,29 +6377,6 @@ https://play.prod.gcp.vix.services/lado-fora_pt/lado-fora_pt_1-1/play_v1_hls_108
 #EXTINF:-1 tvg-id="" tvg-name="Inocência"tvg-logo="https://cdn.douradosnews.com.br/upload/dn_noticia/2016/11/581b342e61f5d8d36a1ce9f7791fb55994d4ce42a2818.jpg" group-title="FILMES |  NACIONAL CINEMA",Inocência
 https://play.prod.gcp.vix.services/inocencia-1983_pt/inocencia-1983_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Serie Bem-vindos ao Éden.xml"
-############## Serie Bem-vindos ao Éden ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSerie Bem-vindos ao Éden" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E01
-https://seig.tv/18/1/77fa9180b83593f6423ce24914a22085/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E02
-https://seig.tv/16/1/6628846ee91f7f04a971fb811b43bf97/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E03
-https://seig.tv/17/1/e666d498515034577b2659dd7fbf1a0f/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E04
-https://seig.tv/16/1/da387e05382ad55b515cbe6b94b9565b/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E05
-https://seig.tv/15/1/83b900d707fb74212b59956347431f07/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E06
-https://seig.tv/13/1/d70b3b2f180409e11168d622f3b5ccac/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E07
-https://seig.tv/18/1/a4966196c3e05ea6ede1f8a3cdc89ccf/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-vindos ao Éden S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg" group-title="Bem-vindos ao Éden",Bem-vindos ao Éden S01 E08
-https://seig.tv/11/1/89b84379788d01ea06fc7dc1867aa09c/720p/720p.m3u8
-
-
-
 #EXTM3U url-tvg="http://grade-de-FAX AUTISMO.xml"
 ############## FAX AUTISMO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX AUTISMO" group-title="
@@ -6769,269 +6708,74 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre  "tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-NETFLIX Henry Danger.xml"
-############## NETFLIX  Henry Danger ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX Henry Danger" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMESs.xml"
+############## SÉRIES | ANIMES ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | ANIMES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8CIaWbC1NQnPCtozHCvhnjNENeK.jpg" group-title="NETFLIX",Henry Danger S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7p71pyKtvY6GPv6SGulMZyDHbua.jpg" group-title="NETFLIX",Henry Danger S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmcLKW3Hs2lY63EamRYNbGEqm4Z.jpg" group-title="NETFLIX",Henry Danger S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/81649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bDp8VyD5ASIpoN8H9LIVUvy5iWo.jpg" group-title="NETFLIX",Henry Danger S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/81650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/stS07HzjerUwtdlrtcrpgAhgwsA.jpg" group-title="NETFLIX",Henry Danger S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/81651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aVsmKj3y2g6tcJAvqqXYBK24tY3.jpg" group-title="NETFLIX",Henry Danger S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/81652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4LXUlfqDeXkdI0fjI6PgYkjNxUZ.jpg" group-title="NETFLIX",Henry Danger S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/81653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zNdrKEYJdPX93IjTEV2sF3x5PNh.jpg" group-title="NETFLIX",Henry Danger S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/81654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jhPio6tYm7Xxuf4P3zL6VCyzM0A.jpg" group-title="NETFLIX",Henry Danger S01 E09
-http://meuplay.shop:80/series/828474929852/34882748924/81655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/clEEd1uVJ0AsVZXHTiQcpLMSf2t.jpg" group-title="NETFLIX",Henry Danger S01 E10
-http://meuplay.shop:80/series/828474929852/34882748924/81656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLxahbSvkz0aYz8qxQU6iK2drz.jpg" group-title="NETFLIX",Henry Danger S01 E11
-http://meuplay.shop:80/series/828474929852/34882748924/81657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/828s76cjA0r26KoUjLGAgEDCbOh.jpg" group-title="NETFLIX",Henry Danger S01 E12
-http://meuplay.shop:80/series/828474929852/34882748924/81658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zUC4yxPapwQUriTMtkecgUKKUBd.jpg" group-title="NETFLIX",Henry Danger S01 E13
-http://meuplay.shop:80/series/828474929852/34882748924/81659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1BYgv1T8AXnFu8zXczkU77dQ9ch.jpg" group-title="NETFLIX",Henry Danger S01 E14
-http://meuplay.shop:80/series/828474929852/34882748924/81660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oy3FJlt5iXSej5CT7t61DNOJcVk.jpg" group-title="NETFLIX",Henry Danger S01 E15
-http://meuplay.shop:80/series/828474929852/34882748924/81661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lxyS5kAMB2ukZwWSGobgVmtyvcT.jpg" group-title="NETFLIX",Henry Danger S01 E16
-http://meuplay.shop:80/series/828474929852/34882748924/81662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4JnSR9fmuIbF2pCyy4ALhvMpeXy.jpg" group-title="NETFLIX",Henry Danger S01 E17
-http://meuplay.shop:80/series/828474929852/34882748924/81663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYYalvpS6wjGbT5pKjVmiVqEIwe.jpg" group-title="NETFLIX",Henry Danger S01 E18
-http://meuplay.shop:80/series/828474929852/34882748924/81664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o8jjoSgBwHtXCCsShoSF9Ic8fJ9.jpg" group-title="NETFLIX",Henry Danger S01 E19
-http://meuplay.shop:80/series/828474929852/34882748924/81665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qrZptaLdDoMiEz5z1LXgZc2iMp.jpg" group-title="NETFLIX",Henry Danger S01 E20
-http://meuplay.shop:80/series/828474929852/34882748924/81666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nIpsDmZ6CkxRmWNxJA3sKGWbTox.jpg" group-title="NETFLIX",Henry Danger S01 E21
-http://meuplay.shop:80/series/828474929852/34882748924/81667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jj9diSbkWvYuzsgrEyzZdkMtEGN.jpg" group-title="NETFLIX",Henry Danger S01 E22
-http://meuplay.shop:80/series/828474929852/34882748924/81668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jh7yH4gVBN5r63sD4DNSygP6F01.jpg" group-title="NETFLIX",Henry Danger S01 E23
-http://meuplay.shop:80/series/828474929852/34882748924/81669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSdb03o3uzj3WOZi2lpErlIEnj1.jpg" group-title="NETFLIX",Henry Danger S01 E24
-http://meuplay.shop:80/series/828474929852/34882748924/81670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E25" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cuncCDAS3p7hX2cWhXkdTRivkfN.jpg" group-title="NETFLIX",Henry Danger S01 E25
-http://meuplay.shop:80/series/828474929852/34882748924/81671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E26" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S01 E26
-http://meuplay.shop:80/series/828474929852/34882748924/81672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ihnT7noB3pXvfJjsyyhTqxC6HLS.jpg" group-title="NETFLIX",Henry Danger S02 E03
-http://meuplay.shop:80/series/828474929852/34882748924/81675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjWQStSZyeccajZQBO4m7ifHmAQ.jpg" group-title="NETFLIX",Henry Danger S02 E04
-http://meuplay.shop:80/series/828474929852/34882748924/81676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mwyMnzYFM6CFq1f5CRzyiYG4TX3.jpg" group-title="NETFLIX",Henry Danger S02 E05
-http://meuplay.shop:80/series/828474929852/34882748924/81677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8MyRzgJzpv38KNwGfX61HHiaOr0.jpg" group-title="NETFLIX",Henry Danger S02 E06
-http://meuplay.shop:80/series/828474929852/34882748924/81678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qpAfNhh8GTYwjk2P9z5Ruq1yCWc.jpg" group-title="NETFLIX",Henry Danger S02 E07
-http://meuplay.shop:80/series/828474929852/34882748924/81679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/znoBd3qBrha6SOJeBSAy2HtJuCK.jpg" group-title="NETFLIX",Henry Danger S02 E08
-http://meuplay.shop:80/series/828474929852/34882748924/81680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8oflqo7cRfWTV0Ys4RzDzVQoiZn.jpg" group-title="NETFLIX",Henry Danger S02 E09
-http://meuplay.shop:80/series/828474929852/34882748924/81681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E10
-http://meuplay.shop:80/series/828474929852/34882748924/81682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E11
-http://meuplay.shop:80/series/828474929852/34882748924/81683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E12
-http://meuplay.shop:80/series/828474929852/34882748924/81684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E13
-http://meuplay.shop:80/series/828474929852/34882748924/81685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E14
-http://meuplay.shop:80/series/828474929852/34882748924/81686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E15
-http://meuplay.shop:80/series/828474929852/34882748924/81687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E16
-http://meuplay.shop:80/series/828474929852/34882748924/81688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E17
-http://meuplay.shop:80/series/828474929852/34882748924/81689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E18
-http://meuplay.shop:80/series/828474929852/34882748924/81690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E03
-http://meuplay.shop:80/series/828474929852/34882748924/81695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E04
-http://meuplay.shop:80/series/828474929852/34882748924/81696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E05
-http://meuplay.shop:80/series/828474929852/34882748924/81697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wTDuwEuEY97ImsqOaRD5NnzNdmG.jpg" group-title="NETFLIX",Henry Danger S03 E06
-http://meuplay.shop:80/series/828474929852/34882748924/81698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E07
-http://meuplay.shop:80/series/828474929852/34882748924/81699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E08
-http://meuplay.shop:80/series/828474929852/34882748924/81700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E09
-http://meuplay.shop:80/series/828474929852/34882748924/81701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E10
-http://meuplay.shop:80/series/828474929852/34882748924/81702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E11
-http://meuplay.shop:80/series/828474929852/34882748924/81703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E12
-http://meuplay.shop:80/series/828474929852/34882748924/81704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E13
-http://meuplay.shop:80/series/828474929852/34882748924/81705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E14
-http://meuplay.shop:80/series/828474929852/34882748924/81706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E15
-http://meuplay.shop:80/series/828474929852/34882748924/81707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E16
-http://meuplay.shop:80/series/828474929852/34882748924/81708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E17
-http://meuplay.shop:80/series/828474929852/34882748924/81709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E18
-http://meuplay.shop:80/series/828474929852/34882748924/81710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E19
-http://meuplay.shop:80/series/828474929852/34882748924/81711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qdTE6GIvpqnRUIXWNxyLsR1g79z.jpg" group-title="NETFLIX",Henry Danger S04 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uJNP5vh8DojXSLzVcBPQlxx89lW.jpg" group-title="NETFLIX",Henry Danger S04 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A9cuelTsvla91SpMLbFHXFnebps.jpg" group-title="NETFLIX",Henry Danger S04 E03
-http://meuplay.shop:80/series/828474929852/34882748924/81714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E04
-http://meuplay.shop:80/series/828474929852/34882748924/81715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E05
-http://meuplay.shop:80/series/828474929852/34882748924/81716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E06
-http://meuplay.shop:80/series/828474929852/34882748924/81717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E07
-http://meuplay.shop:80/series/828474929852/34882748924/81718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E08
-http://meuplay.shop:80/series/828474929852/34882748924/81719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E09
-http://meuplay.shop:80/series/828474929852/34882748924/81720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E10
-http://meuplay.shop:80/series/828474929852/34882748924/81721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E11
-http://meuplay.shop:80/series/828474929852/34882748924/81722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E12
-http://meuplay.shop:80/series/828474929852/34882748924/81723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E13
-http://meuplay.shop:80/series/828474929852/34882748924/81724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E14
-http://meuplay.shop:80/series/828474929852/34882748924/81725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E15
-http://meuplay.shop:80/series/828474929852/34882748924/81726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E16
-http://meuplay.shop:80/series/828474929852/34882748924/81727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E17
-http://meuplay.shop:80/series/828474929852/34882748924/81728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E18
-http://meuplay.shop:80/series/828474929852/34882748924/81729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E19
-http://meuplay.shop:80/series/828474929852/34882748924/81730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E20
-http://meuplay.shop:80/series/828474929852/34882748924/81731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E03
-http://meuplay.shop:80/series/828474929852/34882748924/81734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E04
-http://meuplay.shop:80/series/828474929852/34882748924/81735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E05
-http://meuplay.shop:80/series/828474929852/34882748924/81736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E06
-http://meuplay.shop:80/series/828474929852/34882748924/81737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E07
-http://meuplay.shop:80/series/828474929852/34882748924/81738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E08
-http://meuplay.shop:80/series/828474929852/34882748924/81739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E09
-http://meuplay.shop:80/series/828474929852/34882748924/81740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E10
-http://meuplay.shop:80/series/828474929852/34882748924/81741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E11
-http://meuplay.shop:80/series/828474929852/34882748924/81742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E12
-http://meuplay.shop:80/series/828474929852/34882748924/81743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E13
-http://meuplay.shop:80/series/828474929852/34882748924/81744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E14
-http://meuplay.shop:80/series/828474929852/34882748924/81745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E15
-http://meuplay.shop:80/series/828474929852/34882748924/81746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E16
-http://meuplay.shop:80/series/828474929852/34882748924/81747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E17
-http://meuplay.shop:80/series/828474929852/34882748924/81748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E18
-http://meuplay.shop:80/series/828474929852/34882748924/81749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E19
-http://meuplay.shop:80/series/828474929852/34882748924/81750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6fcUZT0LNy5rzhrUW599zq7sjU.jpg" group-title="NETFLIX",Henry Danger S05 E20
-http://meuplay.shop:80/series/828474929852/34882748924/81751.mp4
-
-#EXTM3U url-tvg="http://grade-de-NETFLIX Hospital Playlist.xml"
-############## NETFLIX Hospital Playlist ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX Hospital Playlist" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozD7ORYlRf7zCsaSPmM6cQC8ndt.jpg" group-title="NETFLIX",Hospital Playlist S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/82205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u2BUfzSVdgQi1yi8mIEzrycaJ8Y.jpg" group-title="NETFLIX",Hospital Playlist S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/82206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yGkHEr7RaM8KwgOYAirkfT9frHp.jpg" group-title="NETFLIX",Hospital Playlist S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/82207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTApIIphHunFRCU8NrOuAoHuwzX.jpg" group-title="NETFLIX",Hospital Playlist S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/82208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5SdgHPeyGOkNIaerqNjFDXxGuTb.jpg" group-title="NETFLIX",Hospital Playlist S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/82209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51AKgt5dtBeq0ElWgy6QeUwTmo5.jpg" group-title="NETFLIX",Hospital Playlist S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/82210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qXkzUiL31BVJ2iM3q5UfZ7PycN3.jpg" group-title="NETFLIX",Hospital Playlist S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/82211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/D2ZoaHJiFJmelmLzXanlgfF6lx.jpg" group-title="NETFLIX",Hospital Playlist S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/82212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mC259Zl5VbpyXr0kURsMI2tStJI.jpg" group-title="NETFLIX",Hospital Playlist S01 E09
-http://meuplay.shop:80/series/828474929852/34882748924/82213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5eeeCsovrxbiH3x11CoIvL9O8zg.jpg" group-title="NETFLIX",Hospital Playlist S01 E10
-http://meuplay.shop:80/series/828474929852/34882748924/82214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocl05E8YfsYtcCFqY8uE5MBiTsD.jpg" group-title="NETFLIX",Hospital Playlist S01 E11
-http://meuplay.shop:80/series/828474929852/34882748924/82215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kf7n8Skz3XVor0T3RLfDcVH61GP.jpg" group-title="NETFLIX",Hospital Playlist S01 E12
-http://meuplay.shop:80/series/828474929852/34882748924/82216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rhuIEUGbxTxxU3eNxQV08o0Q4Dn.jpg" group-title="NETFLIX",Hospital Playlist S02 E01
-http://meuplay.shop:80/series/828474929852/34882748924/82217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/un4bH0xXO1NdwXOTC0K752t5U6w.jpg" group-title="NETFLIX",Hospital Playlist S02 E02
-http://meuplay.shop:80/series/828474929852/34882748924/82218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ovcvnur9Of1QS8ITTzVwxce35c1.jpg" group-title="NETFLIX",Hospital Playlist S02 E03
-http://meuplay.shop:80/series/828474929852/34882748924/82219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lfyjwjw4mm8Ww1RGTmIUqSocoCo.jpg" group-title="NETFLIX",Hospital Playlist S02 E04
-http://meuplay.shop:80/series/828474929852/34882748924/82220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ySGBT8parh1Az2o9wZOgN68Tqi.jpg" group-title="NETFLIX",Hospital Playlist S02 E05
-http://meuplay.shop:80/series/828474929852/34882748924/82221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x7f0RYeDL13byL8O6mG39teOojm.jpg" group-title="NETFLIX",Hospital Playlist S02 E06
-http://meuplay.shop:80/series/828474929852/34882748924/82222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s5GzSK8dq0JKGlfTVWGu70XJhx3.jpg" group-title="NETFLIX",Hospital Playlist S02 E07
-http://meuplay.shop:80/series/828474929852/34882748924/82223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pgHQa91HbSE4m3vtG7nGdgjBJyE.jpg" group-title="NETFLIX",Hospital Playlist S02 E08
-http://meuplay.shop:80/series/828474929852/34882748924/82224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h9HmfQ0TxuVzdWiZOaOMw671EaX.jpg" group-title="NETFLIX",Hospital Playlist S02 E09
-http://meuplay.shop:80/series/828474929852/34882748924/82225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cLS2nP1uggmetra51CDbgbiriCv.jpg" group-title="NETFLIX",Hospital Playlist S02 E10
-http://meuplay.shop:80/series/828474929852/34882748924/82226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bQwimJnO2EQzINHAoGQSrhkDikl.jpg" group-title="NETFLIX",Hospital Playlist S02 E11
-http://meuplay.shop:80/series/828474929852/34882748924/82227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg" group-title="NETFLIX",Hospital Playlist S02 E12
-http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV1wR5LfWSggAqktVBe0t1vxjmMU6YbNXrpdgZ-dlFMDMNBp8dIpulM7k858caQY6Y.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386194.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW60M_XIouyQDst_TTJsXMw1inaHXi5c5IfVIbeOYJlNdds-2ZI3VEj0z63z-6x9O8.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386195.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVb1dRGpbYrw8tLm0WsaK13GtjIamJYTC9ZIbNt1At1l_MdnUL65p_7KFCcmFf39ik.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386196.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWtCOW8LYwa6DHiVWLq5kiMOnvHwFo9OUXb-OCeXxt3hKnlfiJXX4r1XJ9Mjtv02a0.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386197.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVF3jMKsoSlcaaQmilgqv_79fGWKA9892R7Cw4UpVWFuyl3zH5dU_N2ZYwrlzLDfY8.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386198.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWztvXzp0pUG0tLSp_QitDob4Ph4QXyEoHFXKnbL0NjC00YTt3qlLkcgpXEjuaCkxg.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386199.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWlCaYQvBQq1LZSMkSskc8P1pPawvWL5YC05ApwONF_JmYRB8nAcgmDCMdNl0Iikl0.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386200.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S01E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXD4G6Hh2sKmvAM4cw9QcGFwRw5SABjvhnJBE6oeCvdjj2e9ROe8SIY2neTA78_kjw.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386201.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV_C2ukEIWzSl-ApVmSMTg_nYInunOsrfOspzyhLHBWC8sthUTvuDqk2IC_s10LlzM.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126800.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVJyddcDBoUBVz079UVdChWab0OJOzKhXXcGp_FKSWxRJdTLNs9fytk0ontLSfKnGI.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126801.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUql-aP8lvUAJEQWxPpcdZKvjo9w2eObWU-udsg9EfQNr_rnTXRBPFKaYBmVLsDusI.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126802.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV6vU5x-EfihR-6yW_2Jhwzg-KaRzMg5H8sJz6RG6eXjCJgmzWcp2mUT2yqjsISswg.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126803.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXi2BL8GfGg0YSwVSUIdcHP4PaTAZMc4GNK5tsiLzL8diVhjgurnlnV94ySSAMC7nA.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126804.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUg3GcFM8JZEIEKqSvuChLyVU6iqgGrMeni_Y7QVjFGKlZcD85pIBcVF6ft11EtqyA.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126805.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWg9ZVc9mOBOpGkqFSrYAsMA0IpiQewCbKald8YAQ53jpq71ZpOs3Df1dSpkBaHpAQ.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126806.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S02E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWAsZptP9a4OUvAHGA-5hT3jiwrvCVNTQ6HJCggu6tqySIH49FEbPM2ov4_VCQOrHU.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/126807.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfiQI8qoaoyhiBHihUwD5KqowUuDainJfur4ybbOVwG4er2XnJ1fiXHRU4U_ALQmw.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386202.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXHeCu4-j7I49FGy7DgqNEBPTMJ4CYvx-ooSaJFtqUET89Y0bxxoBuomZBUI7czm0Y.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386203.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5fTr64XmpIiL92-m3R-Ireaz8ti15MeQI_Pf_ondaIWNECtgO3BuMbB1TIsHdJ9s.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386204.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXOI_idsdYQMkLXrvT1aod3omSx5XaER5SLT5xaY6fIopb_VbD5cDpcUG7Xcg6Sq1o.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386205.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXvbdVpRlSGjgWLcevw3KhAQW3iQDkv0HLD4uoKXkjQ-74zq4hvLajHYempFhWLejw.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386206.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV46vy3CrBU1rdUtTJPNgXnY31I2jRitdeqwFHaqyURL3X2t4DSP3wELcTpMa6Zf2c.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386207.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWfVey6-KdUFObjMXdEA6dzJTVdxWCHCYdxPtAoYn5G2DBHeiSY4-YSR9uTQAU3WuU.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386208.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S03E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVjj5l2vKWZn3XcafpMB64wq-g61yJC7sisAe3SQZI3xpOHAX-_vZ46ao_jtjYW1aw.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386209.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV1eD50-NEH8zRIniD1di2HmQ9o-kf6Fmujo7QmWLGJ23sR9Vucpuk1MXkAxX3aLRw.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386210.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWkHr7HdZk6NZF2af1QnXof5R7TyfjzBPAHJmjm3f3JtmLJmuI54qGkuNd-bffK8Z8.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386211.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWvQ6uRhgK503JsbthSlNjNe1xQINJquPGk9JDl9aE5jonUVyBKZm1iqGvXP0jjh34.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386212.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWdseUO2ePqv5NKgle6rR_Cmk4Z6e-YBApML2y6XVJWuXlayooLzL69eA21vVlG5bU.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386213.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX6ejOFaSzbpecR_m_3GmIUOY1BkiRq-1Z2rZMx1v1T2F-bWVFtd11DSuKnwu4SkuY.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386214.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVGB8VrbIB4XbXmTG-R9qAIciMnW6MFSVkUeQ8avKMwU74MH7d-TlRxtWT_ZNFbGoQ.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386215.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVGIPkjDHaNF-QzO_y6b7A4qXkynu-r122lSY_GlSHTEFqnE-WZlxrNGYhut0He4Tk.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386216.mp4
+#EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUWXR9eaM1N-HaJNUGWkZ1Obi4gWnYz0Jdf6LiMd3r8v2QsTGpc_Ix7sqjMEAGdGuE.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386217.mp4
 
 #EXTM3U url-tvg="http://grade-de-SERIES | REALITY SHOWS Largados e Pelados.xml"
 ############## SERIES | REALITY SHOWS Largados e Pelados ################# 
@@ -7562,6 +7306,1771 @@ http://7go.xyz:8080/series/zogbi11/982451290/158518.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E10
 http://7go.xyz:8080/series/zogbi11/982451290/158519.mp4
 
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NCIS Havaí.xml"
+############## SÉRIES | NCIS Havaí  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NCIS Havaí" group-title="
+
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5PQou5TwH3sqjgpfNZqaIxqFHp.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774811.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUP47EcBy6L8fdzsvxKLRCeKLXi.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774812.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph1ORKNkdm05tG1KsYUwUcfGTbB.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774813.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8e9KFPZitB3Wp6Rv8mYKUXc4la.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774814.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhxqjnsxCPdsUZi4U4EBNPICfK0.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774815.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tMjvzUgAEc87xopZNs0Oplvg4N.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774816.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r0wcuRBtF7aKFQ7uSu8kEd3DOE.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774817.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYQji6JWPMXjeXaNuAtvH03C6XJ.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774818.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEyjAlk8p38g7gotsQBvAmLFtng.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774819.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqKEJH5JFIoa61uA6cpyRT8XLtc.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774820.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F7UBrV8IiUgjg66HedWtoTOp1X.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774821.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m10SxUt46oItyhDrdlZjYFrkJ6T.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774822.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pojFiPTwnuZ2mq05ELk1qEdaYBE.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774823.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUr9EX8CRBQAfZrcR68eLeKjlRj.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779218.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IBGZl7X9atWj86cDryGEnMGPqg.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779219.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd2uqxqI7HAQJAE9uOp85hWUsNt.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779220.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCB6VwMy6c6vLpew1xlQuutMDE3.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779221.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDgJQvdrF4HiFR3PA2utSyZQD0O.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779222.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XvtndOtJDy6mA9XPi3ha8VdrQi.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779223.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN8pjaCUcjuXpaJWHZMHhkM30In.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779224.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EJMz06pvSW6DRLp3N2u8y5NFVJ.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779225.mp4
+#EXTINF:-1 tvg-name="NCIS Havaí: Investigações Criminais S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gidHUvyvkAoQ906VckdjUrpdrFA.jpg" group-title="SÉRIES | NCIS Havaí",NCIS Havaí: Investigações Criminais S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779226.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | GLOBOPLAY.xml"
+############## SÉRIES | GLOBOPLAY  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | GLOBOPLAY" group-title="
+
+#EXTINF:-1 tvg-name="Sai de Baixo S01E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770829.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770830.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770831.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770832.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770833.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770834.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770835.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770836.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770837.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770838.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770839.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770840.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770841.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770842.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770843.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770844.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770845.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770846.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770847.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770848.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770849.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770850.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770851.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770852.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E25" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770853.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E26" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E26
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770854.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E27" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E27
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770855.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E28" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E28
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770856.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E29" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E29
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770857.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E30" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E30
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770858.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E31" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E31
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770859.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E32" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E32
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770860.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E33" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E33
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770861.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E34" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E34
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770862.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E35" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E35
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770863.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E36" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E36
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770864.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E37" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E37
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770865.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S01E38" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S01E38
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770866.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770867.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770868.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770869.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770870.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770871.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770872.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770873.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770874.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770875.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770876.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770877.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770878.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770879.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770880.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770881.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770882.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770883.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770884.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770885.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770886.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770887.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770888.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770889.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770890.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E25" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770891.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E26" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E26
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770892.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E27" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E27
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770893.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E28" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E28
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770894.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E29" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E29
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770895.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E30" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E30
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770896.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E31" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E31
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770897.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E32" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E32
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770898.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E33" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E33
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770899.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E34" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E34
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770900.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E35" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E35
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770901.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E36" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E36
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770902.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E37" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E37
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770903.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E38" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E38
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770904.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E39" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E39
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770905.mp4
+#EXTINF:-1 tvg-name="Sai de Baixo S02E40" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5PjOO2eSeaOtMz922ieK3_y5jMM7I5CaXUWDTxISDEo.jpg" group-title="SÉRIES | GLOBOPLAY",Sai de Baixo S02E40
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770906.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | PARAMOUNT+.xml"
+############## SÉRIES | PARAMOUNT+  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | PARAMOUNT+" group-title="
+
+#EXTINF:-1 tvg-name="CSI: Miami S01E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWIIvJDfx1Atcw7ty3KFrGKV7OnIGLC58pHQXtvldIMpNs9Ejtx1jtEVZEvUH6pACY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97445.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUaxXFBAjeZxted-4VB8FctySI278gd9lG-OeOlIcNiPixhahbDX3bK7lmaNzBXok4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97446.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU4FufdmvaASEvtaTCqiBL0WQgBHWTUzBm2STxkn-4BmyRSyKMDSk_cFkVHBvU6ejw.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97447.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVdHF3l_7O4HIELhiSO7UQMhDvrdm2KMpiaXZCVHnI8XRrdotqAvtsqvdtFFexkX_8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97448.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXsrOG9Dg9Q6ynGs-b-TaHuQbOWqehSSJFkOrzfoDS-_IP52ZlgnQ0ZrjpMH2MVXJQ.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97449.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXUtZrQeAGMYlZqqEsFpYXFTev--2ZO9_tAzUFVXuq9deTro0XoM-QmLVzuzR_xuYI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97450.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUVSjeQP-_BtyhTdh8xuF1wj8HNHkHzfzimkC4rqcen6olbVZYou_xY0JDHz6ejXxE.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97451.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVWOrba61R-w2kxCPUoEovrJgDSvEcsCGu2P8cxspehZIxUt7UiAtxCRd2Ff16Cdt8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97452.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWSr4rH6mATzq8ubqC7ZiZ2mLM7bUp-lDvnwfoBrugiqlG1lyFbrIxeGGJwg7Cq3_g.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97453.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVF5naetcyPyl3WxXuKDVuuQXeBlvKbkgZzWbR6k0AwpOIs2OmIJMbXv7WsEsGjjqY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97454.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX6Go8ilhcQRZDlfj5sajeoCw5vP0Mrd3Lm2fQd2H3jeYmSxISK-ERh8piM5bIO8dM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97455.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUM1TDVXmMJ3ACGqAiRfpmpb8t_3pANxJezALt1SSIEKIAT83pO7gA-YtgJk9S8W2U.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97456.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXrnmY9WybHUwZ4g935fR8jYkpq6kJzrj0B7N3Eds5EOpbWQPgAP_pQ4CS45Jw_52k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97457.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVtqaLo4gUYt5omtOuLUfuWhzZ8vjZhaABUPqUodUt81nuYWPstNIXZmzJPS4wVtbs.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97458.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWTEAETtKrbed2aHLionqWWN6lGaEYsanwJx8GOVtr5IGUUte4CnH7BDgH2GqXY4aE.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97459.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX_4M7G6YXGdsJpGiXC4ESMf_YpHW8_JDyAQ8DAw4iuaeJKgByFjRHNEp7eBmhNyno.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97460.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVmb0SnNqi50GEeTWIYuxYfIQoQhCDM5Ts_cO1ZIqvz3Y3XDbfzjyJOB3Cx4khMeGI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97461.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXrt3yCQO9lsWEcgfs3mGqe1L90K1ptLYqxE1DFYOOcSIiGIDFWEb-o74_12H38eZA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97462.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXTQjm2V1KK_JWUZe87nnRTTNENpEr3_EPsff3YtRc5Coq1OlZe9cyGX9ageVaj70Q.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97463.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXbGwUoysV_6cyciaaAmkLeAsQdxBclhN9Lvh41YkxzD7c3wKUwOyRBLRsPsmnNSZ4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97464.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU7Y9f0jXJX4GT_bDB0G3hHjgcBNAcfCDMdiG45Yk1Jlhbvaos_NrOuD_nEGSv9CAY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97465.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVSwGWeWLFB_I4AnRaZXvYUvxyC0VQqrtPja2VaXfty9ap0fLryikWYNCSz1zwOBnM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97466.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXrddBeoxwBTNy9Lx9IC9wQaHMbQEjuSl4sif93a9yldCsu8edtdj_0DJkzwBR_jM8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97467.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S01E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUqUgk3AHbyogZzgJQQjyVE_kNAu4p6Ycr9g4pF-rgIlq2oEQm4x97-RCz_ObfTzo4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97468.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVvCr_OUGGdLfm8zMyQAaYFWCZQQj80F-GNBK0JHF-Lelc-oB4Hzf53cKm5V7vE0SA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97469.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVy50FZgwjqpE-_uMY6SWh4Oh5iTrbu5_1nYzRxXQ9DCPN5gHw6PfjAaYrfz28Rvyc.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97470.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWU7V-7ddELskEunHciH749bL8bD1E1QrHo59cSqXBkoA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97471.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUM_MM7YWZ6wyzpESYpI7z9oHwn4Xgd-OGQCF6Br4nX-Ipy-EXygCGMANlfLYqH11g.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97472.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVFVHpBQdNMbJTwblsKqTtJAhXz0bL6q2w453PShD--FEDLXZFGRVYJAgRAQtbK3uk.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97473.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU_LLibHP-SZAQpGCbQkbOVjVvXZ9kJA9qxVM2AZldyQ_9v3hiTffzAaJJ2U67dxK0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97474.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUAGuNw8RApGLLCZWUHOGwDDC-QPoqLd8PvjgPZVQFlG6s5pw37W0GZLf0uZB9x12g.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97475.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVnrKkD7paCEOd3GzjMGwRR9oBhMFzLMWX4w2IoX95h5-I3hXN1Tm1LQo8VIdOsoDU.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97476.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVWeh5BdBJF2N0v8qnFIqW4Ol0vYVO4x-0CfbV2WTImd0sDEnuPV9ru1bL1xLvHGQg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97477.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVJ-p1pvZCuqx9GJXjHxRtN3-fbY5XXQmQu439OMQ5A-nucEDN-D32eYoRkGGGBf3k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97478.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUlbhLHTGoN9sSbNXlOByKTapLUAfkCqmKpII8xQEwWfjJWVs5YCGYaP_SLiVW-yO0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97479.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX81T7HBjS-AB4zv3n5VNLAwmYAI5qhmBl9_W-DVgLj5sDeBnaoxZ2cJ4fUGO26JSE.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97480.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVaJl6eJnFrLBsH3CJq8McdPHlx7gWB1isEU_8gB1ut4YIsucdjwYDng6cqULDKSjM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97481.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVJCxlLhS7fVQ-rHjUl_jOnmw1Rc12Jz9Kttw5LABA7-dYlmncY--KRmKmxOteIBY0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97482.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXN3GyRf3ON9yM1UsJMg0XJXaSusNHw1TCkLVZq2Ll595lAevYRmITVH6PFXoXVojk.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97483.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWGZLMJJj0pZlWU5ytQ24W0uf10N0C9pLKXrG0UgFxNraNRClzuN6yh2gmgVBMcy1Q.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97484.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU7HfdbOooAyfTVa_ELovTcj11os8gadco_lowfxRQOcKe5IVsRxjh2-R_DqOusJdQ.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97485.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsDsOiDLgIAm_l6PspKedGz8S8cNn1YdfbhDjMOYI3pB9UjfyHrqPhOBdN_9UmIGg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97486.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU9-EVzZId5NBKgk44I4KOZFlGaO_CmoMtDS7WVaKl1wxoMc_BzReQkZovYUbl4P14.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97487.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUdfqHpgqDr0UEtv4Ul55VYZyldCGVtHIUIY_y-BY4Km4TPkD9knYLAHg3TelZ6qQQ.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97488.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S02E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S02E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97489.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97490.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97491.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97492.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97493.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97494.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97495.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97496.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97497.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97498.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97499.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97500.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97501.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97502.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97503.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97504.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97505.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97506.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97507.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97508.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97509.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVNrlhdoYw4ynHsx62DUtDvF6ExErgXec3ywyg3B4eDkl7OIdsuYqnF-rOVmlHxDM4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97510.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWsq48C4ETSIE62e6p3oE9Qb_4PEQ0Yv-NWPhx7RE_iJlrVdodFgEBThM5koOmhV-g.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97511.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUybBQw43r4R5J7RKGgCR5ThP7nDDrl2uoo6M1_br9bgvE-rtwQNhAsz8w2Umrd3go.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97512.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S03E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX_nmPE_6CzHbFbxAk4_USKAMlOcQmPtZkLsG-IFahTdGnYrh4Ohq1atDJ-K-8bAa4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S03E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97513.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUOP15tRSUQhsEZ876QXsIVk4K7VJpzWYmZsvQt5tY_1q-N7DxZ3x-rstyf49nsnSk.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97514.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXm_N0eVEWonFstuncOVyNAM22X5DuNiayrb3qBosBO9-5xvhSjYaLsW_PoIZF7sPQ.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97515.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUUn6Bezer3D0LSDXLEh-80PO7TRtuxJjHmYcJKMo1HTdxYfJlVLu8sKjrIhMqkNRw.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97516.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVZ7DYk3YY_oGHjDCSS857jwGozRQONsr_c46RnFXKitk_Xo613xyp-TkMrqZeVy2w.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97517.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWLlvlvUL3dpWf_R7TBHVsQ0g6RCDPQ-dAchpBVqncFzQNUc1J1_sc9ltjTV2UoIpA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97518.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXe4siVP60qoSM6kTlq7aTuoU3b3AfjidZ6DovrQY18ljYa4dNDa7NAtgkc4idqD9U.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97519.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVtqz6MLJ9SDOqeNvYF6-VsLUYAmiAV6uUX3ySe0PiLs_LuQ6IpoE56snF3a1D6_TE.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97520.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWpRWwZ2MkBDROEaG8Q68apf67LmvBhoAeOpPN40s2dvpUMZzt6Q-3vntNmJHvHA9Y.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97521.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWCE0ZTm7CtPVTX6F_xNYjphXz1Bz2i9JV_9PoOZIkF5FFV_kaG694tvRw5wLI2Zik.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97522.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXZLLJCMnEZ9Ys8-0vO3zSGk_OjvUp2_m9eRuYSlDPaiZEzWcO_17boY74jm_I2iXA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97523.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVWQ_7rjwqOtfKs1VmvDxwiGZ0XrZUjAZZYRCec5HbIY7TawZQWlvprgR0Xi1ZQhNk.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97524.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXTVcvo7RaQN_8ZKLI26ALDkD1Wdf9_YVZYSC8wVDVyeY3CHig8kfL01aHvvbRzuQ0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97525.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXUlfyHHlo6B30hmrGD1W4JWjt-4EZLxzWuRcu7-nEm4VACqn1ECtG--CPU7vs4gJ4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97526.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97527.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97528.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97529.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97530.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97531.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97532.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97533.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97534.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S04E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVeBd4lBG5IyrS-wNssGvkfsiTAOVy0ezqz6EJ5GvNX-iKiPRrwauEo1N9ksAdzAkM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S04E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97535.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVIv11VewIzTYvdG6n6M5UARrn31OJlQ_qscb3A54eVb2jAfz-x9ot4wvzbPhVgBuc.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97795.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVIv11VewIzTYvdG6n6M5UARrn31OJlQ_qscb3A54eVb2jAfz-x9ot4wvzbPhVgBuc.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97796.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWk25o3qILLt5U-cULWbRxdfXpu7A5O7i3PDLHI82eiZM-8tlgpd94DvmbcuedOXas.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97797.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVZM2cVrK1WobuYVYGK8vRcaH8tUsnrVM-kiAvbuOd2xNWeoc81xZGfNBXODeEz7WY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97798.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWgJBFadCJXmKvz8PzPtgyWDVAvqHJJhAtIBBSo9OvVgVQO2j9B_fyCgxP4yGhYMGM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97799.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWRbYvmfgpLhSqYnBHwpQTHywb068z6cSXrWOfpDat60h7zbYftQhfbn7UlbYhzcW4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97800.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_2CtjxNUCViY4DbiDJ0mgwOxQCahTaw3K4GbDgc9tIkbKMPO2vtCkKfOJwDoedKo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97801.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_2CtjxNUCViY4DbiDJ0mgwOxQCahTaw3K4GbDgc9tIkbKMPO2vtCkKfOJwDoedKo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97802.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_2CtjxNUCViY4DbiDJ0mgwOxQCahTaw3K4GbDgc9tIkbKMPO2vtCkKfOJwDoedKo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97803.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_2CtjxNUCViY4DbiDJ0mgwOxQCahTaw3K4GbDgc9tIkbKMPO2vtCkKfOJwDoedKo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97804.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_2CtjxNUCViY4DbiDJ0mgwOxQCahTaw3K4GbDgc9tIkbKMPO2vtCkKfOJwDoedKo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97805.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97806.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97807.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97808.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97809.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97810.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97811.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97812.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97813.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97814.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97815.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97816.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97817.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S05E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97818.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWBlPY2UpkKjPfUcIefKg9TDfXih1NFE5ZXlF6AFaf609yx9_592SYvisk64eJFRbY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97819.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWBlPY2UpkKjPfUcIefKg9TDfXih1NFE5ZXlF6AFaf609yx9_592SYvisk64eJFRbY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97820.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXnThILOv-AjjnuGevgNh0KgLr_A0ozno_4tb94AvQoDU2pOs2903CHD1y-q7aJ1qo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97821.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV3_fSsIDEbDYaijc1Oi-0oXB60KtP6k8l47rU6gYw2DVze3Oof0PXGjP8sarKN-XI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97822.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGJaJQolUwRW0GKBscSnQc5RVh1sndMwNagoqEVh-k_mwMvbNWG6Y7EzG-FxWi4TY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97823.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVi79EBn6XCzgW7uUw6VTYZUEFHPVHzc3BAax7EuDlhs_KcPmDZlfPLTeSPw6WVcCY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97824.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVZrCRMIBU-0MPgN9MufVGNHKFWkk_FNqjWR6xXNax1QdtbyDQp5SCwGFhk81GVyx8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97825.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVDx_SU4SmLVUl7WYuvEF5neDj5Vpf7cY_prir3iXKoc3xcNpq1zdRfrq2sFGMve60.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97826.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWont29Q3qVNHz2r2tUsz6f-xj5JSBX9BAnJ-FY3PPQHl4DUMYwWeeUOsXegLr3Kg0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97827.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVtOUXhhsZfiIbyf0WohPLnhq2I8BZwAWmZM4UbX1nMtU9pq1HrwRTOTQMM33xQYI8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97828.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfxE0Awqwtis89O6EVqgk_ltaA6P2iBQu50LSmBEc9bAb5wOPmW8wMVIItTB-ceMg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97829.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUBzDaLv3PNtE2_smuwxdVVa0-7m_vEgW-PAfQXX8VzqoSyhJv9Rd0Fb5CIPka0YHs.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97830.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU5TV-aYGWNhzJgWMUXpDu_zm7jjo-oV4kUH0yjjON1s26lETAzMyRzqvgu_1dEvTo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97831.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX8hjC1UMgPOIXYscdCi7VW4w8mAdJawB0kTDkHEmQ4Z6tNH_OAuJ7OPbFSntZahKY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97832.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVmjjkcXgktnyYuY9cJHAUhQcn_BbknLe7qdZmb7tyQ_Aa2e06_mCknib2yBbBsEi8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97833.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUbTunZjyFg6ircBhVTth21WPrQ367UF4hSHl4Beu6w_0tZWAM7yL9M5ccPYQQYWS0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97834.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFcPTCnquyFUewvmT88QA82axspt5JsJz9_v9CPt7omA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97835.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW_EO-7UnAG0AQwKMbayalHk5Vk0wQMfZjYicXIDveezgRZuLeinx5pdMK2Nw0z040.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97836.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVi0bnhagpcm6GJR6RGCOrQA-Ro6X-5jZEVHv-EI9NKzqtwdxVrbnwNVHFTPa_qELg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97837.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S06E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVjM_9QJT9DxkBSD6rd2yR0DoPb4X2okMXyyhQT8Pxst0MKdjJWr4abdLyDJy26L5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S06E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97838.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXfvM3HfZvWC7W77lal9f4LAOQp0QeuDCeVgvqIdcWtBdAp_1uRxGvTq1l9OKd3KIA.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97839.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV7TcRLYewYdA6g-f_a6Pbgw_8Up1LfpWgGYO5LE9r4AIZxe-4BqrXG3cNjRJKy4z0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97840.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV2Cokrd1PCep4jcRePANfSPEosBML8r69Rr55YIs20pofin8GhomsbZfn33ua75U0.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97841.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXKkJTq0VD0cvmDEVUVyCjRf_mGBWmyKVZGLRcxebW0JH_2qmQq6wvmBaLvX1f_y1Q.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97842.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVe01TRu357-rPCR7UXXLgfR4FRiEcgz9ow-KNkVa_5phdp8O2IQYrgchr0QVYuJ-k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97843.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVe01TRu357-rPCR7UXXLgfR4FRiEcgz9ow-KNkVa_5phdp8O2IQYrgchr0QVYuJ-k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97844.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGwHC_LIlkJw76R1eoHWO8gdjPdP_xofNARfbnNvkEfofqp9ytDS7sS7UWYNK_iPM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97845.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX4r_HqHZ9u31ILE7cP_bFM4w4b4g8slTGTVG3W0PNpNaqu_p2T5kfao5Fe6z0pw3U.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97846.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97847.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97848.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97849.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97850.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHaLkKUnB62O5Om3SjUkfZvxWLmP9FbWeyOds4RwokcqoYAnXhQodkn5uYqyXkt1E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97851.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWz7hwmdvOZ9hqnKGgI67ss7g6IBjCUc4aU4ISqi8L_wTQi-dsRO1YI5NJ7g4860cY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97852.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX09ceGcp8XHkvWl-LhEX2Pf0Up83TmX2KrJtCmlqs8cjc3e2l3fUYu3f4StpHf30U.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97853.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbtP37JfydVlWefMcp2qC6hvStapRDLE7nch-o6_HIMNPz-AzXzmJJt5mi_0928b4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97854.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUlo5xLXcQPpPlsc_Q8ZM3KL416iUXiTEzLJEY2twyAykVP0Te21K8-O4QjmKeUlcc.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97855.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97856.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97857.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97858.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97859.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97860.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX5aqksS-MK12ICjTeoQx0feRMqYQSXO-mO5UZ3P1x9BkUNCs7lQk8PqtINRTPKeuo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97861.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97862.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S07E25" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S07E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97863.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97864.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97865.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97866.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97867.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97868.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97869.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97870.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97871.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97872.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97873.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsUFTHfXuhR_6NTiYit358qvs7JoCP6Wj1D5TznBLKrgz_Cf36Cyk4fChCJmIdG5E.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97874.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97875.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97876.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97877.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97878.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97879.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97880.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97881.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97882.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97883.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97884.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97885.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97886.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S08E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S08E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97887.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97888.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97889.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97890.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97891.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97892.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97893.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97894.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97895.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97896.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97897.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97898.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97899.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97900.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYIh4kE9DE1f590hZeECFbMiF6pJH1LzGz1e5uz0i804ehsYoe2XSUWLba2lAZxug.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97901.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWJeidvcXMyNiTp4aEnfMpLBk1W67lWoOh3LZG3uHBA2zfEM-X3nbDlYMWFBhUDa3k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97902.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWJeidvcXMyNiTp4aEnfMpLBk1W67lWoOh3LZG3uHBA2zfEM-X3nbDlYMWFBhUDa3k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97903.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXNVNJ1cmtvR_IwFsX1bYg9yCH0HkKlvqZl_QtR27bkCkj9Nlpyx8xWHJOFFIk9xP4.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97904.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsnXgRnrAFJdmOmrtlvUNLtyB2NrN3B9bTsO_d3UH8Ya0tk1ByBXEEL3YHDEDxITg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97905.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfbNpxWIg7O4Se9WiTaqLEq0zB2x4y5F0GQgm5fmTFWda-loXV6slHMq_UBog0fC8.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97906.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVkBff5jM3n5lE9CyqY7J4yr5mnpPDZly7gAbDEb70mhritjZO2b_aOGNfL_lnCCyg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97907.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQURJ0EFlPrxH9jmbUaOfbZASz3Q1162T1y6FvwC6mbuVGABPkAqwZud2WkV-ZPcUEY.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97908.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S09E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVoI5PFJaEU9xLJu-l37u-UN-p6wsQ83TwK8MgVvXlUVw.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S09E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97909.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97910.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97911.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97912.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVVqkV7BuFTEVtJ-D2ex5eHlJ60JHWtl2mrrzSOinsEvaogtJazScbv2EV2dCMykHI.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97913.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU6-ZeJBZpabPPIFubcrqbngB2F2sa2yCYFxO4nva9Pl0CWuZBskWH3ZcMqcps99Ko.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97914.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU6-ZeJBZpabPPIFubcrqbngB2F2sa2yCYFxO4nva9Pl0CWuZBskWH3ZcMqcps99Ko.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97915.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVTxpPhsSTogi2koqS-xxzpkhqjCU0TodhSrzdmjwVBnux2dDOWRI7gbZwFQ7Wb5aM.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97916.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW4b1mgpadfae_3YOqDWVJhUWGDhnKM5mTHwojQJNq7z9tOoRtj34lglcYK8hJff9k.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97917.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97918.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97919.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97920.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97921.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97922.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUGvRzOuJU8f2OMUC2sQ8aUYyDzGHB35KLyZyXFZ3p1zURzAwLbDmTRKD_mxomZj6A.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97923.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW7yXVZD3WkIe_jloUxcbaG6B_kAJTHejfzTIU5WyWp0zWZ0l0DhEAF3HQafeJJwPo.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97924.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUmtVjSnL63vYgeYlx2nm198rodowtVxSc8LxT6wMFlZpABxz-4W1xj4Vy-v1dVxTQ.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97927.mp4
+#EXTINF:-1 tvg-name="CSI: Miami S10E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW-fiuOPiRnlJ0Limo3Oy5yvip7GdIfFGY37G8DMbbPyS_vJPRCycKLXYmBzUXPmxk.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S10E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138772266.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | DIVERSAS.xml"
+############## SÉRIES | DIVERSAS  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DIVERSAS" group-title="
+
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/74955.avi
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ejs8ls4WqD3Gn373LpZrStGLyQ.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73951.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/1xrn9z7NpbQjsRQRhPRZedOuscY.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73952.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/1HUmOAAxLBSplEdv74Zeczz5IYi.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73953.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/wfLerQZ1HpdOeoeUHbzy40b17KS.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73954.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/rY4oHTZfmsHSWxl8iNH4S4B8VS0.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73955.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/2Jmuh0UULAlSwMl4hciro1snQDt.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73956.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/gGNBwR2FSOs5HccaPp9pdQtxQjy.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73957.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/b2wJJJiysG52ahqqBc5WaqnU6Nl.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73958.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/AuQHxwsUrppQ7ExUt7TEPlEHxIc.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73959.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/16fDzwbJF42L3zU3XXSkUCq0qgM.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73960.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/vWDg54U7nfhwRdmR5q1S53Dlr4B.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73961.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/9aVTRLOTzfROuAFk02O1z7YilaH.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73962.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/ncc1c898lAte0vrCsH0D99FqXQ7.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73963.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/whCOM4b66fDbDNt3zJfXPWSUAL9.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73964.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/5Sa7xVx7JY2xc31YKcqlUieUlM.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73965.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/rzVAVR7yZXEVeM3YKAqLfsDRwwx.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73966.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/1MVQbwOIXW3IFVZsgF7xAQNTKok.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73967.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/5CEhO7YaRePFJBvIvjHmPeLSXSe.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73968.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/69nHXFpxb2ZhnIuZllL8righd1u.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73969.mp4
+#EXTINF:-1 tvg-name="Inferno Sobre Rodas S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/7oBf78h4nEBmcJRvk9xSzBFVoSH.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73970.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL43EMay8V3Yff0rZI7WKPvJh0mpO7d9-icVWnwX-vXKY.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773391.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-Cy4xuizxMbw-bvHMfJ4S4XOB9MvNqCqSB33mjFbLU8.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773392.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLg6OVmz050JK407dh7E-6xZrsBlCuvNXYFL6tLwhEKUQ.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773393.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoLgDblOGGFf2gB5gd-tmLtOzx9LIjex39Nya4OWS_C0.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773394.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfazGpCfwuxeDin1w3vrpifdd3mLuliRNtjZ_hUSi7aU.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773395.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUkFK6d5L-kyO3mNB55lEkuuGtgvX8lPPK6WVIUPSL-M.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773396.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrVUssVwa5-gLWKlCjLiiRJlFLF9celOyy9a-gb6V8dc.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773397.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhLGUIHQ5rE-bVda4WeFnSzRbQ8S6x1NkmdPzkguMGWo.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773398.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLY2Yjw4vf24v__LyCiI_WM9yt2tKWok45x6CDfKtDa7k.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773399.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxwCO-2PhAeAI4l1bzKSVlGcCSnfb5wvZDAn2r7IUvWk.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773400.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRVJO-63CcZxBNYMGaGJQmgGHMw_sQohQbf8jpZCfjS8.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773401.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLONdsSkwAu42MESQQX7TnRmTASAVnvgk3JDcjYATtkw.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773402.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E13" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWEEn-NMQ0xrGTUER37jfl_vkLJeD-0wZQFUtP23oIMY.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773403.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLD8G4NTceR83_OAYX5civyDnrBP_oRMCsJqh-hlxA6Fg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773404.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO9qrLSLV_Xsy1REbVAbInJ4yEwnh1wQVJcCts22rxTs.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773405.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzKax0BbbhnTwWLPD5MHT2qmtKyEd942tNnluG9BjHe0.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773406.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj5eKuu6QSlPiO-TECNsP86BJPIcUiQlYrj5cHiBBsJg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773407.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLCtTlPd-L700E27QSG_cCgpOhLWS9-5xJTHZhyhxWV2o.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773408.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E19" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1a3I3CiyfYb54EErgTUOlyeY-QeojEuFzaJoNhnP6w8.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773409.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhZMKOKXpNfGdAX-1JJuhqtL0avHTe4Y2ElGL9OLoNzo.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773410.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6AgmZIiG8TacQCyRaYAJwS_ivC-k9SIaJMn2IlfT1S0.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773411.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkS7tnPfROlO-vU4hR00McD3enN4G0fjvMlu3q0ycgtg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773412.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E23" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWmLpmaPBWXRrdo3DOIFdVAY5EWCTvvem_JFQ93BQRNg.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773413.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLR9O5pzS09EhOUh3sAdQ9RN-8hcMSxTFOYAVz7CNddLo.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773414.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E25" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLv94UbnU70OObbDRFoyEO68Ce_ikVfrCyG86UwQ7wL2s.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773415.mp4
+#EXTINF:-1 tvg-name="Wolverine e os X-Men S01E26" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPU__PazQFW6AEMozNnW5oqRhB8dyKq2E0B7VCorMr5k.jpg" group-title="SÉRIES | DIVERSAS",Wolverine e os X-Men S01E26
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773416.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E14" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUZqKK__cwVXDSYAnwr9dCHsMDqQxbEZzSANlSO90gqN0Ua-z329IlB8ipYO_fnbio.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/136872.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW69fpippYB9P9drAmUgQ9JnpjWbcnrZcJAHsG9-tpeVw.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/136873.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXcE7XQdZdlNGib78OKohR0OXzxIMGD0bbukt0DciSQhuwzoYpS29FE62fBjG8NIbY.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/136874.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXT6T8jC7nLCWikCXvfcZRDUkRxCd_ZeX13YmKbkVXYdKfCQazn20g_tl9lC9qISBA.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/142613.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWqLREJ3CZYtHpdt8sKaU5gGAzETnPQkBJFy8BQl2c814EbPYorpFg-VHs-lTSZtig.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/143507.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUUqNJhnle9eUmHNST-QG-ag0F_gZ5J2o1bxbPehuVspnXnQg_y7wH5awNkmBdGrtI.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/143508.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUomhZebPDPwyR2ycXYtVLbaq23C8CTB57cjKCfBvTwcNDTO4RnykVZyy4LTy61oKU.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/144000.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVqSpelb3TPaghfMX34ZBzpghWwZfhRQ5kUyE8JRr7rSAxhU8T_f1ZLD2lGBWSdZXY.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/144491.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX1ElHMCYtQiNnqygPfWjVFlouS7LgHVooQ4o9GTmihDojSqDCqDsZvJM06FN-t6iY.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/144930.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV09I7qkm9M-syGo5cj4xWhSw0VQDu3FoJX0ZAkdBS_3gKsamjtll4o6dYeNvDnpfs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/145926.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVgv6xR7ROcolOfWCfyu0ImNSi4dXbkRMm4Wa2FooW_K249JFeTQOQWQUoh_HBD1yg.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/147297.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUYS6nssf16jAQRc5jj3NWQEer9TED4Zvgow55g958SHdju45dwAUVh0Wuc53deoB0.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/148052.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWB1oTDCJja-65anMMyWzx9eHJ4l7HCUGQMeMtwMaFKQrcM0IM0NkMmUkLkhuQaasc.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/148440.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E11" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUUDPLO7kb3xLg-91UOGJGSQPf13a9X-19_bE-i_X4hzqQJy604qln-XbvJZ-ibXNs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/148441.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E12" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXUQ3xG6lqi0hj5J8EqTLkBObbQm5pOR5p7GeZbVyWvFQZcYbQtpRRWteRubIju26Q.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/149844.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E13" tvg-logo="https://image.tmdb.org/t/p/w300/yiUvrf5o85ZcmzfNCLxcVNsKAaQ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/149982.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dackZV5mqSsbZqCb0d5a2ooJPmL.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/150086.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E15" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW-vOMLbHRKDPladwrCubj1sQ1uSajMffLEUzP4aCeiEW_aVBsrrdDkbnn0rC_5Cz0.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/152615.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E16" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWtGmKeJWcLQJGXgzB6jpf4wxlyA9bXH28bAzIEjgNFgKXeKd4rAy8hDiyswKGjumg.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/153904.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E17" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVFiRTOcokNpBo17ZZz0GxFF9s8ZlxNeRG_rVLsy38dEK-I3YWeRMIqxuiTgob-G4M.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/154142.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E18" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUDP1a8TVsfG7Dd1pF0fuGScgl2GOV_1ZzcGkzI-_r5MJ9HJUKTU0uBpLWx0aJLgZU.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/154944.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E19" tvg-logo="https://image.tmdb.org/t/p/w300/qRol0aH9BPPXZjQtT5LN0SAh9qM.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/156199.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E20" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXFakTc7_Zd3FRbeZwCpiv6ptvfK5TM3rZasCprduRu42a5lUlvpTRwDepsNrb97jg.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1385069.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E21" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUyg5c3KJInwed9sqsxkWQSbepAX2uxYgedBCm0L_I79iX5bM1-XKadyWEuK4gYfMA.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1385309.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S10E22" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWPXZYbIbqbJO_zIuYytNLKwrmK_LgoZGvbdRpYkJ-vycQOgMJovcu1fSTpJKLeF9Y.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S10E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1385854.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E01" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWuXOKGehR_HgvUxbcN0jlLFBBHrrDZPeQ0mgR9hpDEgrbKnThkJdiIogYQIcbuJMY.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138761748.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E02" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoTcu_pAIOo5mCspurffIhdDHp5FPoAzika_a8XY59rE.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770059.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E03" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYqII0Z3ZkMI3yYnFStcZTfSCiNnzL4i_7QxbiqoK658.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770060.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E04" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxZnJP8f_zMbV6L0FI0uAXyal-4xApvdyUFmJglw-a9g.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770061.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E05" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrLBIR9FXM8kvLJNV-GkPGw4rI3zMHvq-7iPFCczMWHU.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770062.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E06" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAgwKBdoMfYs2Fw1AD-Qt7Zhu6p6RwfVluio3CsynFBw.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770063.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E07" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBqt8BHzm96WPstHKHS4AlX4hZg9eFPtUgssS08j27To.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138770064.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV4c67GkTv47otr8D0RPpRsRF2GMkHENRVbE1cPOL31uV9TdwZJnuQdLt7AfsfY89o.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138771015.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E09" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVnM2-vBHpVqeP_qZzwNpEwcCY6A9-ivOGaFAsoWX_BSGhmb3wFKw92and-vo-lXZs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773308.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E10" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWz7eHfl2TTXQw6MbsTchgjvs61o9FQr9WbHmodz5Y6dZBJKjpYOx5UHqhilQXkibA.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138773309.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E11" tvg-logo="https://image.tmdb.org/t/p/w1280/vqbLZ6EUi77GHj3ZRbJJFI682W.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138774171.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E12" tvg-logo="https://image.tmdb.org/t/p/w1280/hErcJV62tQ2SowDEh8UEs3NQv75.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775440.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E13" tvg-logo="https://image.tmdb.org/t/p/w1280/y5tyLM19L8FtLWsXmvW6z0Uq7MF.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777158.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xI5aAqxwdYb4RhntCDmvlZdSCQX.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778134.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HUCqtcVRCHQJeL0x4c6zCvRV7X.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779497.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E16" tvg-logo="https://image.tmdb.org/t/p/w1280/cvqqyPv96DdXF4WR62gKkTKvzdm.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780496.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E17" tvg-logo="https://image.tmdb.org/t/p/w1280/gaO4yxRSOs3FrdTdX4ABrAjIMTv.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138781352.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E18" tvg-logo="https://image.tmdb.org/t/p/w1280/90TANAihR3nrqJ6rbmItLk3QnNV.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782273.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S11E19" tvg-logo="https://image.tmdb.org/t/p/w1280/fgXMtpZjEvlWogbxAmtfpv35z7l.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S11E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138784205.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/cvufcTVedvPhhraXg0KSVD6QTXk.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97929.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/fSgsIPO6JtwGnIE23zwkzweDivN.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97930.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/urP9CLsxr2k1nJBMFvC6Vvywnc0.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97931.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/yup87jPkebP1U8jx78xPgoFcrfO.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97932.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/9oQCEvgjV5Eu2PHxXGZ1hkFq3w5.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97933.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/kqGkIPm8HK9jlSTkv0gTGVklk1C.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97934.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/zLk8zM7jqVooozsd2sqoh6RFurs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97935.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/EOhyI0tuR17KuKFbPVD9GM9FYL.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97936.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/fwYU91BjjOnhINR7JXS63MVYVMK.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97937.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/aNLAruz1IE1OoHEoJr19NUbjOO6.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97938.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/vVi3c4pz2W58S7XUeNnprJj7Rlc.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97939.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/2ZfJ9fSeneng2pAd4Km4duvCtZd.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97940.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/qxcBBTEHCI8V3l0CrKi7fWkzvo5.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97941.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/1hyodgqPd23qRui3prLTSUMY7jP.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97942.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E15" tvg-logo="https://image.tmdb.org/t/p/w300/ucGEmJVCDT3wgTVH116H9k2rj7E.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97943.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E16" tvg-logo="https://image.tmdb.org/t/p/w300/lHIGAc8EfysAo2MM0oiMAiDZyMJ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97944.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E17" tvg-logo="https://image.tmdb.org/t/p/w300/nAMKPh65YW9vvPoajJUwaM5cJ0E.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97945.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E18" tvg-logo="https://image.tmdb.org/t/p/w300/vCvAnhDCKAVRTxEPg1on8HrJa6X.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97946.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E19" tvg-logo="https://image.tmdb.org/t/p/w300/3UFa9shlAiz58WM1ifkqQOuzaZP.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97947.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E20" tvg-logo="https://image.tmdb.org/t/p/w300/5UOnoK6kjzBGTjRLnN3I0Wz9LBH.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97948.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E21" tvg-logo="https://image.tmdb.org/t/p/w300/9aJicUvcK1Y3TUzYMN2vfZBa9bx.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97949.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E22" tvg-logo="https://image.tmdb.org/t/p/w300/2drFEDesKQgXSKZ8p8CEyP5Gr5O.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97950.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E23" tvg-logo="https://image.tmdb.org/t/p/w300/60qEWQsAiwUgMtbzjeIchcjHbhc.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97951.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S01E24" tvg-logo="https://image.tmdb.org/t/p/w300/3WV6OIerA8oauJ21J7i8CknmgiL.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97952.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/2dN650KiAkos7A2oSMQgY2yXYP.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97953.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/p5rI4Z84ibx3xdXwYOMQ8ZgUnJy.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97954.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/cn3HhPtXuij6qk8spzzgsf0AnJs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97955.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/15voPszxK4C39Oh1o1ghc0Fsb0x.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97956.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/2rBCjVJVzBLAeb550O3EjEKnHdd.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97957.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/zq4rrgkVwGEFCQc5mxJaEN4bltt.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97958.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/i4q0ypIYLzslMDrdKjC7QWx8Cmf.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97959.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/gDEbPHpE295QMqaEDsmUES3deU3.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97960.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/Acg3uGAmLeWkpFscnjsdbbFiHTz.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97961.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/pE3NrXLeOnxGkh0G5BE4nAHgBOK.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97962.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/u50OmN8DNEDpllmYvq74NRQ8020.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97963.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/zUYhnwMazyAhgjCK6Hj8ok7UCcq.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97964.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/pVTmyUEnwTM4KyITluSYsptZlCJ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97965.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/iomZjjzEgKarngl5WXNJZE65oIk.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97966.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/3qRUWCI4kmgevKVzpnO9U7DyxoQ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97967.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/rZqoVBS9OGdpTujIv1csrbT63e2.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97968.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E17" tvg-logo="https://image.tmdb.org/t/p/w300/AvsCAh7ooTR4Sg1uo1ikcFBoXoS.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97969.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E18" tvg-logo="https://image.tmdb.org/t/p/w300/uGjRTW1J1hO7t2VCkldeBAfeWcW.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97970.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E19" tvg-logo="https://image.tmdb.org/t/p/w300/tsj1f4dBPGMVXMtK9FdAEH6q85H.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97971.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E20" tvg-logo="https://image.tmdb.org/t/p/w300/l7g2qq4zpLIclzMp5UTavcGqb4z.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97972.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E21" tvg-logo="https://image.tmdb.org/t/p/w300/AlfQUgVZgtp2nLkWtRbHY6w0GXs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97973.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S02E22" tvg-logo="https://image.tmdb.org/t/p/w300/1yF6UAAcA3oNHebLzS9p3RMzd6q.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S02E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97974.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/tVTpSPMfUfNYyqqVgN10XdmbTv1.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97975.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/tVTpSPMfUfNYyqqVgN10XdmbTv1.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97976.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/5iUDS3LvolxB2kMgCUdO8AqVB42.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97977.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/8vC0VsaRElqimokRB6nm4YCx6zU.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97978.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/mVeBhJtYSTPqxa9LCubHQddJ3BI.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97979.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/cbo2BWMREDjocurwBFQ6tJeULDz.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97980.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/utv4YP4F3AVCl4vyi0JONEZuJGp.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97981.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/apMRO08CG9y4o983f2riCbc6gFf.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97982.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/v0slcDSBMMaxHRAz8Q8l7Co4Kai.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97983.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/htot9tb51P1xEQRfQmcTW8Jvpgk.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97984.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/JUJUtIX59zQSOFZzmamG6iT4Jc.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97985.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/pWs6RewnDd24lhZsxJSIq3Bv2qX.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97986.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/rwuAcsXhHbD5nnrqqf74zENU8gB.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97987.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/giVERJdvkT7UsJvtyg9aPpNBC4z.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97988.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E14" tvg-logo="https://image.tmdb.org/t/p/w300/v4DJLF5o5XuM8cSZDEVZ0xbuivf.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97989.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E15" tvg-logo="https://image.tmdb.org/t/p/w300/IQ8VUqDKBSXa0QnoZwtg1jumMs.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97990.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E16" tvg-logo="https://image.tmdb.org/t/p/w300/wFLTtyaQmZDpBkAHyUuIO4GANuT.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97991.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/2SVAIjpXvWhi8wmj1lMmRU8vc7b.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97992.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/5wpVNikh0Ltkb77agjrcEcpKk4W.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97993.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/qtyRxHT5CAL5sZouwxaRHImwF2w.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97994.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/uEPuzt9SnYkFwuWsclmTOuVdP5g.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97995.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/5aeuhonFJAWNCb7kpkUTSocjDJ5.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97996.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E22" tvg-logo="https://image.tmdb.org/t/p/w300/7F9dEv8MEGjdlRVheISugF8PYwa.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97997.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S03E23" tvg-logo="https://image.tmdb.org/t/p/w300/sAf7e4OBahKQqmIi6jpBzXZChUG.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S03E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97998.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E01" tvg-logo="https://image.tmdb.org/t/p/w300/7cWGpThRj5tyZ8EpmI7CjIFCjBe.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98063.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E02" tvg-logo="https://image.tmdb.org/t/p/w300/jGjfyarmdi1A3tXq4bpUTlfzdmM.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98064.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/sMZFdwIa2VO0ublOfntaGQkP9I8.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98065.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E04" tvg-logo="https://image.tmdb.org/t/p/w300/tpA4OvrDfQAJw18mFzhdoHxvFz3.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98066.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E05" tvg-logo="https://image.tmdb.org/t/p/w300/dSBAlDRcr1CUpYj4dCavvoXyUKZ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98067.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E06" tvg-logo="https://image.tmdb.org/t/p/w300/iidpcjPnrYaG6hG79YMcQltufpn.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98068.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E07" tvg-logo="https://image.tmdb.org/t/p/w300/q6z06bzk5G6YurMPdZgzukEb1hS.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98069.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E08" tvg-logo="https://image.tmdb.org/t/p/w300/nBOp4A5xrRfzH5B2WC7asXLUjdP.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98070.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E09" tvg-logo="https://image.tmdb.org/t/p/w300/gftjHHCt9gMV5St4AS3Ap0tKef5.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98071.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E10" tvg-logo="https://image.tmdb.org/t/p/w300/fLwo1oPiWqDDA17yRyaKgWN6CTy.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98072.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E11" tvg-logo="https://image.tmdb.org/t/p/w300/l5qDRto7fsJyIUAMkfsM0iVTK1E.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98073.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E12" tvg-logo="https://image.tmdb.org/t/p/w300/1nQXy2rb8fOlmqACSqHYT8Nq8OR.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98074.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E13" tvg-logo="https://image.tmdb.org/t/p/w300/h5VzY5Yu1zml2zHTHXK5F05s39y.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98075.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E14" tvg-logo="https://image.tmdb.org/t/p/w300/kI3d4jtezzoqMg8JxHWBL4MHyOD.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98076.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E15" tvg-logo="https://image.tmdb.org/t/p/w300/yLNWd8pMGMGTU57qrK5bKM3i4L0.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98077.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E16" tvg-logo="https://image.tmdb.org/t/p/w300/47bunC7ick3Apg90OL2RX76YJX4.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98078.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E17" tvg-logo="https://image.tmdb.org/t/p/w300/4x4RoZcUMM75m6BDK4yx1oETJPG.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98079.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E18" tvg-logo="https://image.tmdb.org/t/p/w300/gD8cBVgmpArHiLzF7zTSt8eGjzX.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98080.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E19" tvg-logo="https://image.tmdb.org/t/p/w300/7IHKJ9KdcwzDrlUtXz60zOApGWm.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98081.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E20" tvg-logo="https://image.tmdb.org/t/p/w300/yH06nDa6MkNIXXntYfCyijgGjr6.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98082.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E21" tvg-logo="https://image.tmdb.org/t/p/w300/dTnseqAP3EVo1LeX61n9gvNdCk8.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98083.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E22" tvg-logo="https://image.tmdb.org/t/p/w300/sobwRNE2GmcUnescV1fJI1D9O1H.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98084.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S04E23" tvg-logo="https://image.tmdb.org/t/p/w300/opf3iVIb0weGjsYrNzda8EOLtCn.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S04E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98085.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E01" tvg-logo="https://image.tmdb.org/t/p/w300/ikk5XR4TRqbuiDJRx1L8qjlNeL2.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98165.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E02" tvg-logo="https://image.tmdb.org/t/p/w300/dT6aMHhZgXQznrRNboMM0GgQT6G.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98166.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E03" tvg-logo="https://image.tmdb.org/t/p/w300/mHEHKA8HwiIad6IzWhMekcYr7Xb.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98167.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E04" tvg-logo="https://image.tmdb.org/t/p/w300/xbcY7yc3k3XNYbLNZpuZJXTopj6.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98168.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E05" tvg-logo="https://image.tmdb.org/t/p/w300/w472LKnsyWHaoeSHF2vQw3UriFy.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98169.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E06" tvg-logo="https://image.tmdb.org/t/p/w300/kIB04YLdbpy5TwFL0eivaHXihyR.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98170.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E07" tvg-logo="https://image.tmdb.org/t/p/w300/qjaL2FQh9tJlkOlORcZhjtzVnaI.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98171.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E08" tvg-logo="https://image.tmdb.org/t/p/w300/e2rOeAVW3xFrbsHlFGPtLoxlEXQ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98172.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E09" tvg-logo="https://image.tmdb.org/t/p/w300/wn7952sl0mJDDArxIiXWza33qtW.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98173.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E10" tvg-logo="https://image.tmdb.org/t/p/w300/k4V0P8gdBdMdQWHQTfTN1b1PAZj.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98174.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E11" tvg-logo="https://image.tmdb.org/t/p/w300/eogTFPjCGpixobNUx4I7sW5JDBi.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98175.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E12" tvg-logo="https://image.tmdb.org/t/p/w300/rtjYQPoyfDnJnVsBkbmBBvJRbjM.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98176.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E13" tvg-logo="https://image.tmdb.org/t/p/w300/39d9Me0OL62oSXIUxrjqf603loL.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98177.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E14" tvg-logo="https://image.tmdb.org/t/p/w300/zXqE9ejhmW68gaj2hH3VpKKC9vR.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98178.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E15" tvg-logo="https://image.tmdb.org/t/p/w300/7ztafSk7YMY0whErXRGe2X0U6vX.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98179.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E16" tvg-logo="https://image.tmdb.org/t/p/w300/kcaSyGsZ3KhxOqIiF1uIoWKAvNj.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98180.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E17" tvg-logo="https://image.tmdb.org/t/p/w300/p3ci6pzpwDPjQ3956oS9rBGFnT7.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98181.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E18" tvg-logo="https://image.tmdb.org/t/p/w300/3DjmM9NCxmXXSzazcWFupkmfsBc.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98182.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E19" tvg-logo="https://image.tmdb.org/t/p/w300/wLsMFgpvuxYsVFTXVnZ8pzKrAZD.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98183.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E20" tvg-logo="https://image.tmdb.org/t/p/w300/ejhgwxZEktJI3jNcdyNkE8elTvP.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98184.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E21" tvg-logo="https://image.tmdb.org/t/p/w300/3bGFp8WPsYwN2bLJqovhpmpJ3uH.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98185.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S05E22" tvg-logo="https://image.tmdb.org/t/p/w300/wpmDMaqMr8UmbZVHYhztydKjbKG.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S05E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98186.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E01" tvg-logo="https://image.tmdb.org/t/p/w300/6P8LlhZnJ2HDx05KoWRFBzv49Ku.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98187.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E02" tvg-logo="https://image.tmdb.org/t/p/w300/svvhJJkMCDhFDODXIVeGDpGIgVh.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98188.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E03" tvg-logo="https://image.tmdb.org/t/p/w300/hTyJha4xUk0sRokpFS97VH6PJd8.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98189.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E04" tvg-logo="https://image.tmdb.org/t/p/w300/fAFwJLoQigWurDHfznAY1zJt9kf.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98190.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E05" tvg-logo="https://image.tmdb.org/t/p/w300/j1SLo9X26q6Yo7xqOl0VQBis9z.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98191.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E06" tvg-logo="https://image.tmdb.org/t/p/w300/5Tgpt6vggTjd3TeNLHv2fGXxfbk.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98192.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E07" tvg-logo="https://image.tmdb.org/t/p/w300/hcysmqCAGvyuJdSosrDi2JYqngT.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98193.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E08" tvg-logo="https://image.tmdb.org/t/p/w300/urPh5HDpscJ21cTNZpJO5c2vgzb.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98194.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E09" tvg-logo="https://image.tmdb.org/t/p/w300/dnCfPUWIbwTKYxOuUY1VzPWtQZX.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98195.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E10" tvg-logo="https://image.tmdb.org/t/p/w300/gq79pyFmIvSgHLte3Jk9k7Mx3Ao.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98196.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E11" tvg-logo="https://image.tmdb.org/t/p/w300/2yI7bvSEqkIB4fmgvObCZeqhH6M.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98197.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E12" tvg-logo="https://image.tmdb.org/t/p/w300/xvvKm7oZJWeqG7pMXMQFzrvwlqB.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98198.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E13" tvg-logo="https://image.tmdb.org/t/p/w300/4A3ozaULdY2n96jYp7dpy2XpCzD.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98199.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E14" tvg-logo="https://image.tmdb.org/t/p/w300/lb4qFQPBcFIlwtA2IArYYh8zHf2.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98200.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E15" tvg-logo="https://image.tmdb.org/t/p/w300/fV776qmAcOPEyzetyUt2LGaI7HZ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98201.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E16" tvg-logo="https://image.tmdb.org/t/p/w300/eFKh7Qg2Mey3hJ7ltHXiaSmvKDe.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98202.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E17" tvg-logo="https://image.tmdb.org/t/p/w300/dvz5bd3SfJ7ZyMTuFf6gxpMaBBQ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98203.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E18" tvg-logo="https://image.tmdb.org/t/p/w300/xq6YJOXS59vviHbhha0tCKkM7WB.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98204.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E19" tvg-logo="https://image.tmdb.org/t/p/w300/hcw00VLOtoCRXeVV3UJFKJUKsNZ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98205.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E20" tvg-logo="https://image.tmdb.org/t/p/w300/fPHv2LPLala1G1oHrDKQJVJwXO6.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98206.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E21" tvg-logo="https://image.tmdb.org/t/p/w300/ffrXl6VX7xMyxztJQwzgWZHS63i.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98207.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E22" tvg-logo="https://image.tmdb.org/t/p/w300/nVtkMPiEuNMQk2j1950dsqkn6oO.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98208.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S06E23" tvg-logo="https://image.tmdb.org/t/p/w300/2UReNFzew2kJITaE85eHarKA73s.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S06E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98209.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E01" tvg-logo="https://image.tmdb.org/t/p/w300/lvM37L7vlppE0GNLBj4FuvorKh9.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98210.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E02" tvg-logo="https://image.tmdb.org/t/p/w300/gUh6CeIh1ad15EwfszOjjEfWp79.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98211.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E03" tvg-logo="https://image.tmdb.org/t/p/w300/vBixDFEFHVVWfCqQh7QO2wlYEBi.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98212.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E04" tvg-logo="https://image.tmdb.org/t/p/w300/l7sQi8SxGSxiFhouXezb0qIvkLj.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98213.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E05" tvg-logo="https://image.tmdb.org/t/p/w300/8f7Rv2aslPsmwkMVkPez36TV7UU.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98214.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E06" tvg-logo="https://image.tmdb.org/t/p/w300/hhfdQqv8EH01MViHITCnl934bVu.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98215.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E07" tvg-logo="https://image.tmdb.org/t/p/w300/yU5LbWOdwlSrn9hazY5KFi9Yu0o.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98216.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E08" tvg-logo="https://image.tmdb.org/t/p/w300/vj9xAPws1XSfqlPPf47Yfk0k8lk.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98217.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E09" tvg-logo="https://image.tmdb.org/t/p/w300/kSUkhkwiYwZ4toJvL57THUjValQ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98218.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E10" tvg-logo="https://image.tmdb.org/t/p/w300/aWQC2R8NLptDkTggWZ5GjFJtBLD.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98219.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E11" tvg-logo="https://image.tmdb.org/t/p/w300/kkQI7EWrbchwcQLdKkT6Vl6e6B3.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98220.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E12" tvg-logo="https://image.tmdb.org/t/p/w300/puKgIqGnTKOp6t3aTVQirHz6Tth.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98221.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E13" tvg-logo="https://image.tmdb.org/t/p/w300/tPQA6mmDrhGkgGpIKlJuxInpt3H.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98222.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E14" tvg-logo="https://image.tmdb.org/t/p/w300/vPD7gNmDDL9BpTk1ueZOVvvwpWg.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98223.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E15" tvg-logo="https://image.tmdb.org/t/p/w300/3bLlkw8X7KzDZcHZWdYVeb3SwGS.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98224.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E16" tvg-logo="https://image.tmdb.org/t/p/w300/ir1dD8zVCAsEMKeuaDJJLvRPxwN.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103287.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E17" tvg-logo="https://image.tmdb.org/t/p/w300/1h1m7cGN4Tza1CXv0uLE7PUHcgl.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103288.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E18" tvg-logo="https://image.tmdb.org/t/p/w300/thj6haClsjhoeXqU5q91ymbnGHN.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103289.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E19" tvg-logo="https://image.tmdb.org/t/p/w300/zOY29GWtwl7H0ZZ0U9IKFqV4LH4.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103290.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E20" tvg-logo="https://image.tmdb.org/t/p/w300/6rafJxeJiqK977gi0ZieCRxdVQt.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103291.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E21" tvg-logo="https://image.tmdb.org/t/p/w300/z6lrmfndIUGt75dggDzfSuassE3.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103292.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S07E22" tvg-logo="https://image.tmdb.org/t/p/w300/f92y7DAJYrKpwmZzDjQSx2HLRwF.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S07E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103293.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E01" tvg-logo="https://image.tmdb.org/t/p/w300/5ri6qQWM1JgFD5rfTMN4CsD7ULH.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98225.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E02" tvg-logo="https://image.tmdb.org/t/p/w300/8nf5lVP9HeXJCVWLSHMTJF1yXOn.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98226.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E03" tvg-logo="https://image.tmdb.org/t/p/w300/kA0PzKMcM8uEUauc7BddbLbQ2sZ.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98227.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E04" tvg-logo="https://image.tmdb.org/t/p/w300/kE5Lr3t8aurnH8zIdbFr0fR7CrI.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98228.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E05" tvg-logo="https://image.tmdb.org/t/p/w300/hnIH36NtsMNjmZ0c1e98sAu7agA.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98229.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E06" tvg-logo="https://image.tmdb.org/t/p/w300/6A149HaBIXqsWIyjcrOuIH8sxnA.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98230.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E07" tvg-logo="https://image.tmdb.org/t/p/w300/rILTT2q9R6P7aKdJO4wBJCAnc9H.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98231.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E08" tvg-logo="https://image.tmdb.org/t/p/w300/sfUYk2SV2sNyCYeyPuifh5rm6dd.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98232.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E09" tvg-logo="https://image.tmdb.org/t/p/w300/4SKuItkKIscVnspCovZUjKq41Ke.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98233.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E10" tvg-logo="https://image.tmdb.org/t/p/w300/mhEBPM5yobEgOWmyYQsK7QOGr6E.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98234.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E11" tvg-logo="https://image.tmdb.org/t/p/w300/TSJLBF42UnBm9SHiJXLnt1yCba.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98235.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E12" tvg-logo="https://image.tmdb.org/t/p/w300/jLIF23hfpARtXoFWIVuGkh5v66R.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98236.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E13" tvg-logo="https://image.tmdb.org/t/p/w300/yAg8Eb75fyqvObbo1oFpYeyStTd.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98237.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E14" tvg-logo="https://image.tmdb.org/t/p/w300/uXZHG5DUcSpE9jWsgwF8y5QvS8s.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98238.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E15" tvg-logo="https://image.tmdb.org/t/p/w300/gf8SszES1uwu2P2AUPbBhx2x38p.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98239.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E16" tvg-logo="https://image.tmdb.org/t/p/w300/rHzWDlfYJZPLraz1WSXZo0JV8LL.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98240.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E17" tvg-logo="https://image.tmdb.org/t/p/w300/v0T5A9nVln5EQl6aWXhdEAhNSkv.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98241.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E18" tvg-logo="https://image.tmdb.org/t/p/w300/2frNPwFlq8N99XdDvUdfsdUpTkg.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98242.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E19" tvg-logo="https://image.tmdb.org/t/p/w300/ehixcQzYZbKmP1fGZV5rXzwasJO.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98243.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S08E20" tvg-logo="https://image.tmdb.org/t/p/w300/wMsrnnSzWV7NrtqyHQLrijNBhYO.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S08E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/103286.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E01" tvg-logo="https://image.tmdb.org/t/p/w300/5xCdjOqWE0Kmtn3ioTVVRTJ4gIN.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128618.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E02" tvg-logo="https://image.tmdb.org/t/p/w300/nTKTPaoEVEK8kukBxOqC06uV6aw.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128619.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E03" tvg-logo="https://image.tmdb.org/t/p/w300/lleGSVnCbxv0AuQ0avmuDJzRUz.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128620.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E04" tvg-logo="https://image.tmdb.org/t/p/w300/qZXSQ2ghoUiPqbL9kWfuHXfm6xu.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128621.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E05" tvg-logo="https://image.tmdb.org/t/p/w300/qFxJL8PPEOwGIZliNjpXHi7vKXb.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128622.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E06" tvg-logo="https://image.tmdb.org/t/p/w300/nelzOy1VwDN9e0QwMydI5GE3Edh.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128623.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E07" tvg-logo="https://image.tmdb.org/t/p/w300/1WhcbGDxJxihzgg48AqyCqe7SZx.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128624.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E08" tvg-logo="https://image.tmdb.org/t/p/w300/ej8PKjCM9UpQTEjoxNHmmGTMuTk.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128625.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E09" tvg-logo="https://image.tmdb.org/t/p/w300/hKNx4jcponhKtfUDg5gg1o49aqx.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128626.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E10" tvg-logo="https://image.tmdb.org/t/p/w300/k1OWacVui2ohV0QQaq4NUNe1Su7.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128627.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E11" tvg-logo="https://image.tmdb.org/t/p/w300/hWqwvGrflUICkT8jwZRPqa3mfKG.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128615.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E12" tvg-logo="https://image.tmdb.org/t/p/w300/c7Ez4dGAWAFU4gT4sFidfQfaD6X.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128616.mp4
+#EXTINF:-1 tvg-name="Chicago Fire: Heróis Contra o Fogo S09E13" tvg-logo="https://image.tmdb.org/t/p/w300/wjn2MzEPt4JbUtCMDwKEh2Ha7vd.jpg" group-title="SÉRIES | DIVERSAS",Chicago Fire: Heróis Contra o Fogo S09E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/128617.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/jDP0SSNdjDO6NANoZA8q1ps5khm.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98405.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/7VErwt3ZsyBjcLAXzCy1EJ39NZJ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98406.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/o8MoUtaLAGvVjCRSwhQQW9V9qDX.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98407.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/k5Cxkp7fkenZFpSSFnHvOvQbqsk.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98408.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/ev5PLgm0GYT0oBZ6q0yM8yHYcEN.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98409.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/2qtjBaAuNxSKJXmf1vfqevdueLC.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98410.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/4dxFEbIYEQCxZ2j1Kjfqmx9wdyK.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98411.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/7oxcBt3eHyYxuabscmxU7w6r9sj.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98412.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/d95FUx8IymcYgbZiMCo7kv6hYYZ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98413.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/6AjUXnH5WbTCKh4UakaF9irrseQ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98414.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/4JI3dk7lcQdejmOj7gUQODC0kTz.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98415.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/hRHYTu3sbY0nIjOmZjal6a9R9er.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98416.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/ycvYblBRPJLQodxlTOYqtmO0dtZ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98417.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/7TzGE8FnNKJlOvwzs9uBFXWc9pv.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98418.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E15" tvg-logo="https://image.tmdb.org/t/p/w300/ilyUzTMXkS4iFuvCpApcpMrZ9YZ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98419.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E16" tvg-logo="https://image.tmdb.org/t/p/w300/4g76Raxq4YwmwlGRid2NUnU8ovD.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98420.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E17" tvg-logo="https://image.tmdb.org/t/p/w300/5jj36vf3eJSJNQHsOMCFDCVl9zP.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98421.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E18" tvg-logo="https://image.tmdb.org/t/p/w300/euiShFPXozStZc4Guistt7FU6yZ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98422.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E19" tvg-logo="https://image.tmdb.org/t/p/w300/ublsSLm2uOCHjXONTcegUM6NVkw.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98423.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E20" tvg-logo="https://image.tmdb.org/t/p/w300/zjKhEJMHcctsQqbJFq0hMtr41oM.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98424.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E21" tvg-logo="https://image.tmdb.org/t/p/w300/sXgvbiqZaYaItFA7u43XtQ5D2MH.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98425.mp4
+#EXTINF:-1 tvg-name="O Mentalista S01E22" tvg-logo="https://image.tmdb.org/t/p/w300/27KXwNAOP6sDXDXUTXmQlA8SfUd.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98426.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/cHnMZCdgxSVAGCi1JtlsJadeahH.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98427.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/pfDL2jw3dXizGrcCuIZI8ckhDuX.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98428.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/yQzY8IRNZYkMlFcezKonKQdWaXS.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98429.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/ceThzYJyXXStupzS5CZK6GKIN8.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98430.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/bHPF974uHnxhHk7HH9vuHe0LcUs.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98431.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/wKJRCPj1S1DdZoW1tXn18jfKOCr.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98432.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/iZbIS1IAPDQVVCyYDjsiqUL7iWJ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98433.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/kj8QsrTk1bd3QUYSUlnqlM2ENgU.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98434.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/8Xdt4xcBy1R8UBlq6UHcmysKuew.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98435.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/8dUUl8CuWjZ64GkcugFS1KBlxU8.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98436.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/tYUFHyblV3n8pBWQOlNngiOZc6u.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98437.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/zMJskaF4JsnRFEDtWeTggcrFTSe.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98438.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/36fXpaOd4kfqEtGEEFMBdV56ZFF.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98439.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/2orh7exIgvThLSrYSEMwqnfFyRB.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98440.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/Af45MgqSx6fAjIz7QSMuSS1vfy.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98441.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/7z5kURJX13InQZHUb6rfbz3ZGkT.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98442.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E17" tvg-logo="https://image.tmdb.org/t/p/w300/3tEz5xZi964iz0N5hDCGXUesAr8.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98443.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E18" tvg-logo="https://image.tmdb.org/t/p/w300/2gyNRfvwXbVaRO3ow9bywSx6fJ6.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98444.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E19" tvg-logo="https://image.tmdb.org/t/p/w300/aSq7V8cF2IF2ZLJ9xJ45onasB7h.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98445.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E20" tvg-logo="https://image.tmdb.org/t/p/w300/1cYpVJiWhO2w6Ba28j2qZZxkTIq.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98446.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E21" tvg-logo="https://image.tmdb.org/t/p/w300/2teZDR2OY2Xqewj0FOEk5YhRYEo.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98447.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E22" tvg-logo="https://image.tmdb.org/t/p/w300/iOAmSnA98m7ixfktUAn2AosOnJk.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98448.mp4
+#EXTINF:-1 tvg-name="O Mentalista S02E23" tvg-logo="https://image.tmdb.org/t/p/w300/x5cHBEDR77LMskbOWyZmKMyFeIB.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S02E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98449.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/j51joTgTllOfaeO4xGrkfL9jhwj.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98450.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/te3Yhs2Yyso2N42Py1nzdSBNAIC.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98451.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/8GjIMGmSE2EXbfaMDS8BGhhe3JI.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98452.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/97mETIrBtLSLdma6fDA0pv1Y05R.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98453.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/VVqiTCHZpAoz0w7DhF0CSt4YCb.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98454.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/f9K5sJW6VuWoWrRLFUn3mQQ4Ebf.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98455.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/e8oJCkd7k0evwsR4e9UfKtjXHlP.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98456.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/lF3oGXhzV3kGg5eHTHc8xBBKwAx.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98457.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/akMJZOeXeKJB755F45juBmiN8b1.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98458.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/f7DsZKHPcXgqND14HcaDcOStOTc.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98459.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/A7Rf9QwKefdLf3HeUuEu1jzku5R.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98460.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/3Qn5v3qvHqWLhQa8PMMVNVseuQP.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98461.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/ygTnmEdT7uApEfVEAVab60fySlk.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98462.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E14" tvg-logo="https://image.tmdb.org/t/p/w300/ocfrQ83hndEa9wJJlOTIpUv9aq7.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98463.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E15" tvg-logo="https://image.tmdb.org/t/p/w300/9ZjwkO0Tyj75D2FiMJTUJ5qiyck.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98464.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E16" tvg-logo="https://image.tmdb.org/t/p/w300/lUi4BTBehU3H62e4mShC4itwsRA.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98465.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/wDbk0F1QETLdHmvFNIZu7MQbury.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98466.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/93pIfYcqevW99gQckDtUoT1uPam.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98467.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/clVxqUvb3GhmYcaHDO74yqNdlrx.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98468.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/upfF53iuG4rhHYp7OS0zZvZVvoz.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98469.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/hCHBP3a1Ad9Z76O2ot6AjUbP7ZH.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98470.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E22" tvg-logo="https://image.tmdb.org/t/p/w300/kthKwNn416lLg6RQE3hpKNbrL8h.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98471.mp4
+#EXTINF:-1 tvg-name="O Mentalista S03E23" tvg-logo="https://image.tmdb.org/t/p/w300/pgzD3RNDmfO48e0jOvkHEyP8hhc.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S03E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98472.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E01" tvg-logo="https://image.tmdb.org/t/p/w300/5oME6nECiONQSAlYAuwNLpXVWX8.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98473.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E02" tvg-logo="https://image.tmdb.org/t/p/w300/wtblAumVziIaRnyGYH1y3DOR7Tj.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98474.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/mtiyePK6mbzAbb7oTHmU3VUqEsw.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98475.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E04" tvg-logo="https://image.tmdb.org/t/p/w300/5CEzdCvIG47Bz11mnqX3Uowlkaf.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98476.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E05" tvg-logo="https://image.tmdb.org/t/p/w300/bI6KnDMRKaLwJoU5zxQm0ErLtfB.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98477.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E06" tvg-logo="https://image.tmdb.org/t/p/w300/gH8e3oguntArfj2PSqzaTjFT1S6.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98478.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E07" tvg-logo="https://image.tmdb.org/t/p/w300/mXqPEp53nRrPJz37QitMlgSwTv.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98479.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E08" tvg-logo="https://image.tmdb.org/t/p/w300/i6QQSjjKucdj2OC2Va5I3c1FfC8.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98480.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E09" tvg-logo="https://image.tmdb.org/t/p/w300/afX4hCEqkmYFJwGtcofS7Q6dPOv.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98481.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E10" tvg-logo="https://image.tmdb.org/t/p/w300/ypRFOEWNGZ234mtYauoXDVvVxZm.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98482.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E11" tvg-logo="https://image.tmdb.org/t/p/w300/8WDulKfL74rU45UA61KBh4Z05Wk.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98483.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E12" tvg-logo="https://image.tmdb.org/t/p/w300/zQTycILSEgzwYyMwemM00Z60fQL.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98484.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E13" tvg-logo="https://image.tmdb.org/t/p/w300/s54MxtKD8sxD6RduCuzQQXgjzpF.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98485.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E14" tvg-logo="https://image.tmdb.org/t/p/w300/4ZT1Qz6j5uOf6O8SgB3MAouVrPU.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98486.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E15" tvg-logo="https://image.tmdb.org/t/p/w300/lDpRWduEBk68AU7U2wWtTNLifKr.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98487.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E16" tvg-logo="https://image.tmdb.org/t/p/w300/A1gmNPFAPeBxL48OJfQlwDrPlDF.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98488.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E17" tvg-logo="https://image.tmdb.org/t/p/w300/9RfhpFHLsu8Jar5BKz4R7kbJq4l.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98489.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E18" tvg-logo="https://image.tmdb.org/t/p/w300/rkBo0LuQdNkLnykzWwavyz2wd2e.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98490.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E19" tvg-logo="https://image.tmdb.org/t/p/w300/u4CKA1cW18ZNlQpTDIvvzjD0UXc.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98491.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E20" tvg-logo="https://image.tmdb.org/t/p/w300/cd6CNxNYf8tPVhuTyj7p8clPdJS.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98492.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E21" tvg-logo="https://image.tmdb.org/t/p/w300/8rceP0pG3TdYelcWu2vUn5n0cvg.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98493.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E22" tvg-logo="https://image.tmdb.org/t/p/w300/1SkQZQvsnV5mO0gDzcck4NoCBd0.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98494.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E23" tvg-logo="https://image.tmdb.org/t/p/w300/knn0FxdMscWqlgIiS4T6laoHBhX.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98495.mp4
+#EXTINF:-1 tvg-name="O Mentalista S04E24" tvg-logo="https://image.tmdb.org/t/p/w300/bckBQLDLLMnFqN4w3RKPw4JWnom.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S04E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98496.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E01" tvg-logo="https://image.tmdb.org/t/p/w300/vxGnPnb9wzz2D8Zeu5ty837cjYG.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98497.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E02" tvg-logo="https://image.tmdb.org/t/p/w300/vJISe5uemqI3FmVMlUJFCmfx0c3.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98498.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E03" tvg-logo="https://image.tmdb.org/t/p/w300/8r8CqchSC1AeLv591lGyetCZ3tI.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98499.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E04" tvg-logo="https://image.tmdb.org/t/p/w300/rA2xZOhD2Xf14MbLhpbSI3u5Zgl.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98500.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E05" tvg-logo="https://image.tmdb.org/t/p/w300/7Er2lXBf6aISRPtoPdOuWibBvgZ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98501.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E06" tvg-logo="https://image.tmdb.org/t/p/w300/58P1vF3eBzUPjl1wgsRQPcmz0pg.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98502.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E07" tvg-logo="https://image.tmdb.org/t/p/w300/32yoi47iX0WbUEiHhcxgkT58QP5.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98503.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E08" tvg-logo="https://image.tmdb.org/t/p/w300/xTvkkG1LajiKfWAPOIarXewDq5K.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98504.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E09" tvg-logo="https://image.tmdb.org/t/p/w300/5anUmnPEnzczFTsGsUUmz21TAlC.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98505.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E10" tvg-logo="https://image.tmdb.org/t/p/w300/uc4SNoVFhX5LmvPDbN5p1I03UBy.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98506.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E11" tvg-logo="https://image.tmdb.org/t/p/w300/nfncxU3dDo7Si42a2YdQO95daDX.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98507.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E12" tvg-logo="https://image.tmdb.org/t/p/w300/5cMSKu5HVXHpwfe9m0uFl9p9IJS.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98508.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E13" tvg-logo="https://image.tmdb.org/t/p/w300/rYIbgy1iaLi65ohOdjGxIGdnbcV.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98509.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E14" tvg-logo="https://image.tmdb.org/t/p/w300/v5nVxxtmxIhLYKJs4yFHeBAvNlY.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98510.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E15" tvg-logo="https://image.tmdb.org/t/p/w300/1L3YvPnk3vDpMhykEoXyA8eNnb9.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98511.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E16" tvg-logo="https://image.tmdb.org/t/p/w300/8TAimSPjRLt1JTpiJz0NJAt9VcW.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98512.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E17" tvg-logo="https://image.tmdb.org/t/p/w300/f4GHX9tCvwNSlAq5K6QnJZQ9mF4.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98513.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E18" tvg-logo="https://image.tmdb.org/t/p/w300/5p4M8iCHDvTrMiZDK9P4UBT9hwH.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98514.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E19" tvg-logo="https://image.tmdb.org/t/p/w300/ifH4nB6JvR37GSXoUJqfIFqJags.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98515.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E20" tvg-logo="https://image.tmdb.org/t/p/w300/A5LzJk5UkjIWhNnvbSHnLngi1tH.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98516.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E21" tvg-logo="https://image.tmdb.org/t/p/w300/xCBML80TpuIpnnmmuePSgHu8B69.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98517.mp4
+#EXTINF:-1 tvg-name="O Mentalista S05E22" tvg-logo="https://image.tmdb.org/t/p/w300/lHTVrnnUqRKAv8HA0IePqkvCmYL.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S05E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98518.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E01" tvg-logo="https://image.tmdb.org/t/p/w300/yK0s7sS1OvycfixaL71tiC9vGrs.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98519.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E02" tvg-logo="https://image.tmdb.org/t/p/w300/xoGSbgs2irKl9KNXYKM3COr9zbW.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98520.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E03" tvg-logo="https://image.tmdb.org/t/p/w300/i2rB7S8by35A0uo2Sx0kmxDTBfM.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98521.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E04" tvg-logo="https://image.tmdb.org/t/p/w300/j9zL6SjfdGpWaUMVGdLOCIE3rpE.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98522.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E05" tvg-logo="https://image.tmdb.org/t/p/w300/Any1WOHG9kYpm4zKiqZoD2dtPCd.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98523.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E06" tvg-logo="https://image.tmdb.org/t/p/w300/8h0McZ5lj7LgDQmeLgevue2bcgk.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98524.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E07" tvg-logo="https://image.tmdb.org/t/p/w300/p03unWudQBHcBXowDJSsq26kHn3.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98525.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E08" tvg-logo="https://image.tmdb.org/t/p/w300/6Ff9qMg56nZhjF2SwPP1g6WLQAF.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98526.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E09" tvg-logo="https://image.tmdb.org/t/p/w300/b1Rz4SPntbsc57Z3GyNDnT6f4in.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98527.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E10" tvg-logo="https://image.tmdb.org/t/p/w300/5K3uT9zl8jWdecfTQ7lueLDcSUR.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98528.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E11" tvg-logo="https://image.tmdb.org/t/p/w300/xBeQ7xTusKNYarzvtSPGWIlD0s0.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98529.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E12" tvg-logo="https://image.tmdb.org/t/p/w300/oivMZtRI9AsZTjQ3UEfd1nmgwVV.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98530.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E13" tvg-logo="https://image.tmdb.org/t/p/w300/bbdUihpnNzydeJ4VruYk2LR4HlW.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98531.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E14" tvg-logo="https://image.tmdb.org/t/p/w300/fyTRMNlqShtZ71eDflh8CWHnhzp.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98532.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E15" tvg-logo="https://image.tmdb.org/t/p/w300/lhQTfmYzrTtomZ0YceKuZGMGmM8.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98533.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E16" tvg-logo="https://image.tmdb.org/t/p/w300/71VJBoofmW9r9AdbVki7gIamb52.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98534.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E17" tvg-logo="https://image.tmdb.org/t/p/w300/pS22t6owaLvTm20n6TqOoEZ9zZn.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98535.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E18" tvg-logo="https://image.tmdb.org/t/p/w300/8lEHTXpm95St2GWmoJXfN07xpHf.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98536.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E19" tvg-logo="https://image.tmdb.org/t/p/w300/9ElKggmklWquhHSdzGqkSAOcBKT.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98537.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E20" tvg-logo="https://image.tmdb.org/t/p/w300/2uHxhRMZ2s9lxqnkMRqF1WXdiaF.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98538.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E21" tvg-logo="https://image.tmdb.org/t/p/w300/uhlcIaP82kZLLeJkyV5G5J999cV.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98539.mp4
+#EXTINF:-1 tvg-name="O Mentalista S06E22" tvg-logo="https://image.tmdb.org/t/p/w300/g1GC0kl7MRAWP1XIGQi71qpcZDJ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S06E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98540.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E01" tvg-logo="https://image.tmdb.org/t/p/w300/tOXSPiCbxWbXKROy5sVPVPQyls2.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104380.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E02" tvg-logo="https://image.tmdb.org/t/p/w300/gUTkKMGXqEZD21Vpk3C5zKtFwcK.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104381.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E03" tvg-logo="https://image.tmdb.org/t/p/w300/jJkqCuL3chQXbgCXGusYi3aEtS0.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104382.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E04" tvg-logo="https://image.tmdb.org/t/p/w300/atPJKP4KVmZirGGX6ZjwVpofZlg.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104383.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E05" tvg-logo="https://image.tmdb.org/t/p/w300/oqjuGBKH7Sdetr7kHOiraZqsUa.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104384.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E06" tvg-logo="https://image.tmdb.org/t/p/w300/oeLJbMFoE5GTJVJFZR3lgFdHYtC.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104385.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E07" tvg-logo="https://image.tmdb.org/t/p/w300/3rJptgWFTE2HP0GBTeEJPZyKEzQ.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104386.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E08" tvg-logo="https://image.tmdb.org/t/p/w300/wizJqU72PpVHV2rXj2ont3AzPKM.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104387.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E09" tvg-logo="https://image.tmdb.org/t/p/w300/qyw4C9d4I5tpBfMHiZ3myzg7Mfc.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104388.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E10" tvg-logo="https://image.tmdb.org/t/p/w300/1CCcErOPNIQjOmJtBCEB2R9EH9Y.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104389.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E11" tvg-logo="https://image.tmdb.org/t/p/w300/gyQdHBBe4yVVZsaCJMwCHFGuoUD.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104390.mp4
+#EXTINF:-1 tvg-name="O Mentalista S07E12" tvg-logo="https://image.tmdb.org/t/p/w300/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104391.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/wFFL8jIRSHaV1hFkyUt30YkEJ0D.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98347.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/8ZiTPO7TrDjDv5LDNXGuTEKcyAQ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98348.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/ibd69KIVSGAjEpj9s60ISnX5P2J.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98349.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/fWAJvIcDXGOYjtGsl0dACgFcUpO.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98350.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/ys7fjLe0z8mfPzH4rpRwAwlftCy.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98351.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/i14NxPzXxExEuNDiwi71nAi793A.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98352.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/6UHh881hIvFS7447HHpIy4aOiAy.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98353.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/cmKyzOdDDF7JHH1dhwDzOYPtHSK.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98354.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/s3EYaRz3ziFUzkWyiznlR08bMK1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98355.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/s3EYaRz3ziFUzkWyiznlR08bMK1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98356.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/mFiiVqPje7FesOcz2zYkwuFnigq.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98357.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/90f5B7stBj0yw6PG5JqgnlWpWKB.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98358.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/vS6vb1SfCsvCFqadj1ubGtdDDwW.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98359.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/eoawi7qBjxVOMVxfX3qLFY0eCWb.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98360.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E15" tvg-logo="https://image.tmdb.org/t/p/w300/sqED5FUFeshgRX1imzwOnP9jQtA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98361.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E16" tvg-logo="https://image.tmdb.org/t/p/w300/xRI0BuZfte3f6dMQjX9QP9weY9G.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98362.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E17" tvg-logo="https://image.tmdb.org/t/p/w300/eyFEyUrokay1fmXhnQUIdaFondy.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98363.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E18" tvg-logo="https://image.tmdb.org/t/p/w300/bvlF6NKwdkuJqKHmTtJCoPeej9s.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98364.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E19" tvg-logo="https://image.tmdb.org/t/p/w300/oI3OnEXscY76CkeEtEjrM7SY3RA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98365.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E20" tvg-logo="https://image.tmdb.org/t/p/w300/qf25pKuaV0nLkww9dPeEktF72D6.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98366.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S01E21" tvg-logo="https://image.tmdb.org/t/p/w300/uCuiJOayVUyaMdwGoL6YKKvmY0r.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98367.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/2YfYdUdHsVgZb31VMA0vxX4hD6x.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98368.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/7WMbfBVKRLjYFIJplZ6xv9IIF2Y.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98369.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/seqK8k9AhggOfZncR1ZeyybmQyA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98370.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/5QXid3yEFxReDsp5HW7M51ykKhe.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98371.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/zdM7Fo5YCHqdfUf29eG9xXXRUMq.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98372.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/h1ZkTiQDoHMV8icHgC9pMoqZaO4.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98373.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/jthgoV0xDgJXerjpVoN7WKdVpv4.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98374.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/27nDOZXGgnPwCKXm7SWhVQz0CLD.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98375.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/nEA03JirwIYWJTP58bEzR6SVt1m.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98376.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/4xX2wmgVQl5LCiWVDZyhxvFCW1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98377.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/mA7JvjJv9hhSjPol4BgmjyktsFm.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98378.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/gDfRpXRMRhEQqUYmYn8VXPiKjrP.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98379.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/v9LHh00cF9Sgt0vf6DptTbrKPZe.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98380.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/c22KByUkeZojghiEpsyT72QRUdZ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98381.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/u8YmpVazGqh5z7qwmB0bov8qXlQ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98382.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/vzEecaXGamIELKs7jF1mKX3L46V.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98383.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/gkizIBRXTRhs1gnxsFWNSkVgKF2.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98384.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/eamIZd0gfyaOCIX64BiK78z45Ck.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98385.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/mL924jJNzVqIJsGtgQzx9rSJvlb.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98386.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/ypd3AqMFWolduc1wMMr75v0BjCz.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98387.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/adyyF3so4SgqPbag88lydGJBmRb.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98388.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/qXehKDXIc7Ql8VSz5y6Wmh4DnTu.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98389.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/lbIAcQD9Ehj3cfFQcdKQJ1y2QnU.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98390.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/uDKts0UXq9y81SxPpBC7nXc6DIg.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98391.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/7Bh8LGLmcuSp0ZkEdW9suqg6JI1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98392.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/4aLK9AtjNkgebSRTnbuCwME17or.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98393.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/8witdtZKI0FOcTXNnWK2Z71RfZA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98394.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/jNs7W1Bp1M76C1bngfyBayb7FAk.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98395.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/7hgnymYTrDbFUQRNA63IW0R2mPE.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98396.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E14" tvg-logo="https://image.tmdb.org/t/p/w300/5CvXojuvRLH9n4J2xG6wz1c3Eft.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98397.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E15" tvg-logo="https://image.tmdb.org/t/p/w300/wlxABjOYfG8txwaUPeHeJbx6wNZ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98398.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E16" tvg-logo="https://image.tmdb.org/t/p/w300/8IXns3KD86ZOuONAZ0pwQptYXAA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98399.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/hutu6eSRTVA87C6g8mXiWXhtahR.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98400.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/5cyH7a9cbKbU1Pv1feEo0krIA9o.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98401.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/zuCMXzXVSBTfevaCOafKssRYjNL.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98402.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/g6tT2KrR9TyfZWuHvN9BXQuqFT4.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98403.mp4
+#EXTINF:-1 tvg-name="Tour of Duty S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/ilx8IcEKBYEWAaY8jl2bOX1pGgT.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98404.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/ilYQgIHtY3S6MWzrY7kaMazIMhA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98282.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/bdlY9CzIdIp7kKRyX2nih7XxYAY.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98283.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/d0d0x3urU6frKhUHyD9GqOhIFZf.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98284.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/pKvfee3zOJFzHimXFzKRGBHwIRG.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98285.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/amTGTDZOLyJWsGQP8V4qun0nelo.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98286.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/kUGDDSsa3ycDkP3LVtHiw7kctce.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98287.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/9gGFO3Vl3uhYKODxZlps2FoupLa.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98288.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/mm6s7FeLsOpL0depDDm1vxF5rPo.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98289.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/21nqWQnXjFgaEnby4u0CHDevmWx.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98290.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/jhKrHA3ut41e0QlkuTqHKWdQSar.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98291.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/2LFiqDRSqqhaod6mOqFT6ICUObd.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98292.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/yGvuLlemNi9Gn2bHi22vPpQ86SB.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98293.mp4
+#EXTINF:-1 tvg-name="Greenleaf S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/ioYcoAbARGjg6P5kTi6Opkdamcz.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98294.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/t5iZ2X9zuLHOTfTBmNn6ajOVLnA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98295.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/yjnt6pUussoMHPQfi0UcmkriE3Y.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98296.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/ubYkaCs90reLCCB4RguTaJK1KM6.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98297.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/zUkvbmQXKPxOtAnOuv3gAl2vPR3.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98298.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/44O2uSKYaFqksZWQ0yrUgRG15tW.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98299.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/wLrO9vYhsTifauWov1LL3iJHWY2.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98300.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/rjBvAvy5WukPMl2Iu5UQc7E1JPG.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98301.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/87nvnFV7Jq4ZBSMXvu3TVQyP3N3.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98302.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/vRgDj43QkyrSepHAkFH3QRFvcHA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98303.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/mHgrRYHPAz1UFi74APUig0I3vV2.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98304.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/l0FKDRBHxZuimVlGmW1x2QebzLf.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98305.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/bHYIozbgLQOz2szjjxVRRbtvCKZ.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98306.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/wuuS44qsPMgUbBxC7i9gIRk9tUI.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98307.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/7s9DbaY8f5yErj88PYrgdlxwIMW.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98308.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/gpbH26iNcOiKdTexRR2WCyrb8mW.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98309.mp4
+#EXTINF:-1 tvg-name="Greenleaf S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/AjjDX4amjtdTvI7V0OK6FpdDRoT.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98310.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/a3c68XLJAARYIKWjVWqtmDS4hdL.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98311.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/rtaqJNJzoxgPKiuucSR2IOmYuL1.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98312.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/5rUT5ADizvvk0XmXhNAGeoflQ9R.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98313.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/7LCiJZmYviU7XgglblDX8GEOppx.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98314.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/883DlHr50ejxqMItyRX1Tdqj9q7.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98315.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/9AAzH35KWWqqJKBqiQHnaoh9Yg0.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98316.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/gbBnQlvX3ipT5dsRQWaigbs8Uxm.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98317.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/6AaGGVtwzCYwWHj8w8dR91MOyMT.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98318.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/oUcNbpc2VjVDOOjV8Uz2iX97ddE.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98319.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/dOaGdujolSZDPHXttR0O7N617Ch.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98320.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/9RIrGinQEZlOiaSCjzIHwk7cox0.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98321.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/fxqOoZFbFnQM7mtbdTu9geDV85B.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98322.mp4
+#EXTINF:-1 tvg-name="Greenleaf S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/a3mViZ2bzBsU2X5kPf8smckJhCz.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98323.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E01" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98324.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E02" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98325.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98326.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E04" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98327.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E05" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98328.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E06" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98329.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E07" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98330.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E08" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98331.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E09" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98332.mp4
+#EXTINF:-1 tvg-name="Greenleaf S04E10" tvg-logo="https://image.tmdb.org/t/p/w300/4MpF7fgIXp3VXsuq9CFVUUjQbs4.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S04E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98333.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E01" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98334.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E02" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98335.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E03" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98336.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E04" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98337.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E05" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98338.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E06" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98339.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E07" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98340.mp4
+#EXTINF:-1 tvg-name="Greenleaf S05E08" tvg-logo="https://image.tmdb.org/t/p/w300/3jKoky8T6R0JdiBvWfTJEPq1Nav.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S05E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98341.mp4
+
 #EXTM3U url-tvg="http://grade-de-SERIES | CLÁSSICOS DA TV Smallville.xml"
 ############## SERIES | CLÁSSICOS DA TV Smallville  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSERIES | CLÁSSICOS DA TV Smallville" group-title="
@@ -7999,9 +9508,887 @@ http://7go.xyz:8080/series/zogbi11/982451290/252877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville - As Aventuras do Superboy (2001) S10 E21" tvg-logo="http://7online.xyz:8080/images/270f2634a51659fa262f34a98c9681e2.jpg" group-title="SERIES | CLÁSSICOS DA TV",Smallville - As Aventuras do Superboy (2001) S10 E21
 http://7go.xyz:8080/series/zogbi11/982451290/252878.mp4
 
-#EXTM3U url-tvg="http://grade-de-SERIES | AMAZON Dr. House.xml"
-############## SERIES | AMAZON Dr. House ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIES | AMAZON Dr. House" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | DISNEY+.xml"
+############## SÉRIES | DISNEY+  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DISNEY+" group-title="
+
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVXmKHmXMBKTISu6pvHIlT7Ymm1.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775524.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98DsubFrIzoqJxsRh8mzWlLaiYR.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775525.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FDyeyee8mpWV4SGiBvRvpLY8bO.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775526.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tC7yPw4GSKxDncjgyK6nyvqW9Md.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775527.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIHHc7iQQJIMV4r0AAJlwH8rENE.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775528.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx7eyXnVuSe1YfwIESTuwry4trY.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775529.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAgfuxIMtb0AIlIyp9writYHnTl.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775530.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1bMiTY9fqXhgDOuA7uesGAeOof.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775531.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLRhhtwo0MqmeJSnLNDflhMr6vV.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775532.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ii2HLgvCUQ0cndZMWQ6zalj1Kc.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775533.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q1TMLGySyrhG1XcCr0KlU6dfwt.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775534.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zsunM6ZVTpXrPykmxXUejXy6k2.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775535.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvmQ22AZcKuVBwVBRCOK7clY6R7.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775536.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy5whZjQcUrYbH5OfsD497nBMgb.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775537.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jg8A2Cju66gIsMSt27Iwjw1Ujh.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775538.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NHLvDGRy7pzvRahL38nXsjz8En.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775539.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b71mEpU5LG5EwhljrjcnqXorDnM.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775540.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPpRiOPVieLHDMnufj3qVmUY3WX.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775541.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg0RqsLlPk4ayhTGEtRdcixoe9z.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775542.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUsqrURT6sAY4v6jajebAoAWUwj.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775543.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHs8TyXYnz9lLH1IQIvZwRVpzwy.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775544.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVc64zAv3ha8makjpD9QTbKRIyH.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775545.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IHA9FS7sdCaV5HI2fyQ4fWzOP0.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775546.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XgQgEFPmz8eggy9xpzijADGzQ1.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775547.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPzLnUvaHjCDCsh84zpq2lsWBMy.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775548.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E26
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775549.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E27
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775550.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E28
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775551.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E29
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775552.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E30
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775553.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E31
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775554.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E32
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775555.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E33
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775556.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E34
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775557.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E35
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775558.mp4
+#EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E36
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775559.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDjzRRlq5n4ncih8IAlLRuVDV2M.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782074.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XY9WsigDep5fvFt0PSn0PpZNQl.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782075.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6zSipXV7pkiWtCKkDBeUsxnhiU.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782076.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etv86MTC2KBlL4reXIIPCCOeRig.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782077.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r99S5JbhcWx0BPXKKAfZNRBwGl.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782078.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPUFAFEIUwhPymGQ0mWghzn26PS.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782079.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4sKCx5Nu6qmLw50r5P5hslM2MY.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782080.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1XgCLWv7ohYSrOVTadkJq9k6Ga.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782081.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AWspQ8HUp9e9mynAO4TEW3Jgyu.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782082.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acxmbs86QtFPld6oqUsY6VSpAOh.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782083.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdfWmzcH4SRkkK2ATxpX2asTsfM.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782084.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxFmP4oYbaJng3wxFkijyf8mgfV.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782085.mp4
+#EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4DpiOBnWTnI7LOfpzupYGavReN.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782086.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6gDrSq8grmaY8TPQPKf8PCaxLC.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778137.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHmqoeOrQj9v9Zvw8QQqjFCPpaw.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778138.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK9bcv7nqIEYSiMqG8gyIycPLe3.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778139.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcOhSQcH98aAaXurUmbXsu7Vuu.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778140.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQErfy5QuP5iQi0zCvAvM99rnbz.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778141.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWUzHOadJ3SiKDkWQjXsVhURWfX.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778142.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vizvR51nvLkGIhVKSzINgUUPly8.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778143.mp4
+#EXTINF:-1 tvg-name="As Pequenas Coisas da Vida S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | DISNEY+",As Pequenas Coisas da Vida S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778144.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
+############## SÉRIES | NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX" group-title="
+
+#EXTINF:-1 tvg-name="The Flash S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/piyGyhwbqqyIxcyuZXYmDUWSylb.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101240.mp4
+#EXTINF:-1 tvg-name="The Flash S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/mUgakZLNaMIjG63pz7VeJXJPMu4.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101241.mp4
+#EXTINF:-1 tvg-name="The Flash S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/wY1omkKIuqZILjniPssbGlfZ0NY.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101242.mp4
+#EXTINF:-1 tvg-name="The Flash S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/flWYU25xy3KM5XxihrDV0cGvscp.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101243.mp4
+#EXTINF:-1 tvg-name="The Flash S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/qg2A8gcBpuhEU7M3ZPxmRHGs5mX.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101244.mp4
+#EXTINF:-1 tvg-name="The Flash S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/z8AlWWt2cOcZNqonl0U1BSTzZWb.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101245.mp4
+#EXTINF:-1 tvg-name="The Flash S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/6RqDA0k2dcRTRcppZybXH14YJ6F.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101246.mp4
+#EXTINF:-1 tvg-name="The Flash S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/farB7p2uU1SdFHbHLOvOxMFrdrA.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101247.mp4
+#EXTINF:-1 tvg-name="The Flash S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/AkXPSqGqLl656FJKPANUxeO8rjt.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101248.mp4
+#EXTINF:-1 tvg-name="The Flash S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/AeqQiAxUWy3JwMqZyhwMwId7oSn.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101249.mp4
+#EXTINF:-1 tvg-name="The Flash S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/qxcsH89DMX9OVOa9GA6G2PkQ5Hg.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101250.mp4
+#EXTINF:-1 tvg-name="The Flash S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/a1r4J8NQaNK24WMJSgCWkPyCvua.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101251.mp4
+#EXTINF:-1 tvg-name="The Flash S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/yjwQUINfdtuYo1EuqN9S0yRLm6t.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101252.mp4
+#EXTINF:-1 tvg-name="The Flash S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/pS5O2Vo069S723yPkZ6ujQiaOed.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101253.mp4
+#EXTINF:-1 tvg-name="The Flash S01E15" tvg-logo="https://image.tmdb.org/t/p/w300/3ecwKLunVv2s8KFC9mt8NZe5jS6.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101254.mp4
+#EXTINF:-1 tvg-name="The Flash S01E16" tvg-logo="https://image.tmdb.org/t/p/w300/akLeJQjlE7A4MaPhOU7im8QHSrK.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101255.mp4
+#EXTINF:-1 tvg-name="The Flash S01E17" tvg-logo="https://image.tmdb.org/t/p/w300/a4OayTfzogEzIc72sK4hBcVaFrC.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101256.mp4
+#EXTINF:-1 tvg-name="The Flash S01E18" tvg-logo="https://image.tmdb.org/t/p/w300/wJsNeIPjZggLm98SCidiGX7khbU.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101257.mp4
+#EXTINF:-1 tvg-name="The Flash S01E19" tvg-logo="https://image.tmdb.org/t/p/w300/tQLhduqi4vFsCqXW9hZGVsI5D3K.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101258.mp4
+#EXTINF:-1 tvg-name="The Flash S01E20" tvg-logo="https://image.tmdb.org/t/p/w300/bIrv0FPlK40Ie7CEFBC8FdEQxaA.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101259.mp4
+#EXTINF:-1 tvg-name="The Flash S01E21" tvg-logo="https://image.tmdb.org/t/p/w300/3EQ0MaRUkt0GxZP8Lzh5Po4fxad.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101260.mp4
+#EXTINF:-1 tvg-name="The Flash S01E22" tvg-logo="https://image.tmdb.org/t/p/w300/duURv7F1POR2OKh8TgVpSGvvhoN.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101261.mp4
+#EXTINF:-1 tvg-name="The Flash S01E23" tvg-logo="https://image.tmdb.org/t/p/w300/aepBBreYvTwsaGuqOygBgsYs4n.jpg" group-title="SÉRIES | NETFLIX",The Flash S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101262.mp4
+#EXTINF:-1 tvg-name="The Flash S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/5B43GO09vYgY0vlbahDakyjvqF3.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101263.mp4
+#EXTINF:-1 tvg-name="The Flash S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/qPZEyRCdtpxT57Hj0zggi2qCaml.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101264.mp4
+#EXTINF:-1 tvg-name="The Flash S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/cUlJOXLl2NqncKntf7G76rH7iyT.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101265.mp4
+#EXTINF:-1 tvg-name="The Flash S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/7mwmxIbx4ZFWbh6LV5wxL9SZwO.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101266.mp4
+#EXTINF:-1 tvg-name="The Flash S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/cZUss7jKsQ4caGSWQHWyIHNX7vY.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101267.mp4
+#EXTINF:-1 tvg-name="The Flash S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/5KV67qcPV3mxMSY8flnTbdCWiWt.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101268.mp4
+#EXTINF:-1 tvg-name="The Flash S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/cv2xltOhRaYMhllbE2b8OlWASbl.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101269.mp4
+#EXTINF:-1 tvg-name="The Flash S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/2SmtITUJqvHNhEzNKsbbr3Qd15f.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101270.mp4
+#EXTINF:-1 tvg-name="The Flash S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/hh7YC7hi67eMWcbWc05KirCo917.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101271.mp4
+#EXTINF:-1 tvg-name="The Flash S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/u2rCTzwDf6ePfZ0kBIwTmrNl5rK.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101272.mp4
+#EXTINF:-1 tvg-name="The Flash S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/gpjOWmxlz7PzhrM65TwO9dKswlK.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101273.mp4
+#EXTINF:-1 tvg-name="The Flash S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/wwmmhrbZ4JEctNeXdN3oarQUpXA.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101274.mp4
+#EXTINF:-1 tvg-name="The Flash S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/sdIU4knF5Qk2hxTXlKtE0aeC779.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101275.mp4
+#EXTINF:-1 tvg-name="The Flash S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/eLSoqOZD7w5CesLrCyxDOTqVBDi.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101276.mp4
+#EXTINF:-1 tvg-name="The Flash S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/pZpBABUF1rJAllxEsUOtAECZMVp.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101277.mp4
+#EXTINF:-1 tvg-name="The Flash S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/8qbMUBHTmhXRMwVgSdikrvRhGjp.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101278.mp4
+#EXTINF:-1 tvg-name="The Flash S02E17" tvg-logo="https://image.tmdb.org/t/p/w300/bwUxFTzoDHdqC2impdXMzyhnRMo.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101279.mp4
+#EXTINF:-1 tvg-name="The Flash S02E18" tvg-logo="https://image.tmdb.org/t/p/w300/8GwfGFbc1HMYEM6YeIzsJoUZ78h.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101280.mp4
+#EXTINF:-1 tvg-name="The Flash S02E19" tvg-logo="https://image.tmdb.org/t/p/w300/t2jRTxY0lu6ZOJ0Rtiea6zRUTV4.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101281.mp4
+#EXTINF:-1 tvg-name="The Flash S02E20" tvg-logo="https://image.tmdb.org/t/p/w300/n6k7Rjtbyh3PlEMOmty1pHNMaZT.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101282.mp4
+#EXTINF:-1 tvg-name="The Flash S02E21" tvg-logo="https://image.tmdb.org/t/p/w300/rxuYCLXgZUEsbsUXAdhdsyxO3bn.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101283.mp4
+#EXTINF:-1 tvg-name="The Flash S02E22" tvg-logo="https://image.tmdb.org/t/p/w300/3EOsB3IU0VCZxrrCHu9rDmTnhIu.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101284.mp4
+#EXTINF:-1 tvg-name="The Flash S02E23" tvg-logo="https://image.tmdb.org/t/p/w300/qfBQSFWMoqutuytnKvOqTDuvF3w.jpg" group-title="SÉRIES | NETFLIX",The Flash S02E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101285.mp4
+#EXTINF:-1 tvg-name="The Flash S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/ldrORdkl6t8HfrM1hoJFWDwiT8A.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101286.mp4
+#EXTINF:-1 tvg-name="The Flash S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/ldrORdkl6t8HfrM1hoJFWDwiT8A.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101309.mp4
+#EXTINF:-1 tvg-name="The Flash S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/qV0UGxuSCSPWNmrb4J6bPKlOyBS.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101287.mp4
+#EXTINF:-1 tvg-name="The Flash S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/qV0UGxuSCSPWNmrb4J6bPKlOyBS.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101310.mp4
+#EXTINF:-1 tvg-name="The Flash S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/zwTwYmyWqCkq2v8QiiathUNo4LF.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101288.mp4
+#EXTINF:-1 tvg-name="The Flash S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/zwTwYmyWqCkq2v8QiiathUNo4LF.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101311.mp4
+#EXTINF:-1 tvg-name="The Flash S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/zn079GEGFGKcRx934r6fgbrAxli.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101289.mp4
+#EXTINF:-1 tvg-name="The Flash S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/zn079GEGFGKcRx934r6fgbrAxli.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101312.mp4
+#EXTINF:-1 tvg-name="The Flash S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/rSW2SnzyuiYCh29dIpxAS3BnnZd.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101290.mp4
+#EXTINF:-1 tvg-name="The Flash S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/rSW2SnzyuiYCh29dIpxAS3BnnZd.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101313.mp4
+#EXTINF:-1 tvg-name="The Flash S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/4i8qYcPorWqquskWJL11WH6dyVN.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101291.mp4
+#EXTINF:-1 tvg-name="The Flash S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/4i8qYcPorWqquskWJL11WH6dyVN.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101314.mp4
+#EXTINF:-1 tvg-name="The Flash S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/gdQn4WmIgHt51EUw29U8eF4GwqJ.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101292.mp4
+#EXTINF:-1 tvg-name="The Flash S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/gdQn4WmIgHt51EUw29U8eF4GwqJ.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101315.mp4
+#EXTINF:-1 tvg-name="The Flash S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/i9kJ1RFyq5HvqKVTvKvOr84P5pW.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101293.mp4
+#EXTINF:-1 tvg-name="The Flash S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/i9kJ1RFyq5HvqKVTvKvOr84P5pW.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101316.mp4
+#EXTINF:-1 tvg-name="The Flash S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/geBorwJRsQo4rnIxiOoFTJPpWis.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101294.mp4
+#EXTINF:-1 tvg-name="The Flash S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/geBorwJRsQo4rnIxiOoFTJPpWis.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101317.mp4
+#EXTINF:-1 tvg-name="The Flash S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/2m5Yy0T2MyM8BzbsSmdNEzN7Op6.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101295.mp4
+#EXTINF:-1 tvg-name="The Flash S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/2m5Yy0T2MyM8BzbsSmdNEzN7Op6.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101318.mp4
+#EXTINF:-1 tvg-name="The Flash S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/a60WRRMtZq964FgEefE5upnkjQc.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101296.mp4
+#EXTINF:-1 tvg-name="The Flash S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/a60WRRMtZq964FgEefE5upnkjQc.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101319.mp4
+#EXTINF:-1 tvg-name="The Flash S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/wCE5PTcnLGBHGEy5oVVt3t9k59d.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101297.mp4
+#EXTINF:-1 tvg-name="The Flash S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/wCE5PTcnLGBHGEy5oVVt3t9k59d.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101320.mp4
+#EXTINF:-1 tvg-name="The Flash S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/8bHeI3cJwKAPcwQSe6FvmQUWNHx.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101298.mp4
+#EXTINF:-1 tvg-name="The Flash S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/8bHeI3cJwKAPcwQSe6FvmQUWNHx.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101321.mp4
+#EXTINF:-1 tvg-name="The Flash S03E14" tvg-logo="https://image.tmdb.org/t/p/w300/mlwRkBRmJbVwfTupI97if34J7zz.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101299.mp4
+#EXTINF:-1 tvg-name="The Flash S03E14" tvg-logo="https://image.tmdb.org/t/p/w300/mlwRkBRmJbVwfTupI97if34J7zz.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101322.mp4
+#EXTINF:-1 tvg-name="The Flash S03E15" tvg-logo="https://image.tmdb.org/t/p/w300/vr3qbJudy6Q4czkuNELVr8lOp9V.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101300.mp4
+#EXTINF:-1 tvg-name="The Flash S03E15" tvg-logo="https://image.tmdb.org/t/p/w300/vr3qbJudy6Q4czkuNELVr8lOp9V.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101323.mp4
+#EXTINF:-1 tvg-name="The Flash S03E16" tvg-logo="https://image.tmdb.org/t/p/w300/x9MBZOPsi1if7lxfqSzrRWNGCd8.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101301.mp4
+#EXTINF:-1 tvg-name="The Flash S03E16" tvg-logo="https://image.tmdb.org/t/p/w300/x9MBZOPsi1if7lxfqSzrRWNGCd8.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101324.mp4
+#EXTINF:-1 tvg-name="The Flash S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/8wPQ5ApJwPdIIcxU7zgoRkP28JI.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101302.mp4
+#EXTINF:-1 tvg-name="The Flash S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/8wPQ5ApJwPdIIcxU7zgoRkP28JI.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101325.mp4
+#EXTINF:-1 tvg-name="The Flash S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/usnFTiLMv8bmbENxTwSlBdUySOe.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101303.mp4
+#EXTINF:-1 tvg-name="The Flash S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/usnFTiLMv8bmbENxTwSlBdUySOe.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101326.mp4
+#EXTINF:-1 tvg-name="The Flash S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/wMbUrpUkw5Ghvf67nAfG3GTywJZ.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101304.mp4
+#EXTINF:-1 tvg-name="The Flash S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/wMbUrpUkw5Ghvf67nAfG3GTywJZ.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101327.mp4
+#EXTINF:-1 tvg-name="The Flash S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/jMc2UqKnQCbg2Y4HC2zo9lVnkXM.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101305.mp4
+#EXTINF:-1 tvg-name="The Flash S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/jMc2UqKnQCbg2Y4HC2zo9lVnkXM.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101328.mp4
+#EXTINF:-1 tvg-name="The Flash S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/wsnRrzggQrAhIpvPmJuSwZ27p56.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101306.mp4
+#EXTINF:-1 tvg-name="The Flash S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/wsnRrzggQrAhIpvPmJuSwZ27p56.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101329.mp4
+#EXTINF:-1 tvg-name="The Flash S03E22" tvg-logo="https://image.tmdb.org/t/p/w300/noQGl7UedNApFvAIbpDpixIJW4g.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101307.mp4
+#EXTINF:-1 tvg-name="The Flash S03E22" tvg-logo="https://image.tmdb.org/t/p/w300/noQGl7UedNApFvAIbpDpixIJW4g.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101330.mp4
+#EXTINF:-1 tvg-name="The Flash S03E23" tvg-logo="https://image.tmdb.org/t/p/w300/jZVp65TlXJYDvL6wVHGjkulbRgP.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101308.mp4
+#EXTINF:-1 tvg-name="The Flash S03E23" tvg-logo="https://image.tmdb.org/t/p/w300/jZVp65TlXJYDvL6wVHGjkulbRgP.jpg" group-title="SÉRIES | NETFLIX",The Flash S03E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101331.mp4
+#EXTINF:-1 tvg-name="The Flash S04E01" tvg-logo="https://image.tmdb.org/t/p/w300/37q3ZTE4XZLGKpH0NZNg13CEvdk.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101332.mp4
+#EXTINF:-1 tvg-name="The Flash S04E02" tvg-logo="https://image.tmdb.org/t/p/w300/aJOLJB9rUEuQ5D5yQVC4ZnWHmil.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101333.mp4
+#EXTINF:-1 tvg-name="The Flash S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/q2isRo8B9yj2r0rqA2tptHS1Z0U.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101334.mp4
+#EXTINF:-1 tvg-name="The Flash S04E04" tvg-logo="https://image.tmdb.org/t/p/w300/HFr1zkORvKzYOKEaKdkmF1GKna.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101335.mp4
+#EXTINF:-1 tvg-name="The Flash S04E06" tvg-logo="https://image.tmdb.org/t/p/w300/hNs4SL60kjVUo5QWPetNpPuQyrF.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101336.mp4
+#EXTINF:-1 tvg-name="The Flash S04E07" tvg-logo="https://image.tmdb.org/t/p/w300/y1no2bERz1sUj0qIXXA0GlNqMY7.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101337.mp4
+#EXTINF:-1 tvg-name="The Flash S04E08" tvg-logo="https://image.tmdb.org/t/p/w300/wrXbZEeYVy53lxaAdCcqCST37U.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101338.mp4
+#EXTINF:-1 tvg-name="The Flash S04E09" tvg-logo="https://image.tmdb.org/t/p/w300/fY4DaGaz6OcrGe8947JM3tprzh6.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101339.mp4
+#EXTINF:-1 tvg-name="The Flash S04E10" tvg-logo="https://image.tmdb.org/t/p/w300/y76VwyxZwhEd0SAfOZsWCGrRgod.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101340.mp4
+#EXTINF:-1 tvg-name="The Flash S04E11" tvg-logo="https://image.tmdb.org/t/p/w300/lH068S5dt1pzsQD5wVab1SVJEEz.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101341.mp4
+#EXTINF:-1 tvg-name="The Flash S04E12" tvg-logo="https://image.tmdb.org/t/p/w300/cTivRhCEEa2XxqRNChxMaXDmQ3L.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101342.mp4
+#EXTINF:-1 tvg-name="The Flash S04E13" tvg-logo="https://image.tmdb.org/t/p/w300/6cT9Q4JMxBDeG7KNCz2WfjxO4rD.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101343.mp4
+#EXTINF:-1 tvg-name="The Flash S04E14" tvg-logo="https://image.tmdb.org/t/p/w300/cTfzqVGaLzqFRFh9Q3Fbf2w1Xa3.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101344.mp4
+#EXTINF:-1 tvg-name="The Flash S04E15" tvg-logo="https://image.tmdb.org/t/p/w300/huSTWWTgkvErM2jbB792wqDj7RG.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101345.mp4
+#EXTINF:-1 tvg-name="The Flash S04E16" tvg-logo="https://image.tmdb.org/t/p/w300/wTyf0u5aaa6yIVZx2OdhqG4HFio.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101346.mp4
+#EXTINF:-1 tvg-name="The Flash S04E17" tvg-logo="https://image.tmdb.org/t/p/w300/dZd5ZOgIR2uBPsRC7DKLzoF7nJo.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101347.mp4
+#EXTINF:-1 tvg-name="The Flash S04E18" tvg-logo="https://image.tmdb.org/t/p/w300/oMQXVXn9pTLuyvvKYmoIF94g2xP.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101348.mp4
+#EXTINF:-1 tvg-name="The Flash S04E19" tvg-logo="https://image.tmdb.org/t/p/w300/m8kbPH5w9pPNNDuwtgNUPd9yaWR.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101349.mp4
+#EXTINF:-1 tvg-name="The Flash S04E20" tvg-logo="https://image.tmdb.org/t/p/w300/7TvLrH6hyhoLRFWKUpmmytBSg6Q.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101350.mp4
+#EXTINF:-1 tvg-name="The Flash S04E21" tvg-logo="https://image.tmdb.org/t/p/w300/bImch9aEquFv3jo0bdKgPSJdKFi.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101351.mp4
+#EXTINF:-1 tvg-name="The Flash S04E22" tvg-logo="https://image.tmdb.org/t/p/w300/5r6OE4FvkfMll7CPoKlSiH38225.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101352.mp4
+#EXTINF:-1 tvg-name="The Flash S04E23" tvg-logo="https://image.tmdb.org/t/p/w300/1yGRFdczeYj7LhVNY8KEVQrSuFL.jpg" group-title="SÉRIES | NETFLIX",The Flash S04E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101353.mp4
+#EXTINF:-1 tvg-name="The Flash S05E01" tvg-logo="https://image.tmdb.org/t/p/w300/z7VM7EfhPeFVR5sgrdYNN4pgmih.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101354.mp4
+#EXTINF:-1 tvg-name="The Flash S05E02" tvg-logo="https://image.tmdb.org/t/p/w300/mMtpUwIeJyL4K4mdltHpDwMnvv6.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101355.mp4
+#EXTINF:-1 tvg-name="The Flash S05E03" tvg-logo="https://image.tmdb.org/t/p/w300/tW4HSTZfnSFzgm16t0PvEB7daXP.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101356.mp4
+#EXTINF:-1 tvg-name="The Flash S05E04" tvg-logo="https://image.tmdb.org/t/p/w300/mWbRwstBeNwjXteNf4lydsCNlRs.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101357.mp4
+#EXTINF:-1 tvg-name="The Flash S05E05" tvg-logo="https://image.tmdb.org/t/p/w300/6vNKPF7mu0zWMyxrdepy9otYuhp.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101358.mp4
+#EXTINF:-1 tvg-name="The Flash S05E06" tvg-logo="https://image.tmdb.org/t/p/w300/67sEwyfBySRvoS2TTKxIr3Rj4Z4.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101359.mp4
+#EXTINF:-1 tvg-name="The Flash S05E07" tvg-logo="https://image.tmdb.org/t/p/w300/d5TRIV6x7p4SMdFfSjAc8LbiI1w.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101360.mp4
+#EXTINF:-1 tvg-name="The Flash S05E08" tvg-logo="https://image.tmdb.org/t/p/w300/pnnLvJd5B7oHVuVDUF2xGn3dzsn.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101361.mp4
+#EXTINF:-1 tvg-name="The Flash S05E09" tvg-logo="https://image.tmdb.org/t/p/w300/9zKD37akGTBIZGPlQsbKRAN8eRe.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101362.mp4
+#EXTINF:-1 tvg-name="The Flash S05E10" tvg-logo="https://image.tmdb.org/t/p/w300/axS2l7oTu0nqx0ldIY14Plwaebr.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101363.mp4
+#EXTINF:-1 tvg-name="The Flash S05E11" tvg-logo="https://image.tmdb.org/t/p/w300/zw8pZeJRMWTMWcmhxZBKWuShc5r.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101364.mp4
+#EXTINF:-1 tvg-name="The Flash S05E12" tvg-logo="https://image.tmdb.org/t/p/w300/jxd6Ox5pfXynjtYlzYKVRPpDAsQ.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101365.mp4
+#EXTINF:-1 tvg-name="The Flash S05E13" tvg-logo="https://image.tmdb.org/t/p/w300/hKMaR6sx8XARdMZohf0eeF1GRGY.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101366.mp4
+#EXTINF:-1 tvg-name="The Flash S05E14" tvg-logo="https://image.tmdb.org/t/p/w300/pKQrieedbhouTZo9u2FEfCJlaBg.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101367.mp4
+#EXTINF:-1 tvg-name="The Flash S05E15" tvg-logo="https://image.tmdb.org/t/p/w300/guqobXUJexIZgDpiHxyfgbKOoux.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101368.mp4
+#EXTINF:-1 tvg-name="The Flash S05E16" tvg-logo="https://image.tmdb.org/t/p/w300/195ZjxH88YaoGRKkmVoSIlm6xDi.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101369.mp4
+#EXTINF:-1 tvg-name="The Flash S05E17" tvg-logo="https://image.tmdb.org/t/p/w300/kwVhe5Duvy92CrRH2tSpYNxDgwI.jpg" group-title="SÉRIES | NETFLIX",The Flash S05E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101370.mp4
+#EXTINF:-1 tvg-name="The Flash S06E01" tvg-logo="https://image.tmdb.org/t/p/w300/tFmldalDnIh0TX5AhnrJ11ECAa4.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101371.mp4
+#EXTINF:-1 tvg-name="The Flash S06E02" tvg-logo="https://image.tmdb.org/t/p/w300/yyKwVmRNENYLa3Z3anghP04MRrC.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101372.mp4
+#EXTINF:-1 tvg-name="The Flash S06E03" tvg-logo="https://image.tmdb.org/t/p/w300/r9Yo7h2zI0GxHP92AkhdQryzFrA.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101373.mp4
+#EXTINF:-1 tvg-name="The Flash S06E04" tvg-logo="https://image.tmdb.org/t/p/w300/GqOlya804oFWIiL12iWmg4AR0I.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101374.mp4
+#EXTINF:-1 tvg-name="The Flash S06E05" tvg-logo="https://image.tmdb.org/t/p/w300/iaX2IN0GC0PPtzpwWjEJgOuXIfT.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101375.mp4
+#EXTINF:-1 tvg-name="The Flash S06E06" tvg-logo="https://image.tmdb.org/t/p/w300/ox6lB9m2YNo1Fp8FuOcPhUMAm27.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101376.mp4
+#EXTINF:-1 tvg-name="The Flash S06E07" tvg-logo="https://image.tmdb.org/t/p/w300/qKApNW6c7gAJqI21Dko2gVSsz2f.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101377.mp4
+#EXTINF:-1 tvg-name="The Flash S06E08" tvg-logo="https://image.tmdb.org/t/p/w300/uc36R3z22fW7SslNHj888CrkJE9.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101378.mp4
+#EXTINF:-1 tvg-name="The Flash S06E09" tvg-logo="https://image.tmdb.org/t/p/w300/18aj6VOd8d7xToR4uCFk5EX1qEB.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101379.mp4
+#EXTINF:-1 tvg-name="The Flash S06E10" tvg-logo="https://image.tmdb.org/t/p/w300/fNrSCV8R9jMY0L8AwDVFDbzCbqk.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101380.mp4
+#EXTINF:-1 tvg-name="The Flash S06E11" tvg-logo="https://image.tmdb.org/t/p/w300/aRqczuW7lvqNh8sf3eX90PysgLk.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101381.mp4
+#EXTINF:-1 tvg-name="The Flash S06E12" tvg-logo="https://image.tmdb.org/t/p/w300/y681Esu3od9lijUkeuoMSC6afQf.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101382.mp4
+#EXTINF:-1 tvg-name="The Flash S06E13" tvg-logo="https://image.tmdb.org/t/p/w300/mBYqRU2MeiA7rdaSiDvoWQnRlZ8.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101383.mp4
+#EXTINF:-1 tvg-name="The Flash S06E14" tvg-logo="https://image.tmdb.org/t/p/w300/jPLttGwBFmkkkjNKqbGhN7O1tZ4.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101384.mp4
+#EXTINF:-1 tvg-name="The Flash S06E15" tvg-logo="https://image.tmdb.org/t/p/w300/theU0p73PguZckx4sFNbPW9shSr.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101385.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778145.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778146.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778147.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778148.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778149.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778150.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778151.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778152.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778153.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778154.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778155.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778156.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778157.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778158.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778159.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778160.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778161.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778162.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778163.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778164.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778165.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778166.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778167.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778168.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778169.mp4
+#EXTINF:-1 tvg-name="O Menino Maluquinho S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E26
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778170.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y8CQVXaO5FZsmig6caKqDqUcdU.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779725.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWpngyMtcbKQ0QTqHNkooc0IQBW.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779726.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWXCS5yVZRYe7bfadgzba21q40Z.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779727.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/318pCkVvbQfKSN7pyXrNNUkA6sv.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779728.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xigW6SGeXI5C6zWNhEbpY1haQVu.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779729.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9lnaRs7lQ44hQfJN7PQxt6TOwb.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779730.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOxffDRI3DMemzNVbi1LhLXuVmM.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779731.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kb047uoCKR7niojGJ7NDpMTkgf.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779732.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjxTIsQBuy0pllZAGsSLOWMTaSP.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779733.mp4
+#EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7xLz6sNiyfJawWhcoTXmJ155Ac.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8CIaWbC1NQnPCtozHCvhnjNENeK.jpg" group-title="NETFLIX",Henry Danger S01 E01
+http://meuplay.shop:80/series/828474929852/34882748924/81647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7p71pyKtvY6GPv6SGulMZyDHbua.jpg" group-title="NETFLIX",Henry Danger S01 E02
+http://meuplay.shop:80/series/828474929852/34882748924/81648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmcLKW3Hs2lY63EamRYNbGEqm4Z.jpg" group-title="NETFLIX",Henry Danger S01 E03
+http://meuplay.shop:80/series/828474929852/34882748924/81649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bDp8VyD5ASIpoN8H9LIVUvy5iWo.jpg" group-title="NETFLIX",Henry Danger S01 E04
+http://meuplay.shop:80/series/828474929852/34882748924/81650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/stS07HzjerUwtdlrtcrpgAhgwsA.jpg" group-title="NETFLIX",Henry Danger S01 E05
+http://meuplay.shop:80/series/828474929852/34882748924/81651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aVsmKj3y2g6tcJAvqqXYBK24tY3.jpg" group-title="NETFLIX",Henry Danger S01 E06
+http://meuplay.shop:80/series/828474929852/34882748924/81652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4LXUlfqDeXkdI0fjI6PgYkjNxUZ.jpg" group-title="NETFLIX",Henry Danger S01 E07
+http://meuplay.shop:80/series/828474929852/34882748924/81653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zNdrKEYJdPX93IjTEV2sF3x5PNh.jpg" group-title="NETFLIX",Henry Danger S01 E08
+http://meuplay.shop:80/series/828474929852/34882748924/81654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jhPio6tYm7Xxuf4P3zL6VCyzM0A.jpg" group-title="NETFLIX",Henry Danger S01 E09
+http://meuplay.shop:80/series/828474929852/34882748924/81655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/clEEd1uVJ0AsVZXHTiQcpLMSf2t.jpg" group-title="NETFLIX",Henry Danger S01 E10
+http://meuplay.shop:80/series/828474929852/34882748924/81656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLxahbSvkz0aYz8qxQU6iK2drz.jpg" group-title="NETFLIX",Henry Danger S01 E11
+http://meuplay.shop:80/series/828474929852/34882748924/81657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/828s76cjA0r26KoUjLGAgEDCbOh.jpg" group-title="NETFLIX",Henry Danger S01 E12
+http://meuplay.shop:80/series/828474929852/34882748924/81658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zUC4yxPapwQUriTMtkecgUKKUBd.jpg" group-title="NETFLIX",Henry Danger S01 E13
+http://meuplay.shop:80/series/828474929852/34882748924/81659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1BYgv1T8AXnFu8zXczkU77dQ9ch.jpg" group-title="NETFLIX",Henry Danger S01 E14
+http://meuplay.shop:80/series/828474929852/34882748924/81660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oy3FJlt5iXSej5CT7t61DNOJcVk.jpg" group-title="NETFLIX",Henry Danger S01 E15
+http://meuplay.shop:80/series/828474929852/34882748924/81661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lxyS5kAMB2ukZwWSGobgVmtyvcT.jpg" group-title="NETFLIX",Henry Danger S01 E16
+http://meuplay.shop:80/series/828474929852/34882748924/81662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4JnSR9fmuIbF2pCyy4ALhvMpeXy.jpg" group-title="NETFLIX",Henry Danger S01 E17
+http://meuplay.shop:80/series/828474929852/34882748924/81663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYYalvpS6wjGbT5pKjVmiVqEIwe.jpg" group-title="NETFLIX",Henry Danger S01 E18
+http://meuplay.shop:80/series/828474929852/34882748924/81664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o8jjoSgBwHtXCCsShoSF9Ic8fJ9.jpg" group-title="NETFLIX",Henry Danger S01 E19
+http://meuplay.shop:80/series/828474929852/34882748924/81665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qrZptaLdDoMiEz5z1LXgZc2iMp.jpg" group-title="NETFLIX",Henry Danger S01 E20
+http://meuplay.shop:80/series/828474929852/34882748924/81666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nIpsDmZ6CkxRmWNxJA3sKGWbTox.jpg" group-title="NETFLIX",Henry Danger S01 E21
+http://meuplay.shop:80/series/828474929852/34882748924/81667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jj9diSbkWvYuzsgrEyzZdkMtEGN.jpg" group-title="NETFLIX",Henry Danger S01 E22
+http://meuplay.shop:80/series/828474929852/34882748924/81668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jh7yH4gVBN5r63sD4DNSygP6F01.jpg" group-title="NETFLIX",Henry Danger S01 E23
+http://meuplay.shop:80/series/828474929852/34882748924/81669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSdb03o3uzj3WOZi2lpErlIEnj1.jpg" group-title="NETFLIX",Henry Danger S01 E24
+http://meuplay.shop:80/series/828474929852/34882748924/81670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E25" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cuncCDAS3p7hX2cWhXkdTRivkfN.jpg" group-title="NETFLIX",Henry Danger S01 E25
+http://meuplay.shop:80/series/828474929852/34882748924/81671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S01 E26" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S01 E26
+http://meuplay.shop:80/series/828474929852/34882748924/81672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E01
+http://meuplay.shop:80/series/828474929852/34882748924/81673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E02
+http://meuplay.shop:80/series/828474929852/34882748924/81674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ihnT7noB3pXvfJjsyyhTqxC6HLS.jpg" group-title="NETFLIX",Henry Danger S02 E03
+http://meuplay.shop:80/series/828474929852/34882748924/81675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjWQStSZyeccajZQBO4m7ifHmAQ.jpg" group-title="NETFLIX",Henry Danger S02 E04
+http://meuplay.shop:80/series/828474929852/34882748924/81676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mwyMnzYFM6CFq1f5CRzyiYG4TX3.jpg" group-title="NETFLIX",Henry Danger S02 E05
+http://meuplay.shop:80/series/828474929852/34882748924/81677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8MyRzgJzpv38KNwGfX61HHiaOr0.jpg" group-title="NETFLIX",Henry Danger S02 E06
+http://meuplay.shop:80/series/828474929852/34882748924/81678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qpAfNhh8GTYwjk2P9z5Ruq1yCWc.jpg" group-title="NETFLIX",Henry Danger S02 E07
+http://meuplay.shop:80/series/828474929852/34882748924/81679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/znoBd3qBrha6SOJeBSAy2HtJuCK.jpg" group-title="NETFLIX",Henry Danger S02 E08
+http://meuplay.shop:80/series/828474929852/34882748924/81680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8oflqo7cRfWTV0Ys4RzDzVQoiZn.jpg" group-title="NETFLIX",Henry Danger S02 E09
+http://meuplay.shop:80/series/828474929852/34882748924/81681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E10
+http://meuplay.shop:80/series/828474929852/34882748924/81682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E11
+http://meuplay.shop:80/series/828474929852/34882748924/81683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E12
+http://meuplay.shop:80/series/828474929852/34882748924/81684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E13
+http://meuplay.shop:80/series/828474929852/34882748924/81685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E14
+http://meuplay.shop:80/series/828474929852/34882748924/81686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E15
+http://meuplay.shop:80/series/828474929852/34882748924/81687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E16
+http://meuplay.shop:80/series/828474929852/34882748924/81688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E17
+http://meuplay.shop:80/series/828474929852/34882748924/81689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S02 E18
+http://meuplay.shop:80/series/828474929852/34882748924/81690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E01
+http://meuplay.shop:80/series/828474929852/34882748924/81693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E02
+http://meuplay.shop:80/series/828474929852/34882748924/81694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E03
+http://meuplay.shop:80/series/828474929852/34882748924/81695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E04
+http://meuplay.shop:80/series/828474929852/34882748924/81696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E05
+http://meuplay.shop:80/series/828474929852/34882748924/81697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wTDuwEuEY97ImsqOaRD5NnzNdmG.jpg" group-title="NETFLIX",Henry Danger S03 E06
+http://meuplay.shop:80/series/828474929852/34882748924/81698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E07
+http://meuplay.shop:80/series/828474929852/34882748924/81699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E08
+http://meuplay.shop:80/series/828474929852/34882748924/81700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E09
+http://meuplay.shop:80/series/828474929852/34882748924/81701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E10
+http://meuplay.shop:80/series/828474929852/34882748924/81702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E11
+http://meuplay.shop:80/series/828474929852/34882748924/81703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E12
+http://meuplay.shop:80/series/828474929852/34882748924/81704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E13
+http://meuplay.shop:80/series/828474929852/34882748924/81705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E14
+http://meuplay.shop:80/series/828474929852/34882748924/81706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E15
+http://meuplay.shop:80/series/828474929852/34882748924/81707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E16
+http://meuplay.shop:80/series/828474929852/34882748924/81708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E17
+http://meuplay.shop:80/series/828474929852/34882748924/81709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E18
+http://meuplay.shop:80/series/828474929852/34882748924/81710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S03 E19
+http://meuplay.shop:80/series/828474929852/34882748924/81711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qdTE6GIvpqnRUIXWNxyLsR1g79z.jpg" group-title="NETFLIX",Henry Danger S04 E01
+http://meuplay.shop:80/series/828474929852/34882748924/81712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uJNP5vh8DojXSLzVcBPQlxx89lW.jpg" group-title="NETFLIX",Henry Danger S04 E02
+http://meuplay.shop:80/series/828474929852/34882748924/81713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A9cuelTsvla91SpMLbFHXFnebps.jpg" group-title="NETFLIX",Henry Danger S04 E03
+http://meuplay.shop:80/series/828474929852/34882748924/81714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E04
+http://meuplay.shop:80/series/828474929852/34882748924/81715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E05
+http://meuplay.shop:80/series/828474929852/34882748924/81716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E06
+http://meuplay.shop:80/series/828474929852/34882748924/81717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E07
+http://meuplay.shop:80/series/828474929852/34882748924/81718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E08
+http://meuplay.shop:80/series/828474929852/34882748924/81719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E09
+http://meuplay.shop:80/series/828474929852/34882748924/81720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E10
+http://meuplay.shop:80/series/828474929852/34882748924/81721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E11
+http://meuplay.shop:80/series/828474929852/34882748924/81722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E12
+http://meuplay.shop:80/series/828474929852/34882748924/81723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E13
+http://meuplay.shop:80/series/828474929852/34882748924/81724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E14
+http://meuplay.shop:80/series/828474929852/34882748924/81725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E15
+http://meuplay.shop:80/series/828474929852/34882748924/81726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E16
+http://meuplay.shop:80/series/828474929852/34882748924/81727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E17
+http://meuplay.shop:80/series/828474929852/34882748924/81728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E18
+http://meuplay.shop:80/series/828474929852/34882748924/81729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E19
+http://meuplay.shop:80/series/828474929852/34882748924/81730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S04 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S04 E20
+http://meuplay.shop:80/series/828474929852/34882748924/81731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E01
+http://meuplay.shop:80/series/828474929852/34882748924/81732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E02
+http://meuplay.shop:80/series/828474929852/34882748924/81733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E03
+http://meuplay.shop:80/series/828474929852/34882748924/81734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E04
+http://meuplay.shop:80/series/828474929852/34882748924/81735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E05
+http://meuplay.shop:80/series/828474929852/34882748924/81736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E06
+http://meuplay.shop:80/series/828474929852/34882748924/81737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E07
+http://meuplay.shop:80/series/828474929852/34882748924/81738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E08
+http://meuplay.shop:80/series/828474929852/34882748924/81739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E09
+http://meuplay.shop:80/series/828474929852/34882748924/81740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E10
+http://meuplay.shop:80/series/828474929852/34882748924/81741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E11
+http://meuplay.shop:80/series/828474929852/34882748924/81742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E12
+http://meuplay.shop:80/series/828474929852/34882748924/81743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E13
+http://meuplay.shop:80/series/828474929852/34882748924/81744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E14
+http://meuplay.shop:80/series/828474929852/34882748924/81745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E15
+http://meuplay.shop:80/series/828474929852/34882748924/81746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E16
+http://meuplay.shop:80/series/828474929852/34882748924/81747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E17
+http://meuplay.shop:80/series/828474929852/34882748924/81748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E18
+http://meuplay.shop:80/series/828474929852/34882748924/81749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/joDbBLtNlj8auqtQ3QFGMzHAq3w.jpg" group-title="NETFLIX",Henry Danger S05 E19
+http://meuplay.shop:80/series/828474929852/34882748924/81750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A6fcUZT0LNy5rzhrUW599zq7sjU.jpg" group-title="NETFLIX",Henry Danger S05 E20
+http://meuplay.shop:80/series/828474929852/34882748924/81751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozD7ORYlRf7zCsaSPmM6cQC8ndt.jpg" group-title="NETFLIX",Hospital Playlist S01 E01
+http://meuplay.shop:80/series/828474929852/34882748924/82205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u2BUfzSVdgQi1yi8mIEzrycaJ8Y.jpg" group-title="NETFLIX",Hospital Playlist S01 E02
+http://meuplay.shop:80/series/828474929852/34882748924/82206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yGkHEr7RaM8KwgOYAirkfT9frHp.jpg" group-title="NETFLIX",Hospital Playlist S01 E03
+http://meuplay.shop:80/series/828474929852/34882748924/82207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTApIIphHunFRCU8NrOuAoHuwzX.jpg" group-title="NETFLIX",Hospital Playlist S01 E04
+http://meuplay.shop:80/series/828474929852/34882748924/82208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5SdgHPeyGOkNIaerqNjFDXxGuTb.jpg" group-title="NETFLIX",Hospital Playlist S01 E05
+http://meuplay.shop:80/series/828474929852/34882748924/82209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51AKgt5dtBeq0ElWgy6QeUwTmo5.jpg" group-title="NETFLIX",Hospital Playlist S01 E06
+http://meuplay.shop:80/series/828474929852/34882748924/82210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qXkzUiL31BVJ2iM3q5UfZ7PycN3.jpg" group-title="NETFLIX",Hospital Playlist S01 E07
+http://meuplay.shop:80/series/828474929852/34882748924/82211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/D2ZoaHJiFJmelmLzXanlgfF6lx.jpg" group-title="NETFLIX",Hospital Playlist S01 E08
+http://meuplay.shop:80/series/828474929852/34882748924/82212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mC259Zl5VbpyXr0kURsMI2tStJI.jpg" group-title="NETFLIX",Hospital Playlist S01 E09
+http://meuplay.shop:80/series/828474929852/34882748924/82213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5eeeCsovrxbiH3x11CoIvL9O8zg.jpg" group-title="NETFLIX",Hospital Playlist S01 E10
+http://meuplay.shop:80/series/828474929852/34882748924/82214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocl05E8YfsYtcCFqY8uE5MBiTsD.jpg" group-title="NETFLIX",Hospital Playlist S01 E11
+http://meuplay.shop:80/series/828474929852/34882748924/82215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kf7n8Skz3XVor0T3RLfDcVH61GP.jpg" group-title="NETFLIX",Hospital Playlist S01 E12
+http://meuplay.shop:80/series/828474929852/34882748924/82216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rhuIEUGbxTxxU3eNxQV08o0Q4Dn.jpg" group-title="NETFLIX",Hospital Playlist S02 E01
+http://meuplay.shop:80/series/828474929852/34882748924/82217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/un4bH0xXO1NdwXOTC0K752t5U6w.jpg" group-title="NETFLIX",Hospital Playlist S02 E02
+http://meuplay.shop:80/series/828474929852/34882748924/82218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ovcvnur9Of1QS8ITTzVwxce35c1.jpg" group-title="NETFLIX",Hospital Playlist S02 E03
+http://meuplay.shop:80/series/828474929852/34882748924/82219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lfyjwjw4mm8Ww1RGTmIUqSocoCo.jpg" group-title="NETFLIX",Hospital Playlist S02 E04
+http://meuplay.shop:80/series/828474929852/34882748924/82220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ySGBT8parh1Az2o9wZOgN68Tqi.jpg" group-title="NETFLIX",Hospital Playlist S02 E05
+http://meuplay.shop:80/series/828474929852/34882748924/82221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x7f0RYeDL13byL8O6mG39teOojm.jpg" group-title="NETFLIX",Hospital Playlist S02 E06
+http://meuplay.shop:80/series/828474929852/34882748924/82222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s5GzSK8dq0JKGlfTVWGu70XJhx3.jpg" group-title="NETFLIX",Hospital Playlist S02 E07
+http://meuplay.shop:80/series/828474929852/34882748924/82223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pgHQa91HbSE4m3vtG7nGdgjBJyE.jpg" group-title="NETFLIX",Hospital Playlist S02 E08
+http://meuplay.shop:80/series/828474929852/34882748924/82224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h9HmfQ0TxuVzdWiZOaOMw671EaX.jpg" group-title="NETFLIX",Hospital Playlist S02 E09
+http://meuplay.shop:80/series/828474929852/34882748924/82225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cLS2nP1uggmetra51CDbgbiriCv.jpg" group-title="NETFLIX",Hospital Playlist S02 E10
+http://meuplay.shop:80/series/828474929852/34882748924/82226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bQwimJnO2EQzINHAoGQSrhkDikl.jpg" group-title="NETFLIX",Hospital Playlist S02 E11
+http://meuplay.shop:80/series/828474929852/34882748924/82227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hospital Playlist S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg" group-title="NETFLIX",Hospital Playlist S02 E12
+http://meuplay.shop:80/series/828474929852/34882748924/82228.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHqapPETQWFeIsRtrV4cTbKwVsz.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780921.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sp71dDKNXmFcMxbspLf1UTavmz.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780922.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrwKgq7UlI52uLu6hJe5EFb2Ab8.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780923.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR4ShS9IsujA9S4LXPKLeZm9hi5.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780924.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNjcTLhj5hb146pehTwYXXJjNLP.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780925.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxxlGWeaZ3WP1zcVf0LOTyr2zwH.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780926.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92XqvHo7lc5D30QqHLLAW7HBSrR.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780927.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na6nHZmZyx8kEY8fogq3efGTeIN.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780928.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onMP54rURlR9mDktY3AY6MGmp5c.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780929.mp4
+#EXTINF:-1 tvg-name="Os Grandiosos Irmãos Robôs S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPa2n3nl4R2YS0CGhM9V01vX0ae.jpg" group-title="SÉRIES | NETFLIX",Os Grandiosos Irmãos Robôs S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780930.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUuKJiTvfiVIDYbRucbEO0AREVH.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780762.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AZOhivGVtYPBIREuRbkazQBjB.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780763.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba2qeRChdtNuS57OYoCUrEIYdIS.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780764.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5Cuuvh7t6NEu1Rx3n336VWCx4.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780765.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApeeFoDXUTErkM8oTtjv6HbSdmF.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780766.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7X0PUXgWVvsU29KvXqoo4MYY7p.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780767.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qor3CHKnue2MvGTPNkZGNy21NLi.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780768.mp4
+#EXTINF:-1 tvg-name="Reformas Inacreditáveis S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kAXLBIIc80jQokq3nY5juYJX0M.jpg" group-title="SÉRIES | NETFLIX",Reformas Inacreditáveis S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138780769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E01" tvg-logo="http://7online.xyz:8080/images/e59bd17a6f1f97b3a4f9bb6779eab0a6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E02" tvg-logo="http://7online.xyz:8080/images/205ab171ba0f574d61f5691b92ea69d3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E03" tvg-logo="http://7online.xyz:8080/images/94f4a9298afcb1d8849a6709d3279ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E04" tvg-logo="http://7online.xyz:8080/images/3d90c89db18e57677ade62cec743fba6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E05" tvg-logo="http://7online.xyz:8080/images/11010b574f8b5ad935539b4be8811d34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E06" tvg-logo="http://7online.xyz:8080/images/c8e84b064f7e5fabc32a20bc4feea351.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E07" tvg-logo="http://7online.xyz:8080/images/767460ea1006281df4d5a7aa27c86189.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E08" tvg-logo="http://7online.xyz:8080/images/cb465837b879c6f9914291ac23362cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E09" tvg-logo="http://7online.xyz:8080/images/55bddef2c1e0840e84343653257e0743.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E10" tvg-logo="http://7online.xyz:8080/images/2305c2aefb50ff819608e92175535c3f.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E01" tvg-logo="http://7online.xyz:8080/images/371f6bc49728e56090e0ce05f1427060.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E02" tvg-logo="http://7online.xyz:8080/images/b00ba4576b84f84af17d762faa677e55.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E03" tvg-logo="http://7online.xyz:8080/images/1a943c1d33d8e9d0162c9ba448924db3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E04" tvg-logo="http://7online.xyz:8080/images/87e86ff82e83850b93a09ad1cc367f37.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E05" tvg-logo="http://7online.xyz:8080/images/263d14c68b37dc69767ee0bc8505e719.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E06" tvg-logo="http://7online.xyz:8080/images/cbff08dc7ccabc3312a0845ccb2c1a1e.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E07" tvg-logo="http://7online.xyz:8080/images/9d395ab97f18895dada03492ad82eb5a.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E08" tvg-logo="http://7online.xyz:8080/images/daa9912b1d5a216a5402318517084192.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E09" tvg-logo="http://7online.xyz:8080/images/f4427297dfc820a05503cbb81a9eb1a9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E10" tvg-logo="http://7online.xyz:8080/images/b673adf4dd74f0265fea471d21a217e8.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E01" tvg-logo="http://7online.xyz:8080/images/85bf7e4e63eb97032c33fb662a2dbd34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E02" tvg-logo="http://7online.xyz:8080/images/5336b07ab1c7f9e5293224367a2b95b3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E03" tvg-logo="http://7online.xyz:8080/images/858b1fcfd92027504bd55be1bb72bf9b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E04" tvg-logo="http://7online.xyz:8080/images/cc2f9e972252485e408bf222fdad3722.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E05" tvg-logo="http://7online.xyz:8080/images/3f017aa8aa5928aaa73c8010dc7fde4c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E06" tvg-logo="http://7online.xyz:8080/images/4374453a0742a13c4c828a8a97b50217.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E07" tvg-logo="http://7online.xyz:8080/images/9d9764c7af7a37faefc4048a68ae5b31.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E08" tvg-logo="http://7online.xyz:8080/images/4e6024cbc68b2a7b076fa148145e4227.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E09" tvg-logo="http://7online.xyz:8080/images/d95dba380dfff7201337ebdc256eb638.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E10" tvg-logo="http://7online.xyz:8080/images/734c20ed955b7b41438f74bf3a44a6a0.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E01" tvg-logo="http://7online.xyz:8080/images/8720c451890311f8ce862604a7faac3b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E01
+http://7go.xyz:8080/series/zogbi11/982451290/217674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E02" tvg-logo="http://7online.xyz:8080/images/d164f0e7f058db9b87fbe370c2029010.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E02
+http://7go.xyz:8080/series/zogbi11/982451290/217675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E03" tvg-logo="http://7online.xyz:8080/images/dd9bbfa84b5e5119aacc5a42da5ecd54.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E03
+http://7go.xyz:8080/series/zogbi11/982451290/217676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E04" tvg-logo="http://7online.xyz:8080/images/12df4e84701cdb569300fd43be6e327c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E04
+http://7go.xyz:8080/series/zogbi11/982451290/217677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E05" tvg-logo="http://7online.xyz:8080/images/f87382dee6f4a6b16dbac1acef38d510.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E05
+http://7go.xyz:8080/series/zogbi11/982451290/217678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E06" tvg-logo="http://7online.xyz:8080/images/47bd926a378861cb150c26d12c501568.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E06
+http://7go.xyz:8080/series/zogbi11/982451290/217679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E07" tvg-logo="http://7online.xyz:8080/images/395d583e2eaa4adffc86c7af4e6abf89.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E07
+http://7go.xyz:8080/series/zogbi11/982451290/217680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E08" tvg-logo="http://7online.xyz:8080/images/477d9497c8059e3a6c5ceb50991ac4f2.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E08
+http://7go.xyz:8080/series/zogbi11/982451290/217681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E09" tvg-logo="http://7online.xyz:8080/images/afc94ae96d7de02e557b464203f6ccdf.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E09
+http://7go.xyz:8080/series/zogbi11/982451290/217682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E10" tvg-logo="http://7online.xyz:8080/images/933b4e0019e321c9bba1b9fa76231cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E10
+http://7go.xyz:8080/series/zogbi11/982451290/217683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E01" tvg-logo="http://7online.xyz:8080/images/3ea6da1310e43d747801b8c88ee59ef9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E01
+http://7go.xyz:8080/series/zogbi11/982451290/225202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E02" tvg-logo="http://7online.xyz:8080/images/0a5aca2029e39b50b06f2ec6cb8af9c9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E02
+http://7go.xyz:8080/series/zogbi11/982451290/225203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E03" tvg-logo="http://7online.xyz:8080/images/58239103cfc669825c00e2dc6ab9d764.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E03
+http://7go.xyz:8080/series/zogbi11/982451290/225204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E04" tvg-logo="http://7online.xyz:8080/images/042d8cfe5fa9f8c2a84bd60260912099.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E04
+http://7go.xyz:8080/series/zogbi11/982451290/225205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E05" tvg-logo="http://7online.xyz:8080/images/1abc18cdbd8d3dc78120303fc207e2ca.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E05
+http://7go.xyz:8080/series/zogbi11/982451290/225206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E06" tvg-logo="http://7online.xyz:8080/images/04d85d96da42cf26d1cfb88f042250ea.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E06
+http://7go.xyz:8080/series/zogbi11/982451290/225207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E07" tvg-logo="http://7online.xyz:8080/images/51838175a6b5ee2373e53876b08acf93.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E07
+http://7go.xyz:8080/series/zogbi11/982451290/225208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E08" tvg-logo="http://7online.xyz:8080/images/fb070677dd2971dc875f7e3cabaf4d9c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E08
+http://7go.xyz:8080/series/zogbi11/982451290/225209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E09" tvg-logo="http://7online.xyz:8080/images/01996e365e22c0c47854ca525764e727.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E09
+http://7go.xyz:8080/series/zogbi11/982451290/225210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E10" tvg-logo="http://7online.xyz:8080/images/8f5e59f153c0cc5d73b5eb01ce140ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E10
+http://7go.xyz:8080/series/zogbi11/982451290/225211.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIES | AMAZON.xml"
+############## SERIES | AMAZON ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIES | AMAZON" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S01 E01" tvg-logo="http://7online.xyz:8080/images/0d456e58d83bbb93fd330b92eabc6d4a.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S01 E01
 http://7go.xyz:8080/series/zogbi11/982451290/235256.mp4
@@ -8353,116 +10740,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/235494.mp4
 http://7go.xyz:8080/series/zogbi11/982451290/235495.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dr. House (2004) S08 E22" tvg-logo="http://7online.xyz:8080/images/2b0ae0fcf3aee6f6ea53136ab51c821e.jpg" group-title="SERIES | AMAZON",Dr. House (2004) S08 E22
 http://7go.xyz:8080/series/zogbi11/982451290/235496.mp4
-
-#EXTM3U url-tvg="http://grade-de-SERIES | NETFLIX Cobra Kai.xml"
-############## SERIES | NETFLIX Cobra Kai ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIES | NETFLIX Cobra Kai" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E01" tvg-logo="http://7online.xyz:8080/images/e59bd17a6f1f97b3a4f9bb6779eab0a6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E02" tvg-logo="http://7online.xyz:8080/images/205ab171ba0f574d61f5691b92ea69d3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E03" tvg-logo="http://7online.xyz:8080/images/94f4a9298afcb1d8849a6709d3279ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E04" tvg-logo="http://7online.xyz:8080/images/3d90c89db18e57677ade62cec743fba6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E05" tvg-logo="http://7online.xyz:8080/images/11010b574f8b5ad935539b4be8811d34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E06" tvg-logo="http://7online.xyz:8080/images/c8e84b064f7e5fabc32a20bc4feea351.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E07" tvg-logo="http://7online.xyz:8080/images/767460ea1006281df4d5a7aa27c86189.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E08" tvg-logo="http://7online.xyz:8080/images/cb465837b879c6f9914291ac23362cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E09" tvg-logo="http://7online.xyz:8080/images/55bddef2c1e0840e84343653257e0743.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E10" tvg-logo="http://7online.xyz:8080/images/2305c2aefb50ff819608e92175535c3f.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E01" tvg-logo="http://7online.xyz:8080/images/371f6bc49728e56090e0ce05f1427060.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E02" tvg-logo="http://7online.xyz:8080/images/b00ba4576b84f84af17d762faa677e55.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E03" tvg-logo="http://7online.xyz:8080/images/1a943c1d33d8e9d0162c9ba448924db3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E04" tvg-logo="http://7online.xyz:8080/images/87e86ff82e83850b93a09ad1cc367f37.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E05" tvg-logo="http://7online.xyz:8080/images/263d14c68b37dc69767ee0bc8505e719.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E06" tvg-logo="http://7online.xyz:8080/images/cbff08dc7ccabc3312a0845ccb2c1a1e.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E07" tvg-logo="http://7online.xyz:8080/images/9d395ab97f18895dada03492ad82eb5a.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E08" tvg-logo="http://7online.xyz:8080/images/daa9912b1d5a216a5402318517084192.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E09" tvg-logo="http://7online.xyz:8080/images/f4427297dfc820a05503cbb81a9eb1a9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E10" tvg-logo="http://7online.xyz:8080/images/b673adf4dd74f0265fea471d21a217e8.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E01" tvg-logo="http://7online.xyz:8080/images/85bf7e4e63eb97032c33fb662a2dbd34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E02" tvg-logo="http://7online.xyz:8080/images/5336b07ab1c7f9e5293224367a2b95b3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E03" tvg-logo="http://7online.xyz:8080/images/858b1fcfd92027504bd55be1bb72bf9b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E04" tvg-logo="http://7online.xyz:8080/images/cc2f9e972252485e408bf222fdad3722.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E05" tvg-logo="http://7online.xyz:8080/images/3f017aa8aa5928aaa73c8010dc7fde4c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E06" tvg-logo="http://7online.xyz:8080/images/4374453a0742a13c4c828a8a97b50217.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E07" tvg-logo="http://7online.xyz:8080/images/9d9764c7af7a37faefc4048a68ae5b31.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E08" tvg-logo="http://7online.xyz:8080/images/4e6024cbc68b2a7b076fa148145e4227.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E09" tvg-logo="http://7online.xyz:8080/images/d95dba380dfff7201337ebdc256eb638.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E10" tvg-logo="http://7online.xyz:8080/images/734c20ed955b7b41438f74bf3a44a6a0.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E01" tvg-logo="http://7online.xyz:8080/images/8720c451890311f8ce862604a7faac3b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E02" tvg-logo="http://7online.xyz:8080/images/d164f0e7f058db9b87fbe370c2029010.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E03" tvg-logo="http://7online.xyz:8080/images/dd9bbfa84b5e5119aacc5a42da5ecd54.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E04" tvg-logo="http://7online.xyz:8080/images/12df4e84701cdb569300fd43be6e327c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E05" tvg-logo="http://7online.xyz:8080/images/f87382dee6f4a6b16dbac1acef38d510.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E06" tvg-logo="http://7online.xyz:8080/images/47bd926a378861cb150c26d12c501568.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E07" tvg-logo="http://7online.xyz:8080/images/395d583e2eaa4adffc86c7af4e6abf89.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E08" tvg-logo="http://7online.xyz:8080/images/477d9497c8059e3a6c5ceb50991ac4f2.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E09" tvg-logo="http://7online.xyz:8080/images/afc94ae96d7de02e557b464203f6ccdf.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E10" tvg-logo="http://7online.xyz:8080/images/933b4e0019e321c9bba1b9fa76231cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E01" tvg-logo="http://7online.xyz:8080/images/3ea6da1310e43d747801b8c88ee59ef9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E01
-http://7go.xyz:8080/series/zogbi11/982451290/225202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E02" tvg-logo="http://7online.xyz:8080/images/0a5aca2029e39b50b06f2ec6cb8af9c9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E02
-http://7go.xyz:8080/series/zogbi11/982451290/225203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E03" tvg-logo="http://7online.xyz:8080/images/58239103cfc669825c00e2dc6ab9d764.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E03
-http://7go.xyz:8080/series/zogbi11/982451290/225204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E04" tvg-logo="http://7online.xyz:8080/images/042d8cfe5fa9f8c2a84bd60260912099.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E04
-http://7go.xyz:8080/series/zogbi11/982451290/225205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E05" tvg-logo="http://7online.xyz:8080/images/1abc18cdbd8d3dc78120303fc207e2ca.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E05
-http://7go.xyz:8080/series/zogbi11/982451290/225206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E06" tvg-logo="http://7online.xyz:8080/images/04d85d96da42cf26d1cfb88f042250ea.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E06
-http://7go.xyz:8080/series/zogbi11/982451290/225207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E07" tvg-logo="http://7online.xyz:8080/images/51838175a6b5ee2373e53876b08acf93.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E07
-http://7go.xyz:8080/series/zogbi11/982451290/225208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E08" tvg-logo="http://7online.xyz:8080/images/fb070677dd2971dc875f7e3cabaf4d9c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E08
-http://7go.xyz:8080/series/zogbi11/982451290/225209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E09" tvg-logo="http://7online.xyz:8080/images/01996e365e22c0c47854ca525764e727.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E09
-http://7go.xyz:8080/series/zogbi11/982451290/225210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E10" tvg-logo="http://7online.xyz:8080/images/8f5e59f153c0cc5d73b5eb01ce140ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E10
-http://7go.xyz:8080/series/zogbi11/982451290/225211.mp4
-
-#EXTM3U url-tvg="http://grade-de-SERIES | AMAZON Chicago Med.xml"
-############## SERIES | AMAZON Chicago Med ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIES | AMAZON Chicago Med" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E01" tvg-logo="http://7online.xyz:8080/images/1fb4f2c1ad84052d61ca197e43f45177.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E01
 http://7go.xyz:8080/series/zogbi11/982451290/210585.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E02" tvg-logo="http://7online.xyz:8080/images/98b41078af6fac92c452ae755cee8384.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E02
@@ -9661,482 +11938,26 @@ http://7go.xyz:8080/series/zogbi11/982451290/125682.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Motel Bates (2013) S05 E10" tvg-logo="http://7online.xyz:8080/images/810b4bf2e7a3f68f38a6030fe4396eb3.jpg" group-title="SERIES | A&E",Motel Bates (2013) S05 E10
 http://7go.xyz:8080/series/zogbi11/982451290/125683.mkv
 
-#EXTM3U url-tvg=" http://grade-de-STAR+ Arquivo.xml "
- ############## STAR+ Arquivo ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSTAR+ Arquivo" group-title="
+#EXTM3U url-tvg=" http://grade-de-SÉRIES | A Lenda de Shahmaran.xml "
+ ############## SÉRIES | A Lenda de Shahmaran ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | A Lenda de Shahmaran" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E01" tvg-logo="http://ccdnblck.xyz:80/images/82a209d92db2645b8f259a9e4241d8c5.jpg" group-title="STAR+",Arquivo X S01 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E02" tvg-logo="http://ccdnblck.xyz:80/images/a79aff74533115df1a30c15d2aef15f7.jpg" group-title="STAR+",Arquivo X S01 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E03" tvg-logo="http://ccdnblck.xyz:80/images/9773414ca3a7f4e8a8214ec56f53fac9.jpg" group-title="STAR+",Arquivo X S01 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E04" tvg-logo="http://ccdnblck.xyz:80/images/ba2e9fe04d9554c52d0ad7604d2007f0.jpg" group-title="STAR+",Arquivo X S01 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E05" tvg-logo="http://ccdnblck.xyz:80/images/0305f16b82a5baf801b3b712c6cdf7bd.jpg" group-title="STAR+",Arquivo X S01 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E06" tvg-logo="http://ccdnblck.xyz:80/images/d148b4f0a96a0b9d700d6d39cb5a0508.jpg" group-title="STAR+",Arquivo X S01 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E07" tvg-logo="http://ccdnblck.xyz:80/images/c71005ba363138168c7b7d46c8e345c6.jpg" group-title="STAR+",Arquivo X S01 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E08" tvg-logo="http://ccdnblck.xyz:80/images/b80421bf0379ea89b0dfeec063e80065.jpg" group-title="STAR+",Arquivo X S01 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E09" tvg-logo="http://ccdnblck.xyz:80/images/1c73fd73e9a30de6e8ece0f676aa8732.jpg" group-title="STAR+",Arquivo X S01 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E10" tvg-logo="http://ccdnblck.xyz:80/images/696803f07804f58d2d63877a48e48caa.jpg" group-title="STAR+",Arquivo X S01 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E11" tvg-logo="http://ccdnblck.xyz:80/images/1170b2ef8183c7e2d2d4e33685b609be.jpg" group-title="STAR+",Arquivo X S01 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E12" tvg-logo="http://ccdnblck.xyz:80/images/1db335296743d6660ce59c905495adc5.jpg" group-title="STAR+",Arquivo X S01 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E13" tvg-logo="http://ccdnblck.xyz:80/images/10278dcc585cfd3f4df33d3f925690fc.jpg" group-title="STAR+",Arquivo X S01 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E14" tvg-logo="http://ccdnblck.xyz:80/images/ac50e607d091e2b046f86c791a058c5d.jpg" group-title="STAR+",Arquivo X S01 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E15" tvg-logo="http://ccdnblck.xyz:80/images/4e414444fd95d832336b27a2f7bfd738.jpg" group-title="STAR+",Arquivo X S01 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E16" tvg-logo="http://ccdnblck.xyz:80/images/0bf61176d663d1701c069457e89f48a8.jpg" group-title="STAR+",Arquivo X S01 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E17" tvg-logo="http://ccdnblck.xyz:80/images/c5092921d9cc0a8308686992cba79a8c.jpg" group-title="STAR+",Arquivo X S01 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E18" tvg-logo="http://ccdnblck.xyz:80/images/e4c27cb1487030ce7708ece2f9598f1d.jpg" group-title="STAR+",Arquivo X S01 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E19" tvg-logo="http://ccdnblck.xyz:80/images/9c0cc873836b6070222af5ab039c1d60.jpg" group-title="STAR+",Arquivo X S01 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E20" tvg-logo="http://image.tmdb.org/t/p/w300/7FTzo1G2mLRf3dMJjt3kPkSUe1W.jpg" group-title="STAR+",Arquivo X S01 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E21" tvg-logo="http://image.tmdb.org/t/p/w300/pFkjpi21AX0HMZcdmggtqWduB00.jpg" group-title="STAR+",Arquivo X S01 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E22" tvg-logo="http://image.tmdb.org/t/p/w300/qQhgQuWZNSMJwdnnHhz5GRiDsIn.jpg" group-title="STAR+",Arquivo X S01 E22
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E23" tvg-logo="http://image.tmdb.org/t/p/w300/qGgfyK4Yo0oEV5JWXbenEJi2C0y.jpg" group-title="STAR+",Arquivo X S01 E23
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E24" tvg-logo="http://image.tmdb.org/t/p/w300/dHWlTbE7K7p1uLlotc5yBP9ifHX.jpg" group-title="STAR+",Arquivo X S01 E24
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E01" tvg-logo="http://image.tmdb.org/t/p/w300/cd0gmDqzSb38EfzJyB1TcStMZnT.jpg" group-title="STAR+",Arquivo X S02 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E02" tvg-logo="http://image.tmdb.org/t/p/w300/nWt6yCF6rU4Fd03yKMamqJrEzVE.jpg" group-title="STAR+",Arquivo X S02 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E03" tvg-logo="http://image.tmdb.org/t/p/w300/xQneq7jvANfUTewstvzjABR9Lnx.jpg" group-title="STAR+",Arquivo X S02 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E04" tvg-logo="http://image.tmdb.org/t/p/w300/hXUrkbfEFBMhf9cSdL5FhNsXMqJ.jpg" group-title="STAR+",Arquivo X S02 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E05" tvg-logo="http://image.tmdb.org/t/p/w300/ruW3ZP3TlleXqNnz1ZzCDWqHIxA.jpg" group-title="STAR+",Arquivo X S02 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E06" tvg-logo="http://image.tmdb.org/t/p/w300/d7yrbhv3xgOxNpWjCkpGHnPqnHf.jpg" group-title="STAR+",Arquivo X S02 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E07" tvg-logo="http://image.tmdb.org/t/p/w300/fpIvmdkMQIkdnSREVKMiC1Z8l37.jpg" group-title="STAR+",Arquivo X S02 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E08" tvg-logo="http://image.tmdb.org/t/p/w300/kGCVii6nzv7I6enWOntI4GV1KK9.jpg" group-title="STAR+",Arquivo X S02 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E09" tvg-logo="http://image.tmdb.org/t/p/w300/4RgbXvj0EhjvvtdTw2BoQsVfbcT.jpg" group-title="STAR+",Arquivo X S02 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E10" tvg-logo="http://image.tmdb.org/t/p/w300/6gbSDW2melgPb865RgGlqbZjmSj.jpg" group-title="STAR+",Arquivo X S02 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E11" tvg-logo="http://image.tmdb.org/t/p/w300/jtLcriPlo89FAYZIzu6S7FYJ53z.jpg" group-title="STAR+",Arquivo X S02 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E12" tvg-logo="http://image.tmdb.org/t/p/w300/xYLndvM3WDJhbi2aTeiwkl9kJu.jpg" group-title="STAR+",Arquivo X S02 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E13" tvg-logo="http://image.tmdb.org/t/p/w300/j2BssZynaJ0HZ7jdPOAqantmQS9.jpg" group-title="STAR+",Arquivo X S02 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E14" tvg-logo="http://image.tmdb.org/t/p/w300/wbPnxthf7kMhZ0asm8LzqTfI8Ho.jpg" group-title="STAR+",Arquivo X S02 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E15" tvg-logo="http://image.tmdb.org/t/p/w300/krVqdJ02Nvl0mDp3Dt8gLkCUdTi.jpg" group-title="STAR+",Arquivo X S02 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E16" tvg-logo="http://image.tmdb.org/t/p/w300/zjgkyfcIYXPVdhNLat4RVqQsO3g.jpg" group-title="STAR+",Arquivo X S02 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E17" tvg-logo="http://image.tmdb.org/t/p/w300/dcIgdBQ6nomqs73cMfYvXixnyE3.jpg" group-title="STAR+",Arquivo X S02 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E18" tvg-logo="http://image.tmdb.org/t/p/w300/dFA6e6Z6LpxX9ePU2DJWqLYrdfd.jpg" group-title="STAR+",Arquivo X S02 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E19" tvg-logo="http://image.tmdb.org/t/p/w300/lszQwfdE5ABIoIk8HCh2HbdFrO4.jpg" group-title="STAR+",Arquivo X S02 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E20" tvg-logo="http://image.tmdb.org/t/p/w300/kq5mk6NP6KvqZ11WgRiyfIWoVn6.jpg" group-title="STAR+",Arquivo X S02 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E21" tvg-logo="http://image.tmdb.org/t/p/w300/Sye6ihKyiNYOtZLj3fFZdnsdaM.jpg" group-title="STAR+",Arquivo X S02 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E22" tvg-logo="http://image.tmdb.org/t/p/w300/6vuxchIKqBPO2zLlMBtFcM8xYIR.jpg" group-title="STAR+",Arquivo X S02 E22
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E23" tvg-logo="http://image.tmdb.org/t/p/w300/iYzfC421VH592GEnDB5Juz6fhtr.jpg" group-title="STAR+",Arquivo X S02 E23
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E24" tvg-logo="http://image.tmdb.org/t/p/w300/pLahrpkogJSneGYZnG8n6ofWdk.jpg" group-title="STAR+",Arquivo X S02 E24
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E25" tvg-logo="http://image.tmdb.org/t/p/w300/ltNNyXYwRkMW5e4lIMPrfdroDFn.jpg" group-title="STAR+",Arquivo X S02 E25
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E01" tvg-logo="http://image.tmdb.org/t/p/w300/84Y1Rx54Of771fdunJBoYjBhXXi.jpg" group-title="STAR+",Arquivo X S03 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E02" tvg-logo="http://image.tmdb.org/t/p/w300/qd73sr2V1MAiWVtyVFMGaFZ2DMm.jpg" group-title="STAR+",Arquivo X S03 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E03" tvg-logo="http://image.tmdb.org/t/p/w300/WbUmKggJfl4qxifzzTnSuvJypp.jpg" group-title="STAR+",Arquivo X S03 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E04" tvg-logo="http://image.tmdb.org/t/p/w300/aQsDdb5RidRdZrC9toA2enQ8Sxb.jpg" group-title="STAR+",Arquivo X S03 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E05" tvg-logo="http://image.tmdb.org/t/p/w300/vpgycTbaA74xk75RemzyUQiAvWw.jpg" group-title="STAR+",Arquivo X S03 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E06" tvg-logo="http://image.tmdb.org/t/p/w300/5ieI2fCYtD7Bo7po9IWn2iG3wBL.jpg" group-title="STAR+",Arquivo X S03 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E07" tvg-logo="http://image.tmdb.org/t/p/w300/sJfvIsLNLJg9O4mHh3WxEeuke6B.jpg" group-title="STAR+",Arquivo X S03 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E08" tvg-logo="http://image.tmdb.org/t/p/w300/qEa66XXBtjv9FAFcMpNbdJKUa6F.jpg" group-title="STAR+",Arquivo X S03 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E09" tvg-logo="http://image.tmdb.org/t/p/w300/18jCaHflHnOWPDZQS5Fe4RCgYkf.jpg" group-title="STAR+",Arquivo X S03 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E10" tvg-logo="http://image.tmdb.org/t/p/w300/1Kt1aKI7Yz35OEFhorhD68Ncu1P.jpg" group-title="STAR+",Arquivo X S03 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E11" tvg-logo="http://image.tmdb.org/t/p/w300/5rQ0faW7CVDxclQ49u4Fn9BxYgQ.jpg" group-title="STAR+",Arquivo X S03 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E12" tvg-logo="http://image.tmdb.org/t/p/w300/dpgkqk3OTBMiWaM8p7KID3LgvCC.jpg" group-title="STAR+",Arquivo X S03 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E13" tvg-logo="http://image.tmdb.org/t/p/w300/86QuitcfKkNMYSEXrnHz9c4wSik.jpg" group-title="STAR+",Arquivo X S03 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E14" tvg-logo="http://image.tmdb.org/t/p/w300/9mOUWKzpP0TY9xQtJbP9mLNyhPM.jpg" group-title="STAR+",Arquivo X S03 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E15" tvg-logo="http://image.tmdb.org/t/p/w300/2elXO4D5dY3EDNAACZmOeWT6h3P.jpg" group-title="STAR+",Arquivo X S03 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E16" tvg-logo="http://image.tmdb.org/t/p/w300/3oOIOLjluquajpo8lU2CuGwckwW.jpg" group-title="STAR+",Arquivo X S03 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E17" tvg-logo="http://image.tmdb.org/t/p/w300/qkgTeo9Ky4IsYFB4aaW5TcXv7kT.jpg" group-title="STAR+",Arquivo X S03 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E18" tvg-logo="http://image.tmdb.org/t/p/w300/kIRqenh5Qcc3MTaDvrekuCgsNAY.jpg" group-title="STAR+",Arquivo X S03 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E19" tvg-logo="http://image.tmdb.org/t/p/w300/tQiTquNF89AxnSDRqgD1vFwM46V.jpg" group-title="STAR+",Arquivo X S03 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E20" tvg-logo="http://image.tmdb.org/t/p/w300/z0gaEmSTlJwKdzuEOrd7GNVIGaf.jpg" group-title="STAR+",Arquivo X S03 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E21" tvg-logo="http://image.tmdb.org/t/p/w300/3oTJrUVXiLblQIBWlMSdyfRR2S6.jpg" group-title="STAR+",Arquivo X S03 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E22" tvg-logo="http://image.tmdb.org/t/p/w300/LvpAcNC3HQXU0frccBhahyK9Gj.jpg" group-title="STAR+",Arquivo X S03 E22
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E23" tvg-logo="http://image.tmdb.org/t/p/w300/8Yievlov9NkvlrpXQF0XdMQz7JD.jpg" group-title="STAR+",Arquivo X S03 E23
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E24" tvg-logo="http://image.tmdb.org/t/p/w300/bW03jcGJoMTfDUrHINQVAlWOodI.jpg" group-title="STAR+",Arquivo X S03 E24
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E01" tvg-logo="http://image.tmdb.org/t/p/w300/u3RFyOXvh91HDa4vO1GfALWg1J7.jpg" group-title="STAR+",Arquivo X S04 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E02" tvg-logo="http://image.tmdb.org/t/p/w300/ndFuInz0QaactpDQnhjONmxaLZZ.jpg" group-title="STAR+",Arquivo X S04 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E03" tvg-logo="http://image.tmdb.org/t/p/w300/tSaoRkRV9tPtKtas9BIfu5my1Wz.jpg" group-title="STAR+",Arquivo X S04 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E04" tvg-logo="http://image.tmdb.org/t/p/w300/fwXRnv7qzJZ96YtVZWivHIKtRgG.jpg" group-title="STAR+",Arquivo X S04 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E05" tvg-logo="http://image.tmdb.org/t/p/w300/zvB2jR5yxAfCRUhOcrgx4d7cmi.jpg" group-title="STAR+",Arquivo X S04 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E06" tvg-logo="http://image.tmdb.org/t/p/w300/igBr6ZHBPAY8zlZbb5Yq8kvJxCM.jpg" group-title="STAR+",Arquivo X S04 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E07" tvg-logo="http://image.tmdb.org/t/p/w300/3KiX5uUizW1ul8DvRyp9OMMcEZv.jpg" group-title="STAR+",Arquivo X S04 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E08" tvg-logo="http://image.tmdb.org/t/p/w300/iGgOd4kjMUWNOau9bOa0AMC8HPb.jpg" group-title="STAR+",Arquivo X S04 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E09" tvg-logo="http://image.tmdb.org/t/p/w300/jMuPDh4oWg0rgTrC1Q3plSSC0Nk.jpg" group-title="STAR+",Arquivo X S04 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E10" tvg-logo="http://image.tmdb.org/t/p/w300/kRxzXuHQR058U9VYv8Moxu585oy.jpg" group-title="STAR+",Arquivo X S04 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E11" tvg-logo="http://image.tmdb.org/t/p/w300/r8NcU39F0Tll4CZFyMSaEGvJSxx.jpg" group-title="STAR+",Arquivo X S04 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E12" tvg-logo="http://image.tmdb.org/t/p/w300/ke37bankF9y7wcCy6MyNKX0BLSG.jpg" group-title="STAR+",Arquivo X S04 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E13" tvg-logo="http://image.tmdb.org/t/p/w300/iwAySEjBayXB1GdXgjfqZb3DUAD.jpg" group-title="STAR+",Arquivo X S04 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E14" tvg-logo="http://image.tmdb.org/t/p/w300/7mOY4pTy7mdhbrMK5ovzLihbdqs.jpg" group-title="STAR+",Arquivo X S04 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E15" tvg-logo="http://image.tmdb.org/t/p/w300/tQc0YCPNWFfYPug5hXa8ZoVewyH.jpg" group-title="STAR+",Arquivo X S04 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E16" tvg-logo="http://image.tmdb.org/t/p/w300/nrJyPySt3fBJnTXUxyjLKSRGi4o.jpg" group-title="STAR+",Arquivo X S04 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E17" tvg-logo="http://image.tmdb.org/t/p/w300/mmGXysmz2TXWmro6AYKAY5ZUYQ4.jpg" group-title="STAR+",Arquivo X S04 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E18" tvg-logo="http://image.tmdb.org/t/p/w300/uiaYlcxE6k9JGdhpqa02x5oQebE.jpg" group-title="STAR+",Arquivo X S04 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E19" tvg-logo="http://image.tmdb.org/t/p/w300/amvJrv104Gu2vdo0kP4FTsTdYM.jpg" group-title="STAR+",Arquivo X S04 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E20" tvg-logo="http://image.tmdb.org/t/p/w300/72zNeN27IlnAZIwIYPy8o2XnnDC.jpg" group-title="STAR+",Arquivo X S04 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E21" tvg-logo="http://image.tmdb.org/t/p/w300/uN8Ew3vXnWRRlssTcZe9kGRWpbH.jpg" group-title="STAR+",Arquivo X S04 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E22" tvg-logo="http://image.tmdb.org/t/p/w300/vrkUORBkHG7uvJo5cD9DEjspCvK.jpg" group-title="STAR+",Arquivo X S04 E22
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E23" tvg-logo="http://image.tmdb.org/t/p/w300/7f9zXoqIobz6V74YPJm1PUMOmCA.jpg" group-title="STAR+",Arquivo X S04 E23
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E24" tvg-logo="http://image.tmdb.org/t/p/w300/6RdTTMlJ6PhoDdEMe6OaLYOTlce.jpg" group-title="STAR+",Arquivo X S04 E24
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E01" tvg-logo="http://image.tmdb.org/t/p/w300/nq90vErotGjAxWad3mMm7JKCGSU.jpg" group-title="STAR+",Arquivo X S05 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E02" tvg-logo="http://image.tmdb.org/t/p/w300/l8WN13BSNwcV7k5nqaA8wFspG7F.jpg" group-title="STAR+",Arquivo X S05 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E03" tvg-logo="http://image.tmdb.org/t/p/w300/lj8e7hA8QykXHxiWjQzhjZ87hlx.jpg" group-title="STAR+",Arquivo X S05 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E04" tvg-logo="http://image.tmdb.org/t/p/w300/7rasBUOMvJTRcbjpvREOig5u2qU.jpg" group-title="STAR+",Arquivo X S05 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E05" tvg-logo="http://image.tmdb.org/t/p/w300/yDE7Y2oQnqKr2dPtbrpatzLramF.jpg" group-title="STAR+",Arquivo X S05 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E06" tvg-logo="http://image.tmdb.org/t/p/w300/pzFCdswkuZ07su3YoaFxYna5KLi.jpg" group-title="STAR+",Arquivo X S05 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E07" tvg-logo="http://image.tmdb.org/t/p/w300/qBHnJiuFKsQYptCli8KEAunlWvt.jpg" group-title="STAR+",Arquivo X S05 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E08" tvg-logo="http://image.tmdb.org/t/p/w300/q2IUS6nRAPOFqHK0JrTQGQFN97S.jpg" group-title="STAR+",Arquivo X S05 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E09" tvg-logo="http://image.tmdb.org/t/p/w300/oCwP0Aqi4rgk2wIXxLFh34A6WU8.jpg" group-title="STAR+",Arquivo X S05 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E10" tvg-logo="http://image.tmdb.org/t/p/w300/86w0oLllbFJN3D40zHJMG0sBFzC.jpg" group-title="STAR+",Arquivo X S05 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E11" tvg-logo="http://image.tmdb.org/t/p/w300/f4UBMJ9DpfIaNKw74Wp0uFsbF4Q.jpg" group-title="STAR+",Arquivo X S05 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E12" tvg-logo="http://image.tmdb.org/t/p/w300/3feTkIekj02lSuQaTiFdLnLaCt4.jpg" group-title="STAR+",Arquivo X S05 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E13" tvg-logo="http://image.tmdb.org/t/p/w300/nsUAWfFeNqi7DZ7J7IJK1hnAemY.jpg" group-title="STAR+",Arquivo X S05 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E14" tvg-logo="http://image.tmdb.org/t/p/w300/5uzxjWNnZhk40j9vEqKkVNOsXbV.jpg" group-title="STAR+",Arquivo X S05 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E15" tvg-logo="http://image.tmdb.org/t/p/w300/m06r9KMoZOHTVOkQzIR2ygZht70.jpg" group-title="STAR+",Arquivo X S05 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E16" tvg-logo="http://image.tmdb.org/t/p/w300/1M3tnczuC2P2aQAskmPR3gZT4qk.jpg" group-title="STAR+",Arquivo X S05 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E17" tvg-logo="http://image.tmdb.org/t/p/w300/j6YX45qnH2fy9B1cSTXpe2sHeRD.jpg" group-title="STAR+",Arquivo X S05 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E18" tvg-logo="http://image.tmdb.org/t/p/w300/rB2wnoV5LvTgHaZoW1KfzjZeZto.jpg" group-title="STAR+",Arquivo X S05 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E19" tvg-logo="http://image.tmdb.org/t/p/w300/mEEVY9IoRVlthUIZfaQGd6FUSDE.jpg" group-title="STAR+",Arquivo X S05 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E20" tvg-logo="http://image.tmdb.org/t/p/w300/e0LXCKUsG7ZMDFTpE3yJhnTnb8h.jpg" group-title="STAR+",Arquivo X S05 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E01" tvg-logo="http://image.tmdb.org/t/p/w300/4SBGLcvg9MQ51fIOMk1u0lII1mi.jpg" group-title="STAR+",Arquivo X S06 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E02" tvg-logo="http://image.tmdb.org/t/p/w300/lcICelVY7VuLZondFUnIpnhJ5qy.jpg" group-title="STAR+",Arquivo X S06 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E03" tvg-logo="http://image.tmdb.org/t/p/w300/otLruCLJfjNBskNyK3cY4o3WDDv.jpg" group-title="STAR+",Arquivo X S06 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E04" tvg-logo="http://image.tmdb.org/t/p/w300/mPdl2cTJgW8Bx7fbCCNyaWtVeKi.jpg" group-title="STAR+",Arquivo X S06 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E05" tvg-logo="http://image.tmdb.org/t/p/w300/y2l6LTSXMKrWjCZcWhyVigArXom.jpg" group-title="STAR+",Arquivo X S06 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E06" tvg-logo="http://image.tmdb.org/t/p/w300/r73yVPYBnOJ39OKNqRPwo0PJoDC.jpg" group-title="STAR+",Arquivo X S06 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E07" tvg-logo="http://image.tmdb.org/t/p/w300/mYO7TayBEjA8oHCfdgwD6dn0K8I.jpg" group-title="STAR+",Arquivo X S06 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E08" tvg-logo="http://image.tmdb.org/t/p/w300/r01crS9anDkVOlRWP58yo5dwf30.jpg" group-title="STAR+",Arquivo X S06 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E09" tvg-logo="http://image.tmdb.org/t/p/w300/vbxk86BUNLxKxNX4B1JFG1r8zOC.jpg" group-title="STAR+",Arquivo X S06 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E10" tvg-logo="http://image.tmdb.org/t/p/w300/wKOVz9U9dCeyj693QGQfwzYJpPd.jpg" group-title="STAR+",Arquivo X S06 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E11" tvg-logo="http://image.tmdb.org/t/p/w300/s4tKmSetw8QkFvMxaRxLpgVEiDu.jpg" group-title="STAR+",Arquivo X S06 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E12" tvg-logo="http://image.tmdb.org/t/p/w300/4Vyk3mbac6uO5ZtLPB5YhIHMczJ.jpg" group-title="STAR+",Arquivo X S06 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E13" tvg-logo="http://image.tmdb.org/t/p/w300/rvyrHN2Ji21qd0NtBstOWLIQUIR.jpg" group-title="STAR+",Arquivo X S06 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E14" tvg-logo="http://image.tmdb.org/t/p/w300/pZm702KVAKMEEtr3ycwtVKs2sNF.jpg" group-title="STAR+",Arquivo X S06 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E15" tvg-logo="http://image.tmdb.org/t/p/w300/WqbKNsEGAS9vxzIxvMycV1bywm.jpg" group-title="STAR+",Arquivo X S06 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E16" tvg-logo="http://image.tmdb.org/t/p/w300/2eCpZ9H5smSRj3Mrcejc1hd7xI1.jpg" group-title="STAR+",Arquivo X S06 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E17" tvg-logo="http://image.tmdb.org/t/p/w300/7JXjmJAvbeHaJCfZkkjx6zBCB6R.jpg" group-title="STAR+",Arquivo X S06 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E18" tvg-logo="http://image.tmdb.org/t/p/w300/br5WMAYoDJ2XC9EYf9RH1pkVqUi.jpg" group-title="STAR+",Arquivo X S06 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E19" tvg-logo="http://image.tmdb.org/t/p/w300/14Il263n83Lf7R0LQhnCN483de7.jpg" group-title="STAR+",Arquivo X S06 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E20" tvg-logo="http://image.tmdb.org/t/p/w300/47NTgROnzoUSmozslQGIyBGltql.jpg" group-title="STAR+",Arquivo X S06 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E21" tvg-logo="http://image.tmdb.org/t/p/w300/fRgiuRJ3Tt9Z7jWLvYAidrN9fVY.jpg" group-title="STAR+",Arquivo X S06 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E22" tvg-logo="http://image.tmdb.org/t/p/w300/6FwPzOQmFsyMT9yzaBvfyzzHjcE.jpg" group-title="STAR+",Arquivo X S06 E22
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E01" tvg-logo="http://image.tmdb.org/t/p/w300/2OsgaptjbYYbUcioIPcYmrCFixp.jpg" group-title="STAR+",Arquivo X S07 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E02" tvg-logo="http://image.tmdb.org/t/p/w300/6wbSJmPJUEGoNCKuj7jbonrdERQ.jpg" group-title="STAR+",Arquivo X S07 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E03" tvg-logo="http://image.tmdb.org/t/p/w300/gboVCPWqPF9u94qgVyktDX4PAas.jpg" group-title="STAR+",Arquivo X S07 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E04" tvg-logo="http://image.tmdb.org/t/p/w300/ccvZ4C7pVAEqnYMf79C5Ck6CRlB.jpg" group-title="STAR+",Arquivo X S07 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E05" tvg-logo="http://image.tmdb.org/t/p/w300/uRWMOecnsQV4tVi2tL0BV8zOmf1.jpg" group-title="STAR+",Arquivo X S07 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E06" tvg-logo="http://image.tmdb.org/t/p/w300/8wrILqOp27jgikKLN6VFo09FYvD.jpg" group-title="STAR+",Arquivo X S07 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E07" tvg-logo="http://image.tmdb.org/t/p/w300/g9769MSHPcQiGrn1tFjJlbV7gjE.jpg" group-title="STAR+",Arquivo X S07 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E08" tvg-logo="http://image.tmdb.org/t/p/w300/xlW32zuSSy8aen331zkpVOlC6Dd.jpg" group-title="STAR+",Arquivo X S07 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E09" tvg-logo="http://image.tmdb.org/t/p/w300/lCaWr3ogKiVKOsAU3XodFwdu55L.jpg" group-title="STAR+",Arquivo X S07 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E10" tvg-logo="http://image.tmdb.org/t/p/w300/uRcocgrNTTE67n8EbQoihpa1acz.jpg" group-title="STAR+",Arquivo X S07 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E11" tvg-logo="http://image.tmdb.org/t/p/w300/oyUU3j5ZScrHX2HsXk4u3Q1Fy2x.jpg" group-title="STAR+",Arquivo X S07 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E12" tvg-logo="http://image.tmdb.org/t/p/w300/eZtgOQFRt9DZ9K5fiUUPNG4yctF.jpg" group-title="STAR+",Arquivo X S07 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E13" tvg-logo="http://image.tmdb.org/t/p/w300/m1WBPOflHV078xfT6Un63wyTnPr.jpg" group-title="STAR+",Arquivo X S07 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E14" tvg-logo="http://image.tmdb.org/t/p/w300/4MQIrvXpoTCcmYYiwK0aAnOshGI.jpg" group-title="STAR+",Arquivo X S07 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E15" tvg-logo="http://image.tmdb.org/t/p/w300/n7tmkplTLGDyBvqit8XgLAb3udq.jpg" group-title="STAR+",Arquivo X S07 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E16" tvg-logo="http://image.tmdb.org/t/p/w300/aNlJCbwGtPnPnYkwVtZfnxjc51L.jpg" group-title="STAR+",Arquivo X S07 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E17" tvg-logo="http://image.tmdb.org/t/p/w300/uyHjsjKAiiSVGYxd8XKZGVSNIAP.jpg" group-title="STAR+",Arquivo X S07 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E18" tvg-logo="http://image.tmdb.org/t/p/w300/z4sP7uDlcXFNTYmPzZGX3qSuyik.jpg" group-title="STAR+",Arquivo X S07 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E19" tvg-logo="http://image.tmdb.org/t/p/w300/kTF72nk4elVzyZ0fZ0eTQuvp6ND.jpg" group-title="STAR+",Arquivo X S07 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E20" tvg-logo="http://image.tmdb.org/t/p/w300/4o0szPLcvTffIwTrhh909kLjckr.jpg" group-title="STAR+",Arquivo X S07 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E21" tvg-logo="http://image.tmdb.org/t/p/w300/7dmCCoSTDqtT4wCfAZsxcJNF04L.jpg" group-title="STAR+",Arquivo X S07 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E22" tvg-logo="http://image.tmdb.org/t/p/w300/anrvQYyN1zHC3ROJ7G4QrtWRwp2.jpg" group-title="STAR+",Arquivo X S07 E22
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E01" tvg-logo="http://image.tmdb.org/t/p/w300/tcQajiV96supbd6hwxpylEAzDcD.jpg" group-title="STAR+",Arquivo X S08 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E02" tvg-logo="http://image.tmdb.org/t/p/w300/nzsURTrOLIVcsCmKxcimvgmzr2i.jpg" group-title="STAR+",Arquivo X S08 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E03" tvg-logo="http://image.tmdb.org/t/p/w300/yEtI67vUpxniHkzJC53tGxZZ3I2.jpg" group-title="STAR+",Arquivo X S08 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E04" tvg-logo="http://image.tmdb.org/t/p/w300/tIKOOHamVCvdqFKJ5DqoTkQgxnD.jpg" group-title="STAR+",Arquivo X S08 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E05" tvg-logo="http://image.tmdb.org/t/p/w300/xcjZ8aM9wL02ZmhqxW5nvCqwAOe.jpg" group-title="STAR+",Arquivo X S08 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E06" tvg-logo="http://image.tmdb.org/t/p/w300/uHjRot5hYSw54hCXRX7mS5GvlEc.jpg" group-title="STAR+",Arquivo X S08 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E07" tvg-logo="http://image.tmdb.org/t/p/w300/qNpB4qlopxY1UmssJBf9b5LtXJM.jpg" group-title="STAR+",Arquivo X S08 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E08" tvg-logo="http://image.tmdb.org/t/p/w300/A0Z48Decj8bMzxWivDDuzpk5Fxf.jpg" group-title="STAR+",Arquivo X S08 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E09" tvg-logo="http://image.tmdb.org/t/p/w300/2lv1M28D61Xof5g2Pb7Tpz1B127.jpg" group-title="STAR+",Arquivo X S08 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E10" tvg-logo="http://image.tmdb.org/t/p/w300/bNztUuhWaPVVLJGnnLIzBWNSRzV.jpg" group-title="STAR+",Arquivo X S08 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E11" tvg-logo="http://image.tmdb.org/t/p/w300/etBB1vA9jfq9x5FswobIFDKuxpv.jpg" group-title="STAR+",Arquivo X S08 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E12" tvg-logo="http://image.tmdb.org/t/p/w300/ftY1kB0aC1Tc0UWlOnhdAVWuppd.jpg" group-title="STAR+",Arquivo X S08 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E13" tvg-logo="http://image.tmdb.org/t/p/w300/gdpnItVUN6ZKNeum4wrzwrsc00H.jpg" group-title="STAR+",Arquivo X S08 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E14" tvg-logo="http://image.tmdb.org/t/p/w300/5FVQYW0599IeKXOYPstUdDOQ0fy.jpg" group-title="STAR+",Arquivo X S08 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E15" tvg-logo="http://image.tmdb.org/t/p/w300/1dJD0ALHJ3VmFq7MzlZ7axmuX11.jpg" group-title="STAR+",Arquivo X S08 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E16" tvg-logo="http://image.tmdb.org/t/p/w300/hHOm1Q36Rmb2011JupFVOVUAWyV.jpg" group-title="STAR+",Arquivo X S08 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E17" tvg-logo="http://image.tmdb.org/t/p/w300/hdz9nOwsJKlMmWyQKHw1EmLqu18.jpg" group-title="STAR+",Arquivo X S08 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E18" tvg-logo="http://image.tmdb.org/t/p/w300/8NbUXyhjzSfkypeeRXqv2K9viN8.jpg" group-title="STAR+",Arquivo X S08 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E19" tvg-logo="http://image.tmdb.org/t/p/w300/46coVQuxyRZPVPyoMvM96mt0v16.jpg" group-title="STAR+",Arquivo X S08 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E20" tvg-logo="http://image.tmdb.org/t/p/w300/kKlWS4FhMWxzvGHgDEMJclQlUqM.jpg" group-title="STAR+",Arquivo X S08 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E21" tvg-logo="http://image.tmdb.org/t/p/w300/7Qv2agcOigRDTq9FJNaAhocC8hf.jpg" group-title="STAR+",Arquivo X S08 E21
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E01" tvg-logo="http://image.tmdb.org/t/p/w300/bovifX8kuUdCTYDPJ60ZavOPVs4.jpg" group-title="STAR+",Arquivo X S09 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E02" tvg-logo="http://image.tmdb.org/t/p/w300/iIXBeM2dz96TQZ6vf7Ob1GHWuFd.jpg" group-title="STAR+",Arquivo X S09 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E03" tvg-logo="http://image.tmdb.org/t/p/w300/BfzKJg767hE666Fz13a3UiJBI6.jpg" group-title="STAR+",Arquivo X S09 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E04" tvg-logo="http://image.tmdb.org/t/p/w300/h2fGRvQ50ni6LCGQ0JaW3L4rpcc.jpg" group-title="STAR+",Arquivo X S09 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E05" tvg-logo="http://image.tmdb.org/t/p/w300/s8dlt67q5XuuhgLTiTmzhEyuYHq.jpg" group-title="STAR+",Arquivo X S09 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E06" tvg-logo="http://image.tmdb.org/t/p/w300/8hOgRXL9JRhmDvURHcyMCRrHLst.jpg" group-title="STAR+",Arquivo X S09 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E07" tvg-logo="http://image.tmdb.org/t/p/w300/dtCcD3TSvs6lgTEODFtcjHcHSSV.jpg" group-title="STAR+",Arquivo X S09 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E08" tvg-logo="http://image.tmdb.org/t/p/w300/hbkFDYaFYlIi5Cq8gQXmuBncclp.jpg" group-title="STAR+",Arquivo X S09 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E09" tvg-logo="http://image.tmdb.org/t/p/w300/l9ejk0qoydskKq8gHxe16Jw9BVp.jpg" group-title="STAR+",Arquivo X S09 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E10" tvg-logo="http://image.tmdb.org/t/p/w300/aCHKyQrk8X6hJKdyL7bYalTjuwE.jpg" group-title="STAR+",Arquivo X S09 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E11" tvg-logo="http://image.tmdb.org/t/p/w300/qqVVudvu4Rsfbrw7Z2bqoQmIbRV.jpg" group-title="STAR+",Arquivo X S09 E11
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E12" tvg-logo="http://image.tmdb.org/t/p/w300/6ONSEpqYqP8rhmIBEXLtXAvkCO4.jpg" group-title="STAR+",Arquivo X S09 E12
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E13" tvg-logo="http://image.tmdb.org/t/p/w300/30N7R6SFyhXvHBLvy50dDqLL1oE.jpg" group-title="STAR+",Arquivo X S09 E13
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E14" tvg-logo="http://image.tmdb.org/t/p/w300/hcYA9ZNmNGj6JX7u0RDixBHMAPf.jpg" group-title="STAR+",Arquivo X S09 E14
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E15" tvg-logo="http://image.tmdb.org/t/p/w300/ecIZlfltMMaQ3fcrUyrV9WaHV1h.jpg" group-title="STAR+",Arquivo X S09 E15
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E16" tvg-logo="http://image.tmdb.org/t/p/w300/rHbTV73OgnhXtwzPU1wOhDZNseg.jpg" group-title="STAR+",Arquivo X S09 E16
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E17" tvg-logo="http://image.tmdb.org/t/p/w300/95W2I6yF49Qnluq9AabyWqq6gq6.jpg" group-title="STAR+",Arquivo X S09 E17
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E18" tvg-logo="http://image.tmdb.org/t/p/w300/2BmRs3FbORa0hTTqDHfcrGlw5YH.jpg" group-title="STAR+",Arquivo X S09 E18
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E19" tvg-logo="http://image.tmdb.org/t/p/w300/5bUyAIiBetGi9E7Lh0cIz7u2L2p.jpg" group-title="STAR+",Arquivo X S09 E19
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E20" tvg-logo="http://image.tmdb.org/t/p/w300/jYOMx9mv0GoVoPxGpRMazWpcuSi.jpg" group-title="STAR+",Arquivo X S09 E20
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E01" tvg-logo="http://image.tmdb.org/t/p/w300/50eAv2fnkKQdil6OVXn9uTy0t2A.jpg" group-title="STAR+",Arquivo X S10 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E02" tvg-logo="http://image.tmdb.org/t/p/w300/nKsC1VjynnF15lmZ1LZUsaHgK43.jpg" group-title="STAR+",Arquivo X S10 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E03" tvg-logo="http://image.tmdb.org/t/p/w300/lwEsOejdMK9zZ2UANv6mnoova36.jpg" group-title="STAR+",Arquivo X S10 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E04" tvg-logo="http://image.tmdb.org/t/p/w300/jxtDAgBNDx6I1x16I6RPKjtbOFJ.jpg" group-title="STAR+",Arquivo X S10 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E05" tvg-logo="http://image.tmdb.org/t/p/w300/3eGYnq8ZYKalYOolLQvXQb6HZat.jpg" group-title="STAR+",Arquivo X S10 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E06" tvg-logo="http://image.tmdb.org/t/p/w300/icn9kRtElIjrwdzhCQnqmHpLFsd.jpg" group-title="STAR+",Arquivo X S10 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E01" tvg-logo="http://image.tmdb.org/t/p/w300/gCdEDmvqXMPJKFJtB1oPdIlSKPb.jpg" group-title="STAR+",Arquivo X S11 E01
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E02" tvg-logo="http://image.tmdb.org/t/p/w300/5kRAvpQ2Tf4Epsk5F3Z7ymk3K3X.jpg" group-title="STAR+",Arquivo X S11 E02
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E03" tvg-logo="http://image.tmdb.org/t/p/w300/xtAXbRFCflxqLqUHxXX5BUOliUd.jpg" group-title="STAR+",Arquivo X S11 E03
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E04" tvg-logo="http://image.tmdb.org/t/p/w300/bpITcjUDgkZydj0uVKP67di7VjV.jpg" group-title="STAR+",Arquivo X S11 E04
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E05" tvg-logo="http://image.tmdb.org/t/p/w300/uV57ooqWpS06tVkHDHV0DdxYC2d.jpg" group-title="STAR+",Arquivo X S11 E05
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E06" tvg-logo="http://image.tmdb.org/t/p/w300/tE92mpQx03xEALxKXkG0Dy7Yvn6.jpg" group-title="STAR+",Arquivo X S11 E06
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E07" tvg-logo="http://image.tmdb.org/t/p/w300/u3Kzo4SgGk2WlRqw1OmaAzC4FoC.jpg" group-title="STAR+",Arquivo X S11 E07
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E08" tvg-logo="http://image.tmdb.org/t/p/w300/kLUbgZCV6E8tft5bKsaQuHQROUj.jpg" group-title="STAR+",Arquivo X S11 E08
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E09" tvg-logo="http://image.tmdb.org/t/p/w300/i65v9MvdYBU329XILPBX1s8geyS.jpg" group-title="STAR+",Arquivo X S11 E09
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E10" tvg-logo="http://image.tmdb.org/t/p/w300/rZyFXwJ1zGKCGgxk2aRCPR9y6Ww.jpg" group-title="STAR+",Arquivo X S11 E10
-http://meuplay.shop:80/series/67598237854pw/9875352849pw/2273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvvjHV2QUGiPPnqPbywzokeTf4j.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/85465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2CE2mC1uL3p61bD0qqMYpolctEW.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/85466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aihg00YYAuVxVnbkGsdVbWokBwd.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/85467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rFDzn5XIaC6Z3S3jfdq7UAQC0P.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/85468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvkeOVUcRtA9Qv4pCyVMTLRT1L9.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/85469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0Gg06F8txmHMD5etCq1dHOgXkr.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/85470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/csHo8SmYUB9KVklb3CNIraX4Tg0.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/85471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yOStGqZZe0LzIMftVymVsV2rxGh.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/85472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f3tZge4LPSNHNqBDpHS3r2EeX5b.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E09
-http://meuplay.shop:80/series/828474929852/34882748924/85473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ngQ6jsikCj5e3SqCbjQKMzf5GXP.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E10
-http://meuplay.shop:80/series/828474929852/34882748924/85474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sgqGtijKuJ0KRiGTnZhpwM61HyM.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E11
-http://meuplay.shop:80/series/828474929852/34882748924/85475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com a Permissão do Tribunal S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVydmFJrqffdgYwxztoB6FV98LP.jpg" group-title="STAR+",Com a Permissão do Tribunal S01 E12
-http://meuplay.shop:80/series/828474929852/34882748924/85476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7pMZ6G2ncvg8O9sLAZ0RtRsZEuh.jpg" group-title="STAR+",Interligados S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/85820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kaz02qu5Ju08NF8lMf8BaVUdtue.jpg" group-title="STAR+",Interligados S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/85821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xVQB6h9Z4pRmMwuZklq8DdoURPD.jpg" group-title="STAR+",Interligados S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/85822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x1pYCnYHU4ym8imcyaj2jCx2BBL.jpg" group-title="STAR+",Interligados S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/85823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m7QFmiXQhBW4lEel1xVR06mUk9S.jpg" group-title="STAR+",Interligados S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/85824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interligados S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hKl9tsYkJm2fSNo1ecHz5HQaoq7.jpg" group-title="STAR+",Interligados S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/85825.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg3Sbhs4TM5woBQAYBGUMrmSDyw.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783122.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n85nJwsVV6mU0sGOXzItxPtuNqv.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783123.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whinoRaca07LOQ2UMfjqJjGBdlR.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783124.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNicXVY4lzzMasnPDiGI1UfHtDR.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783125.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUA034fNnjIZMFIN3PtuzByJ4Li.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783126.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Q9wZxwcyd4irlJuc1MAbLagHvI.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783127.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBKPM8NXbREdEZcg2QGuN1ayclK.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783128.mp4
+#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcGfpLciNO8yzvC6rLJw3O0w2l5.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783129.mp4
 
 #EXTM3U url-tvg=" http://grade-de-AMAZON PRIME O Senhor dos Anéis.xml "
  ############## AMAZON PRIME O Senhor dos Anéis ############## ### 
@@ -10693,6 +12514,188 @@ http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245445.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Menudo: Sempre Jovens S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roweVLPiTsU4Up1JjJGiTtjTexV.jpg" group-title="SÉRIES | Menudo",Menudo: Sempre Jovens S01 E04
 http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/245446.mp4
 
+#EXTM3U url-tvg="http://grade-de-SÉRIES | APPLE TV+.xml"
+############## SÉRIES | APPLE TV+ ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | APPLE TV+" group-title="
+
+#EXTINF:-1 tvg-name="Billions S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0u4K0Veo1uYqJQCvtG5GePoMxN.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777188.mp4
+#EXTINF:-1 tvg-name="Billions S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB4bZCdGGD1S1e1Ow8gfbPk5urH.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777189.mp4
+#EXTINF:-1 tvg-name="Billions S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzsoAiEohD5wUT4RM10Ljcuik9T.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777190.mp4
+#EXTINF:-1 tvg-name="Billions S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMKY3bmUWixiqQ3nE1fKecwgC6k.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777191.mp4
+#EXTINF:-1 tvg-name="Billions S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqIkQiWzDSygZiEMHqJ5TUE4Bz.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777192.mp4
+#EXTINF:-1 tvg-name="Billions S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkcMXAzrwQQRuH0TPi1OXXxhRW.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777193.mp4
+#EXTINF:-1 tvg-name="Billions S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZKtHzp0QIJknoChLSuHOclSLvt.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777194.mp4
+#EXTINF:-1 tvg-name="Billions S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bxaXKhHm04RaovU6C2JobuHvsx.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777195.mp4
+#EXTINF:-1 tvg-name="Billions S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMS2Am3DC7Ph8C131enG63d4ETS.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777196.mp4
+#EXTINF:-1 tvg-name="Billions S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvMIlD5xhI1EtXuomThhe7mycbN.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777197.mp4
+#EXTINF:-1 tvg-name="Billions S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUNxd6wbaoAVgwRsRH1cvrJDQIR.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777198.mp4
+#EXTINF:-1 tvg-name="Billions S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCsy9ggrEVLnlvaEiSrqRr2UEaZ.jpg" group-title="SÉRIES | APPLE TV+",Billions S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777199.mp4
+#EXTINF:-1 tvg-name="Billions S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrepWKx1GhPTrHVPF0zQoGE0VBq.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777200.mp4
+#EXTINF:-1 tvg-name="Billions S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvU7lNsow2ITwlB5jJgnllwri3w.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777201.mp4
+#EXTINF:-1 tvg-name="Billions S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ckdP1xiCPRpkj4vDtp6woOAM2.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777202.mp4
+#EXTINF:-1 tvg-name="Billions S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpoDm0tRsN2zckb8DJvSoB1dZlb.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777203.mp4
+#EXTINF:-1 tvg-name="Billions S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66USlAqbThg5UMQ5jqwZWYrewpP.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777204.mp4
+#EXTINF:-1 tvg-name="Billions S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZDO2TWYQ8xCLF4PxEML4p27LP5.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777205.mp4
+#EXTINF:-1 tvg-name="Billions S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSeYCqpgPftA6m5SpvGtW5YWHnU.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777206.mp4
+#EXTINF:-1 tvg-name="Billions S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNmTIYammjO0XQLnhypi69CHE8d.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777207.mp4
+#EXTINF:-1 tvg-name="Billions S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD6A9bcTwan8QZ2yOt17Ae7mg0i.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777208.mp4
+#EXTINF:-1 tvg-name="Billions S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1DEHrAJvIEYyKWC27apbFDHILe.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777209.mp4
+#EXTINF:-1 tvg-name="Billions S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHSjD2WkPYYSk1DdGtZnJRj23K2.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777210.mp4
+#EXTINF:-1 tvg-name="Billions S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbw05PvXrskpQsKYx8wmhYQjFZK.jpg" group-title="SÉRIES | APPLE TV+",Billions S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777211.mp4
+#EXTINF:-1 tvg-name="Billions S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zmQc9nu7NI5V6ZxNtCD73pawWP.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777212.mp4
+#EXTINF:-1 tvg-name="Billions S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cC508FluEjXzZYjz5wOpUpHeuo.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777213.mp4
+#EXTINF:-1 tvg-name="Billions S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuG8swwGIYYXSoqJQAO24IElojm.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777214.mp4
+#EXTINF:-1 tvg-name="Billions S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpsO4YTYgdf35WnhjgNXhfepzeQ.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777215.mp4
+#EXTINF:-1 tvg-name="Billions S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2qsQOpe7WJizE0mxGMeYTFRyxj.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777216.mp4
+#EXTINF:-1 tvg-name="Billions S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CA6a055XB541CG92XMIGF7EfOz.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777217.mp4
+#EXTINF:-1 tvg-name="Billions S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqNqQiShnbX6WosW5gIOpXUX2bZ.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777218.mp4
+#EXTINF:-1 tvg-name="Billions S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsFoEmXU8ybMiGs74YjF18mdBI0.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777219.mp4
+#EXTINF:-1 tvg-name="Billions S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i176MWgsvtVtM8XQFgCKGyySzTg.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777220.mp4
+#EXTINF:-1 tvg-name="Billions S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjVnDfDkt3PNdJ62BUaibh4oCC3.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777221.mp4
+#EXTINF:-1 tvg-name="Billions S03E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIDucZlXa889DpO9oqASQmq4nt6.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777222.mp4
+#EXTINF:-1 tvg-name="Billions S03E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYQ1MEr9hsc0ZX7lxcVKOenoAcA.jpg" group-title="SÉRIES | APPLE TV+",Billions S03E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777223.mp4
+#EXTINF:-1 tvg-name="Billions S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJKvg4dRxl6wHOH7BNBBpjvQ5tA.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777224.mp4
+#EXTINF:-1 tvg-name="Billions S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VUvdgDPAEZsKFlb0Bv1LdgmAIr.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777225.mp4
+#EXTINF:-1 tvg-name="Billions S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lX6ovJf0byUEjy0UQjjCzaOIe7R.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777226.mp4
+#EXTINF:-1 tvg-name="Billions S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29alh8RSDcVsoBoZKq6IBcFpILj.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777227.mp4
+#EXTINF:-1 tvg-name="Billions S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ti5CbjYVUUd5SY9XnGXUYJwIib.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777228.mp4
+#EXTINF:-1 tvg-name="Billions S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ntiTozruRrpaHEbwBLWiqRZesN.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777229.mp4
+#EXTINF:-1 tvg-name="Billions S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phiFZmxKj3qnSWhjFPtPw07llt5.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777230.mp4
+#EXTINF:-1 tvg-name="Billions S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBavH9YY40fsPZDIraXhyEQPnvh.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777231.mp4
+#EXTINF:-1 tvg-name="Billions S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Tb4Un8kM5s5chL1Jl5oGcL5Xfb.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777232.mp4
+#EXTINF:-1 tvg-name="Billions S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYKNdSVKDqJaxiRC03V2tSlN88H.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777233.mp4
+#EXTINF:-1 tvg-name="Billions S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XmiDLwtBxl8XdiUSx5GYSZSfye.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777234.mp4
+#EXTINF:-1 tvg-name="Billions S04E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIZ3Fiuczs93Urx1EgZETW88UUO.jpg" group-title="SÉRIES | APPLE TV+",Billions S04E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777235.mp4
+#EXTINF:-1 tvg-name="Billions S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7ONrshNir9caQBLzcGrPFkVXcC.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777237.mp4
+#EXTINF:-1 tvg-name="Billions S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RZSEJOr3FSA5coNELM00f6kFVp.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777238.mp4
+#EXTINF:-1 tvg-name="Billions S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9eYNLG8YFzRM1GlLr2RDq3XAbX.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777239.mp4
+#EXTINF:-1 tvg-name="Billions S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKDTCN4NZFyv2u8n1Bk10WKimD4.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777240.mp4
+#EXTINF:-1 tvg-name="Billions S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDDpsNwvLToOopvFHO2TM0PUVTP.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777241.mp4
+#EXTINF:-1 tvg-name="Billions S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9kksN74BwXIqpJVikNsuwuTicu.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777242.mp4
+#EXTINF:-1 tvg-name="Billions S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhhGwMMFT5XlITn387lO8sksOaf.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777243.mp4
+#EXTINF:-1 tvg-name="Billions S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJwrusmjxzryxQ1nz8f1dcjWJQp.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777244.mp4
+#EXTINF:-1 tvg-name="Billions S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SKSLhUaR6K3EJQZX5MTcWdgNd.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777245.mp4
+#EXTINF:-1 tvg-name="Billions S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mORsYx56ANhARtwau3mr6voyxr.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777246.mp4
+#EXTINF:-1 tvg-name="Billions S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7ywirSrRk6y2oRQhyIYp5FNyoV.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777247.mp4
+#EXTINF:-1 tvg-name="Billions S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGgRuzoQRJDkgOZkIcImG0undgp.jpg" group-title="SÉRIES | APPLE TV+",Billions S05E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777248.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Criminal Minds.xml"
+############## SÉRIES | Criminal Minds ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Criminal Minds" group-title="
+
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xoS0w9let4KYcZGSiqk6YSHCCE.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777536.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7qpe4XsjEHn9E7xB4cVOx0ZPPa.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777537.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kX0Tii5kvlo3iyqNcX0kzihf3x.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777538.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aln0SwnizVw8X6fbfaAwaVbINhO.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777539.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFxxSTvTa5JHiXh4jtq7phhG1Ac.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777540.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rosa3Tsx00cOLPZihTk9fhev7MQ.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777541.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEt1ZfpikQ5bXQkBKHVVXRPZJZF.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777542.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uqizBKXoLj1gpu7tuk0EuYSaDL.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777543.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr4tGc0EO4LYERKDm84qEXJmseC.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777544.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5MT76D0UjnsVjkPFlMfzqEv6Z1.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777545.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8mFfPytzPA9TrufMzNPqCQxxcj.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777546.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQGV1DpwvBATxy5I6GmiwjSbBjU.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777547.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD9aHnaeCfuYFvoCQBHnwk2mAs3.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777548.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3UDrAXnZU3FYbvAFieeToSeiDd.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777549.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WOxKh71rWQd4bWJb5Yfr9v2CKC.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777550.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pbIh96NzStBbcbkZaBjxEMhZy5.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777551.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6spdZ2rhfhh5trhl8V2ZDbbMVaf.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777552.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjqexfxYuPJxyehgwuNNgw7J0kB.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777553.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7OodWkVg8dTV3VezMgYCxJjmuI.jpg" group-title="SÉRIES | Criminal Minds+",Criminal Minds: Beyond Borders S02E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777554.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Xj47VN9628OuxOaEG6rNwaRcWg.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777555.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5xq8M8SQaxjh9oNWns6DuhXFRp.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777556.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zL40PfieUABIZhlAU5gs4dtPcNu.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777557.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eay3E1NOw2hcs033RWcLbhKeYsl.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777558.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdVNt4vmtplRdkFkj707C8ToFp7.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777559.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbLWIYnVx80GGMBfk6Ygs6DhRbb.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777560.mp4
+#EXTINF:-1 tvg-name="Criminal Minds: Beyond Borders S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DgEGIRDHlCAJc2lCvf8ZaD56ix.jpg" group-title="SÉRIES | Criminal Minds",Criminal Minds: Beyond Borders S02E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777561.mp4
+
 #EXTM3U url-tvg="http://grade-de-SÉRIES  Resident Evil.xml"
 ############## SÉRIES  Resident Evil ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Resident Evil" group-title="
@@ -10974,9 +12977,198 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/261997.mp4
 #EXTINF:-1 tvg-id="" tvg-name="90 Dias para Casar: Antes dos 90 Dias S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QWCNZfcUgYlEmD7kMuyerjVFmz.jpg" group-title="SÉRIES | Reality",90 Dias para Casar: Antes dos 90 Dias S05 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/261998.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação",D.P.A..xml"
-############## SÉRIES | Animação",D.P.A. ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação",D.P.A." group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS.xml"
+############## SÉRIES | KIDS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS" group-title="
+
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO0HxGRP8vEMr4PpzgDIUmAgL4L.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782439.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNxhST0JIG5r9GgOmFEr17OvFDz.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782440.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwazRD0fYeoETUYeA8CIS34NlRk.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782441.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9q2UH3z1H82dJLZZsZtPKelXK5p.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782442.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12kJHtlA6uBA7tuF1w9CUwXGuel.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782443.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjhQj0SLJQNz1FZvHIxC0VOuolj.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782444.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRKqHxLjYlWENukpQph2BkEn5AO.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782445.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QOrtYwdSNezPMSxEVd0vGnWqTr.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782446.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Fgx2X5NNJKzop8sM2lwBowa9c.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782447.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exGkm0nP1JB2y0EiRX79yDVn4Sq.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782448.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZPflAFiV0h2JBOee0qWdAKB6qz.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782449.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v34iZVk2q6mNfcna5SaEYSGx6EH.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782450.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNjbJkGlECrM0RjYXsrrG7hCdxz.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782451.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7G1Vh16d2Ol4FUVmd1bbjRSzra.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782452.mp4
+#EXTINF:-1 tvg-name="O Mundo de Karma S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffrzvwMqefHzEGXApUDM4pugeTv.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782453.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6ArH4IgtvUrJPduV35DZ6ZE2d0.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782454.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVgSafFkHfaLGpoR1Tp6gdDxn7q.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782455.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOIcoWYxK7My5cQ0sKwm5u3U7p5.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782456.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxOxWZkqqREMLNo9MEDF0ulHEsk.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782457.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8emKL230qIle9iNc8S6huBHYE0.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782458.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llQMRG3nuF6Mh4K5TAiTWrBbtzP.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782459.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amDAefpvxHAFyGiy4WnKDo2twXI.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782460.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SfbQgUScQRoKV0Q6Z3SBZXbMYz.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782461.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91uOCvjK9yFB50ybbspi8ARworz.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782462.mp4
+#EXTINF:-1 tvg-name="Os Smurfs S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D32TLlPbJQpHgNmGnsfGZOecxf.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782463.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqflSz9OzSoIxYGdR5fDTrlmdk.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777897.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho5xBIftXOGtWtFkDxxSTNyf2mh.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777898.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFDYW7faTKPLjpjP7w4HSVQJi29.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777899.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5xfPOqSBTuSDSPPpjWqI8VEY2r.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777900.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nU5TcJl5pXJsIQFaKdoeW5M32b.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777901.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJNxC43Z3ZdRe6nwMcWwghRplod.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777902.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTJOAXmXAZkCgtAhNrxgOLX4YlM.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777903.mp4
+#EXTINF:-1 tvg-name="As Fabulosas Aventuras dos Freak Brothers S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgk0iCRTavpwysMPIEUTSEniQrO.jpg" group-title="SÉRIES | KIDS",As Fabulosas Aventuras dos Freak Brothers S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777904.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWAvB1BOuZzf8taHLUE7w9K1ULT.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777921.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJiTi2o63xuoqgoD4NWna0azFx3.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777922.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gY0LwTq3jico0ga8otN6XOIK4zy.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777923.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXlRFysVbo6OBxhJu3zV5prGJTm.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777924.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIEstdg7X1JDzryM2tVQjpYMx1X.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777925.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwKLY9r0XMl0JIU4tOLVMItkWOQ.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777926.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xwBrfib4jtnLH8T7NUy8NDrrKF.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777927.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEW65bE6BOkW3N07UeDejJhH6l5.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777928.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn0OhNw49ENSTFdF77p0GPBwoT7.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777929.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S0O8v1ULLGXiZ1EUiyfaIYTgxg.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777930.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80QgQPtufA63Nbx2exRZg5gYt1Z.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777931.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckSIT7WwTvtIvqcmd4NSiAgcZX1.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777932.mp4
+#EXTINF:-1 tvg-name="Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouyzTu834aPl0yQm89c1gKtnEfS.jpg" group-title="SÉRIES | KIDS",Shin no Nakama ja NHenkyou de Slow Life suru Koto ni Shimashita S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777933.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhEtV8AOSorIvSI8QLwh0ekwAxz.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777946.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn6WmRMF3xCb05IcUFVlKBTjXOf.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777947.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9LE1FW4jt2LU0lrTtVilsaj2yv.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777948.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rQdwcoPIyWgM9vooKkbse7fObC.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777949.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgnUdSju3D8BgAaDvFqMIjFgGiN.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777950.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4HtbjQCDYPKbVaCQj3nJrgP6RL.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777951.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oadCpc94cd5SIizVfjzhkw8esQP.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777952.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dFCj7JxUnOXcWPWavdaoQWKaFp.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777953.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cRGDkFyD9y36LQkJkb01aJIHCE.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777954.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWdPAAMeJLjU4nLSODjOtifxMQY.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777955.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRilZDdgJksY0SbfjDE8EUTuJyU.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777956.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlTUuma8D0gPWz5pZQMQnKJzgB7.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777957.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJYXgqLYtVg6ujJ2EEkfXpNyWiA.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E13
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777958.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9XHZhSG7KwJdaNZAV7SH23fwgA.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E14
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777959.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BJoAzSgFNrl01MDsNKSyfBvyzj.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E15
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777960.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz87PiNxAwEFTY015mPPEKeJYor.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E16
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777961.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AyZBtLcj9iwaSunDKw4sTsPL45.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E17
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777962.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnsMEol57zqDG6WafM1N2B6qlg4.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E18
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777963.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqsiCnLBDfbLXi3AFvh8YJSZTYp.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E19
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777964.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HCUMjefmYJWwFGTgxFMeDgGIk.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E20
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777965.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiVVChK9d47553eJR4XDsNgTsXP.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E21
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777966.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1fJ9AHCQAa01E5SMO3WcoDCacE.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E22
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777967.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5FHQc8OQrsB2iTXZBzOOM1o8u.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E23
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777968.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyixPrfxSHDEMUSGlerk9tVPCoc.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E24
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777969.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz2QmXIse1pXszry7eSjgyzRNzC.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E25
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777970.mp4
+#EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E26
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777971.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777972.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777973.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777974.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777975.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777976.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777977.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777978.mp4
+#EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777979.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vP8m47TDM5ECwKZ7UhhZZCf4Xw4.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E01
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777980.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cX11YCn58axrPE195hWIpSk8c0Y.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E02
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777981.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIo4WCdfvwEiILYn68kK4ZHYapH.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E03
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777982.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAhKaDnP5HPYHNEo3JwYGQE9DyE.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E04
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777983.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hiSOvMlylC0bNr7VkRBi9qHftJ.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E05
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777984.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/somyNPERZpMMDFZtAslYjsi9R8y.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E06
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777985.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVjvCUqUeMposfbrlLmpdnZi5cZ.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E07
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777986.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLJk3klQFrryg1pNOeZ7GlpLs6Q.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E08
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777987.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rCvsmBa2bHhvBcTVbrN6BWc2qv.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E09
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777988.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23CPdyT04wT0pkSsc8cMUNb9BZ7.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E10
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777989.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgATxJa78wYVi4ssi8blU0YFMmn.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E11
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777990.mp4
+#EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJGOah7NjTSv7JNWhAYkgqVIwwm.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E12
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777991.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação",D.P.A.xml"
+############## SÉRIES | Animação",D.P.A ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação",D.P.A" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="D.P.A. - Detetives do Prédio Azul S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYDDwTX0FwFLli5ublj4kKUn7cG.jpg" group-title="SÉRIES | Animação",D.P.A. - Detetives do Prédio Azul S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/174352.mp4
@@ -13721,16 +15913,6 @@ https://ia802603.us.archive.org/11/items/tim-moore-yes-traducao/Tim%20Moore%20-%
 #EXTINF:-1 tvg-id="London London" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",London London
 https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-por-alex-silva/Alex%20Silva%20-%20RPM%20-%20London%20London%20%28TRADUZIDO%20POR%20ALEX%20SILVA%29.ia.mp4
 
-#EXTM3U url-tvg="http://grade-de-FAX  CLIPS.xml"
-############## FAX  CLIPS  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX  CLIPS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" Tina Turner Live in Rio 1988 "  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner Live in Rio 1988
-https://proxy-12.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SXYZh0rUZhBWvWUth3ykPgc9WOBuuXUwCnN_f-8N-JB8vrAv3oOyRZXkbIeyHy3R7L8pEG4XUsdzSbCs6hkpQwY)/video/779/189/124981977_mp4_h264_aac_2.m3u8#cell=nyc
-#EXTINF:-1 tvg-id="" tvg-name=" Tina Turner MÚSICAS TINA TURNER"  tvg-logo="https://media.tenor.com/_mBo7jjMyyAAAAAC/tina-turner.gif" group-title="FAX | CLIPS",Tina Turner MÚSICAS TINA TURNER
-https://proxy-14.nyc.dailymotion.com/sec(ze_zdAyquuHZoAqFx0DMT8Ct0dNwXNCWVU0ENDHoHSq1E5YRdZYxLXAp25v3HhZR0l6YGcg-d37tCD5efKoWUTpbeKlPLBvFslpqZpWiJxA)/video/476/183/519381674_mp4_h264_aac_qhd_1.m3u8#cell=nyc
-
-
 #EXTM3U url-tvg="http://grade-de-FAX | CLIPS AO VIVO.xml"
 ############## FAX | CLIPS AO VIVO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS AO VIVO" group-title="
@@ -13800,8 +15982,6 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/133628
 http://apkwuv.xyz:80/cristina2021/graniptv2005/136588
 #EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Eduardo Costa [Especial Dia dos Namorados]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/136587
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco em BH]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136189
 #EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://www.movimentocountry.com/wp-content/uploads/2022/12/gusttavo-lima-show-mafia-cigarro.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco Em Casa 1]
@@ -13862,7 +16042,6 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/133626
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136182
 #EXTINF:-1 tvg-id="" tvg-name="Xand Avião e os Barões da Pisadinha [Live Oficial]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVhk_V4zTiwq6PqxsbTmWJjpGf_sgxQq-QAMEXsNLmVe_VYO499GGWyPizEETjCTi6FGs&usqp=CAU" group-title="FAX | CLIPS AO VIVO",Xand Avião e os Barões da Pisadinha [Live Oficial]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136181
-
 #EXTINF:-1 tvg-id="" tvg-name="  Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Trio Parada Dura e Cesar Menotti Na Fazenda do Ratinho
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136594
 #EXTINF:-1 tvg-id="" tvg-name="  Trio Parada Dura A Última Live - Especial Parrerito" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Trio Parada Dura A Última Live - Especial Parrerito
@@ -14040,10 +16219,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://img.radios.com.br/radio/lg/radio19243_1668191196.jpg" group-title="RADIOS",Rádio Viola de Ouro Ribeirão Preto / SP - Brasil
 https://hts02.kshost.com.br:9322/live?1679835613105
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertaneja.jpg" group-title="RADIOS",Sertaneja MGT RÁDIO
-https://cast.mgtradio.net/radio/8000/aac
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5u67p5ra2tsn.png" group-title="RADIOS",Viola Sertaneja Web ao vivo
-https://s17.maxcast.com.br:8669/live
 #EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0cc474f7cf02ad2891ecb4f08429ed96.jpg" group-title="RADIOS",Modão
 https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="RADIOS",Sertanejo Raiz

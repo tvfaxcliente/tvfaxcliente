@@ -3812,6 +3812,15 @@ https://ia802709.us.archive.org/3/items/mazzaropi-casinha-pequenina-tv-fax/Mazza
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi Meu Japão Brasileiro" tvg-logo="https://thumbs.gfycat.com/LikableSaneHarvestmouse-size_restricted.gif" group-title="Filme Mazzaropi",Mazzaropi Meu Japão Brasileiro
 https://ia802708.us.archive.org/35/items/mazzaropi-meu-japao-brasileiro-tv-fax/Mazzaropi%20-%20Meu%20Jap%C3%A3o%20Brasileiro%20TV%20FAX%20.mp4
 
+#EXTM3U url-tvg="http://grade-de-FILMES TV FAX R I P D Agentes Do Além.xml"
+############## FILMES TV FAX R I P D Agentes Do Além  #################
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX R I P D Agentes Do Além" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=",R I P D Agentes Do Além"tvg-logo="https://pa1.aminoapps.com/6416/22b19f848a9f6ce170b99854be4c9e007046c51f_00.gif"group-title="FILMES TV FAX R I P D Agentes Do Além",R I P D Agentes Do Além
+https://ia600507.us.archive.org/27/items/r.-i.-p.-d.-agentes-do-alem-tv-fax/R.I.P.D.%20Agentes%20do%20Al%C3%A9m%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",R I P D 2 Rise Of The Damned"tvg-logo="https://media.tenor.com/d3EHzsFWeVEAAAAC/ripd-movie.gif"group-title="FILMES TV FAX R I P D Agentes Do Além",R I P D 2 Rise Of The Damned
+https://ia800505.us.archive.org/12/items/r.-i.-p.-d.-2-rise-of-the-damned-tv-fax/R.I.P.D.%202%20Rise%20of%20the%20Damned%20TV%20FAX.mp4
+
 #EXTM3U url-tvg="http://grade-de-FILMES TV FAX filhos.xml"
 ############## FILMES TV FAX filhos  #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX filhos" group-title="
@@ -4117,8 +4126,6 @@ https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=",R. I. P. D. Agentes Do Além"tvg-logo="https://pa1.aminoapps.com/6416/22b19f848a9f6ce170b99854be4c9e007046c51f_00.gif"group-title="FILMES | TV FAX",R. I. P. D. Agentes Do Além
-https://ia600507.us.archive.org/27/items/r.-i.-p.-d.-agentes-do-alem-tv-fax/R.I.P.D.%20Agentes%20do%20Al%C3%A9m%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Pacto"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/88/75/34/20028935.jpg"group-title="FILMES | TV FAX",O Pacto 
 https://ia600509.us.archive.org/33/items/o-pacto-tv-fax/O%20Pacto%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Resgate 2"tvg-logo="https://media.giphy.com/media/lNWqlwthhu4fTlIiHF/giphy.gif"group-title="FILMES | TV FAX",Resgate 2
